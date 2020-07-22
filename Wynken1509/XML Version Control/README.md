@@ -1,0 +1,3 @@
+This folder will contain versioned files saved with editorial identifiers and dates in the file path. The main file to compile all changes will be held in the above [Wynken1509] parent folder.
+
+Each file should begin with RCLM_ followed by information from the manuscript witness, your unique identifier, and save date. For example, the file for Oxford, Bodleian Library, “Rycharde cuer du lyon,” London, Wynken de Worde, 1509 would be RCLM_Wynken1509, whereas Caitlin Postal’s version of the file from July 8, 2020 would be RCLM_Wynken1509_CMP_2020_07_08. This will ensure that all files group according to their manuscript witness and editors’ iterative versions. 

@@ -1,0 +1,543 @@
+<!-- #CMP: The encoding in this document is NOT up to date with RCLM policies. This is a sample document from summer 2019 that was created to test encoding policies on fols. 109r, 109v, 110r.-->
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE TEI [
+      <!ENTITY ydot "&#x1E8F;">
+      <!ENTITY amp "&#x0026;">
+      <!ENTITY middot "&#x00B7;">
+      <!ENTITY period "&#x002E;">
+      <!-- do we want to include the unicode for thorn and yogh? added layer of work but will provide referent for users who may not have the right fonts installed for those characters to auto-render; longevity and interoperability -->
+   ]>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Richard Coer de Lyon Multitext</title>
+                <respStmt>
+                    <resp>Project Director</resp>
+                    <name role="director" type="person" ref="#LKN">Leila K. Norako</name>
+                    <name role="director" type="person" ref="#BW">Bridget Whearty</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>The Richard Coer de Lyon Multitext: Harley MS 4690</edition>
+                <respStmt>
+                    <resp>Transcribed from the digital images and encoded by</resp>
+                    <name role="transcriber" type="person" ref="#LKN">Leila K. Norako</name>
+                    <name role="encoder" type="person" ref="#CMP">Caitlin Postal</name>
+                    <note>Initial transcription, gloss, notes, and critical introduction by Leila K. Norako. XML editing, Coding Introduction, transcription accuracy, and additional notes by Caitlin Postal. </note>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>The Richard Coer de Lyon Multitext</publisher>
+                <date when="2020" />
+                <availability>
+                    <licence></licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement></settlement>
+                        <repository><!-- fill in-->tbd</repository>
+                        <collection></collection>
+                        <idno></idno>
+                    </msIdentifier>
+                    <history>
+                        <origin></origin>
+                        <provenance></provenance>
+                        <acquisition></acquisition>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc><p>Prepared for the Richard Coer de Lyon Multitext to provide a collection of extant witnesses for comparative viewing.</p></projectDesc>
+            <editorialDecl><p><!-- link to editorial policies --></p></editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb xml:id="harley4690_fol109r" n="fol109r" facs="harley_ms_4690_f109r.tif"/>
+            
+            <anchor xml:id="harley4690.sum.0001"/><note type="sum" resp="#LKN" target="#harley4690.sum.0001" place="margin">The Tournament of Salisbury</note>
+            <note type="text" resp="#LKN" place="margin-right" target="#harley4690_fol109r">The version of RCL contained in Harley MS 4690 begins on fol. 109r in the second/right-hand column. The first column and the preceding folio are blank, and this particular witness of RCL begins mid-sentence and midway through the Tournament of Salisbury episode. This particular witness is remarkable in that it is placed into a prose chronicle (The Prose Brut) to account for this particular part of English history. </note>
+            <cb n="2"/>
+            
+            <l xml:id="harley4690_1"><hi rend="2">T</hi>hat itte was <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> the kingge</l>
+            
+            <l xml:id="harley4690_2">he wende he hadde be att <name type="place" ref="#Salisbury">Salesbur&ydot;</name></l>
+            <note type="expl" resp="#LKN"  place="margin-right" target="#harley4690_2">Explain here that this is a fictional episode that only certain witnesses include. insert names of witnesses here with relevant fol. numbers and, in time, links if desired.</note>
+            
+            <l xml:id="harley4690_3">att the castell and made hem mer&ydot;</l>
+            
+            <l xml:id="harley4690_4">The&ydot; priked ther stedez
+                <choice>
+                    <abbr>&amp;</abbr>
+                    <expan>and</expan>
+                </choice> togeder mette</l>
+            
+            <l xml:id="harley4690_5">Our <name type="character" ref="#FoukDoly"
+                xml:id="harley4690.ch.foukdoly0001">ffoukedol&ydot;</name> soche a stroke he sette </l>
+            <note type="expl" resp="#LKN" place="margin-right" target="#harley4690.ch.foukdoly0001">explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)</note>
+            <note type="text" resp="#LKN" place="margin-right" target="#harley4690.ch.foukdoly0001">Explanatory
+                note needed here on Fouk Doly and Thomas of Multon.</note>
+            
+            <l xml:id="harley4690_6">amydde is schelde with outen tale</l>
+            
+            <l xml:id="harley4690_7">that itte to scheuerid in to pecis smale </l>
+            
+            <l xml:id="harley4690_8">And with that d&ydot;tente so harde he threste</l>
+            
+            <l xml:id="harley4690_9">That the schafte a too he braste</l>
+            
+            <l xml:id="harley4690_10">The knight fell down sothe to se&ydot;e</l>
+            
+            <l xml:id="harley4690_11">The kingge rode northe on is &period; we&ydot;</l>
+            
+            <l xml:id="harley4690_12">&ydot;n to the foreste is we&ydot; he name</l>
+            
+            <l xml:id="harley4690_13">ther wist no man were he became</l>
+            
+            <l xml:id="harley4690_14">S&ydot;r <name type="character" ref="#FoukDoly">ffoukdol&ydot;</name> with moche paine</l>
+            
+            <l xml:id="harley4690_15">on horse was &ydot; sette againe &period;</l>
+            
+            <l xml:id="harley4690_16">This was the firste t&ydot;me &ydot; ȝow plight </l>
+            
+            <l xml:id="harley4690_17"> that king <name type="character" ref="#KingRichard">Richarde</name> preued is might</l>
+            
+            <l xml:id="harley4690_18">
+                <choice>
+                    <abbr>&amp;</abbr>
+                    <expan>and</expan>
+                </choice> of is strengthe he had gode game</l>
+            
+            <l xml:id="harley4690_19">and went home in goddis name</l>
+            
+            <l xml:id="harley4690_20"> &ydot;n to the castell b&ydot; a derne wa&ydot;</l>
+            
+            <l xml:id="harley4690_21">that no man knewe h&ydot;m <choice><abbr>þt</abbr><expan>þat</expan></choice> da&ydot;</l>
+            
+            <l xml:id="harley4690_22">he vnarmed  h&ydot;m sekyr <choice><abbr>þu</abbr><expan>þou</expan></choice> be</l>
+            <note type="text" resp="#LKN" place="margin-right" target="#harley4690_22">Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.</note>
+            
+            <l xml:id="harley4690_23"> Nough of the knightes speke <name type="character" ref="#FoukDoly" xml:id="harley4690.ch.foukdoly0002">dolie</name></l>
+            <note type="text" resp="#CMP" target="#harley4690.ch.foukdoly0002" place="margin-right">something about the ill-formed letters in the name</note>
+            
+            <l xml:id="harley4690_24">and of the iustes that was <choice><abbr>þt</abbr><expan>þat</expan></choice> da&ydot;</l>
+            
+            <l xml:id="harley4690_25">and hough thei passidde then awa&ydot;</l>
+            
+            <l xml:id="harley4690_26">Thei commawnded hastely</l>
+            
+            <l xml:id="harley4690_27">The heraudez to make acr&ydot;e</l>
+            
+            <l xml:id="harley4690_28">and euer&ydot; man for to wende</l>
+            
+            <l xml:id="harley4690_29">home tille is owne ffrende</l>
+            
+            <l xml:id="harley4690_30">The king a messawnger gan sende </l>
+            <note type="sum" resp="#LKN" place="margin" target="#harley4690_30">King Richard summons Sir Thomas Multon and Sir Fouk Doily</note>
+            
+            <l xml:id="harley4690_31">&amp; bad h&ydot;m priuel&ydot; for to wende</l>
+            
+            <l xml:id="harley4690_32">To <name type="character" ref="#SirThomas">S&ydot;r Thomas of moltonne</name></l>
+           
+            <l xml:id="harley4690_33">that was a nobell baroune</l>
+            
+            <l xml:id="harley4690_34">and to <name type="character" ref="#FoukDoly">S&ydot;r ffoukedoly</name></l>
+            
+            <l xml:id="harley4690_35">that thei come to me an highe</l>
+            
+            <l xml:id="harley4690_36">that thei dwelle in no manere</l>
+            
+            <l xml:id="harley4690_37">Tille that þei be bothen here</l>
+            
+            <l xml:id="harley4690_38">the messanger sone was wente</l>
+            
+            <l xml:id="harley4690_39">And seid the king to them had sente</l>
+            
+            <pb xml:id="harley4690_fol109v" n="fol109v" facs="harley_ms_4690_f109v.tif"/>
+            <cb n="1"/>
+            
+            <l xml:id="harley4690_40">Priuel&ydot; to come h&ydot;m vn to</l>
+            
+            <l xml:id="harley4690_41">with oute lett&ydot;ng that itte be doo</l>
+            
+            <l xml:id="harley4690_42">the&ydot; hyeden fast on her wa&ydot;</l>
+            
+            <l xml:id="harley4690_43">and come to h&ydot;m on a day</l>
+            
+            <l xml:id="harley4690_44">when thei come the king was glade</l>
+            
+            <l xml:id="harley4690_45">and mochell w&ydot;e to them he made</l>
+            
+            <l xml:id="harley4690_46">and seid to hem in mer&ydot; sowne</l>
+            
+            <l xml:id="harley4690_47">ȝe be wellcome b&ydot; seint S&ydot;monne&period;</l>
+            <note type="expl" resp="#LKN" place="margin-right" target="harley4690_47">The apostle St. Simon, not to be confused with Simon Peter.</note>
+           
+            <l xml:id="harley4690_48">lordes he seid knowe ȝe  notte</l>
+            
+            <l xml:id="harley4690_49">Wat &ydot; haue ordeinedde in m&ydot; þought&period;</l>
+            
+            <l xml:id="harley4690_50">&ydot;n to the holy londe for to goo </l>
+            <note type="expl" resp="#LKN" target="#harley_4690_50" place="margin-right">The journey that Richard, Thomas, and Fouk agree to embark upon in this episode is a fiction. Richard never undertook such a journey prior to going to Outremer on crusade.</note> 
+            
+            <l xml:id="harley4690_51">whe thre felaues and no mo</l>
+            
+            <l xml:id="harley4690_52">Al in palmeren g&ydot;se </l>
+            <note type="expl" resp="#LKN" target="#harley_4690_52" place="margin-right">The term "palmer" referred specifically to a pilgrim bound for Jerusalem. The term referred to the particular badge that such a pilgrim would wear as a sign of their intended destination; pilgrim's bound for Jerusalem wore a palm badge that recalled Christ's celebrated entry into Jerusalem prior to his crucifixion. The term "guise" here, however, makes it very clear that Richard and his fellow knights are not intending for this journey to be a pious one. They are, instead, disguising themselves as pilgrims in order to embark on a reconaissance mission that will aid them in their later crusading endeavors.</note>
+            
+            <l xml:id="harley4690_53">the holy londe for to devise &period;</l>
+            
+            <l xml:id="harley4690_54">to me &ydot; will that ȝe be sworne</l>
+            
+            <l xml:id="harley4690_55">that ȝe ne tell to no man borne &period;</l>
+            
+            <l xml:id="harley4690_56">thei grawnted h&ydot;m is askingge</l>
+            
+            <l xml:id="harley4690_57">with oute an&ydot; againe se&ydot;&ydot;ngge &period;</l>
+            
+            <l xml:id="harley4690_58">With h&ydot;m to líue and to d&ydot;e</l>
+            
+            <l xml:id="harley4690_59">Notte to lette for loue ne eye &period;</l>
+            <note type="expl" resp="#LKN" place="margin-right" target="#harley4690_59">The idiomatic phrase “for loue ne eye” translates as “[neither ]for love nor fear.” <ref target="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117">See entry for “eie” (1) in The Middle English Dictionary.</ref></note>
+            
+            <l xml:id="harley4690_60">vppon the bouke thei leide her honde</l>
+            
+            <l xml:id="harley4690_61">To that couenante for to stonde</l>
+            
+            <l xml:id="harley4690_62">thei kiste the Bouke all &ydot; three&period;</l>
+            
+            <l xml:id="harley4690_63">trow ffelawes for to bee &period;</l>
+            
+            <l xml:id="harley4690_64">when her couenawnt was &ydot; made</l>
+            
+            <l xml:id="harley4690_65">the king spake with herte glade &period;</l>
+            
+            <l xml:id="harley4690_66">m&ydot; leue ffrendes with gode entente</l>
+            
+            <l xml:id="harley4690_67">hough fferde ȝe atte the turmente&period;</l>
+            
+            <l xml:id="harley4690_68">came an&ydot; strong knight to <choice><abbr>yo</abbr><expan>your</expan></choice> pla&ydot;</l>
+            
+            <l xml:id="harley4690_69">ȝe thei seyden in gode fa&ydot; &period;</l>
+            <note type="expl" resp="#LKN" place="margin-right" target="harley4690_69">The phase "in gode fay" means "in good faith."</note>
+            
+            <l xml:id="harley4690_70">An awntres knight ther came ride</l>
+            
+            <l xml:id="harley4690_71">in diuerse at&ydot;re with mochel pride</l>
+            
+            <l xml:id="harley4690_72">he felde down bothe hors <choice><abbr>&amp;</abbr><expan>and</expan></choice> manne</l>
+            
+            <l xml:id="harley4690_73">h&ydot;m m&ydot;ght noon 
+                <choice><abbr>wtstonde</abbr><expan>withstonde</expan></choice> aȝe&ydot;ne&period;</l>
+            
+            <l xml:id="harley4690_74">ȝe <choice><abbr>qd</abbr><expan>quod</expan></choice> the kyng by this daye</l>
+            
+            <l xml:id="harley4690_75">of that knyght y schalle ȝow seye&period;</l>
+            
+            <l xml:id="harley4690_76">yche &middot; was theder goon for certe</l>
+            
+            <l xml:id="harley4690_77">tho wer the&ydot; gladde <choice><abbr>&amp;</abbr><expan>and</expan></choice> blithe in herte&period;</l>
+            
+            <l xml:id="harley4690_78">that he loued her ffelawrede</l>
+            
+            <l xml:id="harley4690_79">ffor he was a dought&ydot; man of dede&period;</l>
+            
+            <l xml:id="harley4690_80">and also queynte in man&ydot; case</l>
+            
+            <l xml:id="harley4690_81">ther for thei maden grete solase&period;</l>
+            
+            <l xml:id="harley4690_82">Trompes blewen and made acrye</l>
+            
+            <l xml:id="harley4690_83">to geder thei wenten hastlye &middot;</l>
+            <note type="text" resp="#CMP" place="margin-right" target="harley4690_83">There is visible damage to the initial letters of this line. There seems to be some ink prior to [to] that may have been a scribal error.</note>
+            <cb n="2" />
+            
+            <l xml:id="harley4690_84">Bi the twent&ydot; day att ende&period;</l>
+            
+            <l xml:id="harley4690_85">Redy thei weren&period; vn to wende&period;</l>
+            
+            <l xml:id="harley4690_86">with Bordon scrippe <choice><abbr>&amp;</abbr><expan>and</expan></choice> sclauenne</l>
+            <note type="expl" resp="#LKN" place="margin-right" target="harley4690_86">A pilgrim's staff and cloak. Perhaps add more info on the terms and on the matter of pilgrim's attire here.</note>
+            
+            <l xml:id="harley4690_87">as palmers wer&period; and pilgr&ydot;me&period;</l>
+            
+            <l xml:id="harley4690_88">they touke leue of ther ffrende</l>
+            
+            <l xml:id="harley4690_89">And to schippe ganne thei wende&period;</l>
+            
+            <l xml:id="harley4690_90">the&ydot; drewe vppe saile þe wynd was gode</l>
+            
+            <l xml:id="harley4690_91">and sayled ouer the salte fflode&period;</l>
+            
+            <l xml:id="harley4690_92">vppon <name type="place" ref="#Flanders">fflawnders</name> sothe to seye </l>
+            <note type="expl" resp="#LKN" target="#harley4690_92" place="margin-right">Explain significance of Flanders as an initial destination, perhaps.</note>
+            
+            <l xml:id="harley4690_93">Aryved king <name type="character" ref="#KingRichard">
+                <choice><abbr>R&period;</abbr><expan>Richard</expan></choice></name> and is ffelawes tweye</l>
+            
+            <l xml:id="harley4690_94">the&ydot; wenten northe alle in ffere</l>
+            
+            <l xml:id="harley4690_95">ffrom towne to towne as ȝe ma&ydot; here</l>
+            
+            <l xml:id="harley4690_96">Til thei come to <name type="place" ref="#Brindisi">Brawndys</name></l> <!-- CMP: expl note linking to map? -->
+            
+            <l xml:id="harley4690_97">that is a coste of noubell pr&ydot;se&period;</l>
+            
+            <l xml:id="harley4690_98">A schippe thei fownden thare</l>
+            
+            <l xml:id="harley4690_99">&ydot;n to <name type="place" ref="#Cyprus">C&ydot;presse</name> for to&period; ffars&period;</l>
+            
+            <l xml:id="harley4690_100">the&ydot; sette vppe sa&ydot;le y vnderstonde</l>
+            
+            <l xml:id="harley4690_101">att Samagus þey &period;touke the londe</l> <!-- CMP: add place <name> -->
+            
+            <l xml:id="harley4690_102">there they dwelled &period;<num value="40">xl</num>&period; dayes</l>
+            
+            <l xml:id="harley4690_103">And sithe didd hem in to the see &period; </l>
+            
+            <l xml:id="harley4690_104">&ydot;n to Artys þatt fair cite</l> <!-- CMP: add place <name>; is this meant to be Acrys? -->
+            
+            <l xml:id="harley4690_105">ffro thennes in to <name type="place" ref="#Macedonia">mascidone</name> &period;</l>
+            
+            <l xml:id="harley4690_106">And to the cite <name type="place" ref="#Babylon">Babilone</name></l>
+            
+            <l xml:id="harley4690_107">And to the cite of <name type="place" ref="#Caesarea">Sesare</name>&period;</l>
+            
+            <l xml:id="harley4690_108">and to the cite of <name type="place" ref="#Jerusalem" xml:id="harley4690.pl.jerusalem0001">
+                <choice>
+                    <abbr>Jerlm</abbr>
+                    <expan>Jerusalem</expan>
+                </choice>
+            </name>&period; </l>
+            <note type="text" resp="#LKN" target="#harley4690.pl.jerusalem0001" place="margin-right">This has to be an abbreviation for Jerusalem, but it is unusual. Also of note, perhaps, is that unlike other witnesses, the rhyme scheme is broken between the lines ending with Cesare and Jerusalem because there appears to be a “missing” line. Brunner, in fact, writes “fehlt” (i.e. “is missing”) in his note for this line (pg. 111, n. 638), which in other versions refers to the city of Nineva and ends with the word “ware.” Based on the break in rhyme, this is very likely an eye-skip on the part of the copyist.</note> 
+            
+            <l xml:id="harley4690_109">To <!-- CMP add<name type="place" ref="">-->Betayne and to <name type="place" ref="#Bethlehem">Bedleem</name>&period;</l>
+            
+            <l xml:id="harley4690_110">and to the cite of Sudranturp&ydot;e</l><!-- CMP: add place <name> -->
+            
+            <l xml:id="harley4690_111">and to the cite of Ebed&ydot;e &period;</l><!-- CMP: add place <name> -->
+            
+            <l xml:id="harley4690_112">and to the castell of Orglyeus&period;</l><!-- CMP: add place <name> -->
+            
+            <l xml:id="harley4690_113">and to the cite of peryeus&period;</l><!-- CMP: add place <name> -->
+            
+            <l xml:id="harley4690_114">To Japhes and to saffranne</l><!-- CMP: add place <name> -->
+            
+            <l xml:id="harley4690_115">to taburet and to Archane&ydot; </l><!-- CMP: add place <name> -->
+            <note type="expl" resp="#LKN" target="#harley4690_115" place="margin-right">will need to provide a note here on the combination of real and fictional place names in this list</note>
+            
+            <l xml:id="harley4690_116">thus visited they the hol&ydot;londe</l>
+            
+            <l xml:id="harley4690_118">Ryghe þurgh oute y vnderstonde&period;</l>
+            
+            <l xml:id="harley4690_119">So then homwarde þei haue &ydot; t&ydot;ghte</l>
+            
+            <l xml:id="harley4690_120">&ydot;n to <name type="place" ref="#England">Englond</name> with alle her myght</l>
+            
+            <l xml:id="harley4690_121">when the&ydot; wer passedd&period; þe grekes&period; see</l>
+            
+            <l xml:id="harley4690_122">&ydot;n to <name type="place" ref="#Germany">alme&ydot;ne</name> thenne roden hee&period;</l>
+            <note type="sum" resp="#LKN" place="margin" target="#harley4690_122">Richard, Thomas, and Fouk arrive in Germany.</note>
+            <note type="expl" resp="#LKN" place="margin-right" target="#harley4690_122">This episode, which recounts Richard's imprisonment by the king of Germany, is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from crusade, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.</note>
+            
+            <l xml:id="harley4690_123">and he þat in <name type="place" ref="#Germany">alme&ydot;ne</name> was king&period;</l>
+            
+            <l xml:id="harley4690_124">hated <name type="character" ref="#KingRichard">king Richard</name> abow&period; al thing</l>
+            
+            <l xml:id="harley4690_125"><name type="character" ref="#KingRichard">Richard</name> an is ffelawes too</l>
+            
+            <l xml:id="harley4690_126">&ydot;n to towne the&ydot; wer agoo&period;</l>
+            
+            <l xml:id="harley4690_127">the&ydot; touke her &ydot;nne sekurl&ydot;e&period;</l>
+            
+            <pb xml:id="harley4690_fol110r" n="fol10r" facs="harley_ms_4690_f110r.tif"/>
+            <cb n="1" />
+            
+            <l xml:id="harley4690_128">And ȝede to towne her mete to bye</l>
+            
+            <l xml:id="harley4690_129">theigh bought a goos to ther mete</l>
+            
+            <l xml:id="harley4690_130">hem longed sore soche fflesche to &period;ete&period;</l>
+            
+            <l xml:id="harley4690_131"><name type="character" ref="#KingRichard">k&ydot;ng Richard</name> the fure bette</l>
+            
+            <l xml:id="harley4690_132"><name type="character" ref="#FoukDoly">ffoukdoly</name> to the spite h&ydot;m sette&period;</l>
+            
+            <l xml:id="harley4690_133"><name type="character" ref="#SirThomas">Thomas of Molton</name> stamped þe wose</l> <!-- CMP could this be an ill-formed n for [noose]? -->
+            
+            <l xml:id="harley4690_134">wel dere thei Bought þike goose&period;</l>
+            
+            <l xml:id="harley4690_135">when the goos was rosted &period; welle</l>
+            
+            <l xml:id="harley4690_136">&ydot;n ther came a m&ydot;nstrelle &period;</l>
+            
+            <l xml:id="harley4690_137">and iff itte her wille were</l>
+            
+            <l xml:id="harley4690_138">of is m&ydot;rthe thei schulde hyre &period;</l>
+            
+            <l xml:id="harley4690_139"><name type="character" ref="#KingRichard">Richard</name> h&ydot;m answered <choice><abbr>&amp;</abbr><expan>and</expan></choice> seid na&ydot;</l>
+            
+            <l xml:id="harley4690_140">whe mote ete and go oure &period; wa&ydot;</l>
+            
+            <l xml:id="harley4690_141">ye beth vncurte&ydot;s so me th&ydot;nke</l>
+            
+            <l xml:id="harley4690_142">ye ne biddeth this m&ydot;nstrell no drinke</l>
+            
+            <l xml:id="harley4690_143">ye wer well better by this Da&ydot;</l>
+            
+            <l xml:id="harley4690_144">thus by h&ydot;m self ganne he seye&period;</l>
+            
+            <l xml:id="harley4690_145">his we&ydot;e he towke faire <choice><abbr>&amp;</abbr><expan>and</expan></choice> welle</l>
+            
+            <l xml:id="harley4690_146">tille he come to the castelle &period; </l>
+            
+            <l xml:id="harley4690_147">there the king of almayne was</l> <!-- CMP encode this as place or as character? is both but unnamed character atm-->
+            
+            <l xml:id="harley4690_148">and to the porter he made is pas</l>
+            
+            <l xml:id="harley4690_149">and se&ydot;de go &ydot;n an hy&ydot;ngge &period;</l>
+            
+            <l xml:id="harley4690_150">and sey thus to m&ydot; lorde kyngge&period;</l>
+            
+            <l xml:id="harley4690_151">there ben &period; &ydot; come in to is londe</l>
+            
+            <l xml:id="harley4690_152">þre palmers &ydot; vnderstonde&period;</l>
+            
+            <l xml:id="harley4690_153">the strengest menne yn cristiante</l>
+            
+            <l xml:id="harley4690_154">y schall tell watt the&ydot; bee &period;</l>
+            
+            <l xml:id="harley4690_155"><name type="character" ref="#KingRichard">k&ydot;ng Richard</name>&period; <choice><abbr>þt</abbr><expan>þat</expan></choice> is bothe stout <choice><abbr>&amp;</abbr><expan>and</expan></choice>grym </l>
+            <note type="text" resp="#CMP" place="margin-right" target="#harley4690_155">There is a flourish about the word [grym] that is not noted by Brunner. The flourish appears similar to &#xA76F; the Latin small letter for the 'con' abbreviation or &#xF1A6; the baseline abbreviation, though the word itself does not seem contextually abbreviated. The flourish could also be an antisigma to reorder the line, which could make sense if the glyph before [grym] were an &amp; or abbreviation for Richard, though we doubt those possibilities given the preceding words, so we believe the flourish does not carry lexical meaning.</note>
+            
+            <l xml:id="harley4690_156">and &period;<num value="2">ii</num>&period; Baronnes ther be <choice><abbr>wt</abbr><expan>with</expan></choice> h&ydot;m</l>
+            
+            <l xml:id="harley4690_157"><name type="character" ref="#FoukDoly">S&ydot;r ffoukedol&ydot;</name> off renowne</l>
+            
+            <l xml:id="harley4690_158">and <name type="character" ref="#SirThomas">Syr Thomas of moltonne</name> &period;</l>
+            
+            <l xml:id="harley4690_159">the porter ȝede &ydot;nne to the halle</l>
+            
+            <l xml:id="harley4690_160">and telde the lorde þes wordes alle</l>
+            
+            <l xml:id="harley4690_161">the k&ydot;ng was glad of this tid&ydot;ng</l>
+            
+            <l xml:id="harley4690_162">and swore is othe in hy&ydot;ng &ydot; </l>
+            
+            <l xml:id="harley4690_163">the m&ydot;nstrell that hath do þis dede</l>
+            
+            <l xml:id="harley4690_164">full welle schalle haue is mede &period; </l>
+            
+            <l xml:id="harley4690_165">the kyng commawnded is knyghtȝ &period; þo</l>
+            
+            <l xml:id="harley4690_166">Belyue to cite ffor to goo &period;</l>
+            
+            <l xml:id="harley4690_167">and n&ydot;meth the palmers alle þre</l>
+            
+            <l xml:id="harley4690_168">and Bringeth hem hider B&ydot; fore me</l>
+            
+            <l xml:id="harley4690_169">fforthe her wey the&ydot; nomenne&period;</l>
+            <cb n="2" />
+            
+            <l xml:id="harley4690_170">To <name type="character" ref="#KingRichard">Richarde</name> is &ydot;nne sone thei comen</l>
+            
+            <l xml:id="harley4690_171">and axed who ys att &ydot;nne here</l>
+            
+            <l xml:id="harley4690_172"><name type="character" ref="#KingRichard">k&ydot;ng Richarde</name> answered <choice><abbr>wt</abbr><expan>with</expan></choice> m&ydot;ld&middot;chere</l>
+            
+            <l xml:id="harley4690_173">whe bene here palmers three&period;</l>
+            
+            <l xml:id="harley4690_174">oute of hethenesse nough come whe</l> <!-- if encoding place for christendom, likely need to encode [hethenesse] as islamdom -->
+            
+            <l xml:id="harley4690_175">the knyghtes seide on hyyngge</l>
+            
+            <l xml:id="harley4690_176">ȝe schull speke <choice><abbr>wt</abbr><expan>with</expan></choice> oure lorde the k&ydot;ng</l>
+            
+            <l xml:id="harley4690_177">ffor tid&ydot;nggeȝ he wolde here ffa&ydot;ne</l>
+            
+            <l xml:id="harley4690_178">thei touke the palmers <choice><abbr>&amp;</abbr><expan>and</expan></choice> went again</l>
+            
+            <l xml:id="harley4690_179">when the Emperour sighe <name type="character" ref="#KingRichard">king Richard</name></l> <!-- CMP does emp need name @ref -->
+            
+            <l xml:id="harley4690_180">he se&ydot;d þis ys he so dew me garde</l>
+            
+            <l xml:id="harley4690_181">that is my dedelyche ffoo&period;</l>
+            
+            <l xml:id="harley4690_182">he schalle abye or that he goo &period;</l>
+            
+            <l xml:id="harley4690_183">the Emperour axed the palmers þre&period;</l>
+            
+            <l xml:id="harley4690_184">ynne m&ydot; londe watt s&ydot;ke&ydot;ȝee&period;</l>
+                
+            <l xml:id="harley4690_185">he seide to hem with ffelonye</l>
+            
+            <l xml:id="harley4690_186">ye ben come my londe to <unclear resp="#LKN" cert="low" reason="smeared">sp</unclear>y&ydot;e &period;</l>
+            <note type="text" resp="LKN" target="#harley4690_186" place="margin-right">The first two characters of the word "spye" are all but illegible due to damage. We are, as a result, following the lead not only of Karl Brunner here but of the other witnesses who share this passage with Harley MS 4690. See Brunner, p. 116).</note>
+            <note type="text" resp="#CMP" target="harley4690_186" place="margin-right">The certainty of the characters is the final word is low. The character in initial-position might be [c] rather than [s] but it is near impossible to see what or how many characters precede the final-position [&ydot;e]. </note>
+            
+            <l xml:id="harley4690_187">and som tresonne me to done</l>
+            
+            <l xml:id="harley4690_188">thenne seide <name type="character" ref="#KingRichard">k&ydot;ng Richarde</name> swith&period;sone</l>
+            
+            <l xml:id="harley4690_189">whe ar palmers sothe to seye</l>
+            
+            <l xml:id="harley4690_190">and wenden here in goddes weye &period;</l>
+            
+            <l xml:id="harley4690_191">the <choice><abbr>Empour</abbr><expan>Emperour</expan></choice> named hym king by name</l>
+            
+            <l xml:id="harley4690_192">and and cleped hym taylard <choice><abbr>&amp;</abbr><expan>and</expan></choice> seid h&ydot;m scham </l>
+            <note type="expl" resp="#LKN" target="#harley4690_192" place="margin-right">Calling someone a "taylard" (someone who has a tale) was considered an insult. <ref target="https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED44388">See the MED entry for tailarde 1.a).</ref></note>
+            
+            <l xml:id="harley4690_193">But for as moche as thou arte kyng</l>
+            
+            <l xml:id="harley4690_194">and thes thi baronnes <choice><abbr>wt</abbr><expan>with</expan></choice> oute lesyng&period;</l>
+            
+            <l xml:id="harley4690_195">ye schull notte be to dethe &ydot; dyghte&period;</l>
+            
+            <l xml:id="harley4690_196">þer for &ydot; seye that itte is righte&period;</l>
+            
+            <l xml:id="harley4690_197">ȝe schull be in a prisonne</l>
+            
+            <l xml:id="harley4690_198">and that is skele and resonne </l>
+            
+            <l xml:id="harley4690_199"><name type="character" ref="#KingRichard">Richard</name> seide with herte free&period;</l>
+            
+            <l xml:id="harley4690_200">though doest no right so mote y thee&period;</l>
+            
+            <l xml:id="harley4690_201">palmers thatt goo by the weye</l>
+            
+            <l xml:id="harley4690_202"><choice><abbr>þu</abbr><expan>þou</expan></choice> ne scholdest hem der&ydot; myght ne deye&period;</l>
+            
+            <l xml:id="harley4690_203">Syr Emperour for th&ydot; courtesye&period;</l>
+            
+            <l xml:id="harley4690_204">Do palmers no velanye&period;</l>
+            
+            <l xml:id="harley4690_205">ffor ys loue <choice><abbr>þt</abbr><expan>þat</expan></choice> vs dere boughte</l>
+            
+            <l xml:id="harley4690_206">lete vs goo and dere vs noughte</l>
+            
+            <l xml:id="harley4690_207">he commawnded &period; swithe sone</l>
+            
+            <l xml:id="harley4690_208">yn prisoune þei schuld be done</l>
+            
+            <l xml:id="harley4690_209">the porter ganne hem vnderfongge&period;</l>
+            
+            <l xml:id="harley4690_210">and towke <name type="character" ref="#KingRichard">Richarde</name> by þe honde</l>
+            
+            <l xml:id="harley4690_211">and bothe is felawes h&ydot;m with</l>
+            
+            <l xml:id="harley4690_212">there hadde they no nother gry<unclear resp="LKN" cert="low" reason="smeared">th</unclear></l>
+            <note type="expl" resp="#LKN" target="#harley4690_212" place="margin-right">The final character of 'gryth' is illegible. Following both Brunner and the logic of the rhyme scheme as a result.</note>
+            
+            
+           <!-- for CMP workflow, apply all <l xml:id=""></> in visual studio before migrating to oxygen. Add all <num> at end. need to add subtype to name -->
+        </body>
+    </text>
+</TEI>

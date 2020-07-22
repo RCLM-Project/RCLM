@@ -1,1 +1,1 @@
-This is the folder for work on the Wynken de Worde 1509 printing of Richard Coer de Lyon. The collaborative editors for this portion of the RCLM are Caitlin Postal (#CMP), Sarah N. Moore (#SNM), and Barkley M. Ramsey (#BMR).
+This is the folder for work on the Wynken de Worde 1509 printing of Richard Coer de Lyon. The collaborative editors for this witness are Caitlin Postal (#CMP), Sarah N. Moore (#SNM), and Barkley M. Ramsey (#BMR).
