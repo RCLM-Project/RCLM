@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+ 	<!ENTITY amp "&#x0026;">
+	<!ENTITY ETH "&#x00D0;">
+	<!ENTITY eth "&#x00F0;">
+	<!ENTITY THORN "&#xDE;">
+	<!ENTITY thorn "&#xFE;">
+	<!ENTITY ydot "&#x1E8F;">
+	<!ENTITY YOGH "&#x021C;">
+	<!ENTITY yogh "&#x021D;">
+	<!ENTITY hidot "&#xF1F8;">
+	<!ENTITY middot "&#x00B7;">
+	<!ENTITY period "&#x002E;">
+	<!ENTITY punctelev "&#xF161;">
+	<!ENTITY para "&#x00B6;"> <!-- pilcrow -->
+	<!ENTITY revpara "&#x204B;" > <!-- reversed pilcrow -->
+	  ]>
+	  
+<TEI xml:id="wynken1509" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title>
+                Rycharde cuer du lyon, Wynken de Worde, 1509: A Digital Edition for The RCLM <!-- update later -->
+            </title>
+			<respStmt>
+				<resp>Transcribed from the digital images and encoded by</resp>
+                <name type="person" role="transcriber editor" ref="#CMP">Caitlin Postal</name>
+                <name type="person" role="transcriber editor" ref="#SNM">Sarah N. Moore</name>
+                <name type="person" role="transcriber editor" ref="#BMR">Barkley M. Ramsey</name>
+				<note>Collaborative edition transcribed and encoded with introduction by Sarah Moore, Caitlin Postal, and Barkley Ramsey. </note>
+			</respStmt>
+		</titleStmt>
+		<publicationStmt>
+			<publisher>Richard Coer de Lyon Multitext</publisher>
+			<date when="2020-05-31">2020</date>
+			<!-- include statement when text is duplicated elsewhere (see or link to resources) -->
+		</publicationStmt>
+		<sourceDesc>
+			<msDesc>
+				<msIdentifier>
+					<settlement>Manchester</settlement>
+					<repository>John Ryland's Library</repository>
+					<collection>Deansgate</collection>
+					<idno>15843</idno>
+				</msIdentifier>
+				<msContents>
+					<!-- uncertain if necessary because only citing RCL? -->
+				</msContents>
+				<physDesc></physDesc>
+				<history>
+					<origin>
+						<p>Printed in x in or around 1509 by Wynken de Worde.</p>
+					</origin>
+					<provenance>
+						<p><!-- history of where it's been --></p>
+					</provenance>
+					<acquisition>
+						<p><!-- how it got to JR library --></p>
+					</acquisition>
+				</history>
+			</msDesc>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<editorialDecl>
+			<p><!-- description of primary editorial interventions; separate tags available for correction, hypenation, interpretation, normalization, punctuation, quotation, segmentation so likely include interpretation, punctuation, segmentation--></p>
+		</editorialDecl>
+	</encodingDesc>
+	<profileDesc>
+		<!-- required in teiHeader, probs use textClass and creation -->
+	</profileDesc>
+
+	<revisionDesc><!-- to be incorporated after initial editing to log when changes are made -->
+		<change who="#" when="2014-01-01">Corrected reading of ... </change>
+	</revisionDesc>
+</teiHeader>
+
+<!-- #CMP NOTE: we'll need to review all uses of [y] for possible intention as [þ]. I have noted some [þ] where context was clear but it would be prudent for us to review other uses of [y] that I may have missed. #CMP -->
+<!-- #CMP NOTE: phase zero transcription as follows: 250-280 from summer 2019; 280-445 from winter 2020.  account for process in introduction. sample xml document completed by #XMP-->
+
+<text>
+	<body>
+    <pb xml:id="wynken1509_250jpg" n="250jpg" facs="JRL19060250.jpg"/>
+        
+        <fw type="incipit" xml:id="wynken1509_incipit">&para;<name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> cuer du lyon&period;</fw>
+		<figure xml:id="wynken1509_figure1" corresp="#wynken1509_250jpg"><figDesc type="woodblock" resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
+
+     <pb xml:id="wynken1509_251jpg" n="251jpg" facs="JRL19060251.jpg"/>
+
+        <head xml:id="wynken1509_heading1">&para;The prologue&period;</head>
+		<anchor xml:id="wynken1509_sum1"/><note type="sum" resp="#CMP #SNM" target="wynken1509_sum1" corresp="#wynken1509_heading1">The prologue to the narrative.</note> <!-- CMP: need to review target/corresp-->
+
+        <l xml:id="wynken1509_1"><space quantity="8" unit="characters"/>Orde kynge of glorye</l>
+        <note type="text" resp="#SNM #CMP" corresp="#wynken1509_1">Missing the decorative initial for the uppercase [L] in [Lord]; there is a blank area on the page about 8-10 characters wide and five lines tall.</note>
+        <l xml:id="wynken1509_2"><space quantity="8" unit="characters"/>Suche grace and suche vyctory</l>
+        <l xml:id="wynken1509_3"><space quantity="8" unit="characters"/>Thou sendest to <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name></l>
+        <l xml:id="wynken1509_4"><space quantity="8" unit="characters"/>That neuer was founde cowarde</l>
+        <l xml:id="wynken1509_5"><space quantity="8" unit="characters"/>It is good to here Iestes</l>
+        <l xml:id="wyken1509_6">Of his prowesse and his conquestes</l>
+        <l xml:id="wynken1509_7">Many romayns men make newe</l>
+        <l xml:id="wynken1509_8">Of good knyghtes and of trewe</l>
+        <l xml:id="wynken1509_9">Of theyr dedes men rede romauns</l>
+	    <l xml:id="wynken1509_10" n="10">Bothe in <name type="place" subtype="historical" ref="#England">Englonde</name> and in <name type="place" subtype="historical" ref="#France">Fraunce</name></l>
+        <l xml:id="wynken1509_11">Of Rowlande and of Olyuere</l><!-- #CMP: add <name> for these literary references -->
+        <note type="expl" resp="CMP" corresp="#wynken1509_11">The Prologue includes reference to other romances of the Middle Ages including, in the lines that follow, Roland and Oliver (l. 11; Song of Roland), Alexander the Great (l. 13), Charlemagne (l. 13), King Arthur (l. 14), Sir Gawain (l. 14), Archbishop Turpin (l. 16), Ogier the Dane (l. 16), Hector and Achilles ("troye men" in ll. 17-19). The narrator here refers to the French "rymes" (l. 21) that were not known in England because "lewde man can frensshe none / of an hondred vnneth one" (l. 23-24), or roughly "lewed/unlearned men can [read] in French none of a hundred difficult ones." This sets the stage for telling new gestes or romances in the English vernacular.</note>
+	    <l xml:id="wynken1509_12">And of euery desepere</l>
+	    <l xml:id="wynken1509_13">Of Alysaunder and of Charlemayne</l>
+	    <l xml:id="wynken1509_14">Of kynge Arthur and of Gawayne</l>
+	    <l xml:id="wynken1509_15">How they were knyghtes good and curtoys</l>
+	    <l xml:id="wynken1509_16">Of Turpyn and of Oger the danoys</l>
+	    <l xml:id="wynken1509_17">Of troye men rede in ryme</l>
+	    <l xml:id="wynken1509_18">What was by olde tyme</l>
+	    <l xml:id="wynken1509_19">Of Hector and of Achylles</l>
+	    <l xml:id="wynken1509_20" n="20">What folke they slewe in prees</l>
+	    <l xml:id="wynken1509_21">In <name type="place" subtype="historical" ref="#France">fraunce</name> these rymes were wrought</l>
+	    <l xml:id="wynken1509_22">Euery englysshe ne knewe it nought</l>
+	    <l xml:id="wynken1509_23">Lewde man can frensshe none</l>
+	    <l xml:id="wynken1509_24">Of an hondred vnneth one</l>
+	    <l xml:id="wynken1509_25">Neuertheles with gladde chere</l>
+	    <l xml:id="wynken1509_26">Of that ye wyll now here</l>
+	    <l xml:id="wynken1509_27">Newe Iestes I vnderstonde</l>
+	    <l xml:id="wynken1509_28">Of doughty knyghtes of <name type="place" subtype="historical" ref="#England">Englonde</name></l>
+	    <l xml:id="wynken1509_29">Therefore now I wyll you rede</l>
+	    <l xml:id="wynken1509_30" n="30">Of a kynge doughty of dede</l>
+
+	  <pb xml:id="wynken1509_252jpg" n="252jpg" facs="JRL19060252.jpg"/>
+
+	    <l xml:id="wynken1509_31"><name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> was the beste</l>
+	    <l xml:id="wynken1509_32">That is founde in ony Ieste</l>
+	    <l xml:id="wynken1509_33">Now all that here this talkynge</l>
+	    <l xml:id="wynken1509_34">God gyue them good endynge</l>
+		<lb/>
+     <head xml:id="wynken1509_heading2"><space quantity="2" unit="characters"/>&para; Here begynneth the hystorye of <name type="character" subtype="historical" ref="#KingRichard">Kynge Ry: <lb/>
+        <space quantity="2" unit="characters"/>charde</name> cure de lyon / and fyrst of his byrth&period;</head>
+		<lb/>
+        <anchor xml:id="wynken1509_sum2"/><note type="sum" resp="#CMP" target="wynken1509_sum2">Richard's parentage and birth</note>
+        
+	    <l xml:id="wynken1509_35">LOrdes harken now beforne</l>
+        <note type="text" resp="#SNM #CMP" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall.</note>
+	    <l xml:id="wynken1509_36">How <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name> was borne</l>
+	    <l xml:id="wynken1509_37">His fader was cleped <name type="character" subtype="historical" ref="#KingHarry">kynge Harry</name></l>
+	    <l xml:id="wynken1509_38">In his tyme sykerly</l>
+	    <l xml:id="wynken1509_39">As I fynde in this sawe</l>
+	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><!-- #CMP: add religious-figure once policies are finalized -->
+	    <l xml:id="wynken1509_41">At <name type="place" subtype="historical" ref="#Canterbury">Caunterbury</name> before the auter stone</l>
+	    <l xml:id="wynken1509_42">There myracles be done many one</l>
+	    <l xml:id="wynken1509_43">Whan he was <num value="20">.xx.</num> wynter olde</l>
+	    <l xml:id="wynken1509_44">He was a kynge swythe bolde</l>
+	    <l xml:id="wynken1509_45">He wolde no wyfe I vnderstonde</l>
+	    <l xml:id="wynken1509_46">With grete tresour thoughe they her fonde</l>
+	    <l xml:id="wynken1509_47">Neuertheles his barons hym redde</l>
+	    <l xml:id="wynken1509_48">That he graunted them a wyfe to wedde</l>
+	    <l xml:id="wynken1509_49">Hastely he sente his sonde</l>
+	    <l xml:id="wynken1509_50" n="50">In to many a dyuers londe</l>
+	    <l xml:id="wynken1509_51">The fayrest woman that was on lyue</l>
+	    <l xml:id="wynken1509_52">They sholde brynge hym to wyue</l>
+	    <l xml:id="wynken1509_53">Messengers be redy dyght</l>
+	    <l xml:id="wynken1509_54">To shyppe they wente that same nyght</l>
+	    <l xml:id="wynken1509_55">And theyr sayle vp they drowe</l>
+	    <l xml:id="wynken1509_56">The wynde them serued well Inowe</l>
+	    <l xml:id="wynken1509_57">And they came amyddes the see</l>
+	    <l xml:id="wynken1509_58">No wyndes brethe ne had he</l>
+
+        <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="characters"/>+<space quantity="12" unit="characters"/>A.ii.</fw> <!--CMP: maybe define entity for the footer stamps-->
+        <note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. The footer contains, spaced out, "Kyynge R.," a cross, and pagination that consists of a capital letter and roman numerals i-iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note>
+
+	  <pb xml:id="wynken1509_253jpg" n="253jpg" facs="JRL19060253.jpg"/>
+
+	    <l xml:id="wynken1509_59">Therfore they were swythe wo</l>
+	    <l xml:id="wynken1509_60" n="60">Another shyppe they encountred tho</l>
+		<note type="expl" resp="#CMP" corresp="#wynken1509_60">cmp to add note about the materials of the ship</note>
+	    <l xml:id="wynken1509_61">Suche ne sawe they neuer none</l>
+	    <l xml:id="wynken1509_62">For it was so gay begone</l>
+	    <l xml:id="wynken1509_63">Euery nayle with golde Igraue</l>
+	    <l xml:id="wynken1509_64">Of pure golde was his sklaue</l>
+	    <l xml:id="wynken1509_65">Her mast was of Iuory</l>
+	    <l xml:id="wynken1509_66">Of samyte her sayle wytly</l>
+	    <l xml:id="wynken1509_67">Her ropes all of whyte sylke</l>
+	    <l xml:id="wynken1509_68">As whyte as euer was ony mylke</l>
+	    <l xml:id="wynken1509_69">The noble shyppe was without</l>
+	    <l xml:id="wynken1509_70" n="70">With clothes of golde spred about</l>
+	    <l xml:id="wynken1509_71">And her lofte and her wyndlace</l>
+	    <l xml:id="wynken1509_72">All with golde depaynted was</l>
+	    <l xml:id="wynken1509_73">In the shyppe there were dyght</l>
+	    <l xml:id="wynken1509_74">Knyghtes and lordes of myght</l>
+	    <l xml:id="wynken1509_75">And a lady therin was</l>
+	    <l xml:id="wynken1509_76">Bryght as sonne throwe the glas</l>
+	    <l xml:id="wynken1509_77">Her men abrode gan stonde</l>
+	    <l xml:id="wynken1509_78">And becked them with her honde</l>
+	    <l xml:id="wynken1509_79">And prayed them for to dwell</l>
+	    <l xml:id="wynken1509_80"n="80">And theyr auentures to tell</l>
+	    <l xml:id="wynken1509_81">They graunted all with skyll</l>
+	    <l xml:id="wynken1509_82">For to tell all her wyll</l>
+	    <l xml:id="wynken1509_83">To dyuerse londes do we wende</l>
+	    <l xml:id="wynken1509_84">For <name type="character" subtype="historical" ref="#KingHarry">kynge Harry</name> hath vs sende</l>
+        <l xml:id="wynken1509_85">For to seche hym a quene</l>
+        <l xml:id="wynken1509_86">The fayrest that myght on erth bene</l>
+        <l xml:id="wynken1509_87">Up arose a kynge of a chayre</l>
+        <l xml:id="wynken1509_88">With that worde and spake fayre</l>
+        <l xml:id="wynken1509_89">The chayre was of carbunkel stone</l> 
+		<note type="expl" resp="#CMP" corresp="#wynken1509_89">Made of carbuncle (the equivalent of ruby), this chair would be a shining red gem.</note>
+	    <l xml:id="wynken1509_90" n= "90">Suche saw they neuer none</l>
+
+    <pb xml:id="wynken1509_254jpg" n="254jpg" facs="JRL19060254.jpg"/>
+        <note type="text" resp="#SNM" corresp="wynken1509_254jpg">There is a 2 penciled in at the top of this page.</note>
+
+        <l xml:id="wynken1509_91">And other dukes hym besyde</l>
+        <l xml:id="wynken1509_92">Noble men of moche pryde</l>
+        <l xml:id="wynken1509_93">And welcomed the messengers euerychone</l>
+        <l xml:id="wynken1509_94">Into the shyppe they gan gone</l>
+        <l xml:id="wynken1509_95">Thyrty knyghtes without lye</l>
+        <l xml:id="wynken1509_96">For sothe was in that company</l>
+        <l xml:id="wynken1509_97">In that ryche shyppe they wente</l>
+        <l xml:id="wynken1509_98">The messengers that were sente</l>
+        <l xml:id="wynken1509_99">Knyghtes and ladyes came them agayne</l>
+	    <l xml:id="wynken1509_100" n="100">Seuen score as men sayne</l>
+        <l xml:id="wynken1509_101">And welcomed them at one worde</l>
+        <l xml:id="wynken1509_102">Clothes of sylke were spred on borde</l>
+        <l xml:id="wynken1509_103">The kynge than anone badde</l>
+        <l xml:id="wynken1509_104">As it is in ryme radde</l>
+        <l xml:id="wynken1509_105">That his doughter were forth fet</l>
+        <l xml:id="wynken1509_106">And in a chayre by hym set</l>
+        <l xml:id="wynken1509_107">Trumpettes began to blowe</l>
+        <l xml:id="wynken1509_108" >She was set in a throwe</l>
+        <l xml:id="wynken1509_109">With <num value="20">&period;xx&period;</num> knyghtes her aboute</l>
+	    <l xml:id="wynken1509_110"n="110">And double so many of ladyes stoute</l>
+        <l xml:id="wynken1509_111">All they began to knele her to</l>
+        <l xml:id="wynken1509_112">For it was reason so to do</l>
+        <l xml:id="wynken1509_113">They ete and dranke &amp; were glad</l>
+        <l xml:id="wynken1509_114">For so the ryche kynge bad</l>
+        <l xml:id="wynken1509_115">Whan they had done theyr mete</l>
+        <l xml:id="wynken1509_116">Of auentures they began to speke</l>
+        <l xml:id="wynken1509_117">The kynge them tolde in his reason</l>
+        <l xml:id="wynken1509_118">How it came hym in a vysyon</l>
+        <l xml:id="wynken1509_119">In his londe that he came fro</l>
+	    <l xml:id="wynken1509_120" n="120">In to <name type="place" subtype="historical" ref="#England">Englonde</name> for to go</l>
+        <l xml:id="wynken1509_121">And his doughter that was hym dere</l>
+        <l xml:id="wynken1509_122">For to wende with hym in fere</l>
+
+        <fw type="footer"><space quantity="3" units="character"/>Kyynge R.<space quantity="8" units="character"/>+<space quantity="11" units="character"/>A.iii.</fw> 
+
+     <pb xml:id="wynken1509_255jpg" n="255jpg" facs="JRL19060255.jpg"/>
+
+        <l xml:id="wynken1509_123">And in this maner we be dyght</l>
+        <l xml:id="wynken1509_124">Unto your londe to wende ryght</l>
+        <l xml:id="wynken1509_125">Than answered a messengere</l>
+        <l xml:id="wynken1509_126">His name was cleped <name type="character" subtype="fictional" ref="#Barnagere">Barnagere</name></l>
+        <l xml:id="wynken1509_127">Ferther wyll we seke nought</l>
+        <l xml:id="wynken1509_128">To my lorde she shall be brought</l>
+        <l xml:id="wynken1509_129">Whan he her with eyen doth se</l>
+	    <l xml:id="wynken1509_130" n="130">Full well apayed wyll he be</l>
+        <l xml:id="wynken1509_131">The wynde rose out of the north west</l>
+        <l xml:id="wynken1509_132">And serued them with the best</l>
+        <l xml:id="wynken1509_133">At the toure they gan aryue</l>
+        <l xml:id="wynken1509_134">To londe the knyghtes wente blyue</l>
+        <l xml:id="wynken1509_135">The messengers the kynge hath tolde</l>
+        <l xml:id="wynken1509_136">Of that lady fayre and bolde</l>
+        <l xml:id="wynken1509_137">There he laye in toure</l>
+	    <l xml:id="wynken1509_138">The lady that was whyte as floure</l>
+		<note type="expl" resp="SNM" corresp="#wynken1509_138">add note on race and whiteness, as related to women and monstrocity (snm to write)</note>
+        <l xml:id="wynken1509_139"><name type="character" subtype="historical" ref="#KingHarry">Kynge Harry</name> gan hym soone dyght</l>
+	    <l xml:id="wynken1509_140" n="140">With erles barons and many a knyght</l>
+        <l xml:id="wynken1509_141">Ayenst that lady for to wende</l>
+        <l xml:id="wynken1509_142">For he was courteys and hende</l>
+        <l xml:id="wynken1509_143">The damoysell to londe was ladde</l>
+        <l xml:id="wynken1509_144">Clothes of golde before her spradde</l>
+        <l xml:id="wynken1509_145">The messengers on eche a syde</l>
+        <l xml:id="wynken1509_146">And mynstrelles of moche pryde</l>
+        <l xml:id="wynken1509_147"><name type="character" subtype="historical" ref="#KingHarry">Kynge Harry</name> lyked her seynge</l>
+	    <l xml:id="wynken1509_148">That fayre lady and her fader the kynge</l>
+        <l xml:id="wynken1509_149">And sayd to hym ryght so</l>
+	    <l xml:id="wynken1509_150" n="150">&YOGH;e be welcome all me to</l>
+        <l xml:id="wynken1509_151">To <name type="place" subtype="historical" ref="#Westminster">westmyster</name> they wente in fere</l>
+        <l xml:id="wynken1509_152">Lordes ladyes that there were</l>
+        <l xml:id="wynken1509_153">Trumpettes began for to blowe</l>
+        <l xml:id="wynken1509_154">To mete they went in a throwe</l>
+
+    <pb xml:id="wynken1509_256jpg" n="256jpg" facs="JRL19060256.jpg"/>
+	    
+	    <l xml:id="wynken1509_155">Knyghtes there serued a good spede</l>    
+	    <l xml:id="wynken1509_156">Of theyr mete to tell it is no nede</l>	    
+	    <l xml:id="wynken1509_157">And after mete in hyenge</l>
+	    <l xml:id="wynken1509_158">Speketh <name type="character" subtype="historical" ref="#KingHarry">Harry</name> our kynge</l>	    
+	    <l xml:id="wynken1509_159">To the kynge that sate in same</l>	    
+	    <l xml:id="wynken1509_160" n="160">Good syr what is your name</l>	    
+	    <l xml:id="wynken1509_161">My name he sayd is <name type="character" subtype="fictional" ref="#Carbarrynge">Carbarrynge</name></l>
+	    <l xml:id="wynken1509_162">Of <name type="place" subtype="historical" ref="#Antioch">antyoche</name> I am the kynge</l>    
+	    <l xml:id="wynken1509_163">He told him his reason</l>	    
+	    <l xml:id="wynken1509_164">How hym came in vysyon</l>    
+	    <l xml:id="wynken1509_165">Syr he sayd I tell the</l>    
+	    <l xml:id="wynken1509_166">I had brought elles more meyne</l>  
+	    <l xml:id="wynken1509_167">Many mo without fayle</l>
+	    <l xml:id="wynken1509_168">And mo shyppes with vytayle</l>	    
+	    <l xml:id="wynken1509_169">Yet asked he that lady bryght</l>	    
+	    <l xml:id="wynken1509_170" n="170">What name my lady ye hyght</l>	    
+	    <l xml:id="wynken1509_171"><name type="character" subtype="fictional" ref="#Cassodorien">Cosodorean</name> without lesynge</l>    
+	    <l xml:id="wynken1509_172">Thus answered she the kynge</l>	    
+	    <l xml:id="wynken1509_173">Damoysell he sayd bryght and shene</l>	    
+	    <l xml:id="wynken1509_174">Wyll we dwell and be my quene</l>	    
+	    <l xml:id="wynken1509_175">She answered with wordes styll</l>	    
+	    <l xml:id="wynken1509_176">Syr I am at my faders wyll</l>    
+	    <l xml:id="wynken1509_177">Her fader graunted swythe sone</l>    
+	    <l xml:id="wynken1509_178" >At your wyll it shall be done</l>    
+	    <l xml:id="wynken1509_179">Hastely that she be wedde</l>	    
+	    <l xml:id="wynken1509_180"n="180">As a quene to a kynges bedde</l>
+	    <l xml:id="wynken1509_181">And prayd hym for his courtesy</l>   
+	    <l xml:id="wynken1509_182">It myght be done all pryuely</l>    
+	    <l xml:id="wynken1509_183">The spousynge was done that nyght</l>	    
+	    <l xml:id="wynken1509_184">Therat daunsed many a knyght</l>    
+	    <l xml:id="wynken1509_185">Moche Ioye was them amonge</l>    
+	    <l xml:id="wynken1509_186">A preest ful soone the masse song</l>
+
+	    <fw type="footer"><space quantity="2" units="characters"/>Kynge R.<space quantity="6" units="characters"/>+<space quantity="13" units="characters"/>A.iiii.</fw> 
+
+	 <pb xml:id="wynken1509_257jpg" n="257jpg" facs="JRL19060257.jpg."/> 
+
+	    <l xml:id="wynken1509_187">And whan it came to the leuacyowne</l>
+		<note type="expl" resp="" corresp="#wynken1509_187">add note about elevation of the host (maybe#CMP/bmr to write?)</note>
+	    <l xml:id="wynken1509_188">In a swounynge she fell downe</l>
+	    <l xml:id="wynken1509_189">The people than her sore a dradde</l>
+	    <l xml:id="wynken1509_190" n="190">In to a chambre she was ladde</l>
+	    <l xml:id="wynken1509_191">She sayd for I am thus hent</l>
+	    <l xml:id="wynken1509_192">I dare neuer se the sacrament</l>
+	    <l xml:id="wynken1509_193">Upon the more her fader toke leue</l>
+	    <l xml:id="wynken1509_194">No lenger wolde he there be leue</l>
+	    <l xml:id="wynken1509_195">The kynge dwelled with his quene</l>
+	    <l xml:id="wynken1509_196">Chyldren they had them bytwene</l>
+	    <l xml:id="wynken1509_197">Two sones and a mayd</l>
+	    <l xml:id="wynken1509_198">Forsothe as the boke vs sayd</l>
+	    <l xml:id="wynken1509_199"><name type="character" subtype="historical" ref="#KingRichard">Rycharde</name> hyght the fyrst Iwys</l>
+	    <l xml:id="wynken1509_200" n="200">Wherfore these romayns made is</l>
+	    <l xml:id="wynken1509_201">And <name type="character" subtype="historical" ref="#PrinceJohn">Iohan</name> forsothe that other was</l>
+	    <l xml:id="wynken1509_202">And theyr syster hyght <name type="character" subtype="fictional" ref="#Copias">Copyas</name></l>
+	    <l xml:id="wynken1509_203">Thus they dwelled in fere</l>
+	    <l xml:id="wynken1509_204">Tyll the <num value="15">.xv.</num> yere</l>
+	    <l xml:id="wynken1509_205">Upon a daye before the rode</l>
+	    <l xml:id="wynken1509_206">The kynge at his masse stode</l>
+	    <l xml:id="wynken1509_207">There came an erle of grete poste</l>
+	    <l xml:id="wynken1509_208">Syr he sayd how may this be</l>
+	    <l xml:id="wynken1509_209">That my lady the quene</l>
+	    <l xml:id="wynken1509_210" n="210">The sacrament dare not sene</l>
+	    <l xml:id="wynken1509_211">Gyue vs leue to do her dwell</l>
+	    <l xml:id="wynken1509_212">Fro the begynnynge of the gospell</l>
+	    <l xml:id="wynken1509_213">Tyll the mass be songe and sayd</l>
+	    <l xml:id="wynken1509_214">And than shall ye se a queynt brayd</l>
+	    <l xml:id="wynken1509_215">The kynge graunted with good wyll</l>
+	    <l xml:id="wynken1509_216">For to holde her with strength styll</l>
+	    <l xml:id="wynken1509_217">Neyther for wele ne for woo</l>
+	    <l xml:id="wynken1509_218">Let her not out of the chyrche goo</l>
+
+	    <pb xml:id="wynken1509_258jpg" n="258jpg" facs="JRL19060258.jpg"/> 
+
+	    <l xml:id="wynken1509_219">And whan the bell began to rynge</l>
+	    <l xml:id="wynken1509_220" n="220">The preest sholde make the sakerynge</l>
+	    <l xml:id="wynken1509_221">Out of the chyrche she wolde awaye</l>
+	    <l xml:id="wynken1509_222">But the erle sayd soone naye</l>
+	    <l xml:id="wynken1509_223">He sayd lady thou shalte abyde</l>
+	    <l xml:id="wynken1509_224">For ony thynge that may betyde</l>
+	    <l xml:id="wynken1509_225">She toke her doughter vpon her honde</l>
+	    <l xml:id="wynken1509_226">And <name type="character" subtype="historical" ref="#PrinceJohn">Iohan</name> her sone she wolde not wonde</l>
+	    <l xml:id="wynken1509_227">Out of the rofe she gan her dyght</l>
+	    <l xml:id="wynken1509_228">Openly before all theyr syght</l>
+	    <l xml:id="wynken1509_229"><name type="character" subtype="historical" ref="#PrinceJohn">Iohan</name> fell frome her in that stonde</l>
+	    <l xml:id="wynken1509_230"n="230">And brake his thygh on the grounde</l>
+	    <l xml:id="wynken1509_231">And with her doughter she fled her waye</l>
+	    <l xml:id="wynken1509_232">That neuer after she was I sey</l>
+	    <l xml:id="wynken1509_233">The kynge wondred of that thynge</l>
+	    <l xml:id="wynken1509_234">That she made suche an endynge</l>
+	    <l xml:id="wynken1509_235">For loue that she was serued so</l>
+	    <l xml:id="wynken1509_236">Wolde he neuer after come there ne go</l>
+	    <l xml:id="wynken1509_237">He let ordeyne after his endynge</l>
+	    <l xml:id="wynken1509_238">His sone <name type="character" subtype="historical" ref="#KingRichard">Rycharde</name> to be kynge</l>
+	    <l xml:id="wynken1509_239">Crowned after <name type="character" subtype="historical" ref="#KingHarry">kynge Harry</name></l>
+	    <l xml:id="wynken1509_240" n="240">Thus was <name type="character" subtype="historical" ref="#KingRichard">Rychard</name> sykerly</l>
+	    <l xml:id="wynken1509_241">That was in his .xv. yere</l>
+	    <l xml:id="wynken1509_242">He was a man of grete powere</l>
+	    <l xml:id="wynken1509_243">Dedes of armes he gaue hym to</l>
+	    <l xml:id="wynken1509_244">As falleth for kynges and knyghtes to do</l>
+	    <l xml:id="wynken1509_245">He waxed so stronge and so wyght</l>
+	    <l xml:id="wynken1509_246">Ayest hym had no man no myght</l>
+	    <l xml:id="wynken1509_247">In euery stede he toke honoure</l>
+	    <l xml:id="wynken1509_248">As a noble kynge and conqueroure</l>
+		<lb/>
+	  <head xml:id="wynken1509_heading3"><space quantity="1" units="characters"/>&para; How <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name> made a Iustynge.</head> 
+
+<pb xml:id="wynken1509_259jpg" n="259jpg" facs="JRL19060259.jpg"/> 
+
+	<figure xml:id="wynken1509_figure2" corresp="#wynken1509_259jpg"><figDesctype="woodblock" resp="">[image description]</figDesc></figure> <!--#CMP for any desc or images like this, we can wait to write until collab notes unless phase xml editor wants to include a preliminary description -->
+	    <l xml:id="wynken1509_249">The fyrst yere that he was kynge</l>
+		<note type="text" resp="#CMP" corresp="#wynken1509_249">note about initial [T]</note>
+	    <l xml:id="wynken1509_250" n="250">At <name type="place" subtype="historical" ref="#Salisbury">Salysbury</name> he made a Iustynge</l>
+	    <l xml:id="wynken1509_251">And <choice><abbr>commauded</abbr><expan>commaunded</expan></choice> euery man to be there</l> 
+	    <l xml:id="wynken1509_252">Both with shelde and with spere</l>
+	    <l xml:id="wynken1509_253">Erles and barons euerychone</l>
+	    <l xml:id="wynken1509_254">At home ne dwelled neuer one</l>
+	    <l xml:id="wynken1509_255">On forfeyture on lyfe and londe</l>
+	    <l xml:id="wynken1509_256">For no thyne that they ne wonde</l>
+	    <l xml:id="wynken1509_257">This was cryed I vnderstonde</l>
+	    <l xml:id="wynken1509_258" >Thorughout all <name type="place" subtype="historical" ref="#England">Englonde</place></l>
+	    <l xml:id="wynken1509_259">All was for to loke and se</l>
+	    <l xml:id="wynken1509_260"n="260">The knyghtes that best myght be</l>
+	    <l xml:id="wynken1509_261">There they came all at his wyll</l>
+	    <l xml:id="wynken1509_262">His commaundement to fulfyll</l>
+	    <l xml:id="wynken1509_263">The partyes were sonder set</l>
+	    <l xml:id="wynken1509_264">Togyder they ran without let</l>
+	    
+<pb xml:id="wynken1509_260jpg" n="260jpg" facs="JRL19060260.jpg"/> 
+	    
+	    <l xml:id="wynken1509_265"><name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> gan hym dysguyse</l><!--#CMP: need to decide if we're going to t-note each number pencilled at the top of pages-->
+	    <l xml:id="wynken1509_266">In a full stronge queyntyse</l>
+	    <l xml:id="wynken1509_267">He came out of a valaye</l>
+	    <l xml:id="wynken1509_268">For to se of theyr playe,</l>
+	    <l xml:id="wynken1509_269">As a knyght auenturous</l>
+	    <l xml:id="wynken1509_270" n="270">His atyre was orgulous</l>
+		<note type="expl" resp="#CMP" corresp="#wynken1509_270">CMP to write note about armor and dress.</note>
+	    <l xml:id="wynken1509_271">All togyder cole blacke</l>
+	    <l xml:id="wynken1509_272">Was his horse without lacke</l>
+	    <l xml:id="wynken1509_273">Upon his creste a reuen stode</l>
+	    <l xml:id="wynken1509_274">That yaned as he were wode</l>
+	    <l xml:id="wynken1509_275">And aboute his necke a bell</l>
+	    <l xml:id="wynken1509_276">Wherefore the reason I shall you tell</l>
+	    <l xml:id="wynken1509_277">The oynge of the rauen is</l>
+	    <l xml:id="wynken1509_278">In a trauayll for to be Iwys</l>
+	    <l xml:id="wynken1509_279">Sygnyfyauence of the bell</l>
+	    <l xml:id="wynken1509_280" n="280">With holy chyrche to dwell</l>
+	    <l xml:id="wynken1509_281">And them to noy and to geue</l>
+	    <l xml:id="wynken1509_282">That be not in the ryght byleue</l>
+	    <l xml:id="wynken1509_283">He bare a shafte that was grete and stronge</l>
+	    <l xml:id="wynken1509_284">It was fourtene fote longe</l>
+	    <l xml:id="wynken1509_285">And it was grete and stoute</l>
+	    <l xml:id="wynken1509_286">One and twenty inches aboute</l>
+	    <l xml:id="wynken1509_287">The fyrst knyght that he there mette</l>
+	    <l xml:id="wynken1509_288">Full egerly he hym grette</l>
+	    <l xml:id="wynken1509_289">With a dente amyd the shelde</l>
+	    <l xml:id="wynken1509_290"n="290">His horse he bare downe in the felde</l>
+	    <l xml:id="wynken1509_291">And the knyght fell to grounde</l>
+	    <l xml:id="wynken1509_292">Full nye deed in that stounde</l>
+	    <l xml:id="wynken1509_293">THe nexte that he mette thare</l>
+	    <l xml:id="wynken1509_294">A grete stroke hy hym bare</l>
+	    <l xml:id="wynken1509_295">His forgette with his cornell tho</l>
+	    <l xml:id="wynken1509_296">His necke he brake there a two</l>
+
+    <pb xml:id="wynken1509_261jpg" n="261jpg" facs="JRL19060261.jpg"/> 
+	    
+	    <l xml:id="wynken1509_297">His horse and he fell to grounde</l> 
+		<note type="text" resp="#CMP" corresp="#wynken1509_297">The first line on this page is circled in a light brown ink, likely by a later reader.</note>
+	    <l xml:id="wynken1509_298">And dyed bothe in that stounde</l>
+	    <l xml:id="wynken1509_299"><name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> gane houe &amp; abyde</l>
+	    <l xml:id="wynken1509_300" n="300">&YOGH;f ony mo wolde to hym ryde</l>
+	    <l xml:id="wynken1509_301">Trumpettes began for to blowe</l>
+	    <l xml:id="wynken1509_302">Knyghtes Iusted in that rowe</l>
+	    <l xml:id="wynken1509_303">Another knyght hardy and good</l>
+	    <l xml:id="wynken1509_304">Sate on a stede rede as blode</l>
+	    <l xml:id="wynken1509_305">He dyde hym arme and well dyght</l>
+	    <l xml:id="wynken1509_306">In all that longed to suche a knyght</l>
+	    <l xml:id="wynken1509_307">A shafte he toke grete and louge</l>
+	    <l xml:id="wynken1509_308">That was so heuy and stronge</l>
+	    <l xml:id="wynken1509_309">And sayd he wolde to hym ryde</l>
+	    <l xml:id="wynken1509_310" n="310">Yf he durste hym abyde</l>
+	    <l xml:id="wynken1509_311">Trumpettes began to blowe than</l>
+	    <l xml:id="wynken1509_312">Therby wyste many a man</l>
+	    <l xml:id="wynken1509_313">That they sholde Iuste mere</l>
+	    <l xml:id="wynken1509_314">The noble knyghtes that there were</l>
+	    <l xml:id="wynken1509_315"><name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> of hym was ware</l>
+	    <l xml:id="wynken1509_316">And a spere to hym he bare</l>
+	    <l xml:id="wynken1509_317">And encountred hym in the felde</l>
+	    <l xml:id="wynken1509_318">He bare awaye halfe his shelde</l>
+	    <l xml:id="wynken1509_319">His pusen therwith gane gone</l>
+	    <l xml:id="wynken1509_320" n="320">And also his brandellet bone</l>
+	    <l xml:id="wynken1509_321">His vyser and his gorgere</l>
+	    <l xml:id="wynken1509_322">Hym repented that be came there</l>
+	    <l xml:id="wynken1509_323"><name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> houed and behelde</l>
+	    <l xml:id="wynken1509_324">And thought to rest hym in the felde</l>
+	    <l xml:id="wynken1509_325">Yf there were other knyght or swayne</l>
+	    <l xml:id="wynken1509_326">That wolde more ryde hym agayne</l>
+	    <l xml:id="wynken1509_327">He sawe there wolde come none</l>
+	    <l xml:id="wynken1509_328">On his way he gan forth gone</l>
+
+<pb xml:id="wynken1509_262jpg" n="262jpg" facs="JRL19060262.jpg"/> 
+
+	    <l xml:id="wynken1509_329">Into a wode out of theyr syght</l>
+	    <l xml:id="wynken1509_330" n="330">And in another tyre he hym dyght</l>
+		<note type="expl" resp="#CMP" corresp="#wynken1509_330">#CMP to write note on attire</note>
+	    <l xml:id="wynken1509_331">Upon a stede rede as blode</l>
+	    <l xml:id="wynken1509_332">With all the tyre that on hym stode</l>
+	    <l xml:id="wynken1509_333">Horse and shelde armure and man</l>
+	    <l xml:id="wynken1509_334">That no man sholde knower hym than</l>
+	    <l xml:id="wynken1509_335">Upon his creste a rede hounde</l>
+	    <l xml:id="wynken1509_336">The tayle henge to the grounde</l>
+	    <l xml:id="wynken1509_337">That was sygnyfycacyon</l>
+	    <l xml:id="wynken1509_338">The heathen folke to brynge downe</l>
+	    <l xml:id="wynken1509_339">Them to slee for goddes loue</l>
+	    <l xml:id="wynken1509_340" n="340">And crysten men to brynge aboue</l>
+	    <l xml:id="wynken1509_341">Styll he houed and bode yore</l>
+	    <l xml:id="wynken1509_342">To them he thought to ryde more</l>
+	    <l xml:id="wynken1509_343">He rode the thronge all aboute</l>
+	    <l xml:id="wynken1509_344">He helde within and withoute</l>
+	    <l xml:id="wynken1509_345">A baron he sawe hym besyde</l>
+	    <l xml:id="wynken1509_346">Towarde hym he gan ryde</l>
+	    <l xml:id="wynken1509_347">To a squyer he toke his spere</l>
+	    <l xml:id="wynken1509_348">TO hym he wolde it not bere</l>
+	    <l xml:id="wynken1509_349">Forth he toke a mansell</l>
+	    <l xml:id="wynken1509_350" n="350">A stroke he thought to be set well</l>
+	    <l xml:id="wynken1509_351">On his helme that was so stronge</l>
+	    <l xml:id="wynken1509_352">Of that dente the fyre out spronge</l>
+	    <l xml:id="wynken1509_353">The baron tourned hym asyde</l>
+	    <l xml:id="wynken1509_354">And sayd felowe forth thou ryde</l>
+	    <l xml:id="wynken1509_355">With thy speres go and playe</l>
+	    <l xml:id="wynken1509_356">Come no more here I the praye</l>
+	    <l xml:id="wynken1509_357">And sykerly yf thou do</l>
+	    <l xml:id="wynken1509_358">Thou salte haue a knocke or two</l>
+	    <l xml:id="wynken1509_359"><name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> wondred in his thought</l>
+	    <l xml:id="wynken1509_360" n="360">That he set his stroke at nought</l>
+
+<pb xml:id="wynken1509_263jpg" n="263jpg" facs="JRL19060263.jpg"/> 
+
+	    <l xml:id="wynken1509_361">And came agayne by another waye</l>
+	    <l xml:id="wynken1509_362">And thought to make a better paye</l>
+	    <l xml:id="wynken1509_363">In his styrope vp he stode</l>
+	    <l xml:id="wynken1509_364">And smote the hym with Ire full mode</l>
+	    <l xml:id="wynken1509_365">He set his stroke on his yron hat</l>
+	    <l xml:id="wynken1509_366">But that other in his sadell sat</l>
+	    <l xml:id="wynken1509_367">Hastely without wordes mo</l>
+	    <l xml:id="wynken1509_368">His mase he toke in his honde tho</l>
+	    <l xml:id="wynken1509_369">That was made of yotyn bras</l>
+	    <l xml:id="wynken1509_370" n="370">He wondred who that it was</l>
+	    <l xml:id="wynken1509_371">Suche a stroke he hym lente</l>
+	    <l xml:id="wynken1509_372">That <name type="character" subtype="historical" ref="#KingRichard">Rycharde</name> feet out of his steropes wente</l>
+	    <l xml:id="wynken1509_373">For plate ne for acketton</l>
+	    <l xml:id="wynken1509_374">For hawberke ne for campeson</l>
+	    <l xml:id="wynken1509_375">Suche a stroke he neuer had none ore</l>
+	    <l xml:id="wynken1509_376">That dyde hym halfe so moche sore</l>
+	    <l xml:id="wynken1509_377">Full swythe awaye he gan ryde</l>
+	    <l xml:id="wynken1509_378">Out of the prees there besyde</l>
+	    <l xml:id="wynken1509_379">To hym selfe he sayd tho</l>
+	    <l xml:id="wynken1509_380" n="380">Of suche strokes kepe I no mo</l>
+	    <l xml:id="wynken1509_381">He wente adowne to a well</l>
+	    <l xml:id="wynken1509_382">And with his helme dranke his fell</l>
+	    <l xml:id="wynken1509_383">And he watred his stede also</l>
+	    <l xml:id="wynken1509_384">In the thyrde atyre he let hym do</l>
+	    <l xml:id="wynken1509_385">All his atyre whyte as mylke</l>
+		<note type="expl" resp="#CMP" corresp="#wynken1509_385">CMP to add note about attire</note>
+	    <l xml:id="wynken1509_386">His croper was of sylke</l>
+	    <l xml:id="wynken1509_387">Upon his shulder a crosse rede</l>
+	    <l xml:id="wynken1509_388">That betokeneth goddes dede</l>
+	    <l xml:id="wynken1509_389">With his enemyyes for to fyght</l>
+	    <l xml:id="wynken1509_390" n="390">To wynne that crosse yf that he myght</l>
+	    <l xml:id="wynken1509_391">Upon his heed a doue whyte</l>
+	    <l xml:id="wynken1509_392">Sygnyfycacyon of the holy spyryte</l>
+
+    <pb xml:id="wynken1509_264jpg" n="264jpg" facs="JRL19060264.jpg"/>
+	
+	    <l xml:id="wynken1509_393">To be bolde to wynne the pryse</l>
+	    <l xml:id="wynken1509_394">And dystroye goddes enemyes</l>
+	    <l xml:id="wynken1509_395">To the <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name> gan hym dyght</l>
+	    <l xml:id="wynken1509_396">Than another noble knyght</l>
+	    <l xml:id="wynken1509_397"><name type="character" subtype="fictional" ref="#FoukDoly">Fouke doly</name> was his name</l>
+	    <l xml:id="wynken1509_398">The kynge kym loued for his game</l>
+	    <l xml:id="wynken1509_399">To hym a stroke he dyght</l>
+	    <l xml:id="wynken1509_400" n="400">Well to paye with all his myght</l>
+	    <l xml:id="wynken1509_401">He smote hym on his bassenet</l>
+	    <l xml:id="wynken1509_402">A grete dente without let</l>
+	    <l xml:id="wynken1509_403">if swouned to his cheke bone</l>
+	    <l xml:id="wynken1509_404"><name type="character" subtype="fictional" ref="#FoukDoly">Syr Fouke</name> had hym forth gone</l>
+	    <l xml:id="wynken1509_405">That he no lenger abyde</l>
+	    <l xml:id="wynken1509_406">In auenture yf ony stroke betyde</l>
+	    <l xml:id="wynken1509_407">The kynge sawe he felte no sore</l>
+	    <l xml:id="wynken1509_408">And thought to gyue hym more</l>
+	    <l xml:id="wynken1509_409">And another stroke hy hym brayde</l>
+	    <l xml:id="wynken1509_410" n="410">His mase vpon his heed he layde</l>
+	    <l xml:id="wynken1509_411">With good wyll that stroke he set</l>
+	    <l xml:id="wynken1509_412">The baron thought he wolde hym let</l>
+	    <l xml:id="wynken1509_413">And with his heuy mase of stele</l>
+	    <l xml:id="wynken1509_414">There he gaue the kynge his dele</l>
+	    <l xml:id="wynken1509_415">That his helme all to roue</l>
+	    <l xml:id="wynken1509_416">And he ouer his sadell droue</l>
+	    <l xml:id="wynken1509_417">And his steropes he forbare</l>
+	    <l xml:id="wynken1509_418">Such a stroke had he neuer are</l>
+	    <l xml:id="wynken1509_419">He was so astonyed of that dente</l>
+	    <l xml:id="wynken1509_420" n="420">That nye he had his lyfe lente</l>
+	    <l xml:id="wynken1509_421">And for that stroke that hym was gyuen</l>
+	    <l xml:id="wynken1509_422">He ne wyst whether it was daye or euen</l>
+	    <l xml:id="wynken1509_423">Tho he recouered of his swowe</l>
+	    <l xml:id="wynken1509_424">To his palays he hym drowe</l>
+	    
+	 <pb xml:id="wynken1509_265jpg" n="265jpg" facs="JRL19060265.jpg"/> 
+
+	    <l xml:id="wynken1509_425">Than he commaunded hastely</l>
+	    <l xml:id="wynken1509_426">Herodes for to make crye</l> <!--#CMP: is Herodes a named cryer? if so, add to ref list-->
+	    <l xml:id="wynken1509_427">And euery man for to wende</l>
+	    <l xml:id="wynken1509_428">Home to his owne frende</l>
+	    <l xml:id="wynken1509_429">The kynge anone a messengere</l>
+	    <l xml:id="wynken1509_430" n="430">Full preuely he sente there</l>
+	    <l xml:id="wynken1509_431">To <name type="character" subtype="fictional" ref="#ThomasMoulton">syr Thomas of multon</name></l>
+	    <l xml:id="wynken1509_432">That was a noble baron</l>
+	    <l xml:id="wynken1509_433">And to <name type="character" subtype="fictional" ref="#FoukDoly">syr Fouke dely</name></l>
+	    <l xml:id="wynken1509_434">That they come to hyme on hye</l>
+	    <l xml:id="wynken1509_435">Let them not dwell in no manere</l>
+	    <l xml:id="wynken1509_436">Bydde them come bothe in fere</l>
+	    <l xml:id="wynken1509_437">The messengers therwith wente</l>
+	    <l xml:id="wynken1509_438">And sayd the kynge after them sente</l>
+	    <l xml:id="wynken1509_439">Swythe for to come hym to</l>
+	    <l xml:id="wynken1509_440" n="440">Without delaye that it be do</l>
+	    <l xml:id="wynken1509_441">The knyghtes hyed and were blythe</l>
+	    <l xml:id="wynken1509_442">To the kynge they wente swythe</l>
+	    <l xml:id="wynken1509_443">And hendly they hym grette</l>
+	    <l xml:id="wynken1509_444">And he them toke and by hym sette</l>
+	    <l xml:id="wynken1509_445">And sayd to them wordes free</l>
+	    <l xml:id="wynken1509_446">Welcome be ye now to me</l>
+	    <l xml:id="wynken1509_447">In eyther honde he toke one</l>
+	    <l xml:id="wynken1509_448">And in to a chambre they gone</l>
+	    <l xml:id="wynken1509_449">Quod <name type="character" subtype="historical" ref="#KingRichard">Rycharde</name> swete frendes twaye</l>
+	    <l xml:id="wynken1509_450" n="450">Tell me the sothe I you praye</l>
+	    <l xml:id="wynken1509_451">What knyghtes that rode best cours</l>
+	    <l xml:id="wynken1509_452">Of this Iustes paramours</l>
+	    <l xml:id="wynken1509_453">And whiche coude best his crafte</l>
+	    <l xml:id="wynken1509_454">For to demene well his shafte</l>
+	    <l xml:id="wynken1509_455">With dentes for to fell his foos</l>
+	    <l xml:id="wynken1509_456">Whiche of them wan the loos</l>
+
+    <pb xml:id="wynken1509_266jpg" n="266jpg" facs="JRL19060266.jpg"/> 
+
+	    <l xml:id="wynken1509_457">And who styffest tymbre brake</l>
+	    <l xml:id="wynken1509_458">Quod <name type="character" subtype="fictional" ref="#ThomasMoulton">Thomas</name> one in a tyre blake</l>
+	    <l xml:id="wynken1509_459">Came pryckynge ouer falower and felde</l>
+	    <l xml:id="wynken1509_460" n="460">All that there was hym behelde</l>
+	    <l xml:id="wynken1509_461">How he rode as he were wode</l>
+	    <l xml:id="wynken1509_462">A come he houed and withstode</l>
+	    <l xml:id="wynken1509_463">On his creste a rauen swarte</l>
+	    <l xml:id="wynken1509_464">And he ne helde with neyther parte</l>
+	    <l xml:id="wynken1509_465">A shafte he bare styfe and stronge</l>
+	    <l xml:id="wynken1509_466">Fourtene fote it was longe</l>
+	    <l xml:id="wynken1509_467">It was bothe styffe and stoute</l>
+	    <l xml:id="wynken1509_468">Anone he asked all the route</l>
+	    <l xml:id="wynken1509_469">Yf ony durst come and proue</l>
+	    <l xml:id="wynken1509_470"n="470">A course for his lemmans loue</l>
+	    <l xml:id="wynken1509_471">With a knyght of auenturous here</l>
+	    <l xml:id="wynken1509_472">A yonge knyght a Ioly bachelere</l>
+	    <l xml:id="wynken1509_473">Hente a shafte and stede bestrode</l>
+	    <l xml:id="wynken1509_474">To the auenturous knyght he rode</l>
+	    <l xml:id="wynken1509_475">The auenturous with hym met</l>
+	    <l xml:id="wynken1509_476">Suche a stroke on his shelde he set</l>
+	    <l xml:id="wynken1509_477">That horse and man ouerthrewe</l>
+	    <l xml:id="wynken1509_478">There was no wyght that hym knewe</l>
+	    <l xml:id="wynken1509_479">Trompettes yede herodes gaderynge</l>
+	    <l xml:id="wynken1509_480" n="480">All the other knyghtes of hym had dredynge</l>
+	    <l xml:id="wynken1509_481">To Iuste with hym efte with launce</l>
+	    <l xml:id="wynken1509_482">The auenturous betyde so fayre chaunce</l>
+	    <l xml:id="wynken1509_483">An hardy knyght stoute and sauage</l>
+	    <l xml:id="wynken1509_484">Hente a shafte with stronge rage</l>
+	    <l xml:id="wynken1509_485">Now hath he one of oures felde</l>
+	    <l xml:id="wynken1509_486">Worth we neuer for men telde</l>
+	    <l xml:id="wynken1509_487">Syth he hath done vs that dyspyte</l>
+	    <l xml:id="wynken1509_488">yf he agayne passe quyte</l>
+	    
+	    <fw type="footer"><space quantity="4" unit="characters"/>Kynge R.<space quantity="10" unit="characters"/>+<space quantity="9" unit="characters"/>B.i.</fw> 
+
+<!-- #CMP: Wynken1509 sample markup concluded -->
+</body>
+</text>
+</TEI>
