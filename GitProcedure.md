@@ -17,6 +17,6 @@ Save changes locally as frequently as possible.
 
 Commit changes locally as necessary after saving. To do this, first navigate to Source Control in your text editor (ctrl+shift+g in Visual Studio Code). Using the file name under the "Changes" dropdown, click the plus to "Stage Changes." The file name will now be under the "Staged Changes" dropdown. To commit locally, click the check mark to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus).
 
-At the end of every work session, save your changes locally first.
+At the end of every work session, save and commit your changes.
 
 merge branch
