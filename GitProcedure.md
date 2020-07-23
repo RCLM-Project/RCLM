@@ -20,8 +20,11 @@ It is important to fetch the most recent files and to update your files in the m
 
 ### Branch
 
+It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end.
 
-### Commit Locally 
+This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error. 
+
+### Local Commit 
 Save changes locally as frequently as possible.
 
 Commit changes locally as necessary after saving. To do this in Visual Studio Code (or another IDE), first navigate to Source Control in your text editor (ctrl+shift+g in Visual Studio Code). Using the file name under the "Changes" dropdown, click the plus to "Stage Changes." The file name will now be under the "Staged Changes" dropdown. To commit locally, click the check mark to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus).
@@ -30,7 +33,7 @@ At the end of every work session, save and commit your changes.
 
 ### Merge Branch
 
-### Commit to Repo
+### Commit/Push to Repo
 
 When ready to commit to the main repository ("master"), there are two methods.
 
