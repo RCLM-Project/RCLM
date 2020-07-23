@@ -13,7 +13,9 @@ At the beginning of every work session, use "Fetch origin" to clone the most up 
 
 branch
 
-Commit locally as frequently as you want. 
+Save changes locally as frequently as possible.
+
+Commit changes locally as necessary. To do this, first navigate to Source Control in your text editor (ctrl+shift+g in Visual Studio Code). 
 
 At the end of every work session, save your changes locally first.
 
