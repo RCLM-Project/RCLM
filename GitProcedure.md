@@ -63,7 +63,8 @@ After you have staged and committed changes locally, it's time to push them to t
 3. Choose the intended branch to push your changes to (usually either a dev branch or the main repo "master").
 4. Type a brief summary to note what the changes are (date and 2-3 word recap: for example, 7/24 procedure update).
 
-#### To push/commit from GitHubDesktop, 
+#### To push/commit from GitHubDesktop
+
 
 
 Within GitHub Desktop, "Push origin" in the top navigation bar and "Commit to master" in the lower left corner serve the same function of sending your updated files to the main repository on GitHub.
