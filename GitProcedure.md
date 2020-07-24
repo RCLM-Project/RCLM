@@ -14,28 +14,33 @@ Git is complex. This guide will document a step-by-step procedure for RCLM team 
 
 Caitlin recommends using Visual Studio Code or another integrated development environment (IDE) as you can implement commits directly from the IDE.
 
-## Work Sessions
+# Work Sessions
 
-### Fetch
+## Fetch
 At the beginning of every work session, use "Fetch origin" to clone the most up to date repository.
 
 It is important to fetch the most recent files and to update your files in the main repository in every working session.
 
-### Branch
-Team members will use branches for version control. It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end. This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error.
+## Branch
+Team members will use branches for version control. It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end. This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error. 
 
 When you create a new branch, label it with your editor identifier and the date.
 
-#### Create a branch in Visual Studio Code (or another IDE):
+#### Working on branches
+All team members should do collaborative work on their designated dev branch (for example, the Wynken 1509 collaborators will commit their work to the dev_wynken1509 branch). You can create a subbranch from the dev branch to do individual work and practice branching but ***please do not commit work to the main repository until you have practiced committing to branches.***
+
+pull request to commit to main
+
+
+##### Create a branch in Visual Studio Code (or another IDE):
 1. Navigate to Source Control tab (ctrl+shift+g in VSC).
 2. Click the meatballs menu (three horizontal dots which offer a dropdown menu) to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus).
 3. Select "Checkout to" in order to create a new branch with your name in the file extension.
 
-#### Create a branch in GitHub Desktop:
+##### Create a branch in GitHub Desktop:
 1. 
 
-
-### Local Commit 
+## Local Commit 
 Save and commit changes locally as frequently as possible. Recommended: save frequently, commit locally at least once per hour and at the end of every work session. ***Do not use the GitHub browser GUI to commit any changes.***
 
 #### Local commit in Visual Studio Code (or another IDE):
@@ -45,9 +50,9 @@ Save and commit changes locally as frequently as possible. Recommended: save fre
 
 At the end of every work session, save and commit your changes.
 
-### Merge Branch
+## Merge Branch
 
-### Commit/Push to Repo
+## Commit/Push to Repo
 
 When ready to commit to the main repository ("master"), there are two methods.
 
