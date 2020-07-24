@@ -29,6 +29,9 @@ When you create a new branch, label it with your editor identifier and the date.
 #### Working on branches
 All team members should do collaborative work on their designated dev branch (for example, the Wynken 1509 collaborators will commit their work to the dev_wynken1509 branch). You can create a subbranch from the dev branch to do individual work and practice branching but ***please do not commit work to the main repository until you have practiced committing to branches.***
 
+pull request to commit to main
+
+
 ##### Create a branch in Visual Studio Code (or another IDE):
 1. Navigate to Source Control tab (ctrl+shift+g in VSC).
 2. Click the meatballs menu (three horizontal dots which offer a dropdown menu) to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus).
