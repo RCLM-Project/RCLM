@@ -52,13 +52,16 @@ At the end of every work session, save and commit your changes.
 
 ## Merge Branch
 
-## Commit/Push to Repo
+## Push to Repo
 
 When ready to commit to the main repository ("master"), there are two methods.
 
-To commit from Visual Studio Code
+#### To push from Visual Studio Code
+After you have staged and committed changes locally, it's time to push them to the remote repository. 
+1. Navigate to Source Control in your text editor (ctrl+shift+g in Visual Studio Code).
+2. 
 
-To commit from GitHubDesktop, 
+#### To push/commit from GitHubDesktop, 
 
 
 Within GitHub Desktop, "Push origin" in the top navigation bar and "Commit to master" in the lower left corner serve the same function of sending your updated files to the main repository on GitHub.
