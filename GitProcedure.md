@@ -1,3 +1,4 @@
+# ***DO NOT USE THIS DOCUMENTATION YET.***
 Procedural documentation for using Git and GitHub by the RCLM. Written by Caitlin Postal.
 
 More information and instructions available in GitHub Guides: https://guides.github.com/activities/hello-world/ 
@@ -31,6 +32,7 @@ Team members will use branches for version control. It is imperative that each t
 #### Create a branch in GitHub Desktop:
 1. 
 
+
 ### Local Commit 
 Save and commit changes locally as frequently as possible. Recommended: save frequently, commit locally at least once per hour and at the end of every work session. ***Do not use the GitHub browser GUI to commit any changes.***
 
@@ -39,8 +41,7 @@ Save and commit changes locally as frequently as possible. Recommended: save fre
 2. Using the file name under the "Changes" dropdown, click the plus sign next to the file name to "Stage Changes." The file name will now be under the "Staged Changes" dropdown. 
 3. To commit locally, click the check mark to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus).
 
-#### Local commit in GitHub Desktop:
-1. 
+At the end of every work session, save and commit your changes.
 
 ### Merge Branch
 
@@ -48,8 +49,9 @@ Save and commit changes locally as frequently as possible. Recommended: save fre
 
 When ready to commit to the main repository ("master"), there are two methods.
 
-To commit from Visual Studio Code, 
+To commit from Visual Studio Code
 
 To commit from GitHubDesktop, 
 
-> Within GitHub Desktop, "Push origin" in the top navigation bar and "Commit to master" in the lower left corner serve the same function of sending your updated files to the main repository on GitHub.
+
+Within GitHub Desktop, "Push origin" in the top navigation bar and "Commit to master" in the lower left corner serve the same function of sending your updated files to the main repository on GitHub.
