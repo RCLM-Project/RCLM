@@ -64,7 +64,10 @@ After you have staged and committed changes locally, it's time to push them to t
 4. Type a brief summary to note what the changes are (date and 2-3 word recap: for example, 7/24 procedure update).
 
 #### To push/commit from GitHub Desktop
-After you have staged and committed local changes, the Desktop client with load 
+After you have staged and committed local changes, the Desktop client will load a light blue box that says "Push commits to origin remote" with text identifying how many local commits are waiting to be pushed to GitHub. You can either:
+- Use the dark blue "Push origin" button in the light blue "Push commits to the origin remote" box.
+or
+- Click the "Push origin" section on the top navigation bar (it will either say "push origin" or "fetch origin").
 
 
 Within GitHub Desktop, "Push origin" in the top navigation bar and "Commit to master" in the lower left corner serve the same function of sending your updated files to the main repository on GitHub.
