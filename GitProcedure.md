@@ -59,7 +59,9 @@ When ready to commit to the main repository ("master"), there are two methods.
 #### To push from Visual Studio Code
 After you have staged and committed changes locally, it's time to push them to the remote repository. 
 1. Navigate to Source Control in your text editor (ctrl+shift+g in Visual Studio Code).
-2. 
+2. Click the meatballs menu (three horizontal dots which offer a dropdown menu) to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus) and select "Push to."
+3. Choose the intended branch to push your changes to (usually either a dev branch or the main repo "master").
+4. Type a brief summary to note what the changes are (date and 2-3 word recap: for example, 7/24 procedure update).
 
 #### To push/commit from GitHubDesktop, 
 
