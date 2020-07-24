@@ -24,6 +24,8 @@ It is important to fetch the most recent files and to update your files in the m
 ### Branch
 Team members will use branches for version control. It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end. This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error. 
 
+When you create a new branch, label it with your editor identifier and the date.
+
 #### Create a branch in Visual Studio Code (or another IDE):
 1. Navigate to Source Control tab (ctrl+shift+g in VSC).
 2. Click the meatballs menu (three horizontal dots which offer a dropdown menu) to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus).
@@ -32,6 +34,7 @@ Team members will use branches for version control. It is imperative that each t
 #### Create a branch in GitHub Desktop:
 1. 
 
+#### 
 
 ### Local Commit 
 Save and commit changes locally as frequently as possible. Recommended: save frequently, commit locally at least once per hour and at the end of every work session. ***Do not use the GitHub browser GUI to commit any changes.***
