@@ -1,6 +1,8 @@
 Procedural documentation for using Git and GitHub by the RCLM. Written by Caitlin Postal.
 
-#(IN PROGRESS)
+More information and instructions available in GitHub Guides: https://guides.github.com/activities/hello-world/ 
+
+# (IN PROGRESS)
 github desktop directions
 vsc/command line directions
 
@@ -19,10 +21,7 @@ At the beginning of every work session, use "Fetch origin" to clone the most up 
 It is important to fetch the most recent files and to update your files in the main repository in every working session.
 
 ### Branch
-
-It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end.
-
-This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error. 
+Team members will use branches for version control. It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end. This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error. 
 
 ### Local Commit 
 Save changes locally as frequently as possible.
