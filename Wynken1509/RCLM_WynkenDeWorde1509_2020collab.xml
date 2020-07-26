@@ -1367,24 +1367,24 @@
 	    <l xml:id="wynken1509_1117">Stronge Rycharde cure de lyowne</l>
 
 	    <head xml:id="wynken1509_heading6">&para;How kynge Rycharde sente for his raunsome</head>
-<!-- CMP: as of 7/22, above pbs (266-287) have phase 2 markup.-->
+<!-- CMP: 7/22 - 2nd phase completion: range 266-287-->
     <pb xml:id="wynken1509_288jpg" n="288jpg" facs="JRL19060288.jpg"/> 
 	    
 	    <figure xml:id="wynken1509_figure5" corresp="#wynken1509_288jpg"><!-- woodblock needs desc --></figure>
 	    <l xml:id="wynken1509_1118">[N]Now of this lette we be</l> <!-- #CMP text: initial letter [N]? 5 lines vertical, approx 10 characters wide, features floral inside with rabbit(?) animal motif -->
 	    <l xml:id="wynken1509_1119">And of the kynge speke we</l>
 	    <l xml:id="wynken1509_1120"n="1120">In care + mournynge ledeth his lyfe</l>
-	    <l xml:id="wynken1509_1121">And often calleth hymselfe caytyde</l>
-	    <l xml:id="wynken1509_1122">And cursed the tyme þ[at] he was borne</l>
+	    <l xml:id="wynken1509_1121">And ofte calleth hymselfe caytyfe</l>
+	    <l xml:id="wynken1509_1122">And cursed the tyme <choice><abbr>&thorn;a</abbr><expan>&thorn;at</expan></choice> he was borne</l>
 	    <l xml:id="wynken1509_1123">For his sone hath he forlorne</l>
 	    <l xml:id="wynken1509_1124">ANd his doughter is forlayne</l>
 	    <l xml:id="wynken1509_1125">And this his lyon is thus slayne</l>
 	    <l xml:id="wynken1509_1126">Erles and barons came hym to</l>
 	    <l xml:id="wynken1509_1127">And the quene dyde also</l>
-	    <l xml:id="wynken1509_1118">And asked what he was</l>
-	    <l xml:id="wynken1509_1119">ye wote he sayd all the cas</l>
+	    <l xml:id="wynken1509_1128">And asked what he was</l>
+	    <l xml:id="wynken1509_1129">ye wote he sayd all the cas</l>
 	    <l xml:id="wynken1509_1130" n="1130">Why that I am in sorowe this houre</l>
-	    <l xml:id="wynken1509_1131">Hor Rycharde that stonge traytoure</l>
+	    <l xml:id="wynken1509_1131">Hor Rycharde that stronge traytoure</l>
 	    <l xml:id="wynken1509_1132">He hath wrought me so moche woo</l>
 	    <l xml:id="wynken1509_1133">And I ne may hym to deth doo</l>
 	    <l xml:id="wynken1509_1134">Therfore I wyll at this sake</l>
@@ -1427,7 +1427,7 @@
 
     <pb xml:id="wynken1509_290jpg" n="290jpg" facs="JRL19060290.jpg"/>
 
-	    <l xml:id="wynken1509_1168">And my doughter with the also</l>
+	    <l xml:id="wynken1509_1168">And my doughter with the also</l><!--#SNM do we want to indicate the occasional penciled-in numbers at the top of the page? There is a [20] here-->
 	    <l xml:id="wynken1509_1169">That agayne I se her neuer mo</l>
 	    <l xml:id="wynken1509_1170" n="1170">Kynge Rycharde sayd as thou hast tolde</l>
 	    <l xml:id="wynken1509_1171">To that forwarde I me holde</l>
@@ -1437,7 +1437,7 @@
 	    <l xml:id="wynken1509_1175">That my raunsom payed were</l>
 	    <l xml:id="wynken1509_1176">Who that it dooth without fayle</l>
 	    <l xml:id="wynken1509_1177">I shall hym quyte for his trauayle</l>
-	    <l xml:id="wynken1509_1178">Up there strete an hende knyght</l>
+	    <l xml:id="wynken1509_1178">Up there sterte an hende knyght</l>
 	    <l xml:id="wynken1509_1179">Thy message I wyll do full ryght</l>
 	    <l xml:id="wynken1509_1180" n="1180">The kynge dyde a letter wryte</l>
 	    <l xml:id="wynken1509_1181">A good clerke dyde it endyte</l>
@@ -1460,8 +1460,8 @@
 	    <l xml:id="wynken1509_1198">He toke the letter as I you saye</l>
 	    <l xml:id="wynken1509_1199">To the archebysshoppes twaye</l>
 	    
-	    <fw>Kynge R.				D.i.</fw> <!-- footer; note no middle #CMP -->
-
+	    <fw type="footer"> <space quantity="3"/>Kynge R.<space quantity="22" unit="char"/>D.i.</fw><!-- footer; note no middle #CMP -->
+<!--SNM 7/25 - 2nd phase completion: range 288-290-->
     <pb xml:id="wynken1509_291jpg" n="291jpg" facs="JRL19060291.jpg"/> 
 
 	    <l xml:id="wynken1509_1200" n="1200">And bad them to do it rede</l>
