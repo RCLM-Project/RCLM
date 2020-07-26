@@ -38,7 +38,10 @@ pull request to commit to main
 3. Select "Checkout to" in order to create a new branch with your name in the file extension.
 
 ##### Create a branch in GitHub Desktop:
-1. 
+1. Navigate to the Current Branch button in the middle of the top row of buttons and ensure that you are in the correct branch (within a named folder if working on a witness).
+2. Click on Current Branch and then select the New Branch button. 
+3. Name your branch with your editor tag and the date. It will give you the option to base the branch in the Master branch or your current branch, be sure to select your current branch.
+4. You will automatically be moved to working in the newly created branch, which you can check by looking at the Current Branch button. 
 
 ## Local Commit 
 Save and commit changes locally as frequently as possible. Recommended: save frequently, commit locally at least once per hour and at the end of every work session. ***Do not use the GitHub browser GUI to commit any changes.***
