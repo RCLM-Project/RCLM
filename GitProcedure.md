@@ -1,7 +1,7 @@
 # ***DO NOT USE THIS DOCUMENTATION YET.***
 Procedural documentation for using Git and GitHub by the RCLM. Written by Caitlin Postal.
 
-More information and instructions available in GitHub Guides: https://guides.github.com/activities/hello-world/ 
+More information and instructions available in GitHub Guides: https://guides.github.com/activities/hello-world/
 
 # (IN PROGRESS)
 github desktop directions
@@ -22,7 +22,7 @@ At the beginning of every work session, use "Fetch origin" to clone the most up 
 It is important to fetch the most recent files and to update your files in the main repository in every working session.
 
 ## Branch
-Team members will use branches for version control. It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end. This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error. 
+Team members will use branches for version control. It is imperative that each team member work on a branch not on the main repo itself.  You will work on a branch during your working session, then merge back at the end of your session. In the next working session, you will pull changes from the main repo ("master") into your branch, then merge back at the end. This process should prevent commit conflicts, which is helpful when we are working in multi-thousand line files. Using this method will offer an intentional merge of any changes rather than a conflict or error.
 
 When you create a new branch, label it with your editor identifier and the date.
 
@@ -39,19 +39,24 @@ pull request to commit to main
 
 ##### Create a branch in GitHub Desktop:
 1. Navigate to the Current Branch button in the middle of the top row of buttons and ensure that you are in the correct branch (within a named folder if working on a witness).
-2. Click on Current Branch and then select the New Branch button. 
+2. Click on Current Branch and then select the New Branch button.
 3. Name your branch with your editor tag and the date. It will give you the option to base the branch in the Master branch or your current branch, be sure to select your current branch.
-4. You will automatically be moved to working in the newly created branch, which you can check by looking at the Current Branch button. 
+4. You will automatically be moved to working in the newly created branch, which you can check by looking at the Current Branch button.
 
-## Local Commit 
+## Local Commit
 Save and commit changes locally as frequently as possible. Recommended: save frequently, commit locally at least once per hour and at the end of every work session. ***Do not use the GitHub browser GUI to commit any changes.***
 
 #### Local commit in Visual Studio Code (or another IDE):
 1. Navigate to Source Control in your text editor (ctrl+shift+g in Visual Studio Code).
-2. Using the file name under the "Changes" dropdown, click the plus sign next to the file name to "Stage Changes." The file name will now be under the "Staged Changes" dropdown. 
+2. Using the file name under the "Changes" dropdown, click the plus sign next to the file name to "Stage Changes." The file name will now be under the "Staged Changes" dropdown.
 3. To commit locally, click the check mark to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus).
 
 At the end of every work session, save and commit your changes.
+
+#### Local commit in another txt editor (Atom or similar):
+1. After opening the document in your favorite text editor through GitHub desktop, make edits and save your work via selecting File and Save. You can also do this manually in Atom by clicking the small button that says Git in the bottom right corner and click Stage All in the top right.
+2. If you opened documents through the desktop app, changes that you saved locally will be noted when you return to the app and highlight the changes made.
+3. To commit to the current branch, return to GitHub desktop, check the box next to all changes that you want to commit in the Changes column on the left. Ensure that you are in the correct branch by checking the Current Branch button. Add a commit message and click Commit to Branch x. If you are in Atom, all of these steps can be completed in the Git menu opened previously. 
 
 ## Merge Branch
 
@@ -60,7 +65,7 @@ At the end of every work session, save and commit your changes.
 When ready to commit to the main repository ("master"), there are two methods.
 
 #### To push from Visual Studio Code
-After you have staged and committed changes locally, it's time to push them to the remote repository. 
+After you have staged and committed changes locally, it's time to push them to the remote repository.
 1. Navigate to Source Control in your text editor (ctrl+shift+g in Visual Studio Code).
 2. Click the meatballs menu (three horizontal dots which offer a dropdown menu) to the right of "Source Control" (above the "Staged Changes" and "Changes" dropdown menus) and select "Push to."
 3. Choose the intended branch to push your changes to (usually either a dev branch or the main repo "master").
