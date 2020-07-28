@@ -1440,7 +1440,7 @@
 	    <l xml:id="wynken1509_1178">Up there sterte an hende knyght</l>
 	    <l xml:id="wynken1509_1179">Thy message I wyll do full ryght</l>
 	    <l xml:id="wynken1509_1180" n="1180">The kynge dyde a letter wryte</l>
-	    <l xml:id="wynken1509_1181">A good clerke dyde it endyte</l>
+	    <l xml:id="wynken1509_1181">A good clerke dyde it endyte</l><!--#SNM: maybe a note on letter writing and the significance of written word with/against spoken, Clancy; also, the scribe's self-aware nod to the "good clerk"-->
 	    <l xml:id="wynken1509_1182">And made there in mencyon</l>
 	    <l xml:id="wynken1509_1183">Lesse and more of that raunson</l>
 	    <l xml:id="wynken1509_1184">Grete well as I you saye</l>
@@ -1460,8 +1460,8 @@
 	    <l xml:id="wynken1509_1198">He toke the letter as I you saye</l>
 	    <l xml:id="wynken1509_1199">To the archebysshoppes twaye</l>
 	    
-	    <fw type="footer"> <space quantity="3"/>Kynge R.<space quantity="22" unit="char"/>D.i.</fw><!-- footer; note no middle #CMP -->
-<!--SNM 7/25 - 2nd phase completion: range 288-290-->
+	    <fw type="footer"> <space quantity="3"/>Kynge R&period;<space quantity="22" unit="char"/>D.i.</fw><!-- footer; note no middle #CMP -->
+<!--#SNM 7/25 - 2nd phase completion: range 288-290-->
     <pb xml:id="wynken1509_291jpg" n="291jpg" facs="JRL19060291.jpg"/> 
 
 	    <l xml:id="wynken1509_1200" n="1200">And bad them to do it rede</l>
@@ -1499,7 +1499,7 @@
 	    
     <pb xml:id="wynken1509_292jpg" n="292jpg" facs="JRL19060292.jpg"/>
 
-	    <l xml:id="wynken1509_1232">The kynge sayd I gyue them leue</l>
+	    <l xml:id="wynken1509_1232">The kynge sayd I gyue them leue</l><!--#SNM: penciled-in 21 a the top of page-->
 	    <l xml:id="wynken1509_1233">I shall them no more greue</l>
 	    <l xml:id="wynken1509_1234">And toke his doughter by the honde</l>
 	    <l xml:id="wynken1509_1235">And bad her swythe voyde the londe</l>
@@ -1530,23 +1530,23 @@
 	    <l xml:id="wynken1509_1260" n="1260">As they wolde saue theyr lyfe</l>
 	    <l xml:id="wynken1509_1261">Or theyr chyldren or theyr wyfe</l>
 	    <l xml:id="wynken1509_1262">To London to his sommon</l>
-	    <l xml:id="wynken1509_1263">Came bysshoppes erles + many a baron</l>
+	    <l xml:id="wynken1509_1263">Came bysshoppes erles &amp; many a baron</l>
 	    
-	    <fw>Kynge R.		+		D.ii.</fw>
+	    <fw type="footer" <space quantity="3" unit="char"/>Kynge R&period;<space quantity="8" unit="char"/> + <space quantity="8" unit="char"/>D.ii.</fw> <!--SNM: perhaps a note (on first instance) that the plus sign is a stylyzed cross, not an ampersand or plus mark-->
 
      <pb xml:id="wynken1509_293jpg" n="193jpg" facs="JRL19060293.jpg"/> 
 	    
-	    <l xml:id="wynken1509_1264">Abbottes pryours knyghtes + squyers</l>
+	    <l xml:id="wynken1509_1264">Abbottes pryours knyghtes &amp; squyers</l>
 	    <l xml:id="wynken1509_1265">Burgeyses and many bachelers</l>
 	    <l xml:id="wynken1509_1266">All the best of his londe</l>
 	    <l xml:id="wynken1509_1267">The kynges heste to vnderstonde</l>
 	    <l xml:id="wynken1509_1268">Before that tyme the grete countre</l>
-	    <l xml:id="wynken1509_1269">That was before the grekes see</l>
+	    <l xml:id="wynken1509_1269">That was before the grekes see</l><!--#SNM note first reference to Greeks; they will become significant as antagonists later-->
 	    <l xml:id="wynken1509_1270" n="1270">Acrys and surrey and many londes</l>
 	    <l xml:id="wynken1509_1271">Were in crysten mennes hondes</l>
 	    <l xml:id="wynken1509_1272">And the countre of Bedleem</l>
 	    <l xml:id="wynken1509_1273">And also Iherusalem</l>
-	    <l xml:id="wynken1509_1274">And Naʒareth and Ieryco</l>
+	    <l xml:id="wynken1509_1274">And Na&yogh;areth and Ieryco</l>
 	    <l xml:id="wynken1509_1275">And all Galyce therto</l>
 	    <l xml:id="wynken1509_1276">Euery palmer and pylgryme</l>
 	    <l xml:id="wynken1509_1277">That wolde theder go that tyme</l>
@@ -1571,7 +1571,7 @@
 
     <pb xml:id="wynken1509_294jpg" n="294jpg" facs="JRL19060294.jpg"/> 
 	    
-	    <l xml:id="wynken1509_1296">To whome the duke myllon trust mekle</l>
+	    <l xml:id="wynken1509_1296">To whome the duke myllon trust mekle</l> <!--SNM there is a 22 penciled in at the top of the page-->
 	    <l xml:id="wynken1509_1297">And he was a traytour false and fekle</l>
 	    <l xml:id="wynken1509_1298">The sowdan styll to hym sente</l>
 	    <l xml:id="wynken1509_1299">And he asked hym londes and rente</l>
@@ -1587,7 +1587,7 @@
 	    <l xml:id="wynken1509_1309">Surrey was lorne and the holy croys</l>
 	    <l xml:id="wynken1509_1310" n="1310">The dukes rewarde was hewe smale</l>
 	    <l xml:id="wynken1509_1311">All to peces sayth our tale</l>
-	    <l xml:id="wynken1509_1312">THe duke myllon was full lyfe</l>
+	    <l xml:id="wynken1509_1312">The duke myllon was full lyfe</l>
 	    <l xml:id="wynken1509_1313">He fledde out of the londe with his wyfe</l>
 	    <l xml:id="wynken1509_1314">He was erle of surrey londe</l>
 	    <l xml:id="wynken1509_1315">Kynge bawdewyns sone I vnderstonde</l>
@@ -1604,7 +1604,7 @@
 	    <l xml:id="wynken1509_1326">The kynge of fraunce without fayle</l>
 	    <l xml:id="wynken1509_1327">Theder wente with moche vytayle</l>
 	    
-	    <fw>Kynge R. 		+		D.iii.</fw> <!-- footer-->
+	    <fw type="footer"><space quantity="3" unit="char"/> Kynge R&period; <space quantity="8" unit="char"/> + <space quantity="10" unit="char"/> D.iii.</fw> 
 
     <pb xml:id="wynken1509_295jpg" n="295jpg" facs="JRL19060295.jpg"/> 
 
@@ -1615,8 +1615,8 @@
 	    <l xml:id="wynken1509_1332">The erle of flaunders the erle of babelyne</l>
 	    <l xml:id="wynken1509_1333">The erle of arteys the erle of Colyne</l>
 	    <l xml:id="wynken1509_1334">Moche folke wente theder before</l>
-	    <l xml:id="wynken1509_1335">That nyght ahd theyr lyues lore</l>
-	    <l xml:id="wynken1509_1336">With grete warre and honger harde</l>
+	    <l xml:id="wynken1509_1335">That nyght had theyr lyues lore</l>
+	    <l xml:id="wynken1509_1336">With grete warre and honger harde</l><!--#SNM note, possible reference to later cannibalism, also preoccupation with hunger-->
 	    <l xml:id="wynken1509_1337">As ye may here afterwarde</l>
 	    <l xml:id="wynken1509_1338">In haruest after the natyuyte</l>
 	    <l xml:id="wynken1509_1339">Kynge Rycharde with grete solempnyte</l>
@@ -1625,6 +1625,7 @@
 	    <l xml:id="wynken1509_1342">Abbottes pryours and swynes stronge</l>
 	    <l xml:id="wynken1509_1343">After mete yede them amonge</l>
 	    <l xml:id="wynken1509_1344">Kynge Rycharde stode vp and gan sayne</l>
+		My selfe frendes wyll you sayne
 	    <l xml:id="wynken1509_1345">Be in pease and harken vnto my tale</l>
 	    <l xml:id="wynken1509_1346">Erles barons grete and smale</l>
 	    <l xml:id="wynken1509_1347">Bysshops abbotte lewde and lerned</l>
