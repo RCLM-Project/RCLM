@@ -1,11 +1,11 @@
 
-<!-- SLG: Harley 109r doesn't have distinctive lettering or section headers, so head/figure not needed. Is it necessary to mark extra spacing within a line, as in lines 11 and 34?-->
-<!-- SLG: still need to do names and places-->
+<!-- SLG: Harley 109r doesn't have distinctive lettering or section headers, so head/figure not needed. Is it necessary to mark extra spacing within a line, as in lines 11 and 34?--> <!-- CMP: we won't be documenting additional spacing (beyond one) between morphological breaks (essentialy between words) unless it's really substantial (for example, the spacing in the collation footers for Wynken1509, in which case we use <space>). this info is in the "representation of characters, glyphs, and words" section of the encoding policies doc. have you read through that document in full? it might be helpful to read through the different sections separately from markup just to familiarize yourself with some of the information. then, of course, return to it as you are doing markup. hope this helps! -->
+<!-- SLG: still need to do names and places--> <!-- CMP: it looks like you've got the phase 2 markup down pretty well! go ahead and try out the phase 3 tasks on this section of Harley. :) -->
 <!-- CMP: Hi SLG! So, there are 3 really important things to know about working with XML. w3schools has some great information and activities if you want to do some abstract thinking (https://www.w3schools.com/xml/), but all XML is (1) extensible (2) well-formed (3) validated. Extensible basically means it can be extended or modified; well-formed means that all tags must be properly opened and closed within their nested treets; validation is a process to confirm that everything is well-formed according to a schema. We are using the TEI schema from the Text Encoding Initiative to define our mark-up practices. You can explore the TEI here (https://tei-c.org/) and spend some time reviewing the P5 guidelines (from which the RCLM guidelines are developed). You might also review the Gentle Introduction to XML from the TEI (https://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html).   -->
 
 
 <?xml version="1.0" encoding="UTF-8"?> <!-- SLG: is this the correct place to put entities?--> 
-<!-- SNM Yup!-->
+<?xml version="1.0" encoding="UTF-8"?> <!-- SLG: is this the correct place to put entities?--> <!-- CMP: Yes, defining entities at the top works, but they'll need to be declared. You can use <!DOCTYPE TEI []/> withthese defined entities in square brackets. Take a look at the RCLM_WynkenDeWorde1509_CMP_XML Sample file in the Wynken folder to see how it shakes out. Ideally, we would link a document type definition (DTD) file within all the witnesses rather than defining them locally, but I need to brush up on how to do that again so for now, local definitions! -->
 <!ENTITY amp "&#x0026;">
 <!ENTITY ETH "&#x00D0;">
 <!ENTITY eth "&#x00F0;">
@@ -28,7 +28,6 @@
             <respStmt>
                 <resp>Project Directors</resp>
                 <name role="director" type="person" ref="#LKN">Leila K. Norako</name>
-                <name role="director" type="person" ref="#BW">Bridget Whearty</name>
                 <!-- can expand to full team with roles as needed -->
             </respStmt>
         </titleStmt>
@@ -119,4 +118,14 @@
     </body>
 </text>
 
-<!-- SLG: TEI footer needed?-->
+<!-- SLG: TEI footer needed?--> <!-- CMP: not a footer but we do need a closed tag. I missed some information in the encoding policies about the overall structure of the document,.so I'll update that in the next few days. <teiHeader> and <body> are both contained by a top-level <TEI> tag, where we define that this XML document is a TEI document. In that element, we'll use the attributes @xml:id to name the witness and @xmlns to point to the TEI-C P5 guidelines as the namespace. You can see an example of this in the Wynken XML sample document mentioned above. I'll put a sample tree below this comment. -->
+<!-- CMP sample tree: 
+<TEI>
+    <teiHeader>
+        [all the stuff that goes inside the teiHeader. most has been preset in the RCLM blank sample but you can read about what is absolutely required in the TEI guidelines]
+    </teiHeader>
+    <body>
+        [all the stuff that would go inside the body, including <l>, <pb>, etc. this is where most of the granular markup will be done!]
+    </body>
+</TEI>
+-->
