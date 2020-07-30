@@ -1,48 +1,55 @@
 <!-- SLG: TEI header needed-->
-<!-- SLG: so far, line breaks finished.-->
+<!-- SLG: Harley 109r doesn't have distinctive lettering or section headers, so head/figure not needed. Is it necessary to mark extra spacing within a line, as in lines 11 and 34?-->
+<!-- SLG: I know I need entities for thorn, yogh, and ydot, but don't know what that means or how to include them in the document.-->
+<!-- SLG: still need to encode names and places-->
 
 <text>
     <body>
-
-<pb xml:id="harley_4690_109r" n="f109r" facs="harley_ms_4690_f109r.tif/>
+	<pb xml:id="harley_4690_109r" n="f109r" facs="harley_ms_4690_f109r.tif"/>
 	
 	<l xml:id="harley_4690_1">That itte was Richarde the kingge</l>
-	<l xml:id="harley_4690_2">he wende he hadde be att Salesburẏ</l><!--LKN expl: The Salisbury Tournament is a fictional episode.-->
-	<l xml:id="harley_4690_3">att the castell and made hem merẏ</l>
-	<l xml:id="harley_4690_4">Theẏ priked ther stedeȝ [and] to geder mette</l>
-	<l xml:id="harley_4690_5">Our ffoukedolẏ soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
+	<l xml:id="harley_4690_2">he wende he hadde be att Salesbur&ydot;</l><!--LKN expl: The Salisbury Tournament is a fictional episode.-->
+	<l xml:id="harley_4690_3">att the castell and made hem mer&ydot;</l>
+	<l xml:id="harley_4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
+	<l xml:id="harley_4690_5">Sir ffoukedol&ydot; soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
 	<l xml:id="harley_4690_6">amydde is schelde with outen tale</l>
-	<l xml:id="harley_4690_7">that itte to scheuerid in to pecis smale</l>
-	<l xml:id="harley_4690_8">And with that dẏnte so harde he threste</l>
+	<l xml:id="harley_4690_7">that itte to scheuerid in to pecis smale</l> <! SLG: unsure about extending pecis to pecises-->
+	<l xml:id="harley_4690_8">And with that d&ydot;nte so harde he threste</l>
 	<l xml:id="harley_4690_9">That the schafte a too he Braste</l>
-	<l xml:id="harley_4690_10" n="10">The knight fell down sothe to seẏe</l>
-	<l xml:id="harley_4690_11">The kingge Rode northe on is . weẏ</l>
-	<l xml:id="harley_4690_12">ẏn to the foreste is wey he name</l>
+	<l xml:id="harley_4690_10" n="10">The knight fell down sothe to se&ydot;e</l>
+	<l xml:id="harley_4690_11">The kingge Rode northe on is . we&ydot;</l>
+	<l xml:id="harley_4690_12">&ydot;n to the foreste is we&ydot; he name</l>
 	<l xml:id="harley_4690_13">ther wist no man were he became</l>
-	<l xml:id="harley_4690_14">Sẏr ffoukdolẏ with moche paine</l>
-	<l xml:id="harley_4690_15">On horse was ẏ sette againe .</l> 
-	<l xml:id="harley_4690_16">This was the firste tẏme ẏ ȝow plight</l>
+	<l xml:id="harley_4690_14">S&ydot;r ffoukdol&ydot; with moche paine</l>
+	<l xml:id="harley_4690_15">On horse was &ydot; sette againe .</l> 
+	<l xml:id="harley_4690_16">This was the firste t&ydot;me &ydot; &yogh;ow plight</l>
 	<l xml:id="harley_4690_17">that king Richarde preued is myght</l>
-	<l xml:id="harley_4690_18">[and] of is strengthe he had gode game</l>
+	<l xml:id="harley_4690_18"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of is strengthe he had gode game</l>
 	<l xml:id="harley_4690_19">and went home in goddis name</l>
-	<l xml:id="harley_4690_20" n="20">ẏn to the castell bẏ a derne waẏ</l>
-	<l xml:id="harley_4690_21">that no man knewe hẏm þ[at] daẏ</l>
-	<l xml:id="harley_4690_22">he vnarmed hẏm sekyr [þ??] be</l> <!--LKN text: Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.-->
+	<l xml:id="harley_4690_20" n="20">&ydot;n to the castell b&ydot; a derne wa&ydot;</l>
+	<l xml:id="harley_4690_21">that no man knewe h&ydot;m <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot;</l>
+	<l xml:id="harley_4690_22">he vnarmed h&ydot;m sekyr <choice><abbr>&thorn;</abbr><expan>&thorn;on</expan></choice> be</l> <!--LKN text: Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.-->
 	<l xml:id="harley_4690_23">Nough of the knightes speke Whe</l>
-	<l xml:id="harley_4690_24">and of the iustes that was þ[at] daẏ </l>
-	<l xml:id="harley_4690_25">and hough thei passidde then awaẏ</l>
-	<l xml:id="harley_4690_26">Thei commawndede hastelẏ</l>
-	<l xml:id="harley_4690_27">The heraudeȝ to make acrẏe</l>
-	<l xml:id="harley_4690_28">and euerẏ man for to wende</l>
-	<l xml:id="harley_4690_29">home tille is own ffrende</l>
+	<l xml:id="harley_4690_24">and of the iustes that was <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot; </l>
+	<l xml:id="harley_4690_25">and hough thei passidde then awa&ydot;</l>
+	<l xml:id="harley_4690_26">Thei commawndede hastel&ydot;</l>
+	<l xml:id="harley_4690_27">The heraude&yogh; to make acr&ydot;e</l>
+	<l xml:id="harley_4690_28">and euer&ydot; man for to wende</l>
+	<l xml:id="harley_4690_29">home tille is owne ffrende</l>
 	<l xml:id="harley_4690_30" n="30">The king a messawnger gan sende</l> <!--LKN summ: King Richard summons Sir Thomas Multon and Sir Fouk Doily-->
-	<l xml:id="harley_4690_31">[and] bad hẏm priuelẏ for to wende</l>
-	<l xml:id="harley_4690_32">To Sẏr Thomas of moltoune</l>
+	<l xml:id="harley_4690_31"><choice><abbr>&amp;</abbr><expan>and</expan></choice> bad h&ydot;m priuel&ydot; for to wende</l>
+	<l xml:id="harley_4690_32">To S&ydot;r Thomas of moltoune</l>
 	<l xml:id="harley_4690_33">that was a nobell baroune</l>
-	<l xml:id="harley_4690_34">and to Sẏr . ffoukedoly</l>
+	<l xml:id="harley_4690_34">and to S&ydot;r . ffoukedoly</l>
 	<l xml:id="harley_4690_35">that thei come to me an highe</l>
 	<l xml:id="harley_4690_36">that thei dwelle in no manere</l>
-	<l xml:id="harley_4690_37">Tille that þei be bothen here</l>
+	<l xml:id="harley_4690_37">Tille that &thorn;ei be bothen here</l>
 	<l xml:id="harley_4690_38">the messanger sone was wente</l>
 	<l xml:id="harley_4690_39">And seid the king to them had sente</l>
+
+    </body>
+</text>
+
+<!-- SLG: TEI footer needed?-->
+
 
