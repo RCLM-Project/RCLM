@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- SLG: TEI header needed-->
 <!-- SLG: Harley 109r doesn't have distinctive lettering or section headers, so head/figure not needed. Is it necessary to mark extra spacing within a line, as in lines 11 and 34?-->
 <!-- SLG: I know I need entities for thorn, yogh, and ydot, but don't know what that means or how to include them in the document.-->
@@ -6,6 +7,17 @@
 <text>
     <body>
 	<pb xml:id="harley_4690_109r" n="f109r" facs="harley_ms_4690_f109r.tif"/>
+=======
+<!-- SLG: TEI header needed--> <!-- CMP: for the time being, borrow the RCLM_teiHeader blank from the Editorial Policies folder in the shared drive (https://drive.google.com/file/d/14NIwrux1HOt2EuljyKp0PODMeXqfRKOr/view?usp=sharing) -->
+<!-- SLG: so far, line breaks finished.--> <!-- CMP: I've taken a look at the basic structure and offered a few notes and links to resources to help familiarize you with XML/TEI. I hope this helps! Let me know if you have further questions.-->
+
+<!-- CMP: Hi SLG! So, there are 3 really important things to know about working with XML. w3schools has some great information and activities if you want to do some abstract thinking (https://www.w3schools.com/xml/), but all XML is (1) extensible (2) well-formed (3) validated. Extensible basically means it can be extended or modified; well-formed means that all tags must be properly opened and closed within their nested treets; validation is a process to confirm that everything is well-formed according to a schema. We are using the TEI schema from the Text Encoding Initiative to define our mark-up practices. You can explore the TEI here (https://tei-c.org/) and spend some time reviewing the P5 guidelines (from which the RCLM guidelines are developed). You might also review the Gentle Introduction to XML from the TEI (https://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html).   -->
+
+<text>
+    <body>
+
+<pb xml:id="harley_4690_109r" n="f109r" facs="harley_ms_4690_f109r.tif/> <!-- CMP: take a look at the value of the @facs attribute. It opens with a quotation mark but does not close with it before the />, which breaks the well-formed document and will not  validate.-->
+>>>>>>> 2ea4914719a81b2bea9a7af57594f742ffc753f0
 	
 	<l xml:id="harley_4690_1">That itte was Richarde the kingge</l>
 	<l xml:id="harley_4690_2">he wende he hadde be att Salesbur&ydot;</l><!--LKN expl: The Salisbury Tournament is a fictional episode.-->
@@ -47,9 +59,13 @@
 	<l xml:id="harley_4690_38">the messanger sone was wente</l>
 	<l xml:id="harley_4690_39">And seid the king to them had sente</l>
 
+<<<<<<< HEAD
     </body>
 </text>
 
 <!-- SLG: TEI footer needed?-->
 
 
+=======
+<!-- CMP: for example, your markup opens with <text> and a nestled <body> but does not close with </body></text> at the bottom of the document here. Not closing the tree will break the well-formed document and will not validate. -->
+>>>>>>> 2ea4914719a81b2bea9a7af57594f742ffc753f0
