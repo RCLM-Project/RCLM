@@ -1,13 +1,13 @@
 
 fol. 109v
 
-Priuely to come hym vn to
+Priuely to come hẏm vn to
 with oute lettẏng that itte be doo
 theẏ hyeden fast on her waẏ
-and come to hẏm on a day
+And come to hẏm on a daẏ <!--SLG: I believe that the A in And of this line, as well as those of lines 6 and 7, are capitalized-->
 when thei come the king was glade
-and mochell wẏe to them he made
-and seid to hem in merẏ sowne
+And mochell ioẏe to them he made <!--SLG: third word initially written as wẏe, but I think those are actually two characters. Lowercase w's are written differently and ioẏe makes more contextual sense to me. Thoughts?-->
+And seid to hem in merẏ sowne
 ȝe be wellcome bẏ seint Symonne. <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter-->
 lordes he seid knowe ȝe notte
 Wat ẏ haue ordeinedde in mẏ þought.
@@ -19,11 +19,11 @@ to me ẏ will that ȝe be sworne
 that ȝe ne tell to no man borne.
 thei grawnted[e] hẏm is askingge
 with oute anẏ againe seẏẏngge.
-with hẏm to liue and to dẏe
+With hẏm to liue and to dẏe <!--SLG: Capital W. Contrast with lowercase w from first word of preceding line-->
 Notte to lette for loue ne eye. <!--LKN “for loue ne eye” This idiomatic phrase translates as “[neither]for love nor fear.” See entry for “eie” (1) in The Middle English Dictionary. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117-->
 Vppon the bouke thei leide her honde
 To that couenante for to stonde
-thei kiste the Bouke all ẏ three.
+thei kiste the Bouke alle ẏ three.
 trow ffelawes for to bee.
 when her couenawnt was ẏ made
 the king spake with herte glade.
@@ -31,11 +31,11 @@ mẏ leue ffrendes with gode entente
 hough fferde ȝe atte the turmente.
 came anẏ strong knight to yo[ur] plaẏ
 ȝe thei seyden in gode faẏ. <!--LKN expl: "in gode fay" means "in good faith."-->
-And awntres knight ther came ride <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
+An awntres knight ther came ride <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
 in diuerse atẏre with mochel pride
 he felde down bothe hors [and] manne
 hẏm mẏght noon w[ith]stonde aȝeẏne.
-ȝe [quod] the kyng by this daye
+ȝe [quod] the kyng by this daẏe <!--SLG: how will this abbreviation be encoded?-->
 of that knyght y schalle ȝow seye.
 yche . was theder goon for certe
 tho wer theẏ gladde [and] blithe in herte.
@@ -68,11 +68,11 @@ there thei dwelled[e] .xl. dayes
 And sithe didd[e] hem in to the see . 
 ẏn to Artys þatt fair cite
 ffro thennes in to chascidone. <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
-And to the cite of Babilone <!--LKN expl: Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, "[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: "the city of On," derived from the earlier "Pi-Hapi-n-On" of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic 'Bab-al-yun' was rendered as 'Babylon' early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called "Babylon" and their lord the "Sultan of Babylon" (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258)-->
+And to the cite Babilone <!--LKN expl: Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, "[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: "the city of On," derived from the earlier "Pi-Hapi-n-On" of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic 'Bab-al-yun' was rendered as 'Babylon' early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called "Babylon" and their lord the "Sultan of Babylon" (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258)-->
 And to the cite of Sesare. <!--LKN expl: Cesarea, a city on the Sharon plain (HaSharon in Hebrew) between the Mediterranean coast and the Samarian Hills. The Byzantine Empire lost control of the city in 640 CE when it was taken by 'Amr ibn al-'As and his Rashidun army during the Al-Faṫṫḥul-Islāmiyyuash-Shām ("The Muslim Conquest of the Levant") The city was taken by Baldwin I of Jerusalem and his army in 1101, shortly after the conquest of Jerusalem. Salah ad-Din conquered the city in 1187, and Richard I conquered the city in 1191 during the so-called Third Crusade.-->
-And to the cite of Jer[usalem].  <!--LKN text: potential t-note. This has to be an abbreviation for Jerusalem, but it is unusual. Also of note, perhaps, is that unlike other witnesses, the rhyme scheme is broken between the lines ending with Cesare and Jerusalem because there appears to be a “missing” line. Brunner, in fact, writes “fehlt” (i.e. “is missing”) in his note for this line (pg. 111, n. 638), which in other versions refers to the city of Nineva and ends with the word “ware.” Based on the break in rhyme, this is very likely an eye-skip on the part of the copyist.-->
-To Betayne and to Bedleem <!--LKN expl: Bethany and Bethlehem are both towns on the West Bank and woudl have registered as significant because of the former's associations with Lazarus (who hailed from Bethany and who Christ raises from the dead in the gospels) and because of the latter being the place of Christ's birth.-->
-and to the cite of Sudranturpẏs <!--LKN expl: A variant spelling of "Sudan Turry," which presumably refers to Sidon and Tyre-->
+and to the cite of Jer[usalem].  <!--LKN text: potential t-note. This has to be an abbreviation for Jerusalem, but it is unusual. Also of note, perhaps, is that unlike other witnesses, the rhyme scheme is broken between the lines ending with Cesare and Jerusalem because there appears to be a “missing” line. Brunner, in fact, writes “fehlt” (i.e. “is missing”) in his note for this line (pg. 111, n. 638), which in other versions refers to the city of Nineva and ends with the word “ware.” Based on the break in rhyme, this is very likely an eye-skip on the part of the copyist.-->
+To Betayne and to Bedleem. <!--LKN expl: Bethany and Bethlehem are both towns on the West Bank and woudl have registered as significant because of the former's associations with Lazarus (who hailed from Bethany and who Christ raises from the dead in the gospels) and because of the latter being the place of Christ's birth.-->
+and to the cite of Sudranturpẏe <!--LKN expl: A variant spelling of "Sudan Turry," which presumably refers to Sidon and Tyre-->
 and to the cite of Ebedẏe. <!--LKN expl: this perhaps refers to the city of Ebron/Hebron. Both Brunner and Larkin suggest as much.-->
 and to the castell of Orglyous.<!--LKN expl: The Castle of Pride, also fictional. As Peter Larkin suggests, this city name "evokes romance castles" (Larkin n. for 643). See also Andrew Scheil's discussion of this catalogue, (<i>Baylon Under Western Eyes</i>, 269-71)-->
 and to the cite of peryeus. <!--LKN expl: possibly the port city Piraeus in Attica, Greece; if so, this name seems out of place since the place names before and after this line are in Outremer.-->
@@ -87,5 +87,5 @@ when theẏ wer passedd[e]. þe grekes. see
 and he þat in almeẏne was king.
 hated king Richard abow. al thyng
 Richard and is ffelawes too
-ẏn to towne ẏ wer agoo.
+ẏn to towne theẏ wer agoo.
 theẏ touke her ẏnne sekurlẏe.
