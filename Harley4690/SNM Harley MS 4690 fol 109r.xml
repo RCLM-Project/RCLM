@@ -17,7 +17,9 @@
 	  ]>
 <!-- SNM: TEI header adapted from the header Caitlin created for the Wynkyn1509 XML-->
 <!-- CMP: feel free to borrow/adapt from the RCLM_teiHeader blank from the Editorial Policies folder in the shared drive (https://drive.google.com/file/d/14NIwrux1HOt2EuljyKp0PODMeXqfRKOr/view?usp=sharing). I don't remember if/how it is different from Wynken specifically. -->	  
-<TEI xml:id="harley_4690" xmlns="http://www.tei-c.org/ns/1.0"> <!-- CMP: I would standardize to [harley4690] instead of [harley_4690] here and beyond, otherwise it might communicate that 4690 is separate from Harley. this may come up with regard to figures, illustrations, and such; compare to how we label Wynken as [wynken1509] and not [wynken_1509].-->
+<TEI xml:id="harley_4690" xmlns="http://www.tei-c.org/ns/1.0"> <!-- CMP: I would standardize to [harley4690] instead of [harley_4690] here and beyond, otherwise it might communicate that 4690 is separate from Harley. this may come up with regard to figures, illustrations, and such; compare to how we label Wynken as [wynken1509] and not [wynken_1509].--> 
+    <!-- SNM: Yes! I debated for a long time on whether to add that underscore -->
+</TEI>
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -27,7 +29,7 @@
                 </title>
                 <respStmt>
                     <resp>Transcribed from the digital images and encoded by</resp>
-                    <name type="person" role="transcriber editor" ref="#CMP">Leila K. Norako</name><!-- CMP: the ref here should be #LKN -->
+                    <name type="person" role="transcriber editor" ref="#LKM">Leila K. Norako</name><!-- CMP: the ref here should be #LKN -->
                     <!-- CMP: we can add name elements with role attributes that describe the process. so the values of "role" should classify the different types of labor, eg "transcriber" and "encoder"; Wynken would accommodate both for the three person team since we're doing it collaboratively. I'll put a sample of what I meant below this comment -->
                     <name type="person" role="encoder" ref="#SNM">Sarah N. Moore</name> <!-- CMP: does this help to clarify how we can account for all team members within the respStmt? -->
                     <note>Collaborative edition transcribed and encoded with introduction by Keila K. Norako, Andreas Basset, Spencer Grayson, Sarah Moore, and Caitlin Postal. </note><!--clafiry roles futher?-->
@@ -83,13 +85,16 @@
 <!-- CMP: I'm going to review the markup without a transcription check comparison. :) -->
 <pb xml:id="harley_4690_109r" n="f109r" facs="harley_ms_4690_f109r.tif"/> <!-- CMP: maybe expand the @n value from [f109r] to [fol109r]? that makes it moderately more human-readable. let me know what you think? -->
 <!-- CMP: I would add <cb="2"/> since the text starts on the second column. -->
+        <cb="2"/>
         <l xml:id="harley_4690_1">That itte was <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> the kingge</l><!--LKN text: The version of RCL contained in Harley MS 4690 begins on fol. 109r in the second/right-hand column. The first column and the preceding folio are blank, and this particular witness of RCL begins mid-sentence and midway through the Tournament of Salisbury episode. This particular verse witness is inserted into a prose chronicle (The Prose Brut) to account for this particular part of English history.--> <!--LKN summ: The Tournament of Salisbury-->
         <l xml:id="harley_4690_2">he wende he hadde be att <name type="place" subtype ="historical" ref="#Salisbury">Salesbur&ydot;</name></l> <!--LKN expl: The Salisbury Tournament is a fictional episode.-->
         <l xml:id="harley_4690_3">att the castell and made hem mer&ydot;</l>
         <l xml:id="harley_4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
          <!-- CMP line 4: let's touch base on using choice to expand ampersands. I'm of a mind to say that defining the entity is fine for now since most people know what an ampersand is! and it will cut down on labor hours of adding choice, abbr, expan. -->
+        <!-- SNM I'm inclined to not use choice for ampersands. Kate had them expanded in brackets, so I went ahead and did it, but on second thought I think it makes more sense not to -->
         <l xml:id="harley_4690_5">Sir <name type="person" subtype="historical" ref="#FoukDoly">ffoukedol&ydot;</name> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
         <!-- CMP line 5: in the encoding policies, I've asked that we include the title when it appears next to the name (but not encode the title when used like a pronoun) so, in line 5, the [Sir] would be folded into the name element. Open to talking about why/why not if this seems odd to you!-->
+        <!-- SNM: I didn't see that in the encoding policies, but let's chat about it. I'm leaning toward just the name for consistnecy, but I can also see how [Sir] or [Kinge] could be considered part of the name -->-->
         <l xml:id="harley_4690_6">amydde is schelde with outen tale</l>
         <l xml:id="harley_4690_7">that itte to scheuerid in to pecis smale</l><!-- #SNM unsure if mark above [pecis] indicates an abbreviation for [pecises]-->
         <l xml:id="harley_4690_8">And with that d&ydot;nte so harde he threste</l>
@@ -97,6 +102,7 @@
         <l xml:id="harley_4690_10" n="10">The knight fell down sothe to se&ydot;e</l>
         <l xml:id="harley_4690_11">The kingge Rode northe on is &period; we&ydot;</l> 
         <!--CMP: this might be a middot instead of a period. will want to review the hand overall and see where else punctuation markers show up to discern what the practice is for this scribe.-->
+        <!-- SNM: yes, this is what I was thinking of when ew spoke this morning (7/29) about -->
         <l xml:id="harley_4690_12">&ydot;n to the foreste is we&ydot; he name</l>
         <l xml:id="harley_4690_13">ther wist no man were he became</l>
         <l xml:id="harley_4690_14">S&ydot;r <name type="person" subtype="historical" ref="#FoukDoly">ffoukedol&ydot;</name> with moche paine</l>
@@ -125,6 +131,11 @@
         <l xml:id="harley_4690_37">Tille that &thorn;ei be bothen here</l>
         <l xml:id="harley_4690_38">the messanger sone was wente</l>
         <l xml:id="harley_4690_39">And seid the king to them had sente</l>
+        <l xml:id="harley4690_">Priuely to come hym vn to</l>
+        <l xml:id="harley4690_">with oute lettẏng that itte be doo</l>
+        <l xml:id="harley4690_">theẏ hyeden fast on her waẏ</l>
+        <l xml:id="harley4690_">and come to hẏm on a day</l>
+        <l xml:id="harley4690_">when thei come the king was glade</l>
 
     </body>
 </text>
