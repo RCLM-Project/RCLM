@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+ 	<!ENTITY amp "&#x0026;">
+	<!ENTITY ETH "&#x00D0;">
+	<!ENTITY eth "&#x00F0;">
+	<!ENTITY THORN "&#xDE;">
+	<!ENTITY thorn "&#xFE;">
+	<!ENTITY ydot "&#x1E8F;">
+	<!ENTITY YOGH "&#x021C;">
+	<!ENTITY yogh "&#x021D;">
+	<!ENTITY hidot "&#xF1F8;">
+	<!ENTITY middot "&#x00B7;">
+	<!ENTITY period "&#x002E;">
+	<!ENTITY punctelev "&#xF161;">
+	<!ENTITY para "&#x00B6;"> <!-- pilcrow -->
+	<!ENTITY revpara "&#x204B;" > <!-- reversed pilcrow -->
+	  ]>
+<!-- APB ot the header from RCLM teiHeader blank and made changes as needed, though there is probably still work that needs to be done -->
+<TEI xml:id="harley4690" xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="full">               
+                    Harley MS 4690: A Semi-Diplomatic Edition
+                </title>
+                <respStmt>
+                    <resp>Transcribed from the digital images and encoded by</resp>
+                    <name type="person" role="transcriber editor" ref="#LKN">Leila K. Norako</name>
+                    <name type="person" role="encoder" ref="#APB">Andreas P. Bassett</name> <!-- Obviously this is for practice purposes -->
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>The Richard Coer de Lyon Multitext</publisher>
+                <date when="2020"/>
+                <availability>
+                    <licence><!-- to be provided by Development Team --></licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement><!-- fill in--></settlement>
+                        <repository><!-- fill in--></repository>
+                        <collection><!-- fill in--></collection>
+                        <idno><!-- fill in--></idno>
+                    </msIdentifier>
+                    <history>
+                        <origin><!-- fill in, as able --></origin>
+                        <provenance><!-- fill in, as able --></provenance>
+                        <acquisition><!-- fill in, as able --></acquisition>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc><p>Prepared for the Richard Coer de Lyon Multitext to provide a collection of extant witnesses for comparative viewing.</p></projectDesc>
+            <editorialDecl><p><!-- to be provided by the Development Team --></p></editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+        <pb xml:id="harley4690_fol109r" n="fol109r" facs="harley_ms_4690_f109r.tif"/>
+            <cb n="1" />
+            <!--LKN text: The version of RCL contained in Harley MS 4690 begins on fol. 109r in the second/right-hand column. The first column and the preceding folio are blank, and this particular witness of RCL begins mid-sentence and midway through the Tournament of Salisbury episode. This particular verse witness is inserted into a prose chronicle (The Prose Brut) to account for this particular part of English history.-->
+            <!--LKN summ: The Tournament of Salisbury-->
+            <l xml:id="harley4690_1">T<!-- APB first letter is the only larger capital glyph-like letter on the page, so might it need some kind of g or hi? -->hat itte was <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> the kingge</l>
+            <l xml:id="harley4690_2">he wende he hadd be att <name type="place" subtype="historical" ref="#Salisbury">Salesbur&ydot;</name></l><!--LKN expl: The Salisbury Tournament is a fictional episode.-->
+            <l xml:id="harley4690_3">att the castell and made hem mer&ydot;</l>
+            <l xml:id="harley4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice>to geder mette</l>
+            <l xml:id="harley4690_5"><name type="person" subtype="historical" ref="#FoukDoly">Sir ffoukedol&ydot;</name> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
+            <l xml:id="harley4690_6">amydde is schelde with outen tale</l>
+            <l xml:id="harley4690_7">that itte to scheuerid in to pecis smale</l> <!-- APB I think it might be worth mentioning the abbreviation above "pecis" to possibly indicate plural "pecises"/ "peises" or redundant error + link: https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED32750/track?counter=1&search_id=4061476 --> 
+            <l xml:id="harley4690_8">And with that d&ydot;nte so harde he threste</l>
+            <l xml:id="harley4690_9">That the schafte a too he Braste</l>
+            <l xml:id="harley4690_10">The knight fell down sothe to se&ydot;e</l>
+            <l xml:id="harley4690_11">The kingge Rode northe on is &middot; we&ydot;</l> <!-- APB definitely an interpunct here, just an odd placement since it breaks up the flow of the sentence -->
+            <l xml:id="harley4690_12">&ydot;n to the foreste is wey he name</l>
+            <l xml:id="harley4690_13">ther wist no man were he became</l>
+            <l xml:id="harley4690_14"><name type="person" subtype="historical" ref="#FoukDoly">S&ydot;r ffoukdol&ydot;</name> with moche paine</l>
+            <l xml:id="harley4690_15">On horse was &ydot; sette againe &period;</l> 
+            <l xml:id="harley4690_16">This was the firste t&ydot;me &ydot; &yogh;ow plight</l>
+            <l xml:id="harley4690_17">that <name type="character" subtype="historical" ref="#KingRichard">king Richarde</name> preued is myght</l>
+            <l xml:id="harley4690_18"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of is strengthe he had gode game</l>
+            <l xml:id="harley4690_19">and went home in goddis name</l>
+            <l xml:id="harley4690_20">&ydot;n to the castell b&ydot; a derne wa&ydot;</l>
+            <l xml:id="harley4690_21">that no man knewe h&ydot;m <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> da&ydot;</l>
+            <l xml:id="harley4690_22">he vnarmed h&ydot;m sekyr <choice><abbr>&thorn;u</abbr><expan>&thorn;on</expan></choice> be</l> <!--LKN text: Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.-->
+            <l xml:id="harley4690_23">Nough of the knightes speke Whe</l>
+            <l xml:id="harley4690_24">and of the iustes that was <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> da&ydot;</l> 
+            <l xml:id="harley4690_25">and hough thei passidde then awa&ydot;</l>
+            <l xml:id="harley4690_26">Thei commawndede hastel&ydot;</l>
+            <l xml:id="harley4690_27">The heraude&yogh; to make acr&ydot;e</l>
+            <l xml:id="harley4690_28">and euer&ydot; man for to wende</l>
+            <l xml:id="harley4690_29">home tille is owne ffrende</l>
+            <l xml:id="harley4690_30">The king a messawnger gan sende</l> <!--LKN summ: King Richard summons Sir Thomas Multon and Sir Fouk Doily-->
+            <l xml:id="harley4690_31"><choice><abbr>&amp;</abbr><expan>and</expan></choice> bad h&ydot;m priuel&ydot; for to wende</l>
+            <l xml:id="harley4690_32">To <name type="person" subtype="historical" ref="#Thomas">S&ydot;r Thomas</name> of moltoune</l> <!-- APB made up a random ref for Sir Thomas -->
+            <l xml:id="harley4690_33">that was a nobell baroune</l>
+            <l xml:id="harley4690_34">and to <name type="person" subtype="historical" ref="#FoukDoly">S&ydot;r &middot; ffoukedoly</name></l> <!-- APB I think this is another interpunct but I may be wrong -->
+            <l xml:id="harley4690_35">that thei come to me an highe</l>
+            <l xml:id="harley4690_36">that thei dwelle in no manere</l>
+            <l xml:id="harley4690_37">Tille that &thorn;ei be bothen here</l>
+            <l xml:id="harley4690_38">the messanger sone was wente</l>
+            <l xml:id="harley4690_39">And seid the king to them had sente</l>
+        </body>
+    </text>
+</TEI>
+
