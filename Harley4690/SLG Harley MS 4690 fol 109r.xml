@@ -4,7 +4,8 @@
 <!-- CMP: Hi SLG! So, there are 3 really important things to know about working with XML. w3schools has some great information and activities if you want to do some abstract thinking (https://www.w3schools.com/xml/), but all XML is (1) extensible (2) well-formed (3) validated. Extensible basically means it can be extended or modified; well-formed means that all tags must be properly opened and closed within their nested treets; validation is a process to confirm that everything is well-formed according to a schema. We are using the TEI schema from the Text Encoding Initiative to define our mark-up practices. You can explore the TEI here (https://tei-c.org/) and spend some time reviewing the P5 guidelines (from which the RCLM guidelines are developed). You might also review the Gentle Introduction to XML from the TEI (https://www.tei-c.org/release/doc/tei-p5-doc/en/html/SG.html).   -->
 
 
-<?xml version="1.0" encoding="UTF-8"?> <!-- SLG: is this the correct place to put entities?-->
+<?xml version="1.0" encoding="UTF-8"?> <!-- SLG: is this the correct place to put entities?--> 
+<!-- SNM Yup!-->
 <!ENTITY amp "&#x0026;">
 <!ENTITY ETH "&#x00D0;">
 <!ENTITY eth "&#x00F0;">
@@ -80,11 +81,13 @@
 	<l xml:id="harley_4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
 	<l xml:id="harley_4690_5">Sir ffoukedol&ydot; soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
 	<l xml:id="harley_4690_6">amydde is schelde with outen tale</l>
-	<l xml:id="harley_4690_7">that itte to scheuerid in to pecis smale</l> <! SLG: unsure about extending pecis to pecises-->
+	<l xml:id="harley_4690_7">that itte to scheuerid in to pecis smale</l> <!-- SLG: unsure about extending pecis to pecises-->
+        <!-- SNM same--I think we need to talk to Kate about the [pecis]-->
 	<l xml:id="harley_4690_8">And with that d&ydot;nte so harde he threste</l>
 	<l xml:id="harley_4690_9">That the schafte a too he Braste</l>
 	<l xml:id="harley_4690_10" n="10">The knight fell down sothe to se&ydot;e</l>
-	<l xml:id="harley_4690_11">The kingge Rode northe on is &period; we&ydot;</l> <! SLG: is this the correct way to note periods?-->
+	<l xml:id="harley_4690_11">The kingge Rode northe on is &period; we&ydot;</l> <!-- SLG: is this the correct way to note periods?-->
+        <!-- SNM yup! but CMP and myself both susect that the period between [is] and [wey] is a middot. what do you think?-->
 	<l xml:id="harley_4690_12">&ydot;n to the foreste is we&ydot; he name</l>
 	<l xml:id="harley_4690_13">ther wist no man were he became</l>
 	<l xml:id="harley_4690_14">S&ydot;r ffoukdol&ydot; with moche paine</l>
