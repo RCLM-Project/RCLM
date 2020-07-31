@@ -86,7 +86,7 @@
     <pb xml:id="wynken1509_250jpg" n="250jpg" facs="JRL19060250.jpg"/>
         
         <fw type="incipit" xml:id="wynken1509_incipit">&para;<name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> cuer du lyon&period;</fw>
-		<figure xml:id="wynken1509_figure1" corresp="#wynken1509_250jpg"><figDesc type="woodblock" resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
+		<figure xml:id="wynken1509_figure1" corresp="#wynken1509_250jpg" type="woodblock"><figDesc resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
 
      <pb xml:id="wynken1509_251jpg" n="251jpg" facs="JRL19060251.jpg"/>
 
@@ -191,7 +191,7 @@
 	    <l xml:id="wynken1509_77">Her men abrode gan stonde</l>
 	    <l xml:id="wynken1509_78">And becked them with her honde</l>
 	    <l xml:id="wynken1509_79">And prayed them for to dwell</l>
-	    <l xml:id="wynken1509_80"n="80">And theyr auentures to tell</l>
+	    <l xml:id="wynken1509_80" n="80">And theyr auentures to tell</l>
 	    <l xml:id="wynken1509_81">They graunted all with skyll</l>
 	    <l xml:id="wynken1509_82">For to tell all her wyll</l>
 	    <l xml:id="wynken1509_83">To dyuerse londes do we wende</l>
@@ -226,7 +226,7 @@
         <l xml:id="wynken1509_107">Trumpettes began to blowe</l>
         <l xml:id="wynken1509_108" >She was set in a throwe</l>
         <l xml:id="wynken1509_109">With <num value="20">&period;xx&period;</num> knyghtes her aboute</l>
-	    <l xml:id="wynken1509_110"n="110">And double so many of ladyes stoute</l>
+	    <l xml:id="wynken1509_110" n="110">And double so many of ladyes stoute</l>
         <l xml:id="wynken1509_111">All they began to knele her to</l>
         <l xml:id="wynken1509_112">For it was reason so to do</l>
         <l xml:id="wynken1509_113">They ete and dranke &amp; were glad</l>
@@ -305,7 +305,7 @@
 	    <l xml:id="wynken1509_177">Her fader graunted swythe sone</l>    
 	    <l xml:id="wynken1509_178" >At your wyll it shall be done</l>    
 	    <l xml:id="wynken1509_179">Hastely that she be wedde</l>	    
-	    <l xml:id="wynken1509_180"n="180">As a quene to a kynges bedde</l>
+	    <l xml:id="wynken1509_180" n="180">As a quene to a kynges bedde</l>
 	    <l xml:id="wynken1509_181">And prayd hym for his courtesy</l>   
 	    <l xml:id="wynken1509_182">It myght be done all pryuely</l>    
 	    <l xml:id="wynken1509_183">The spousynge was done that nyght</l>	    
@@ -663,7 +663,7 @@
 	    <l xml:id="wynken1509_489">That fyrste he haue no knocke</l>
 	    <l xml:id="wynken1509_490" n= "490">He prycked forth fro all the flocke</l>
 	    <l xml:id="wynken1509_491">With a shafte stoute and square</l>
-	    <l xml:id="wynken1509_492">Amydde the course than met they thare</l>
+	    <l xml:id="wynken1509_492">Amydde the cours than met they thare</l>
 	    <l xml:id="wynken1509_493">The auenturous smote his shelde amydde</l>
 	    <l xml:id="wynken1509_494">A wonders case our knyght betydde</l>
 	    <l xml:id="wynken1509_495">The auenturous felde hym with Ire</l>
@@ -714,7 +714,7 @@
 	    <l xml:id="wynken1509_537">And gaue me a worse buffate</l>
 	    <l xml:id="wynken1509_538">But styll in my sadell I sate</l>
 	    <l xml:id="wynken1509_539">Than sayd many a moders sone</l>
-	    <l xml:id="wynken1509_540" n= "540">Alas syr Thomas of multone</l>
+		<l xml:id="wynken1509_540" n= "540">Alas <name type="character" subtype="historical" ref="#ThomasMoulton">syr Thomas of multone</name></l>
 	    <l xml:id="wynken1509_541">That is smyten without skyll</l>
 	    <l xml:id="wynken1509_542">My mase I hente with good wyll</l>
 	    <l xml:id="wynken1509_543">And smote hym that all folkes saye</l>
@@ -723,9 +723,9 @@
 	    <l xml:id="wynken1509_546">And wolde haue blyssed hym bet</l>
 	    <l xml:id="wynken1509_547">No mo strokes wolde he abyde</l>
 	    <l xml:id="wynken1509_548">But awaye soone he gan ryde</l>
-	    <l xml:id="wynken1509_549">What multon has his tale tolde</l>
-	    <l xml:id="wynken1509_550" n="550">Syr Fouke doly a baron bolde</l>
-	    <l xml:id="wynken1509_551">Sayd to kynge Rycharde</l>
+		<l xml:id="wynken1509_549">Whan <name type="character" subtype="historical" ref="#ThomasMoulton">multon</name> had his tale tolde</l>
+		<l xml:id="wynken1509_550" n="550"><name type="character" subtype="historical" ref="#FoukDoly">Syr Fouke doly</name> a baron bolde</l>
+		<l xml:id="wynken1509_551">Sayd to <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name></l>
 	    <l xml:id="wynken1509_552">The thyrde there came soone afterwarde</l>
     <fw type="footer">Kynge R.<space quantity="7" units="characters"/>+<space quantity="11" units="characters"/>B.ii.</fw>
 
