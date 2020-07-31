@@ -29,7 +29,7 @@
                 </title>
                 <respStmt>
                     <resp>Transcribed from the digital images and encoded by</resp>
-                    <name type="person" role="transcriber editor" ref="#LKM">Leila K. Norako</name><!-- CMP: the ref here should be #LKN -->
+                    <name type="person" role="transcriber" ref="#LKN">Leila K. Norako</name><!-- CMP: the ref here should be #LKN -->
                     <!-- CMP: we can add name elements with role attributes that describe the process. so the values of "role" should classify the different types of labor, eg "transcriber" and "encoder"; Wynken would accommodate both for the three person team since we're doing it collaboratively. I'll put a sample of what I meant below this comment -->
                     <name type="person" role="encoder" ref="#SNM">Sarah N. Moore</name> <!-- CMP: does this help to clarify how we can account for all team members within the respStmt? -->
                     <note>Collaborative edition transcribed and encoded with introduction by Keila K. Norako, Andreas Basset, Spencer Grayson, Sarah Moore, and Caitlin Postal. </note><!--clafiry roles futher?-->
