@@ -21,16 +21,21 @@
 	<fileDesc>
 		<titleStmt>
 			<title>
-                <!-- need to fill -->
+                The Richard Coer de Lyon Multitext
             </title>
 			<respStmt>
-				<resp>Transcribed from the digital images and encoded by</resp>
-                <name type="person" role="transcriber editor" ref="#CMP">Caitlin Postal</name>
-                <name type="person" role="transcriber editor" ref="#BMR">Barkley M. Ramsey</name>
-                <name type="person" role="transcriber editor" ref="#SNM">Sarah N. Moore</name>
-				<note>Collaborative edition transcribed and encoded with introduction by Sarah Moore, Caitlin Postal, and Barkley Ramsey. </note>
+				<!-- need to fill with dev team info -->
 			</respStmt>
 		</titleStmt>
+		<editionStmt>
+            <edition>The Richard Coer de Lyon Multitext: Wynken de Worde 1509</edition>
+            <respStmt><resp>Transcribed from the digital images and encoded by</resp>
+                <name type="person" role="transcriber encoder editor" ref="#CMP">Caitlin Postal</name>
+                <name type="person" role="transcriber encoder editor" ref="#BMR">Barkley M. Ramsey</name>
+                <name type="person" role="transcriber encoder editor" ref="#SNM">Sarah N. Moore</name>
+				<note>Collaborative edition transcribed and encoded with introduction by Sarah Moore, Caitlin Postal, and Barkley Ramsey. </note>
+			</respStmt>
+        </editionStmt>
 		<publicationStmt>
 			<publisher>Richard Coer de Lyon Multitext</publisher>
 			<date when="2020-05-31">2020</date>
@@ -86,11 +91,15 @@
     <pb xml:id="wynken1509_250jpg" n="250jpg" facs="JRL19060250.jpg"/>
         
         <fw type="incipit" xml:id="wynken1509_incipit">&para;<name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> cuer du lyon&period;</fw>
+<<<<<<< HEAD
 		<figure xml:id="wynken1509_figure1" corresp="#wynken1509_250jpg" type="woodblock"><figDesc resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
+=======
+		<figure xml:id="wynken1509_figure1" type="woodblock" corresp="#wynken1509_250jpg"><figDesc resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
+>>>>>>> 35a85a5ffc6c0f0b2c426d3fef7f17262a125fd8
 
      <pb xml:id="wynken1509_251jpg" n="251jpg" facs="JRL19060251.jpg"/>
 
-        <head xml:id="wynken1509_heading1">&para;The prologue&period;</head>
+        <fw type="heading" xml:id="wynken1509_heading1">&para;The prologue&period;</fw>
 		<anchor xml:id="wynken1509_sum1"/><note type="sum" resp="#CMP #SNM" target="wynken1509_sum1" corresp="#wynken1509_heading1">The prologue to the narrative.</note> <!-- CMP: need to review target/corresp-->
 
         <l xml:id="wynken1509_1"><space quantity="8" unit="characters"/>Orde kynge of glorye</l>
@@ -133,8 +142,8 @@
 	    <l xml:id="wynken1509_33">Now all that here this talkynge</l>
 	    <l xml:id="wynken1509_34">God gyue them good endynge</l>
 		<lb/>
-     <head xml:id="wynken1509_heading2"><space quantity="2" unit="characters"/>&para; Here begynneth the hystorye of <name type="character" subtype="historical" ref="#KingRichard">Kynge Ry: <lb/>
-        <space quantity="2" unit="characters"/>charde</name> cure de lyon / and fyrst of his byrth&period;</head>
+     <fw type="heading" xml:id="wynken1509_heading2"><space quantity="2" unit="characters"/>&para; Here begynneth the hystorye of <name type="character" subtype="historical" ref="#KingRichard">Kynge Ry: <lb/>
+        <space quantity="2" unit="characters"/>charde</name> cure de lyon / and fyrst of his byrth&period;</fw>
 		<lb/>
         <anchor xml:id="wynken1509_sum2"/><note type="sum" resp="#CMP" target="wynken1509_sum2">Richard's parentage and birth</note>
         
@@ -240,7 +249,7 @@
         <l xml:id="wynken1509_121">And his doughter that was hym dere</l>
         <l xml:id="wynken1509_122">For to wende with hym in fere</l>
 
-        <fw type="footer"><space quantity="3" units="character"/>Kyynge R.<space quantity="8" units="character"/>+<space quantity="11" units="character"/>A.iii.</fw> 
+        <fw type="footer"><space quantity="3" unit="character"/>Kyynge R.<space quantity="8" unit="character"/>+<space quantity="11" unit="character"/>A.iii.</fw> 
 
      <pb xml:id="wynken1509_255jpg" n="255jpg" facs="JRL19060255.jpg"/>
 
@@ -313,7 +322,7 @@
 	    <l xml:id="wynken1509_185">Moche Ioye was them amonge</l>    
 	    <l xml:id="wynken1509_186">A preest ful soone the masse song</l>
 
-	    <fw type="footer"><space quantity="2" units="characters"/>Kynge R.<space quantity="6" units="characters"/>+<space quantity="13" units="characters"/>A.iiii.</fw> 
+	    <fw type="footer"><space quantity="2" unit="characters"/>Kynge R.<space quantity="6" unit="characters"/>+<space quantity="13" unit="characters"/>A.iiii.</fw> 
 
 	 <pb xml:id="wynken1509_257jpg" n="257jpg" facs="JRL19060257.jpg."/> 
 
@@ -384,11 +393,11 @@
 	    <l xml:id="wynken1509_247">In euery stede he toke honoure</l>
 	    <l xml:id="wynken1509_248">As a noble kynge and conqueroure</l>
 		<lb/>
-	  <head xml:id="wynken1509_heading3"><space quantity="1" units="characters"/>&para; How <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name> made a Iustynge.</head> 
+	  <fw type="heading" xml:id="wynken1509_heading3"><space quantity="1" unit="characters"/>&para; How <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name> made a Iustynge.</fw> 
 
 <pb xml:id="wynken1509_259jpg" n="259jpg" facs="JRL19060259.jpg"/> 
 
-	<figure xml:id="wynken1509_figure2" corresp="#wynken1509_259jpg"><figDesctype="woodblock" resp="">[image description]</figDesc></figure> <!--#CMP for any desc or images like this, we can wait to write until collab notes unless phase xml editor wants to include a preliminary description -->
+	<figure xml:id="wynken1509_figure2" type="woodblock" corresp="#wynken1509_259jpg"><figDesc resp="">[image description]</figDesc></figure> <!--#CMP for any desc or images like this, we can wait to write until collab notes unless phase xml editor wants to include a preliminary description -->
 	    <l xml:id="wynken1509_249">The fyrst yere that he was kynge</l>
 		<note type="text" resp="#CMP" corresp="#wynken1509_249">note about initial [T]</note>
 	    <l xml:id="wynken1509_250" n="250">At <name type="place" subtype="historical" ref="#Salisbury">Salysbury</name> he made a Iustynge</l>
@@ -727,7 +736,7 @@
 		<l xml:id="wynken1509_550" n="550"><name type="character" subtype="historical" ref="#FoukDoly">Syr Fouke doly</name> a baron bolde</l>
 		<l xml:id="wynken1509_551">Sayd to <name type="character" subtype="historical" ref="#KingRichard">kynge Rycharde</name></l>
 	    <l xml:id="wynken1509_552">The thyrde there came soone afterwarde</l>
-    <fw type="footer">Kynge R.<space quantity="7" units="characters"/>+<space quantity="11" units="characters"/>B.ii.</fw>
+    <fw type="footer">Kynge R.<space quantity="7" unit="characters"/>+<space quantity="11" unit="characters"/>B.ii.</fw>
 
 <pb xml:id="wynken1509_269.jpg" n="269.jpg" facs="JRL19060269.jpg"/>
 	    
@@ -797,12 +806,12 @@
 	    <l xml:id="wynken1509_613">With pycke and with slauayne</l>
 	    <l xml:id="wynken1509_614">As palmers or panayme</l>
 
-	    <head xml:id="wynken1509_heading4">&para; How kynge Richarde toke shyppynge.</head>
-	  <fw type="footer"><space quantity="2" units="characters"/>Kyynge R.<space quantity="6" units="characters"/>+<space quantity="12" units="characters"/>B.iii.</fw>
+	    <fw type="heading" xml:id="wynken1509_heading4">&para; How kynge Richarde toke shyppynge.</fw>
+	  <fw type="footer"><space quantity="2" unit="characters"/>Kyynge R.<space quantity="6" unit="characters"/>+<space quantity="12" unit="characters"/>B.iii.</fw>
 
 <pb xml:id="wynken1509_271jpg" n="271jpg" facs="JRL19060271.jpg"/> 
 	    
-    <figure xml:id="wynken1509_figure3" corresp="#wynken1509_271jpg"><figDesc type="woodblock" resp="">[Needs description.]</figDesc></figure>
+    <figure xml:id="wynken1509_figure3" type="woodblock" corresp="#wynken1509_271jpg"><figDesc resp="">[Needs description.]</figDesc></figure>
 	    
 	    <l xml:id="wynken1509_615">NOw they dyght them full yare</l><!-- CMP text: note on initial [N]-->
 	    <l xml:id="wynken1509_616">These thre knyghtes fore to fare</l>
@@ -851,7 +860,7 @@
 	    <l xml:id="wynken1509_656">In a tauerne there they were</l>
 	    <l xml:id="wynken1509_657">Kynge Rycharde the fyre fet</l>
 	    <l xml:id="wynken1509_658">And Thomas to the spytte hym set</l>
-	  <fw type="footer"><space quantity="3" units="characters"/>Kynge R.<space quantity="7" units="characters"/>+<space quantity="10" units="characters"/>B.iiii.</fw>
+	  <fw type="footer"><space quantity="3" unit="characters"/>Kynge R.<space quantity="7" unit="characters"/>+<space quantity="10" unit="characters"/>B.iiii.</fw>
 
     <pb xml:id="wynken1509_273jpg" n="273jpg" facs="JRL19060273.jpg"/> 
 
@@ -1063,7 +1072,7 @@
 	    <l xml:id="wynken1509_850" n="850">Rycharde formest gan gone</l>
 	    <l xml:id="wynken1509_851">Wardrewe asked without let</l>
 	    <l xml:id="wynken1509_852">If he wolde stonde hym a buffet</l>
-	 <fw type="footer"><space quantity="4" units="characters"/>Kynge R.<space quantity="7" units="characters"/>+<space quantity="10" units="characters"/>C.iii.</fw>
+	 <fw type="footer"><space quantity="4" unit="characters"/>Kynge R.<space quantity="7" unit="characters"/>+<space quantity="10" unit="characters"/>C.iii.</fw>
 
     <pb xml:id="wynken1509_279jpg" n="279jpg" facs="JRL19060279.jpg"/> 
 	    
@@ -1130,16 +1139,16 @@
 	    <l xml:id="wynken1509_910" n="910">I praye the for my sake</l>
 
 
-        <head xml:id="wynken1509_heading5">&para; Of the loue bytwene <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> kynges doughter and<lb/>
+        <fw type="heading" xml:id="wynken1509_heading5">&para; Of the loue bytwene <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> kynges doughter and<lb/>
         kynge Rycharde / and after how that kynge Ry<lb/>
         charde slewe a lyon / and how he ete the herte of<lb/>
         the lyon all rawe / wherfore he hadde the name/<lb/>
-        stronge kynge Rycharde cure de lyon</head>
+        stronge kynge Rycharde cure de lyon</fw>
 	    <fw type="footer"><space quantity="5" unit="characters"/>Kynge R.<space quantity="7" unit="characters"/>+<space quantity="10" unit="characters"/>C.iiii.</fw>
 
     <pb xml:id="wynken1509_281jpg" n="281jpg" facs="JRL19060281.jpg"/>
 	    
-	    <figure xml:id="wynken1509_figure4" corresp="#wynken1509_281jpg"><figDesc type="woodblock" resp="">[Needs description.]</figDesc></figure>
+	    <figure xml:id="wynken1509_figure4" type="woodblock" corresp="#wynken1509_281jpg"><figDesc resp="">[Needs description.]</figDesc></figure>
 
 	    <l xml:id="wynken1509_911">ANd after souper in the euenynge</l> <!-- #CMP text: The initial letter [A] occupies two vertical lines and approximately 5-6 characters of width. -->
 	    <l xml:id="wynken1509_912">To my chambre thou Rycharde brynge</l>
@@ -1366,11 +1375,11 @@
 	    <l xml:id="wynken1509_1116">Crysten kynge moost of renowne</l>
 	    <l xml:id="wynken1509_1117">Stronge Rycharde cure de lyowne</l>
 
-	    <head xml:id="wynken1509_heading6">&para;How kynge Rycharde sente for his raunsome</head>
+	    <fw type="heading" xml:id="wynken1509_heading6">&para;How kynge Rycharde sente for his raunsome</fw>
 <!-- CMP: 7/22 - 2nd phase completion: range 266-287-->
     <pb xml:id="wynken1509_288jpg" n="288jpg" facs="JRL19060288.jpg"/> 
 	    
-	    <figure xml:id="wynken1509_figure5" corresp="#wynken1509_288jpg"><!-- woodblock needs desc --></figure>
+	    <figure xml:id="wynken1509_figure5" type ="woodblock" corresp="#wynken1509_288jpg"><figDesc resp=""><!-- woodblock needs desc --></figDesc></figure>
 	    <l xml:id="wynken1509_1118">[N]Now of this lette we be</l> <!-- #CMP text: initial letter [N]? 5 lines vertical, approx 10 characters wide, features floral inside with rabbit(?) animal motif -->
 	    <l xml:id="wynken1509_1119">And of the kynge speke we</l>
 	    <l xml:id="wynken1509_1120"n="1120">In care + mournynge ledeth his lyfe</l>
@@ -1954,8 +1963,8 @@
 	    <l xml:id="wynken1509_1637">Fyre ne shall hym do no skathe</l>
 <!-- line break-->
 
-	<head xml:id="wynken1509_heading7">¶How the kynge of fraunce</lb>
-	betrayed kynge Rycharde.</head> <!-- #CMP text: The summative statement is indented with a pilcrow. -->
+	<fw type="heading" xml:id="wynken1509_heading7">¶How the kynge of fraunce</lb>
+	betrayed kynge Rycharde.</fw> <!-- #CMP text: The summative statement is indented with a pilcrow. -->
 <!-- line break -->
 
 	    <l xml:id="wynken1509_1638">QUod kynge Rycharde syr gramercy</l> <!-- #CMP text: The initial [Q] takes up the space of two vertical lines and approximately 5 characters width. -->
@@ -2386,14 +2395,14 @@
 	        <l xml:id="wynken1509_2023">That one euyll worde spake gan</l>
 <!-- line break-->
 
-    <head xml:id="wynken1509_heading8">¶How thre of kynge Rychardes shyppes<lb/>
+    <fw type="heading" xml:id="wynken1509_heading8">¶How thre of kynge Rychardes shyppes<lb/>
      were perysshed in the see/and how the em<lb/>
-      perour put his men in pryson</head>
+      perour put his men in pryson</fw>
 	        
-	<fw>Kynge R.	+	F.ii.</fw> <!-- footer-->
+	<fw type="footer">Kynge R.	+	F.ii.</fw> <!-- footer-->
 
 <pb xml:id="wynken1509_317jpg" n="317jpg" facs="JRL19060317.jpg"/> 
-	        <figure xml:id="wynken1509_figure6" corresp="#wynken1509_317jpg"><!-- image feat. two ships with a king apiece and knights fighting across the water; needs desc --></figure>
+	        <figure xml:id="wynken1509_figure6" type ="woodblock" corresp="#wynken1509_317jpg"><figDesc resp=""><!-- image feat. two ships with a king apiece and knights fighting across the water; needs desc --></figDesc></figure>
 
 	        <l xml:id="wynken1509_2024">KYnge Rycharde in peas and reste</l> <!-- #CMP text: The initial letter [K] occupies four lines and approx 8 characters width and features a face. -->
 	        <l xml:id="wynken1509_2025">Fro crystmasse the hygh feste</l>
@@ -2586,16 +2595,16 @@
 	        <l xml:id="wynken1509_2193">With theyr lorde kynge Rycharde</l>
 	        <l xml:id="wynken1509_2194">That neuer was founde no cowarde</l>
 			<lb/>
-             <head xml:id="wynken1509_heading9">¶How kynge Rycharde gaue batayll to<lb/>
+             <fw type="heading" xml:id="wynken1509_heading9">¶How kynge Rycharde gaue batayll to<lb/>
                 the emperour /+ How þe emperour fledde</lb>
                 awaye for fere that he had /+ there was</lb>
                 slayne many of the emperours folke/and</lb>
-                after that he wente streyght to Acrys</head>
+                after that he wente streyght to Acrys</fw>
 	        <fw type="footer">Kynge R.		+		G.i.</fw>
 
     <pb xml:id="wynken1509_323jpg" n="323jpg" facs="JRL19060323.jpg"/> 
 
-	        <figure xml:id="wynken1509_figure7" corresp="#wynken1509_323jpg"><!-- large woodblock illustration, needs description--></figure>
+	        <figure xml:id="wynken1509_figure7" type ="woodblock" corresp="#wynken1509_323jpg"><figDesc resp=""><!-- large woodblock illustration, needs description--></figDesc></figure>
 
 	        <l xml:id="wynken1509_2195">KYnge Rycharde I vnderstonde</l> <!-- #CMP text: The initial letter [K] is 5 lines long, 9 characters wide, and includes a face. -->
 	        <l xml:id="wynken1509_2196">Or he wente out of Englonde</l>
@@ -3037,13 +3046,13 @@
        <l xml:id="wynken1509_2590">Thorugh goddes helpe and saynt Edmonde</l>
 	   <!-- #CMP expl: add note about St Edmund (maybe Nolie to write?) -->
 		<lb/>
-	<head xml:id="wynken1509_heading10">¶How kynge Rycharde cutte a two a grete<lb/>
+	<fw type="heading" xml:id="wynken1509_heading10">¶How kynge Rycharde cutte a two a grete<lb/>
 	chayne /+ how an archebysshop tolde hym<lb/>
-	the sorowe that they had suffre afore.</head>
+	the sorowe that they had suffre afore.</fw>
 
 <pb xml:id="wynken1509_336jpg" n="336jpg" facs="JRL19060336.jpg"/>
 
-<figure xml:id="wynken1509_figure8" corresp="#wynken1509_336jpg"><figDesc><!-- block image, needs description--></figDesc></figure>
+<figure xml:id="wynken1509_figure8" type ="woodblock" corresp="#wynken1509_336jpg"><figDesc resp=""><!-- block image, needs description--></figDesc></figure>
 
        <l xml:id="wynken1509_2591" n="2590">KYnge Rycharde after anone ryght</l>
 		<!-- #CMP text: The initial letter [K] includes a face, and is 5 lines vertical and approx 9-10 characters wide. -->
@@ -3348,12 +3357,12 @@
 		<l xml:id="wynken1509_2852">Thorugh thy helpe I hope well</l>
 		<l xml:id="wynken1509_2853">The sarasynes downe to fell</l>
 		<lb/>
-		<head xml:id="wynken1509_heading11">¶How kynge Rycharde wan the cyte of Acrys.</head>
-		<fw type="footer">Kynge R.		+		H.iiii.</fw>>
+		<fw type="heading" xml:id="wynken1509_heading11">¶How kynge Rycharde wan the cyte of Acrys.</fw>
+		<fw type="footer">Kynge R.		+		H.iiii.</fw>
 
 <pb xml:id="wynken1509_345jpg" n="345jpg" facs="JRL19060345.jpg"/>
 
-		<figure xml:id="wynken1509_figure9" corresp="#wynken1509_345jpg"><figDesc><!-- block image, needs desc--></figDesc></figure>
+		<figure xml:id="wynken1509_figure9" type="woodblock" corresp="#wynken1509_345jpg"><figDesc resp=""><!-- block image, needs desc--></figDesc></figure>
 		<l xml:id="wynken1509_2854">RYnge Rycharde wepte w[ith] his eyen bothe </l>
 		<!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? -->
 		<l xml:id="wynken1509_2855">And syth sayd he thus forsothe</l>
@@ -4287,8 +4296,8 @@
 		<l xml:id="wynken1509_3670">Lysten now to me with good chere</l>
 		<lb/>
 
-	<head xml:id="wynken1509_heading12">¶Yet of an other batayll/and how kynge Ry<lb/>
-	charde wan it/+ also wan the cyte of arsour.</head>
+	<fw type="heading" xml:id="wynken1509_heading12">¶Yet of an other batayll/and how kynge Ry<lb/>
+	charde wan it/+ also wan the cyte of arsour.</fw>
 	<lb/>
 
 		<l xml:id="wynken1509_3671">IT was before saynt Iames tyde</l> <!-- #CMP text: The initial [I] is two lines long, about 5 characters wide. --> <!-- #CMP expl: add note about temporal setting wrt Saint James feast day-->
@@ -4301,7 +4310,7 @@
 		<l xml:id="wynken1509_3678">And came pryckynge after snell</l>
 
 <pb xml:id="wynken1509_372jpg" n="372jpg" facs="JRL19060###.jpg"/>
-	<figure xml:id="wynken1509_figure10" corresp="#wynken1509_372jpg"><figDesc><!-- add desc of woodblock image--></figDesc></figure>
+	<figure xml:id="wynken1509_figure10" type="woodblock" corresp="#wynken1509_372jpg"><figDesc resp=""><!-- add desc of woodblock image--></figDesc></figure>
 
 		<l xml:id="wynken1509_3679">With syxty thousande sarasynes stronge</l>
 		<l xml:id="wynken1509_3680">And thought to do the crysten wronge</l>
@@ -4702,15 +4711,15 @@
 		<l xml:id="wynken1509_4023">Fro thens he wente ryght sone</l>
 		<l xml:id="wynken1509_4024">Towarde the cyte of babylone</l>
 		<lb/>
-	<head xml:id="wynken1509_heading13">¶How kynge Rycharde asseyged the cyte<lb/>
+	<fw type="heading" xml:id="wynken1509_heading13">¶How kynge Rycharde asseyged the cyte<lb/>
 	of babyloyne and how he wan it/+ of two<lb/>
 	deuylles /that one in the lykenes of mare/+<lb/>
 	that other in lykenes of a colte/wherof þe[e]<lb/>
-	sowdan sente the colte to ky[n]ge Rycharde.</head>
+	sowdan sente the colte to ky[n]ge Rycharde.</fw>
 
 <pb xml:id="wynken1509_384jpg" n="384jpg" facs="JRL19060384.jpg"/> 
 
-	<figure xml:id="wynken1509_figure11" corresp="#wynken1509_384jpg"><figDesc><!-- add desc of woodblock image --></figure></figDesc>
+	<figure xml:id="wynken1509_figure11" type="woodblock" corresp="#wynken1509_384jpg"><figDesc resp=""><!-- add desc of woodblock image --></figure></figDesc>
 		<l xml:id="wynken1509_4025">[T]He chefe sowdan of hethenys</l> <!-- #CMP text: The initial letter appears to be [T] based on context but is weirdly shaped. The initial is two lines vertically and approximately 6-7 characters width. -->
 		<l xml:id="wynken1509_4026">To babyloyne he was flowen Iwys</l>
 		<l xml:id="wynken1509_4027">After his counseyll he sente that tyme</l>
@@ -5290,14 +5299,15 @@
 		<l xml:id="wynken1509_4547">Whan this wad done I you saye</l>
 		<l xml:id="wynken1509_4548">He let his colte vanysshee awaye</l>
 		<lb/>
-	<head xml:id="wynken1509_heading14">¶How kynge Rycharde and the kynge of fraun<lb/>
+	<fw type="heading" xml:id="wynken1509_heading14">¶How kynge Rycharde and the kynge of fraun<lb/>
 	ce were wrothe togyder/and how þ[e] kynge of frau[n]<lb/>
-	wente home to his londe.</head>
+	wente home to his londe.</fw>
 	<fw type="footer">Kynge R. 		+		N.iiii. </footer>
 
 <pb xml:id="wynken1509_401jpg" n="401jpg" facs="JRL19060401.jpg"/>
 
-		<l xml:id="wynken1509_4549">THERE they dwelled fourtenyght </l><!--  #CMP text: The initial letter [T] occupies two lines and approx 4-5 characters. -->
+		<l xml:id="wynken1509_4549">THERE they dwelled fourtenyght </l>
+			<note type="text" resp="#CMP" corresp="#wynken1509_4549">The initial letter [T] occupies two lines and approx 4-5 characters.</note>
 		<l xml:id="wynken1509_4550">And afterwarde they them dyght </l>
 		<l xml:id="wynken1509_4551">Towarde Iherusalem they gan ryde </l>
 		<l xml:id="wynken1509_4552">Kynge Phelyp spake a worde of pryde </l>
@@ -5340,15 +5350,16 @@
 		<l xml:id="wynken1509_4586">Euer after they were wrothe </l>
  		<lb/>
 
-	<head xml:id="wynken1509_heading15">¶How kynge Rycharde and hs men made the<lb/> <!-- pilcrow at front  #CMP -->
+	<fw type="heading" xml:id="wynken1509_heading15">¶How kynge Rycharde and hs men made the<lb/> <!-- pilcrow at front  #CMP -->
 	walles of a cyte whiche hyght chalens / and how <lb/>
 	the duke of astryche departed frome hym / becau<lb/>
 	se of þ[e] rebuke he gaue hym by cause he wolde not  <lb/>
 	doo as he dyde / and how kynge Rycharde wan  <lb/>
-	the castell of daron.</head> <!-- #CMP text: decorative flourish block -->
+	the castell of daron.</fw> <!-- #CMP text: decorative flourish block -->
  		<lb/>
 
-		<l xml:id="wynken1509_4587">NOw herken of Rycharde the kynge </l><!-- #CMP text: The initial letter [N] is two rows vertically and about 5 characters wide. -->
+		<l xml:id="wynken1509_4587">NOw herken of Rycharde the kynge </l>
+			<note type="text" resp="#CMP" corresp="#wynken1509_4587">The initial letter [N] is two rows vertically and about 5 characters wide.</note>
 		<l xml:id="wynken1509_4588">How we wrought with his gynge </l>
 		<l xml:id="wynken1509_4589">Kynge Rycharde wente his hoost </l>
 		<l xml:id="wynken1509_4590">To Iaffe without ony boost </l>
@@ -5440,7 +5451,8 @@
 <pb xml:id="wynken1509_405jpg" n="405jpg" facs="JRL19060405.jpg"/>
 
 		<l xml:id="wynken1509_4669">Thorugh his treason and his trechery </l>
-		<l xml:id="wynken1509_4670">And thorugh the waytynge of a spye </l><!-- #CMP text: The [r] in [thorugh] is rubbed off. high certainty -->
+		<l xml:id="wynken1509_4670">And thorugh the waytynge of a spye </l>
+			<note type="text" resp="#CMP" corresp="#wynken1509_4670">The [r] in [thorugh] is rubbed off. high certainty</note>
 		<l xml:id="wynken1509_4671">He dyde kynge Rycharde grete shame </l>
 		<l xml:id="wynken1509_4672">That tourned all englonde to grame </l>
 		<l xml:id="wynken1509_4673">A lytell lenger and he moost </l>
@@ -5575,7 +5587,8 @@
 		<l xml:id="wynken1509_4793">Sheldes clouen fyll a two</l>
 		<l xml:id="wynken1509_4794">And many a stede stycked also</l> 
 		<l xml:id="wynken1509_4795">Roberte runam with his faurowne </l>
-		<l xml:id="wynken1509_4796">Gan there to cracke many a crowne </l><!-- #CMP text: A light brown ink encircles the last two lines on this page. -->
+		<l xml:id="wynken1509_4796">Gan there to cracke many a crowne </l>
+			<note type="text" resp="CMP" corresp="#wynken1509_4796">A light brown ink encircles the last two lines on this page.</note>
 
 <pb xml:id="wynken1509_409jpg" n="409jpg" facs="JRL19060409.jpg"/> 
 
@@ -5668,14 +5681,12 @@
 		<l xml:id="wynken1509_4876">God gyue vs all his benyson </l>
 		<l xml:id="wynken1509_4877">And his soule reste and ro </l>
 		<l xml:id="wynken1509_4878">And ours whan it cometh therto </l>
-<!-- line break-->
-
-	<head xml:id="wynken1509_heading16">¶ How kynge Rycharde smote downe an  <lb/>
+		<lb/>
+	<fw type="heading" xml:id="wynken1509_heading16">¶ How kynge Rycharde smote downe an  <lb/>
 	ymage of marble / and how he slewe fyue  <lb/>
 	sarasynes that were within þ[e] sayd ymage  <lb/>
-	and of many other maters. </head>
-<!-- line break -->
-
+	and of many other maters. </fw>
+		<lb/>
 		<l xml:id="wynken1509_4879">AFter the wynnynge of darowne</l> <!-- initial capital; someone to add t note description #CMP -->
 		<l xml:id="wynken1509_4880">The kynge wente to an other towne </l>
 		<l xml:id="wynken1509_4881">To gatrys with a fayre meyne </l>
@@ -5708,7 +5719,8 @@
 		<l xml:id="wynken1509_4905">Spryngelles and mangenelles he bente </l>
 		<l xml:id="wynken1509_4906">And stones to the cyte sente  </l>
 		<l xml:id="wynken1509_4907">The sarasynes mercy cryde  </l>
-		<l xml:id="wynken1509_4908">They wolde caste pv the gates wyde </l> <!-- #CMP text: Misprinted [pv] likely meant [vp] for [up]. -->
+		<l xml:id="wynken1509_4908">They wolde caste pv the gates wyde </l> 
+			<note type="text" resp="#CMP" corresp="#wynken1509_4908">Misprinted [pv] likely meant [vp] for [up].</note>
 		<l xml:id="wynken1509_4909">If it were kynge Rychardes wyll  </l>
 		<l xml:id="wynken1509_4910">That he wolde not the people spyll  </l>
 		<l xml:id="wynken1509_4911">And he graunted without les  </l>
@@ -6109,14 +6121,17 @@
 		<l xml:id="wynken1509_5267">Of cyre and of ascloinoyne </l>
 		<l xml:id="wynken1509_5268">Of ynde and of babyloyne  </l>
 		<l xml:id="wynken1509_5269">Of grete grece and tyre also </l>
-		<l xml:id="wynken1509_5270">Of many empyres + kyngdomes to  </l><!-- #CMP expl: incl note about locations, maybe link to map? (collab editors to co-write?) -->
+		<l xml:id="wynken1509_5270">Of many empyres + kyngdomes to  </l>
+			<note type="expl" resp="#CMP" corresp="#wynken1509_5270">incl note about locations, maybe link to map in resources section? </note>
 
 <pb xml:id="wynken1509_424jpg" n="424jpg" facs="JRL19060424.jpg"/>
 
 		<l xml:id="wynken1509_5271">Of all the hethen kynges that I fynde </l>
 		<l xml:id="wynken1509_5272">From the grekes see vnto the ynde </l>
-		<l xml:id="wynken1509_5273">Charles the kynge ne Alysaunder  </l><!-- #CMP expl: make a note abt history/sources (collab editors to co-write? or#CMP?)-->
-		<l xml:id="wynken1509_5274">Of whome was made moche sclaunder  </l><!-- #CMP text: The final letter is blurry with medium certainty that it's an [r] for [rhyme]. -->
+		<l xml:id="wynken1509_5273">Charles the kynge ne Alysaunder  </l>
+			<note type="expl" resp="#CMP" corresp="#wynken1509_5273">make a note abt history/sources (collab editors to co-write? or#CMP?)</note>
+		<l xml:id="wynken1509_5274">Of whome was made moche sclaunder  </l>
+			<note type="text" resp="#CMP" corresp="#wynken1509_5274">The final letter is blurry with medium certainty that it's an [r] for [rhyme].</note>
 		<l xml:id="wynken1509_5275">He had neuer halfe the hoost </l>
 		<l xml:id="wynken1509_5276">As in the countre laye in coost </l>
 		<l xml:id="wynken1509_5277">Fyue myle it laye in brede </l>
@@ -6248,7 +6263,8 @@
 		<l xml:id="wynken1509_5393">Ne of Ury ne of Octauyan </l>
 		<l xml:id="wynken1509_5394">Ne of Hector the stronge man </l>
 		<l xml:id="wynken1509_5395">Ne of Jason neyther of Hercules </l>
-		<l xml:id="wynken1509_5396">Ne of Eneas neyther of Achylles  </l><!-- #CMP expl: add note about these heroes and their tales (cmp to write?) -->
+		<l xml:id="wynken1509_5396">Ne of Eneas neyther of Achylles  </l>
+			<note type="expl" resp="#CMP" corresp="#wynken1509_5396">add note about these heroes and their tales (cmp to write?)</note>
 		<l xml:id="wynken1509_5397">They ne wanne neuer parmafaye </l>
 		<l xml:id="wynken1509_5398">In theyr tyme by theyr daye </l>
 
@@ -6348,7 +6364,8 @@
 		<l xml:id="wynken1509_5484">By euery syde they lepte downe </l>
 		<l xml:id="wynken1509_5485">And eueryche cryed in this manere </l>
 		<l xml:id="wynken1509_5486">Herken nowe and ye shall here </l>
-		<l xml:id="wynken1509_5487">Malkan sterran narye arbru  </l><!-- #CMP expl: add note on translation (collab editors to co-write?) -->
+		<l xml:id="wynken1509_5487">Malkan sterran narye arbru  </l>
+			<note type="expl" resp="#CMP" corresp="#wynken1509_5487">Add note on translation</note>
 		<l xml:id="wynken1509_5488">Loyre fermoyre touȝ memoru </l>
 		<l xml:id="wynken1509_5489">That is for to saye in englysshe </l>
 		<l xml:id="wynken1509_5490">The englysshe deuyll Icome is  </l>
@@ -6749,12 +6766,13 @@
 		<l xml:id="wynken1509_5846">And to all other pylgrymages </l>
 		<l xml:id="wynken1509_5847">Without harme or domages </l>
 
-    <head xml:id="wynken1509_heading17">¶How kynge Rycharde was slayne   <lb/><!--  #CMP text: Indented summative statement featuring a pilcrow. -->
+    <fw type="heading" xml:id="wynken1509_heading17">¶How kynge Rycharde was slayne   <lb/><!--  #CMP text: Indented summative statement featuring a pilcrow. -->
     before the castell gaylarde / and how  <lb/>
     the castell was wonne / and all were <lb/>
-    slayne that were therein.</head>
+    slayne that were therein.</fw>
 
-		<l xml:id="wynken1509_5848">THus kynge Rycharde þ[at] doughty man  </l><!-- #CMP text: The initial capital [T] occupies two lines of vertical space and approximately five characters of horizontal space. -->
+		<l xml:id="wynken1509_5848">THus kynge Rycharde þ[at] doughty man  </l>
+			<note type="text" resp="#CMP" corresp="#wynken1509_5848">The initial capital [T] occupies two lines of vertical space and approximately five characters of horizontal space.</note>
 		<l xml:id="wynken1509_5849">Peas made with the sowdan  </l>
 		<l xml:id="wynken1509_5850">And syth he came I vnderstonde </l>
 		<l xml:id="wynken1509_5851">The waye towarde englonde  </l>
@@ -6823,8 +6841,8 @@ de Worde / prynter vnto the moost excellent pryn <lb/>
 cesse my lady the kynges moder. In the yere of <lb/>
 our lorde god.M.CCCCC.ix.</fw>
 
-<pb xml:id="445jpg" n="445jpg" facs="JRL19060445.jpg"/> <!-- update ### in every pb to match the numbers of ###jpg in the line below-->
-<figure xml:id="wynken1509_figure12" corresp="#wynken1509_445jpg"><figDesc><!-- signature block, needs description --></figDesc></figure>
+<pb xml:id="445jpg" n="445jpg" facs="JRL19060445.jpg"/>
+<figure xml:id="wynken1509_figure12" type="woodblock" corresp="#wynken1509_445jpg"><figDesc resp=""><!-- signature block, needs description --></figDesc></figure>
 
 <!-- 446-450 jpg blank pages-->
 
