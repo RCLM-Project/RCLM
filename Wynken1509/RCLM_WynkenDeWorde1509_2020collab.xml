@@ -24,6 +24,8 @@
                 The Richard Coer de Lyon Multitext
             </title>
 			<respStmt>
+			    <resp>Project Director</resp>
+                <name role="director" type="person" ref="#LKN">Leila K. Norako</name>
 				<!-- need to fill with dev team info -->
 			</respStmt>
 		</titleStmt>
@@ -327,7 +329,7 @@
 	 <pb xml:id="wynken1509_257jpg" n="257jpg" facs="JRL19060257.jpg."/> 
 
 	    <l xml:id="wynken1509_187">And whan it came to the leuacyowne</l>
-		<note type="expl" resp="" corresp="#wynken1509_187">add note about elevation of the host (maybe#CMP/bmr to write?)</note>
+		<note type="expl" resp="#CMP" corresp="#wynken1509_187">add note about elevation of the host (maybe#CMP/bmr to write?)</note>
 	    <l xml:id="wynken1509_188">In a swounynge she fell downe</l>
 	    <l xml:id="wynken1509_189">The people than her sore a dradde</l>
 	    <l xml:id="wynken1509_190" n="190">In to a chambre she was ladde</l>
@@ -397,7 +399,7 @@
 
 <pb xml:id="wynken1509_259jpg" n="259jpg" facs="JRL19060259.jpg"/> 
 
-	<figure xml:id="wynken1509_figure2" type="woodblock" corresp="#wynken1509_259jpg"><figDesc resp="">[image description]</figDesc></figure> <!--#CMP for any desc or images like this, we can wait to write until collab notes unless phase xml editor wants to include a preliminary description -->
+	<figure xml:id="wynken1509_figure2" type="woodblock" corresp="#wynken1509_259jpg"><figDesc resp="#CMP">[image description]</figDesc></figure> <!--#CMP for any desc or images like this, we can wait to write until collab notes unless phase xml editor wants to include a preliminary description -->
 	    <l xml:id="wynken1509_249">The fyrst yere that he was kynge</l>
 		<note type="text" resp="#CMP" corresp="#wynken1509_249">note about initial [T]</note>
 	    <l xml:id="wynken1509_250" n="250">At <name type="place" subtype="historical" ref="#Salisbury">Salysbury</name> he made a Iustynge</l>
@@ -811,7 +813,7 @@
 
 <pb xml:id="wynken1509_271jpg" n="271jpg" facs="JRL19060271.jpg"/> 
 	    
-    <figure xml:id="wynken1509_figure3" type="woodblock" corresp="#wynken1509_271jpg"><figDesc resp="">[Needs description.]</figDesc></figure>
+    <figure xml:id="wynken1509_figure3" type="woodblock" corresp="#wynken1509_271jpg"><figDesc resp="#CMP">[Needs description.]</figDesc></figure>
 	    
 	    <l xml:id="wynken1509_615">NOw they dyght them full yare</l><!-- CMP text: note on initial [N]-->
 	    <l xml:id="wynken1509_616">These thre knyghtes fore to fare</l>
@@ -1148,7 +1150,7 @@
 
     <pb xml:id="wynken1509_281jpg" n="281jpg" facs="JRL19060281.jpg"/>
 	    
-	    <figure xml:id="wynken1509_figure4" type="woodblock" corresp="#wynken1509_281jpg"><figDesc resp="">[Needs description.]</figDesc></figure>
+	    <figure xml:id="wynken1509_figure4" type="woodblock" corresp="#wynken1509_281jpg"><figDesc resp="#CMP">[Needs description.]</figDesc></figure>
 
 	    <l xml:id="wynken1509_911">ANd after souper in the euenynge</l> <!-- #CMP text: The initial letter [A] occupies two vertical lines and approximately 5-6 characters of width. -->
 	    <l xml:id="wynken1509_912">To my chambre thou Rycharde brynge</l>
@@ -1379,7 +1381,7 @@
 <!-- CMP: 7/22 - 2nd phase completion: range 266-287-->
     <pb xml:id="wynken1509_288jpg" n="288jpg" facs="JRL19060288.jpg"/> 
 	    
-	    <figure xml:id="wynken1509_figure5" type ="woodblock" corresp="#wynken1509_288jpg"><figDesc resp=""><!-- woodblock needs desc --></figDesc></figure>
+	    <figure xml:id="wynken1509_figure5" type ="woodblock" corresp="#wynken1509_288jpg"><figDesc resp="#CMP"><!-- woodblock needs desc --></figDesc></figure>
 	    <l xml:id="wynken1509_1118">[N]Now of this lette we be</l> <!-- #CMP text: initial letter [N]? 5 lines vertical, approx 10 characters wide, features floral inside with rabbit(?) animal motif -->
 	    <l xml:id="wynken1509_1119">And of the kynge speke we</l>
 	    <l xml:id="wynken1509_1120"n="1120">In care + mournynge ledeth his lyfe</l>
@@ -2402,7 +2404,7 @@
 	<fw type="footer">Kynge R.	+	F.ii.</fw> <!-- footer-->
 
 <pb xml:id="wynken1509_317jpg" n="317jpg" facs="JRL19060317.jpg"/> 
-	        <figure xml:id="wynken1509_figure6" type ="woodblock" corresp="#wynken1509_317jpg"><figDesc resp=""><!-- image feat. two ships with a king apiece and knights fighting across the water; needs desc --></figDesc></figure>
+	        <figure xml:id="wynken1509_figure6" type ="woodblock" corresp="#wynken1509_317jpg"><figDesc resp="#CMP"><!-- image feat. two ships with a king apiece and knights fighting across the water; needs desc --></figDesc></figure>
 
 	        <l xml:id="wynken1509_2024">KYnge Rycharde in peas and reste</l> <!-- #CMP text: The initial letter [K] occupies four lines and approx 8 characters width and features a face. -->
 	        <l xml:id="wynken1509_2025">Fro crystmasse the hygh feste</l>
@@ -2604,7 +2606,7 @@
 
     <pb xml:id="wynken1509_323jpg" n="323jpg" facs="JRL19060323.jpg"/> 
 
-	        <figure xml:id="wynken1509_figure7" type ="woodblock" corresp="#wynken1509_323jpg"><figDesc resp=""><!-- large woodblock illustration, needs description--></figDesc></figure>
+	        <figure xml:id="wynken1509_figure7" type ="woodblock" corresp="#wynken1509_323jpg"><figDesc resp="#CMP"><!-- large woodblock illustration, needs description--></figDesc></figure>
 
 	        <l xml:id="wynken1509_2195">KYnge Rycharde I vnderstonde</l> <!-- #CMP text: The initial letter [K] is 5 lines long, 9 characters wide, and includes a face. -->
 	        <l xml:id="wynken1509_2196">Or he wente out of Englonde</l>
@@ -3052,7 +3054,7 @@
 
 <pb xml:id="wynken1509_336jpg" n="336jpg" facs="JRL19060336.jpg"/>
 
-<figure xml:id="wynken1509_figure8" type ="woodblock" corresp="#wynken1509_336jpg"><figDesc resp=""><!-- block image, needs description--></figDesc></figure>
+<figure xml:id="wynken1509_figure8" type ="woodblock" corresp="#wynken1509_336jpg"><figDesc resp="#CMP"><!-- block image, needs description--></figDesc></figure>
 
        <l xml:id="wynken1509_2591" n="2590">KYnge Rycharde after anone ryght</l>
 		<!-- #CMP text: The initial letter [K] includes a face, and is 5 lines vertical and approx 9-10 characters wide. -->
@@ -3362,7 +3364,7 @@
 
 <pb xml:id="wynken1509_345jpg" n="345jpg" facs="JRL19060345.jpg"/>
 
-		<figure xml:id="wynken1509_figure9" type="woodblock" corresp="#wynken1509_345jpg"><figDesc resp=""><!-- block image, needs desc--></figDesc></figure>
+		<figure xml:id="wynken1509_figure9" type="woodblock" corresp="#wynken1509_345jpg"><figDesc resp="#CMP"><!-- block image, needs desc--></figDesc></figure>
 		<l xml:id="wynken1509_2854">RYnge Rycharde wepte w[ith] his eyen bothe </l>
 		<!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? -->
 		<l xml:id="wynken1509_2855">And syth sayd he thus forsothe</l>
@@ -4310,7 +4312,7 @@
 		<l xml:id="wynken1509_3678">And came pryckynge after snell</l>
 
 <pb xml:id="wynken1509_372jpg" n="372jpg" facs="JRL19060###.jpg"/>
-	<figure xml:id="wynken1509_figure10" type="woodblock" corresp="#wynken1509_372jpg"><figDesc resp=""><!-- add desc of woodblock image--></figDesc></figure>
+	<figure xml:id="wynken1509_figure10" type="woodblock" corresp="#wynken1509_372jpg"><figDesc resp="#CMP"><!-- add desc of woodblock image--></figDesc></figure>
 
 		<l xml:id="wynken1509_3679">With syxty thousande sarasynes stronge</l>
 		<l xml:id="wynken1509_3680">And thought to do the crysten wronge</l>
@@ -4719,7 +4721,7 @@
 
 <pb xml:id="wynken1509_384jpg" n="384jpg" facs="JRL19060384.jpg"/> 
 
-	<figure xml:id="wynken1509_figure11" type="woodblock" corresp="#wynken1509_384jpg"><figDesc resp=""><!-- add desc of woodblock image --></figure></figDesc>
+	<figure xml:id="wynken1509_figure11" type="woodblock" corresp="#wynken1509_384jpg"><figDesc resp="#CMP"><!-- add desc of woodblock image --></figure></figDesc>
 		<l xml:id="wynken1509_4025">[T]He chefe sowdan of hethenys</l> <!-- #CMP text: The initial letter appears to be [T] based on context but is weirdly shaped. The initial is two lines vertically and approximately 6-7 characters width. -->
 		<l xml:id="wynken1509_4026">To babyloyne he was flowen Iwys</l>
 		<l xml:id="wynken1509_4027">After his counseyll he sente that tyme</l>
@@ -6842,7 +6844,7 @@ cesse my lady the kynges moder. In the yere of <lb/>
 our lorde god.M.CCCCC.ix.</fw>
 
 <pb xml:id="445jpg" n="445jpg" facs="JRL19060445.jpg"/>
-<figure xml:id="wynken1509_figure12" type="woodblock" corresp="#wynken1509_445jpg"><figDesc resp=""><!-- signature block, needs description --></figDesc></figure>
+<figure xml:id="wynken1509_figure12" type="woodblock" corresp="#wynken1509_445jpg"><figDesc resp="#CMP"><!-- signature block, needs description --></figDesc></figure>
 
 <!-- 446-450 jpg blank pages-->
 
