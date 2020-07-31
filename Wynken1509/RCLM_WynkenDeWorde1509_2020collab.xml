@@ -93,11 +93,9 @@
     <pb xml:id="wynken1509_250jpg" n="250jpg" facs="JRL19060250.jpg"/>
         
         <fw type="incipit" xml:id="wynken1509_incipit">&para;<name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> cuer du lyon&period;</fw>
-<<<<<<< HEAD
+
 		<figure xml:id="wynken1509_figure1" corresp="#wynken1509_250jpg" type="woodblock"><figDesc resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
-=======
-		<figure xml:id="wynken1509_figure1" type="woodblock" corresp="#wynken1509_250jpg"><figDesc resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
->>>>>>> 35a85a5ffc6c0f0b2c426d3fef7f17262a125fd8
+
 
      <pb xml:id="wynken1509_251jpg" n="251jpg" facs="JRL19060251.jpg"/>
 
@@ -375,7 +373,7 @@
 	    <l xml:id="wynken1509_227">Out of the rofe she gan her dyght</l>
 	    <l xml:id="wynken1509_228">Openly before all theyr syght</l>
 	    <l xml:id="wynken1509_229"><name type="character" subtype="historical" ref="#PrinceJohn">Iohan</name> fell frome her in that stonde</l>
-	    <l xml:id="wynken1509_230"n="230">And brake his thygh on the grounde</l>
+	    <l xml:id="wynken1509_230" n="230">And brake his thygh on the grounde</l>
 	    <l xml:id="wynken1509_231">And with her doughter she fled her waye</l>
 	    <l xml:id="wynken1509_232">That neuer after she was I sey</l>
 	    <l xml:id="wynken1509_233">The kynge wondred of that thynge</l>
@@ -410,7 +408,7 @@
 	    <l xml:id="wynken1509_255">On forfeyture on lyfe and londe</l>
 	    <l xml:id="wynken1509_256">For no thyne that they ne wonde</l>
 	    <l xml:id="wynken1509_257">This was cryed I vnderstonde</l>
-	    <l xml:id="wynken1509_258" >Thorughout all <name type="place" subtype="historical" ref="#England">Englonde</place></l>
+	    <l xml:id="wynken1509_258">Thorughout all <name type="place" subtype="historical" ref="#England">Englonde</place></l>
 	    <l xml:id="wynken1509_259">All was for to loke and se</l>
 	    <l xml:id="wynken1509_260"n="260">The knyghtes that best myght be</l>
 	    <l xml:id="wynken1509_261">There they came all at his wyll</l>
