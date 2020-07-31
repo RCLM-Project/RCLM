@@ -71,8 +71,9 @@
 <text>
     <body>
 	<pb xml:id="harley_4690_109r" n="f109r" facs="harley_ms_4690_f109r.tif"/>
+	<cb="2"/>
 	<l xml:id="harley_4690_1">That itte was <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> the kingge</l>
-	<l xml:id="harley_4690_2">he wende he hadde be att Salesbur&ydot;</l><!--LKN expl: The Salisbury Tournament is a fictional episode.-->
+	<l xml:id="harley_4690_2">he wende he hadde be att <name type="place" subtype="historical" ref="#Salisbury">Salesbur&ydot;</name></l> <!--LKN expl: The Salisbury Tournament is a fictional episode.-->
 	<l xml:id="harley_4690_3">att the castell and made hem mer&ydot;</l>
 	<l xml:id="harley_4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
 	<l xml:id="harley_4690_5"><name type="character" subtype="historical" ref="#FoukDoly">Sir ffoukedol&ydot;</name> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
