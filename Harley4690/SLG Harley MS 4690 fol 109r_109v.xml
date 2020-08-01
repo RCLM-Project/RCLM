@@ -1,4 +1,4 @@
-<!--SLG: added fol 109v; Phase 1 done; Phase 2 entities done, I think-->
+<!--SLG: Phase 3 109r done; added fol 109v; Phase 1 done; Phase 2 entities, choice done; names and places needed-->
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI [
@@ -136,7 +136,7 @@
 	<l xml:id="harley4690_53">the holy londe for to devise&period;</l>
 	<l xml:id="harley4690_54">to me &ydot; will that &yogh;e be sworne</l>
 	<l xml:id="harley4690_55">that &yogh;e ne tell to no man borne&period;</l>
-	<l xml:id="harley4690_56">thei grawnted[e] h&ydot;m is askingge</l>
+	<l xml:id="harley4690_56">thei <choice><abbr>grawnted</abbr><expan>grawntede</expan></choice> h&ydot;m is askingge</l>
 	<l xml:id="harley4690_57">with oute an&ydot; againe se&ydot;&ydot;ngge&period;</l>
 	<l xml:id="harley4690_58">With h&ydot;m to liue and to d&ydot;e</l> <!--SLG: Capital W. Contrast with lowercase w from first word of preceding line-->
 	<l xml:id="harley4690_59">Notte to lette for loue ne eye&period;</l> <!--LKN “for loue ne eye” This idiomatic phrase translates as “[neither]for love nor fear.” See entry for “eie” (1) in The Middle English Dictionary. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117-->
@@ -148,18 +148,18 @@
 	<l xml:id="harley4690_65">the king spake with herte glade&period;</l>
 	<l xml:id="harley4690_66">m&ydot; leue ffrendes with gode entente</l>
 	<l xml:id="harley4690_67">hough fferde &yogh;e atte the turmente&period;</l>
-	<l xml:id="harley4690_68">came an&ydot; strong knight to yo[ur] pla&ydot;</l>
+	<l xml:id="harley4690_68">came an&ydot; strong knight to <choice><abbr>yo</abbr><expan>your</expan></choice> pla&ydot;</l>
 	<l xml:id="harley4690_69">&yogh;e thei seyden in gode fa&ydot;&period;</l> <!--LKN expl: "in gode fay" means "in good faith."-->
 	<l xml:id="harley4690_70" n="70">An awntres knight ther came ride</l> <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
 	<l xml:id="harley4690_71">in diuerse at&ydot;re with mochel pride</l>
-	<l xml:id="harley4690_72">he felde down bothe hors [and] manne</l>
-	<l xml:id="harley4690_73">h&ydot;m m&ydot;ght noon w[ith]stonde aȝe&ydot;ne&period;</l>
-	<l xml:id="harley4690_74">&yogh;e [quod] the kyng by this da&ydot;e</l> <!--SLG: how will this abbreviation be encoded?-->
+	<l xml:id="harley4690_72">he felde down bothe hors <choice><abbr>&amp;</abbr><expan>and</expan></choice> manne</l>
+	<l xml:id="harley4690_73">h&ydot;m m&ydot;ght noon <choice><abbr>wtstonde</abbr><expan>withstonde</expan></choice> aȝe&ydot;ne&period;</l>
+	<l xml:id="harley4690_74">&yogh;e [quod] the kyng by this da&ydot;e</l> <!--SLG: don't know how to encode the abbreviation for quod-->
 	<l xml:id="harley4690_75">of that knyght y schalle &yogh;ow seye&period;</l>
-	<l xml:id="harley4690_76">yche . was theder goon for certe</l>
-	<l xml:id="harley4690_77">tho wer the&ydot; gladde [and] blithe in herte&period;</l>
+	<l xml:id="harley4690_76">yche &middot; was theder goon for certe</l>
+	<l xml:id="harley4690_77">tho wer the&ydot; gladde <choice><abbr>&amp;</abbr><expan>and</expan></choice> blithe in herte&period;</l>
 	<l xml:id="harley4690_78">that he loued her ffelawrede</l>
-	<l xml:id="harley4690_79">ffor he was [and] dought&ydot; man of dede&period;</l>
+	<l xml:id="harley4690_79">ffor he was <choice><abbr>&amp;</abbr><expan>and</expan></choice> dought&ydot; man of dede&period;</l>
 	<l xml:id="harley4690_80" n="80">and also queynte in man&ydot; case</l>
 	<l xml:id="harley4690_81">ther for thei maden grete solase&period;</l>
 	<l xml:id="harley4690_82">Trompes blewen and made acrye</l>
@@ -169,24 +169,24 @@
 
 	<l xml:id="harley4690_84">Bi the twent&ydot; day att ende&period;</l>
 	<l xml:id="harley4690_85">Redy thei weren&period; Vn to wende&period;</l>
-	<l xml:id="harley4690_86">With Bordon scrippe [and] sclauenne</l> <!--LKN expl: a staff and cloak that would have marked them specifically as pilgrims.-->
+	<l xml:id="harley4690_86">With Bordon scrippe <choice><abbr>&amp;</abbr><expan>and</expan></choice> sclauenne</l> <!--LKN expl: a staff and cloak that would have marked them specifically as pilgrims.-->
 	<l xml:id="harley4690_87">as palmers wer&middot; and pilgr&ydot;me&period;</l>
 	<l xml:id="harley4690_88">they touke leue of ther ffrende</l>
 	<l xml:id="harley4690_89">And to schippe ganne thei wende&period;</l>
-	<l xml:id="harley4690_90" n="90">the&ydot; drewe vppe saile þ[e] wynd[e] was gode</l>
-	<l xml:id="harley4690_91">and sayled[e] ouer the salte fflode&period;</l>
+	<l xml:id="harley4690_90" n="90">the&ydot; drewe vppe saile <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> <choice><abbr>wynd</abbr><expan>wynde</expan></choice> was gode</l>
+	<l xml:id="harley4690_91">and <choice><abbr>sayled</abbr><expan>saylede</expan></choice> ouer the salte fflode&period;</l>
 	<l xml:id="harley4690_92">vppon fflawnders sothe to seye</l> <!--LKN expl: explain significance of Flanders as an initial destination, perhaps-->
-	<l xml:id="harley4690_93">Aryved king R[ichard] and is ffelawes tweye</l>
+	<l xml:id="harley4690_93">Aryved king <choice><abbr>R</abbr><expan>Richard</expan></choice> and is ffelawes tweye</l>
 	<l xml:id="harley4690_94">the&ydot; wenten northe alle in ffere</l>
 	<l xml:id="harley4690_95">ffrom towne to towne as &yogh;e ma&ydot; here</l>
 	<l xml:id="harley4690_96">Til thei come to Brawndys</l>
 	<l xml:id="harley4690_97">that is a coste of noubell pr&ydot;se&period;</l>
-	<l xml:id="harley4690_98">A schippe theí fownden thare</l>
+	<l xml:id="harley4690_98">A schippe theí fownden thare</l> <!--SLG: how to encode accent on the i?-->
 	<l xml:id="harley4690_99">&ydot;n to C&ydot;presse for to&period; ffare&period;</l>
 	<l xml:id="harley4690_100" n="100">the&ydot; sette vppe sa&ydot;le y vnderstonde</l>
 	<l xml:id="harley4690_101">att Samagus &thorn;ey&middot;touke the londe</l>
-	<l xml:id="harley4690_102">there thei dwelled[e] &period;xl&period; dayes</l> <!--SLG: roman numeral has to be encoded-->
-	<l xml:id="harley4690_103">And sithe didd[e] hem in to the see &period;</l>
+	<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period;xl&period; dayes</l> <!--SLG: roman numeral has to be encoded-->
+	<l xml:id="harley4690_103">And sithe <choice><abbr>didd</abbr><expan>didde</expan></choice> hem in to the see &period;</l>
 	<l xml:id="harley4690_104">&ydot;n to Artys &thorn;att fair cite</l>
 	<l xml:id="harley4690_105">ffro thennes in to chascidone&period;</l> <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
 	<l xml:id="harley4690_106">And to the cite Babilone</l> <!--LKN expl: Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, "[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: "the city of On," derived from the earlier "Pi-Hapi-n-On" of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic 'Bab-al-yun' was rendered as 'Babylon' early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called "Babylon" and their lord the "Sultan of Babylon" (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258)-->
@@ -203,7 +203,7 @@
 	<l xml:id="harley4690_117">Ryghe &thorn;urgh oute y vnderstonde&period;</l>
 	<l xml:id="harley4690_118">So then homwarde &thorn;ei haue &ydot; t&ydot;ghte</l>
 	<l xml:id="harley4690_119">&ydot;n to Englond with alle her myght</l>
-	<l xml:id="harley4690_120" n="120">when the&ydot; wer passedd[e]&middot; &thorn;e grekes&middot; see</l>
+	<l xml:id="harley4690_120" n="120">when the&ydot; wer <choice><abbr>passedd</abbr><expan>passedde</expan></choice>&middot; &thorn;e grekes&middot; see</l>
 	<l xml:id="harley4690_121">&ydot;n to alme&ydot;ne thenne roden hee&period;</l> <!--LKN summ: Richard, Thomas, and Fouk arrive in Germany--> <!--LKN expl: This episode, which recounts Richard's imprisonment by the king of Germany is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from Outremer, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.-->
 	<l xml:id="harley4690_122">and he &thorn;at in alme&ydot;ne was king&period;</l>
 	<l xml:id="harley4690_123">hated king Richard abow &period; al thyng</l>
