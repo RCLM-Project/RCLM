@@ -185,7 +185,7 @@
 	<l xml:id="harley4690_99">&ydot;n to C&ydot;presse for to&period; ffare&period;</l>
 	<l xml:id="harley4690_100" n="100">the&ydot; sette vppe sa&ydot;le y vnderstonde</l>
 	<l xml:id="harley4690_101">att Samagus &thorn;ey&middot;touke the londe</l>
-	<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period;xl&period; dayes</l> <!--SLG: roman numeral has to be encoded-->
+	<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period<num value="40">xl</num>&period; dayes</l>
 	<l xml:id="harley4690_103">And sithe <choice><abbr>didd</abbr><expan>didde</expan></choice> hem in to the see &period;</l>
 	<l xml:id="harley4690_104">&ydot;n to Artys &thorn;att fair cite</l>
 	<l xml:id="harley4690_105">ffro thennes in to chascidone&period;</l> <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
