@@ -1,0 +1,16 @@
+How to use GitHub for RCLM collaborators
+
+All collaborators are invited to use GitHub, but it is not required. If you are interested, GitHub can be a great version control system and makes uploading documents in small pieces easy.
+
+To Use GitHub As A Collaborator:
+1. Create a free account at github.com. If you already have an account, you can skip this!
+2. Email Kelly at kelly.mahaffy@uconn.edu and provide her your username from GitHub
+3. Check your email and accept the collaborators invitation
+4. Review the Git Procedure document to view full procedure for using branches and merging into the master project.
+
+To Use GitHub Via Pull Requests
+**Using GitHub in this way is a great option for those of you unfamiliar with Git but who want to test it in a low stakes way
+1. Create an account on github.com. If you already have an account, you can skip this!
+2. Search for the RCLM project on GitHub and follow or fork (copy) it!
+3. Edit your document as you normally would.
+4. Try to upload your document to the project. Because you are not an internal collaborator, any changes that you make will have to be sent to the team to review. You can do this by creating a pull request, which simply asks the project team to pull your changes into the project.

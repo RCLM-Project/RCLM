@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+##Originally written by Moore
 with open('asdf.xml', 'r') as file:
     filedata = file.read()
 
