@@ -1,4 +1,4 @@
-<!--SLG: Phase 3 109r done; added fol 109v; Phase 1 done; Phase 2 entities, choice done; names and places needed-->
+<!--SLG: revisit subtypes for place names after meeting-->
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI [
@@ -77,7 +77,7 @@
 	<cb n="2"/>
 
 	<l xml:id="harley4690_1">That itte was <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> the kingge</l>
-	<l xml:id="harley4690_2">he wende he hadde be att <name type="place" subtype="historical" ref="#Salisbury">Salesbur&ydot;</name></l> <!--LKN expl: The Salisbury Tournament is a fictional episode.-->
+	<l xml:id="harley4690_2">he wende he hadde be att <name type="place" ref="#Salisbury">Salesbur&ydot;</name></l> <!--LKN expl: The Salisbury Tournament is a fictional episode.-->
 	<l xml:id="harley4690_3">att the castell and made hem mer&ydot;</l>
 	<l xml:id="harley4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
 	<l xml:id="harley4690_5"><name type="character" subtype="historical" ref="#FoukDoly">Sir ffoukedol&ydot;</name> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
@@ -127,7 +127,7 @@
 	<l xml:id="harley4690_44">when thei come the king was glade</l>
 	<l xml:id="harley4690_45">And mochell io&ydot;e to them he made</l> <!--SLG: third word initially written as wẏe, but I think those are actually two characters. Lowercase w's are written differently and ioẏe makes more contextual sense to me. Thoughts?-->
 	<l xml:id="harley4690_46">And seid to hem in mer&ydot; sowne</l>
-	<l xml:id="harley4690_47">&yogh;e be wellcome b&ydot; seint Symonne&period;</l> <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter-->
+	<l xml:id="harley4690_47">&yogh;e be wellcome b&ydot; <name type="religious-figure" subtype="Christianity" ref="#StSimon">seint Symonne</name>&period;</l> <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter-->
 	<l xml:id="harley4690_48">lordes he seid knowe &yogh;e notte</l>
 	<l xml:id="harley4690_49">Wat &ydot; haue ordeinedde in m&ydot; &thorn;ought&period;</l>
 	<l xml:id="harley4690_50" n="50">&ydot;n to the holy londe for to goo</l> <!--LKN expl: The journey to Outremer that Richard, Thomas, and Fouk agree to embark upon in this episode is wholly fictional. Richard never undertook such a journey prior to going to the so-called Third Crusade.--> 
@@ -175,22 +175,22 @@
 	<l xml:id="harley4690_89">And to schippe ganne thei wende&period;</l>
 	<l xml:id="harley4690_90" n="90">the&ydot; drewe vppe saile <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> <choice><abbr>wynd</abbr><expan>wynde</expan></choice> was gode</l>
 	<l xml:id="harley4690_91">and <choice><abbr>sayled</abbr><expan>saylede</expan></choice> ouer the salte fflode&period;</l>
-	<l xml:id="harley4690_92">vppon fflawnders sothe to seye</l> <!--LKN expl: explain significance of Flanders as an initial destination, perhaps-->
-	<l xml:id="harley4690_93">Aryved king <choice><abbr>R</abbr><expan>Richard</expan></choice> and is ffelawes tweye</l>
+	<l xml:id="harley4690_92">vppon <name type="place" ref="#Flanders">fflawnders</name> sothe to seye</l> <!--LKN expl: explain significance of Flanders as an initial destination, perhaps-->
+	<l xml:id="harley4690_93">Aryved <name type="character" subtype="historical" ref="#KingRichard">king <choice><abbr>R</abbr><expan>Richard</expan></choice></name> and is ffelawes tweye</l>
 	<l xml:id="harley4690_94">the&ydot; wenten northe alle in ffere</l>
 	<l xml:id="harley4690_95">ffrom towne to towne as &yogh;e ma&ydot; here</l>
-	<l xml:id="harley4690_96">Til thei come to Brawndys</l>
+	<l xml:id="harley4690_96">Til thei come to <name type="place" ref="#Blaundys">Brawndys</name></l>
 	<l xml:id="harley4690_97">that is a coste of noubell pr&ydot;se&period;</l>
 	<l xml:id="harley4690_98">A schippe theí fownden thare</l> <!--SLG: how to encode accent on the i?-->
-	<l xml:id="harley4690_99">&ydot;n to C&ydot;presse for to&period; ffare&period;</l>
+	<l xml:id="harley4690_99">&ydot;n to <name type="place" ref="#Cypress">C&ydot;presse</name> for to&period; ffare&period;</l> <!--SLG: I believe a ref is needed for Cypress-->
 	<l xml:id="harley4690_100" n="100">the&ydot; sette vppe sa&ydot;le y vnderstonde</l>
-	<l xml:id="harley4690_101">att Samagus &thorn;ey&middot;touke the londe</l>
+	<l xml:id="harley4690_101">att <name type="place" ref="#Samagus">Samagus</name> &thorn;ey&middot;touke the londe</l> <!--SLG: ref needed for Samagus as well?-->
 	<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period<num value="40">xl</num>&period; dayes</l>
 	<l xml:id="harley4690_103">And sithe <choice><abbr>didd</abbr><expan>didde</expan></choice> hem in to the see &period;</l>
 	<l xml:id="harley4690_104">&ydot;n to Artys &thorn;att fair cite</l>
-	<l xml:id="harley4690_105">ffro thennes in to chascidone&period;</l> <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
-	<l xml:id="harley4690_106">And to the cite Babilone</l> <!--LKN expl: Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, "[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: "the city of On," derived from the earlier "Pi-Hapi-n-On" of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic 'Bab-al-yun' was rendered as 'Babylon' early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called "Babylon" and their lord the "Sultan of Babylon" (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258)-->
-	<l xml:id="harley4690_107">And to the cite of Sesare&period;</l> <!--LKN expl: Cesarea, a city on the Sharon plain (HaSharon in Hebrew) between the Mediterranean coast and the Samarian Hills. The Byzantine Empire lost control of the city in 640 CE when it was taken by 'Amr ibn al-'As and his Rashidun army during the Al-Faṫṫḥul-Islāmiyyuash-Shām ("The Muslim Conquest of the Levant") The city was taken by Baldwin I of Jerusalem and his army in 1101, shortly after the conquest of Jerusalem. Salah ad-Din conquered the city in 1187, and Richard I conquered the city in 1191 during the so-called Third Crusade.-->
+	<l xml:id="harley4690_105">ffro thennes in to <name type="place" ref="#Chalcedon">chascidone&period;</name></l> <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
+	<l xml:id="harley4690_106">And to the cite <name type="place" ref="#Babylon">Babilone</name></l> <!--LKN expl: Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, "[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: "the city of On," derived from the earlier "Pi-Hapi-n-On" of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic 'Bab-al-yun' was rendered as 'Babylon' early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called "Babylon" and their lord the "Sultan of Babylon" (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258)-->
+	<l xml:id="harley4690_107">And to the cite of <name type="place" ref="#Cesarea">Sesare&period;</name></l> <!--LKN expl: Cesarea, a city on the Sharon plain (HaSharon in Hebrew) between the Mediterranean coast and the Samarian Hills. The Byzantine Empire lost control of the city in 640 CE when it was taken by 'Amr ibn al-'As and his Rashidun army during the Al-Faṫṫḥul-Islāmiyyuash-Shām ("The Muslim Conquest of the Levant") The city was taken by Baldwin I of Jerusalem and his army in 1101, shortly after the conquest of Jerusalem. Salah ad-Din conquered the city in 1187, and Richard I conquered the city in 1191 during the so-called Third Crusade.-->
 	<l xml:id="harley4690_108">and to the cite of Jer[usalem]&period;</l>  <!--LKN text: potential t-note. This has to be an abbreviation for Jerusalem, but it is unusual. Also of note, perhaps, is that unlike other witnesses, the rhyme scheme is broken between the lines ending with Cesare and Jerusalem because there appears to be a “missing” line. Brunner, in fact, writes “fehlt” (i.e. “is missing”) in his note for this line (pg. 111, n. 638), which in other versions refers to the city of Nineva and ends with the word “ware.” Based on the break in rhyme, this is very likely an eye-skip on the part of the copyist.-->
 	<l xml:id="harley4690_109">To Betayne and to Bedleem&period;</l> <!--LKN expl: Bethany and Bethlehem are both towns on the West Bank and woudl have registered as significant because of the former's associations with Lazarus (who hailed from Bethany and who Christ raises from the dead in the gospels) and because of the latter being the place of Christ's birth.-->
 	<l xml:id="harley4690_110" n="110">and to the cite of Sudranturp&ydot;e</l> <!--LKN expl: A variant spelling of "Sudan Turry," which presumably refers to Sidon and Tyre-->
