@@ -4,11 +4,11 @@ fol. 109v
 Priuely to come hẏm vn to
 with oute lettẏng that itte be doo
 theẏ hyeden fast on her waẏ
-And come to hẏm on a daẏ <!--SLG: I believe that the A in And of this line, as well as those of lines 6 and 7, are capitalized-->
+And come to hẏm on a daẏ <!--SLG: I believe that the A in And of this line, as well as those of lines 6 and 7, are capitalized--> <!-- APB I second Spenser's comment -->
 when thei come the king was glade
-And mochell ioẏe to them he made <!--SLG: third word initially written as wẏe, but I think those are actually two characters. Lowercase w's are written differently and ioẏe makes more contextual sense to me. Thoughts?-->
+And mochell ioẏe to them he made <!--SLG: third word initially written as wẏe, but I think those are actually two characters. Lowercase w's are written differently and ioẏe makes more contextual sense to me. Thoughts?--> <!-- APB I concur -->
 And seid to hem in merẏ sowne
-ȝe be wellcome bẏ seint Symonne. <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter-->
+ȝe be wellcome bẏ seint Symonne. <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter--> <!-- APB it probably doesn't matter in the grand scheme of things, but is the period an interpunct? I know it's functioning like a period. Nevermind, I reread the transcription guidelines, my bad. -->
 lordes he seid knowe ȝe notte
 Wat ẏ haue ordeinedde in mẏ þought.
 ẏn to the holy londe for to goo <!--LKN expl: The journey to Outremer that Richard, Thomas, and Fouk agree to embark upon in this episode is wholly fictional. Richard never undertook such a journey prior to going to the so-called Third Crusade.--> 
@@ -19,24 +19,24 @@ to me ẏ will that ȝe be sworne
 that ȝe ne tell to no man borne.
 thei grawnted[e] hẏm is askingge
 with oute anẏ againe seẏẏngge.
-With hẏm to liue and to dẏe <!--SLG: Capital W. Contrast with lowercase w from first word of preceding line-->
+With hẏm to liue and to dẏe <!--SLG: Capital W. Contrast with lowercase w from first word of preceding line--> <!-- APB I concur -->
 Notte to lette for loue ne eye. <!--LKN “for loue ne eye” This idiomatic phrase translates as “[neither]for love nor fear.” See entry for “eie” (1) in The Middle English Dictionary. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117-->
 Vppon the bouke thei leide her honde
 To that couenante for to stonde
 thei kiste the Bouke alle ẏ three.
-trow ffelawes for to bee.
+trow ffelawes for to bee. <!-- the "o" here, at least to me, resembles "e" and looks similar to the "e"s in "three" and "bee." Would "trew" here make any contextual sense? Of course, I could be completely off the mark. --> 
 when her couenawnt was ẏ made
 the king spake with herte glade.
 mẏ leue ffrendes with gode entente
 hough fferde ȝe atte the turmente.
-came anẏ strong knight to yo[ur] plaẏ
+came anẏ strong knight to yo[ur] plaẏ <!-- is the "c" in "came" capitalized? -->
 ȝe thei seyden in gode faẏ. <!--LKN expl: "in gode fay" means "in good faith."-->
-An awntres knight ther came ride <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
+An awntres knight ther came ride <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word--> <!-- is the "r" in "ride" capitalized or just an alternate form since it is the first letter of the word? -->
 in diuerse atẏre with mochel pride
 he felde down bothe hors [and] manne
 hẏm mẏght noon w[ith]stonde aȝeẏne.
-ȝe [quod] the kyng by this daẏe <!--SLG: how will this abbreviation be encoded?-->
-of that knyght y schalle ȝow seye.
+ȝe [quod] the kyng by this daẏe <!--SLG: how will this abbreviation be encoded?--> <!-- APB maybe qd/quod? -->
+of that knyght y schalle ȝow seye. <!-- APB the o in "of" looks bigger than lowercase "o," to me at least. Might this be capitalized? -->
 yche . was theder goon for certe
 tho wer theẏ gladde [and] blithe in herte.
 that he loued her ffelawrede
