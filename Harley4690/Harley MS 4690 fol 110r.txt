@@ -27,10 +27,7 @@ there ben . y come in to is londe
 þre palmers y vnderstonde.
 the strengest menne yn cristiante
 y schall tell watt they bee .
-kyng Richard. þ[at] is bothe stout [and] grym
-&lt;!--LKN text: need a t-note here addressing the mark above the word grym. Not entirely sure
-what it is, as the word is not abbreviated, and Brunner offers nothing in his notes. Interested to
-hear what you think about this, all!)--&gt;
+kyng Richard. þ[at] is bothe stout [and] grym <!--LKN text: need a t-note here addressing the mark above the word grym. Not entirely sure what it is, as the word is not abbreviated, and Brunner offers nothing in his notes. Interested to hear what you think about this, all!)-->
 and .ii. Baronnes ther be w[ith] hym
 Syr ffoukedoly off renowne
 and Syr Thomas of moltonne .
@@ -62,17 +59,13 @@ he schalle abye or that he goo .
 the Emperour axed the palmers þre .
 ynne my londe watt syke .yee.
 he seide to hem with ffelonye
-ye ben come my londe to *sp*ye . &lt;!--LKN text: the first two characters of the word &quot;spye&quot; are
-all but illegible due to damage/smudging. We are, as a result, following the lead not only of Karl
-Brunner here but of the other witnesses who share this passage with Harley MS 4690. See
-Brunner, p. 116)--&gt;
+ye ben come my londe to *sp*ye . A;!--LKN text: the first two characters of the word &quot;spye&quot; are all but illegible due to damage/smudging. We are, as a result, following the lead not only of Karl Brunner here but of the other witnesses who share this passage with Harley MS 4690. See Brunner, p. 116)-->
 and som tresonne me to done
 thenne seide kyng Richarde swith . sone
 whe ar palmers sothe to seye
 and wenden here in goddes weye .
 the emp[er]our named hym king by name
-and and cleped hym taylard [and] seid hym scham &lt;!--LKN expl: calling someone a &quot;taylard&quot;
-(someone who has a tale) was considered an insult. See the MED entry for tailarde 1.a).--&gt;
+and and cleped hym taylard [and] seid hym scham A!--LKN expl: calling someone a &quot;taylard&quot; (someone who has a tale) was considered an insult. See the MED entry for tailarde 1.a).-->
 but for as moche as thou arte kyng
 and thes thi baronnes w[ith]oute lesyng.
 ye schull notte be to with y dyghte
