@@ -7,9 +7,7 @@ he thought to do kyng Richarde schame .
 ffor he was holden y understonde
 the strengest man of alle þat londe .
 To the porter thenne seide hæ
-alle þi[s] prisoners þ[ou] lette me see . &lt;!---LKN text: there is an abbreviation mark above the
-&quot;þi,&quot; but Brunner does not account for it in his edition. My guess is that it&#39;s meant to be
-expanded with an &quot;s&quot; at the end, but would like to hear your thoughts also!--&gt;
+alle þi[s] prisoners þ[ou] lette me see . <!---LKN text: there is an abbreviation mark above the &quot;þi,&quot; but Brunner does not account for it in his edition. My guess is that it&#39;s meant to be expanded with an &quot;s&quot; at the end, but would like to hear your thoughts also!-->
 the porter seide syr atte thy wille
 youre commawndement y schall fylle .
 he bronght hem fforthe sone anone
@@ -17,26 +15,18 @@ and Richarde ganne fformost gone .
 the emperour ys sone hym vndernam
 Art thow Richard þe strong manne .
 as men seyen in euery londe
-Durste þu stonde a boffete of my honde &lt;!--LKN text: Brunner transcribes as &quot;boffett&quot; but the
-final letter looks much more like an &quot;e.&quot; would welcome your takes on this! If you agree, this
-should be a t-note--&gt;
+Durste þu stonde a boffete of my honde <!--LKN text: Brunner transcribes as &quot;boffett&quot; but the final letter looks much more like an &quot;e.&quot; would welcome your takes on this! If you agree, this should be a t-note-->
 and y schalle youe the leue
-A nother boffette me to yeve &lt;!--LKN text: Note for those doing transcription check: this took
-me a little while to sort out, but the last word of this line is, in fact, leve (if you look at the v in
-&quot;devise&quot; on line 66 of this version, which is a handful of lines down on the first colum of 109v, it
-becomes a lot easier to see in this line)--&gt;
+A nother boffette me to yeve <!--LKN text: Note for those doing transcription check: this took me a little while to sort out, but the last word of this line is, in fact, leve (if you look at the v in &quot;devise&quot; on line 66 of this version, which is a handful of lines down on the first colum of 109v, it becomes a lot easier to see in this line)-->
 hastely kyng Richarde
 G[ra]unted hym in that fforwarde .
 the emperour is sone bothe fers [and] prout
 yaff to Rych[arde] a swithe sore cloute .
 the fyre of is yen oute sprangge .
 Richard þought he dude hym wrong
-y the swere by seint Gymelyne &lt;!--LKN expl: need a note on the saint--&gt;
+y the swere by seint Gymelyne <!--LKN expl: need a note on the saint-->
 to morowe þis tyme y schall pay þine
-þe Emperour is sone on hym lougys &lt;!--LKN text: something strange is going on with that last
-word. Should be &quot;laugh&quot; but the spelling here is strange at best. Wondering if that second to
-last character (which looks like a y) was meant to be an H instead? Wondering too about the
-mark above the y for that matter . . . --&gt;
+þe Emperour is sone on hym lougys <!--LKN text: something strange is going on with that last word. Should be &quot;laugh&quot; but the spelling here is strange at best. Wondering if that second to last character (which looks like a y) was meant to be an H instead? Wondering too about the mark above the y for that matter . . . -->
 and seid he schold haue is wille y nough .
 Bothe of drinke and of mete .
 of the beste he wolde ete .
@@ -66,10 +56,8 @@ and to grownde he fell ynne sowghe
 a too was Broke is cheke bone
 Wordes spake he neuer none.
 alle þus k[ing] Richard paidd is buffette
-God ȝew ys soule hevenne parte. &lt;!--LKN text: Brunner adds &quot;in&quot; before heaven, as the scribe
-seems to have left that preposition out in error--&gt;
-to the Emperour a knyght gan renne &lt;!--LKN text: the word knyght is spelled &quot;kmyght&quot; in the
-manuscript, as the scribe seems to have accidentally included an extra minim after the n.--&gt;
+God ȝew ys soule hevenne parte. <!--LKN text: Brunner adds &quot;in&quot; before heaven, as the scribe seems to have left that preposition out in error-->
+to the Emperour a knyght gan renne <!--LKN text: the word knyght is spelled &quot;kmyght&quot; in the manuscript, as the scribe seems to have accidentally included an extra minim after the n.-->
 and tolde hym of this tydyngge
 that Richard had is sone y slawe
 and y Brought hym of is lyue dawe.
