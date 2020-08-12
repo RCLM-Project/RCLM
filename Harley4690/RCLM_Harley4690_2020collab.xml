@@ -259,11 +259,11 @@
 
 	<cb n="2"/>
 
-	<l xml:id="harley4690_169">To <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> is ynne sone thei comen</l> <!--SLG trans: [ynne] to [&ydot;nne]-->
-	<l xml:id="harley4690_170">and axed who ys att ynne here</l> <!--SLG trans: [axed] to [axede], [ynne] to [&ydot;nne]-->
-	<l xml:id="harley4690_171">kyng <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> answered w[ith] myld chere</l> <!--SLG trans: [kyng] to [k&ydot;ng], [answered] to [answerede], [myld] to [m&ydot;lde &middot;]-->
+	<l xml:id="harley4690_169">To <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> is ynne sone thei comen</l> <!--SLG trans: [ynne] to [&ydot;nne]--> <!-- APB trans: agreed --></name>
+	<l xml:id="harley4690_170">and axed who ys att ynne here</l> <!--SLG trans: [axed] to [axede], [ynne] to [&ydot;nne]--> <!-- APB trans: "axede[e]" maybe, or no? --></l>
+	<l xml:id="harley4690_171">kyng <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> answered w[ith] myld chere</l> <!--SLG trans: [kyng] to [k&ydot;ng], [answered] to [answerede], [myld] to [m&ydot;lde &middot;]--> <!-- APB trans: agreed. Are swervy ending "e"s in brackets [] for abbreviations or no? --></name>
 	<l xml:id="harley4690_172">whe bene here palmers three .</l>
-	<l xml:id="harley4690_173">oute of hethenesse nough come whe</l>
+	<l xml:id="harley4690_173">oute of hethenesse nough come whe</l> <!-- APB trans: capital "O" in "oute"? --></l>
 	<l xml:id="harley4690_174">the knyghtes seide on hyyngge</l>
 	<l xml:id="harley4690_175">ȝe schull speke w[ith] oure lorde the kyng</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
 	<l xml:id="harley4690_176">ffor tidynggez he wolde here ffayne</l> <!--SLG trans: [tidynggez] to [tid&ydot;nggez], [ffayne] to [ffa&ydot;ne]-->
