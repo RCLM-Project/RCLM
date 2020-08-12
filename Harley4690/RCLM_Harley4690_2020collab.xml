@@ -269,8 +269,8 @@
 	<l xml:id="harley4690_176">ffor tidynggez he wolde here ffayne</l> <!--SLG trans: [tidynggez] to [tid&ydot;nggez], [ffayne] to [ffa&ydot;ne]-->
 	<l xml:id="harley4690_177">thei touke the palmers [and] went again</l>
 	<l xml:id="harley4690_178">when the Emperour sighe king <name type="character" subtype="historical" ref="#KingRichard">Richard</name></l> <!--SLG trans: [Richard] to [Richarde]-->
-	<l xml:id="harley4690_179">he seyd þis ys he so dow me garde</l> <!--SLG trans: [seyd] to [se&ydot;de]-->
-	<l xml:id="harley4690_180">that is my dodelyche foo</l> <!--SLG trans: period following [foo]-->
+	<l xml:id="harley4690_179">he seyd þis ys he so dow me garde</l> <!--SLG trans: [seyd] to [se&ydot;de]--> <!-- APB trans: possible capital "H" in "he"? -->
+    <l xml:id="harley4690_180">that is my dodelyche foo</l> <!--SLG trans: period following [foo]--> <!-- APB trans: the second letter in "dodelyche," at least to me, resembles an "e" -->
 	<l xml:id="harley4690_181">he schalle abye or that he goo .</l>
 	<l xml:id="harley4690_182">the Emperour axed the palmers þre .</l> <!--SLG trans: [axed] to [axede]-->
 	<l xml:id="harley4690_183">ynne my londe watt syke .yee.</l> <!--SLG trans: [my] to [m&ydot;], [syke] to [s&ydot;ke]. Also, the first character in [yee] looks like a yogh to me, but I'm not positive.-->
