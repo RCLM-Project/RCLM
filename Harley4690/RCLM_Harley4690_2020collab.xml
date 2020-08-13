@@ -184,7 +184,7 @@
 		<l xml:id="harley4690_99">&ydot;n to <name type="place" ref="#Cypress">C&ydot;presse</name> for to&period; ffare&period;</l> <!--SLG: I believe a ref is needed for Cypress-->
 		<l xml:id="harley4690_100" n="100">the&ydot; sette vppe sa&ydot;le y vnderstonde</l>
 		<l xml:id="harley4690_101">att <name type="place" ref="#Samagus">Samagus</name> &thorn;ey&middot;touke the londe</l> <!--SLG: ref needed for Samagus as well?-->
-		<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period<num value="40">xl</num>&period; dayes</l>
+		<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period;<num value="40">xl</num>&period; dayes</l>
 		<l xml:id="harley4690_103">And sithe <choice><abbr>didd</abbr><expan>didde</expan></choice> hem in to the see &period;</l>
 		<l xml:id="harley4690_104">&ydot;n to Artys &thorn;att fair cite</l>
 		<l xml:id="harley4690_105">ffro thennes in to <name type="place" ref="#Chalcedon">chascidone&period;</name></l> <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
@@ -203,8 +203,8 @@
 		<l xml:id="harley4690_118">So then homwarde &thorn;ei haue &ydot; t&ydot;ghte</l>
 		<l xml:id="harley4690_119">&ydot;n to <name type="place" ref="#England">Englond</name> with alle her myght</l>
 		<l xml:id="harley4690_120" n="120">when the&ydot; wer <choice><abbr>passedd</abbr><expan>passedde</expan></choice>&middot; &thorn;e grekes&middot; see</l>
-		<l xml:id="harley4690_121">&ydot;n to <name type="place" ref=#"Almayne">alme&ydot;ne</name> thenne roden hee&period;</l> <!--LKN summ: Richard, Thomas, and Fouk arrive in Germany--> <!--LKN expl: This episode, which recounts Richard's imprisonment by the king of Germany is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from Outremer, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.-->
-		<l xml:id="harley4690_122">and he &thorn;at in <name type="place" ref=#"Almayne">alme&ydot;ne</name> was king&period;</l>
+		<l xml:id="harley4690_121">&ydot;n to <name type="place" ref="#Almayne">alme&ydot;ne</name> thenne roden hee&period;</l> <!--LKN summ: Richard, Thomas, and Fouk arrive in Germany--> <!--LKN expl: This episode, which recounts Richard's imprisonment by the king of Germany is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from Outremer, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.-->
+		<l xml:id="harley4690_122">and he &thorn;at in <name type="place" ref="#Almayne">alme&ydot;ne</name> was king&period;</l>
 		<l xml:id="harley4690_123">hated <name type="character" subtype="historical" ref="#KingRichard">king Richard</name> abow &period; al thyng</l>
 		<l xml:id="harley4690_124"><name type="character" subtype="historical" ref="#KingRichard">Richard</name> and is ffelawes too</l>
 		<l xml:id="harley4690_125">&ydot;n to towne the&ydot; wer agoo&period;</l>
