@@ -585,186 +585,191 @@
     	<l xml:id="harley4690_472">Richarde w[ith] the knyfe so smerte</l> 
     	<l xml:id="harley4690_473">smote the lyon to the herte .</l>  <!--LKN text: Brunner argues that there are two missing lines here )see n. on page 138 for lines 37 and 38 of the version in the notes--> 
 
-fol. 112r
+    	<pb xml:id="harley4690_fol112r" n="fol112r" facs="harley_ms_4690_f112r.tif"/>
+    	<cb n="1"/>
 
-Atte þatt game Richarde lowghe
-and of ys harme þe kerchewes drewe . 
-he openedde hym atte þe breste bone
-and touke oute ys herte anone . 
-and thanked godde omnipotente
-of the grace he hadde hym sente
-and of this dede of grete Renowne
-cleped he was conquer de lyoune 
-Nough wente þese knyghtes al fyve
-and tolde the emperour also blyve
-that Richard and the lyoune
-To geders wer ẏnne prysoune . 
-Thenne seẏd[e] he by heuenne kyng
-ẏ am gladde of that tẏdẏngge . 
-Bẏ thẏs tẏme y wote itte welle
-the lyon hath of hẏm hys dele . 
-Vp rose ys dowghter ẏonge
-And seide thus to her fader þe kẏng . 
-Naẏ sche seẏde so god me rede . 
-ẏ ne lyve nowght þatt he be dede . 
-he byhyghte me att sovpertẏme
-the lyons hert to daẏ bẏ prẏme . 
-The kyng com[m]awnded ys knyghtz anone
-To the pryson for to goon
-and lowke hastlẏ and blyve
-yff that þe devell wer a lyve . 
-alle the knyghtes tho anone
-the pryson dore han vndone . 
-and yn theẏ ȝede swythe sone 
-Richard seẏd ȝe be welcome
-theẏ renne and telde þe k[ing] þer fore . 
-thatt R[ichard] was all hole and sownde
-and the lyon dede vppon the grownd[e]
-the kyng seẏd vn to the quene þo 
-yff he dwelle here he wyss vs sloo .
-do whe rawnson hẏm þorwe ourehonde
-and swythe fleen owte of thys londe . 
-and also ys felaws tweẏe
-ẏ wold[e] theẏ wer hennes awaẏ
-þe Emperour swere by [Ihesu]
-Of lyme and stone y have an house <!--LKN text: As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe-->
-þatt howse k[ing] Richard fylle schulde
-fulle of sẏluer and of golde . 
-And elles to lye in prẏson euermore . 
+    	<l xml:id="harley4690_474">Atte þatt game Richarde lowghe</l>
+    	<l xml:id="harley4690_475">and of ys harme þe kerchewes drewe . </l>
+    	<l xml:id="harley4690_476">he openedde hym atte þe breste bone </l>
+    	<l xml:id="harley4690_477">and touke oute ys herte anone . </l>
+    	<l xml:id="harley4690_478">and thanked godde omnipotente</l>
+    	<l xml:id="harley4690_479">of the grace he hadde hym sente</l>
+    	<l xml:id="harley4690_480" n="480">and of this dede of grete Renowne</l>
+    	<l xml:id="harley4690_481">cleped he was conquer de lyoune</l>
+    	<l xml:id="harley4690_482">Nough wente þese knyghtes al fyve</l>
+    	<l xml:id="harley4690_483">and tolde the emperour also blyve</l>
+    	<l xml:id="harley4690_484">that Richard and the lyoune</l>
+    	<l xml:id="harley4690_485">To geders wer ẏnne prysoune .</l>
+    	<l xml:id="harley4690_486">Thenne seẏd[e] he by heuenne kyng</l>
+    	<l xml:id="harley4690_487">ẏ am gladde of that tẏdẏngge .</l>
+    	<l xml:id="harley4690_488">Bẏ thẏs tẏme y wote itte welle</l>
+    	<l xml:id="harley4690_489">the lyon hath of hẏm hys dele .</l>
+    	<l xml:id="harley4690_490" n="490">Vp rose ys dowghter ẏonge</l>
+    	<l xml:id="harley4690_491">And seide thus to her fader þe kẏng .</l> 
+    	<l xml:id="harley4690_492">Naẏ sche seẏde so god me rede .</l>
+    	<l xml:id="harley4690_493">ẏ ne lyve nowght þatt he be dede .</l>
+    	<l xml:id="harley4690_494">he byhyghte me att sovpertẏme</l>
+    	<l xml:id="harley4690_495">the lyons hert to daẏ bẏ prẏme .</l>
+    	<l xml:id="harley4690_496">The kyng com[m]awnded ys knyghtz anone</l>
+    	<l xml:id="harley4690_497">To the pryson for to goon</l>
+    	<l xml:id="harley4690_498">and lowke hastlẏ and blyve</l>
+    	<l xml:id="harley4690_499">yff that þe devell wer a lyve .</l> 
+    	<l xml:id="harley4690_500" n="500">alle the knyghtes tho anone</l>
+    	<l xml:id="harley4690_501">the pryson dore han vndone .</l>
+    	<l xml:id="harley4690_502">and yn theẏ ȝede swythe sone</l>
+    	<l xml:id="harley4690_503">Richard seẏd ȝe be welcome</l>
+    	<l xml:id="harley4690_504">theẏ renne and telde þe k[ing] þer fore .</l> 
+    	<l xml:id="harley4690_506">thatt R[ichard] was all hole and sownde</l>
+    	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
+    	<l xml:id="harley4690_508">the kyng seẏd vn to the quene þo</l>
+    	<l xml:id="harley4690_509">yff he dwelle here he wyss vs sloo .</l>
+    	<l xml:id="harley4690_510" n="510">do whe rawnson hẏm þorwe ourehonde</l>
+    	<l xml:id="harley4690_511">and swythe fleen owte of thys londe .</l>
+    	<l xml:id="harley4690_512">and also ys felaws tweẏe</l>
+    	<l xml:id="harley4690_513">ẏ wold[e] theẏ wer hennes awaẏ</l>
+    	<l xml:id="harley4690_514">þe Emperour swere by [Ihesu]</l>
+    	<l xml:id="harley4690_515">Of lyme and stone y have an house</l> <!--LKN text: As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe-->
+    	<l xml:id="harley4690_516">þatt howse k[ing] Richard fylle schulde</l>
+    	<l xml:id="harley4690_517">fulle of sẏluer and of golde .</l>
+    	<l xml:id="harley4690_518">And elles to lye in prẏson euermore .</l>
 
-Thus hath the emperour ys hothe swore
-anone kyng Richard[e] verament
-ẏn to Englond[e] letters he sente . 
-To vs owne chawnceler
-the letters spake as ȝe maẏ here
-kẏng Richarde lythe yn prẏson[ne]
-and moste haue grete rawnson[ne]
-Tresoure anne howse to fẏlle . 
-Other elles yn prẏson he schall spẏlle
-thenne was ther made ẏ vnderstond[e]
-a taxe thwrghe owte englond[e]
-ẏn abbeys and chyrches also
-where ther nere butt chaleẏs too
-thet sone þeẏ towke w[ith] owte lesẏng
-& þus rawnsomed[e] E[nglonde] for owre kẏnge. <!--LKN expl: might be worth including a note on the randoming of Richard as it is historically recorded-->
-Whenne þe tresoure come þ[er] itte schuld[e] be
-Theẏ hadde ẏ Browght soche three. 
-As theẏ hadde nede there fore
-Butt alle to geder ytte leued[e] there
-kẏng Richard[e] swere by seint Joon <!--LKN expl: note for St. John needed here--> 
-he wolde haue too for oon[e] 
-thanne the kẏng y vnderstonde
-towke ys dowghter by the honde. 
-and bad her wẏth Richarde goo
-oute of ys londe for euermoo.
-he swore by alle ys parage
-thare schuld[e] sche have non herytage
-thws come Richarde owte of pryson[ne]
-God[e] ȝeffe vs alle ys Benesonne.
-ẏn to Englond[e] wente he thoo
-and ys too frendes so mote ẏ goo.
-there þey wente to þere contreẏs alle
-and att westmyster þe kẏng gan stalle
-	sone after thys playẏng
-	kẏng Rich[ard] dyd a nother thẏng
-ys londe he towke the chawncelere
-and be came goddes palmerre<!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
-and aȝenst goddys enemẏse
-he     thowght to werre alle ways<!--LKN text: in this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line-->
-Bẏ   fore he went w[ith]e knyght[es] fyve 
-By Brawnde?[e] and Bẏ costantyne <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> 
+	<cb n="2"/>
 
-fol. 112v
+    	<l xml:id="harley4690_519">Thus hath the emperour ys hothe swore</l>
+    	<l xml:id="harley4690_520" n="520">anone kyng Richard[e] verament</l>
+    	<l xml:id="harley4690_521">ẏn to Englond[e] letters he sente .</l>
+    	<l xml:id="harley4690_522">To vs owne chawnceler</l>
+    	<l xml:id="harley4690_523">the letters spake as ȝe maẏ here</l>
+    	<l xml:id="harley4690_524">kẏng Richarde lythe yn prẏson[ne]</l>
+    	<l xml:id="harley4690_525">and moste haue grete rawnson[ne]</l>
+    	<l xml:id="harley4690_526">Tresoure anne howse to fẏlle .</l>
+    	<l xml:id="harley4690_527">Other elles yn prẏson he schall spẏlle</l>
+    	<l xml:id="harley4690_528">thenne was ther made ẏ vnderstond[e]</l>
+    	<l xml:id="harley4690_529">a taxe thwrghe owte englond[e]</l>
+    	<l xml:id="harley4690_530" n="530">ẏn abbeys and chyrches also</l>
+    	<l xml:id="harley4690_531">where ther nere butt chaleẏs too</l>
+    	<l xml:id="harley4690_532">thet sone þeẏ towke w[ith] owte lesẏng</l>
+    	<l xml:id="harley4690_533">& þus rawnsomed[e] E[nglonde] for owre kẏnge.</l> <!--LKN expl: might be worth including a note on the randoming of Richard as it is historically recorded-->
+    	<l xml:id="harley4690_534">Whenne þe tresoure come þ[er] itte schuld[e] be</l>
+    	<l xml:id="harley4690_535">Theẏ hadde ẏ Browght soche three.</l>
+    	<l xml:id="harley4690_536">As theẏ hadde nede there fore</l>
+    	<l xml:id="harley4690_537">Butt alle to geder ytte leued[e] there</l>
+    	<l xml:id="harley4690_538">kẏng Richard[e] swere by seint Joon</l> <!--LKN expl: note for St. John needed here--> 
+    	<l xml:id="harley4690_539">he wolde haue too for oon[e]</l>
+    	<l xml:id="harley4690_540" n="540">thanne the kẏng y vnderstonde</l>
+    	<l xml:id="harley4690_541">towke ys dowghter by the honde.</l>
+    	<l xml:id="harley4690_542">and bad her wẏth Richarde goo</l>
+    	<l xml:id="harley4690_543">oute of ys londe for euermoo.</l>
+    	<l xml:id="harley4690_544">he swore by alle ys parage</l>
+    	<l xml:id="harley4690_545">thare schuld[e] sche have non herytage</l>
+    	<l xml:id="harley4690_546">thws come Richarde owte of pryson[ne]</l>
+    	<l xml:id="harley4690_547">God[e] ȝeffe vs alle ys Benesonne.</l>
+    	<l xml:id="harley4690_548">ẏn to Englond[e] wente he thoo</l>
+    	<l xml:id="harley4690_549">and ys too frendes so mote ẏ goo.</l>
+    	<l xml:id="harley4690_550" n="550">there þey wente to þere contreẏs alle</l>
+    	<l xml:id="harley4690_551">and att westmyster þe kẏng gan stalle</l>
+    	<l xml:id="harley4690_552">	sone after thys playẏng</l>
+    	<l xml:id="harley4690_553">	kẏng Rich[ard] dyd a nother thẏng</l>
+    	<l xml:id="harley4690_554">ys londe he towke the chawncelere</l>
+    	<l xml:id="harley4690_555">and be came goddes palmerre</l><!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
+    	<l xml:id="harley4690_556">and aȝenst goddys enemẏse</l>
+    	<l xml:id="harley4690_557">he     thowght to werre alle ways</l><!--LKN text: in this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line-->
+    	<l xml:id="harley4690_558">Bẏ   fore he went w[ith]e knyght[es] fyve</l> 
+    	<l xml:id="harley4690_559">By Brawnde?[e] and Bẏ costantyne</l> <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> 
 
-And With ẏnne a Whẏle afterwarde
-so come dowghtẏ kẏng Richarde.
-and to marcelly he wente arẏght
-wẏth Baronnes and manẏ a knẏghte 
-wyth schẏppes and saleẏs grete ȝ smale
-ther cowthe nomanne telle þe tale
-the wẏnde was both gode & kene
-and drove hẏm vn to mẏssene
-and Bẏ fore the yate of Grẏffoune
-kẏng Richarde þẏght ys pavẏlonne.
-the kyng of ffrawnce þere he ffownde
-with pauelounes sqware & Rownde
-Eyther of hem kyssed other
-and by come sweren brether
-ffor to wende to holẏ londe
-to venge [Iesu] ẏ vnderstonde
-ẏn treson thought þe kẏng of frawnce
-and to do kyng Richarde dẏstawnce
-and lete compẏle a letter
-to þe kyng of the londe theere
-ȝ seide kyng R[ichard] with strong honde
-was comen to drẏve hẏm off londe
-Tanker kyng of Poyle . was <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
-and for thys letter seẏde alas
-anone he sente a messangere
-after ys sone syr Rogger[e]
-thatt was kyng of cecyle londe <!--LKN expl: note on Sicily-->
-and Bade hym come to ys sonde
-and also after ys Barounes
-Erles and lordes of townes
-and whenne þeẏ wer yn a stede
-anone thys letter he vndede
-and seid[e] lordes þe kẏng of ffrawnce
-hath warned[e] me of a dystawnce.
-þatt kyng Richard wyth strong hond[e]
-ys come to dryue me owte of londe
-þe kyng ys sone spake full sone
-and seyd[e] for goddes love in troue
-mercẏ fader he seyd att þys tẏme
-kyng Richarde ys a pylgrẏme
-and ẏ crossed y vnderstonde<!--LKN expl: note needed here about being "crossed" and its implications in tandem with the term pilgrim in the preceding line.-->
-for to passe to holy londe . 
-for kyng Richarde y dar swere
-he ne schall suffer no dawngere.
+    	<pb xml:id="harley4690_fol112v" n="fol112v" facs="harley_ms_4690_f112v.tif"/>
+    	<cb n="1"/>
 
-sende to hym thẏ messawngere . 
-and he wylle come to yow here
-and speke with yow right fawe
-and watte he thynketh to beknawe.
-kyng tanker wyth outen faẏle
-dyd[e] after ys sones cownceẏle.
-kyng Richarde cometh forthe y wẏsse
-vn to the cite of nowbell Rẏse<!--LKN expl: the city of Reggio.-->
-he fownde kyng Tanker in ys halle
-among hys Erlys & Barounes alle
-and eyther of hem grete other faẏre
-With mẏlde wordes and bonere
-than he seẏde to kyng Richard[e] <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
-syr he seẏde by seynt leonarde.
-me ys done to vnderstonde
-of the nowbell men of þys londe
-that þ[ou] art comen with power
-to reve me of my londe here. 
-the wer better be a trew pylgryme
-and werre vppon Sarazẏne
-þan for to greue a crystenne kyng
-þatt never mysdede the no thẏng
-k[ing] Richarde was sore aschamed[e]
-and of thes wordes sore agraiuedd[e]
-and seẏd[e] Tanker þ[ou] arte mystawghte 
-to haue on me soche a thowghte.
-and soche a tresoune on me soche
-þat bere on my flesche the crowche 
-ẏ newe notte tarẏ butt thys daye
-and to morowe y wẏll wende my waẏ
-kẏng Richarde prayed þat gentyl kyng
-to þatte on hẏm noon ylle thyng
-menẏ wene to greue other <!--LKN text: the shortness of the line here suggests that the copyist may have neglected to write down a word, likely "men" between "menẏ" and "wene."-->
-and ys owen necke falleth þer vnder
-and who so doth me anẏ despyte
-hẏm self schall nott passe alle quyte
-syr ne be ȝe notte wrothe for thys
-lo here the letter wreten ys
-that þe kyng of frawnce me sente
-thys ȝender day in presente
-thanne kyng of frawnce wold[e] hym no gode
-Butte he an Tanker yn trew trest
-Became frendes yn the beste. 
-That myght Be yn any londe. 
+    	<l xml:id="harley4690_560" n="560">And With ẏnne a Whẏle afterwarde</l>
+    	<l xml:id="harley4690_561">so come dowghtẏ kẏng Richarde.</l>
+    	<l xml:id="harley4690_562">and to marcelly he wente arẏght</l>
+    	<l xml:id="harley4690_563">wẏth Baronnes and manẏ a knẏghte</l>
+    	<l xml:id="harley4690_564">wyth schẏppes and saleẏs grete ȝ smale</l>
+    	<l xml:id="harley4690_565">ther cowthe nomanne telle þe tale</l>
+    	<l xml:id="harley4690_566">the wẏnde was both gode & kene</l>
+    	<l xml:id="harley4690_567">and drove hẏm vn to mẏssene</l>
+    	<l xml:id="harley4690_568">and Bẏ fore the yate of Grẏffoune</l>
+    	<l xml:id="harley4690_569">kẏng Richarde þẏght ys pavẏlonne.</l>
+    	<l xml:id="harley4690_570" n="570">the kyng of ffrawnce þere he ffownde</l>
+    	<l xml:id="harley4690_571">with pauelounes sqware & Rownde</l>
+    	<l xml:id="harley4690_572">Eyther of hem kyssed other</l>
+    	<l xml:id="harley4690_573">and by come sweren brether</l>
+    	<l xml:id="harley4690_574">ffor to wende to holẏ londe</l>
+    	<l xml:id="harley4690_575">to venge [Iesu] ẏ vnderstonde</l>
+    	<l xml:id="harley4690_576">ẏn treson thought þe kẏng of frawnce</l>
+    	<l xml:id="harley4690_577">and to do kyng Richarde dẏstawnce</l>
+    	<l xml:id="harley4690_578">and lete compẏle a letter</l>
+    	<l xml:id="harley4690_579">to þe kyng of the londe theere</l>
+    	<l xml:id="harley4690_580" n="580">ȝ seide kyng R[ichard] with strong honde</l>
+    	<l xml:id="harley4690_581">was comen to drẏve hẏm off londe</l>
+    	<l xml:id="harley4690_582">Tanker kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
+    	<l xml:id="harley4690_583">and for thys letter seẏde alas</l>
+    	<l xml:id="harley4690_584">anone he sente a messangere</l>
+    	<l xml:id="harley4690_585">after ys sone syr Rogger[e]</l>
+    	<l xml:id="harley4690_586">thatt was kyng of cecyle londe</l> <!--LKN expl: note on Sicily-->
+    	<l xml:id="harley4690_587">and Bade hym come to ys sonde</l>
+    	<l xml:id="harley4690_588">and also after ys Barounes</l>
+    	<l xml:id="harley4690_589">Erles and lordes of townes</l>
+    	<l xml:id="harley4690_590" n="590">and whenne þeẏ wer yn a stede</l>
+    	<l xml:id="harley4690_591">anone thys letter he vndede</l>
+    	<l xml:id="harley4690_592">and seid[e] lordes þe kẏng of ffrawnce</l>
+    	<l xml:id="harley4690_593">hath warned[e] me of a dystawnce.</l>
+    	<l xml:id="harley4690_594">þatt kyng Richard wyth strong hond[e]</l>
+    	<l xml:id="harley4690_595">ys come to dryue me owte of londe</l>
+    	<l xml:id="harley4690_596">þe kyng ys sone spake full sone</l>
+    	<l xml:id="harley4690_597">and seyd[e] for goddes love in troue</l>
+    	<l xml:id="harley4690_598">mercẏ fader he seyd att þys tẏme</l>
+    	<l xml:id="harley4690_599">kyng Richarde ys a pylgrẏme</l>
+    	<l xml:id="harley4690_600" n="600">and ẏ crossed y vnderstonde</l><!--LKN expl: note needed here about being "crossed" and its implications in tandem with the term pilgrim in the preceding line.-->
+    	<l xml:id="harley4690_601">for to passe to holy londe .</l>
+    	<l xml:id="harley4690_602">for kyng Richarde y dar swere</l>
+    	<l xml:id="harley4690_603">he ne schall suffer no dawngere.</l>
+
+    	<cb n="2"/>
+sende to hym thẏ messawngere .</l>
+and he wylle come to yow here</l>
+and speke with yow right fawe</l>
+and watte he thynketh to beknawe.</l>
+kyng tanker wyth outen faẏle</l>
+dyd[e] after ys sones cownceẏle.</l>
+kyng Richarde cometh forthe y wẏsse</l>
+vn to the cite of nowbell Rẏse</l><!--LKN expl: the city of Reggio.-->
+he fownde kyng Tanker in ys halle</l>
+among hys Erlys & Barounes alle</l>
+and eyther of hem grete other faẏre</l>
+With mẏlde wordes and bonere</l>
+than he seẏde to kyng Richard[e]</l> <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
+syr he seẏde by seynt leonarde.</l>
+me ys done to vnderstonde</l>
+of the nowbell men of þys londe</l>
+that þ[ou] art comen with power</l>
+to reve me of my londe here.</l>
+the wer better be a trew pylgryme</l>
+and werre vppon Sarazẏne</l>
+þan for to greue a crystenne kyng</l>
+þatt never mysdede the no thẏng</l>
+k[ing] Richarde was sore aschamed[e]</l>
+and of thes wordes sore agraiuedd[e]</l>
+and seẏd[e] Tanker þ[ou] arte mystawghte</l> 
+to haue on me soche a thowghte.</l>
+and soche a tresoune on me soche</l>
+þat bere on my flesche the crowche</l>
+ẏ newe notte tarẏ butt thys daye</l>
+and to morowe y wẏll wende my waẏ</l>
+kẏng Richarde prayed þat gentyl kyng</l>
+to þatte on hẏm noon ylle thyng</l>
+menẏ wene to greue other</l> <!--LKN text: the shortness of the line here suggests that the copyist may have neglected to write down a word, likely "men" between "menẏ" and "wene."-->
+and ys owen necke falleth þer vnder</l>
+and who so doth me anẏ despyte</l>
+hẏm self schall nott passe alle quyte</l>
+syr ne be ȝe notte wrothe for thys</l>
+lo here the letter wreten ys</l>
+that þe kyng of frawnce me sente</l>
+thys ȝender day in presente</l>
+thanne kyng of frawnce wold[e] hym no gode</l>
+Butte he an Tanker yn trew trest</l>
+Became frendes yn the beste.</l>
+That myght Be yn any londe.</l>
 
 fol. 113r
 
