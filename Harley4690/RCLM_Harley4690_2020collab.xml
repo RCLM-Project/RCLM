@@ -303,7 +303,7 @@
 		<l xml:id="harley4690_211">there hadde they no nother gryth</l> <!--LKN text: the final character of &#39;gryth&#39; is illegible. Following both Brunner and the logic of the rhyme scheme as a result.-->
 	
 	
-	    <pb xml:id="harley4690_fol110r" n="fol110v" facs="harley_ms_4690_f110v.tif"/>
+	    <pb xml:id="harley4690_fol110v" n="fol110v" facs="harley_ms_4690_f110v.tif"/>
 	    <cb n="1"/>
 	    <!-- SNM trans: none of the ydots made it into this transcription, so I just added them as entities instead of noting eachone. I fugured that would be fastest in the long run -->
 	    <l xml:id="harley4690_212">Till that other da&ydot; atte prime</l> <!-- SNM trans: [that] to [thet] that makes more sense, but it just really looks like an [e] to me-->
