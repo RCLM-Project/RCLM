@@ -1,5 +1,3 @@
-<!--SLG: tagging for person, place, thing as per Shokoofeh's guidelines needs to be redone for 109 and 110. I've added folios 110 through 113 but haven't encoded page and column breaks.-->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI [
  	<!ENTITY amp "&#x0026;">
@@ -19,7 +17,7 @@
 	  ]>
 
 <!--SLG: Entity definitions from RCLM_WynkenDeWorde1509_CMP_XML Sample-->
-
+<TEI xml:id="harley4690" xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
     <fileDesc>
         <titleStmt>
@@ -258,11 +256,11 @@
 	
 		<cb n="2"/>
 	
-		<l xml:id="harley4690_169">To <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> is ynne sone thei comen</l> <!--SLG trans: [ynne] to [&ydot;nne]--> <!-- APB trans: agreed --></name>
-		<l xml:id="harley4690_170" n="170">and axed who ys att ynne here</l> <!--SLG trans: [axed] to [axede], [ynne] to [&ydot;nne]--> <!-- APB trans: "axede[e]" maybe, or no? --></l>
-		<l xml:id="harley4690_171">kyng <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> answered w[ith] myld chere</l> <!--SLG trans: [kyng] to [k&ydot;ng], [answered] to [answerede], [myld] to [m&ydot;lde &middot;]--> <!-- APB trans: agreed. Are swervy ending "e"s in brackets [] for abbreviations or no? --></name>
+		<l xml:id="harley4690_169">To <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> is ynne sone thei comen</l> <!--SLG trans: [ynne] to [&ydot;nne]--> <!-- APB trans: agreed -->
+		<l xml:id="harley4690_170" n="170">and axed who ys att ynne here</l> <!--SLG trans: [axed] to [axede], [ynne] to [&ydot;nne]--> <!-- APB trans: "axede[e]" maybe, or no? -->
+		<l xml:id="harley4690_171">kyng <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> answered w[ith] myld chere</l> <!--SLG trans: [kyng] to [k&ydot;ng], [answered] to [answerede], [myld] to [m&ydot;lde &middot;]--> <!-- APB trans: agreed. Are swervy ending "e"s in brackets [] for abbreviations or no? -->
 		<l xml:id="harley4690_172">whe bene here palmers three .</l>
-		<l xml:id="harley4690_173">oute of hethenesse nough come whe</l> <!-- APB trans: capital "O" in "oute"? --></l>
+		<l xml:id="harley4690_173">oute of hethenesse nough come whe</l> <!-- APB trans: capital "O" in "oute"? -->
 		<l xml:id="harley4690_174">the knyghtes seide on hyyngge</l>
 		<l xml:id="harley4690_175">ȝe schull speke w[ith] oure lorde the kyng</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
 		<l xml:id="harley4690_176">ffor tidynggez he wolde here ffayne</l> <!--SLG trans: [tidynggez] to [tid&ydot;nggez], [ffayne] to [ffa&ydot;ne]-->
@@ -946,6 +944,7 @@ wyth ynne the yate and w[ith] oute.
 
     </body>
 </text>
+</TEI>
 
 <!-- CMP: not a footer but we do need a closed tag. I missed some information in the encoding policies about the overall structure of the document,.so I'll update that in the next few days. <teiHeader> and <body> are both contained by a top-level <TEI> tag, where we define that this XML document is a TEI document. In that element, we'll use the attributes @xml:id to name the witness and @xmlns to point to the TEI-C P5 guidelines as the namespace. You can see an example of this in the Wynken XML sample document mentioned above. I'll put a sample tree below this comment. -->
 <!-- CMP sample tree: 
