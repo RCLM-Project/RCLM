@@ -215,14 +215,14 @@
 		<l xml:id="harley4690_128">theigh bought a goos to ther mete</l>
 		<l xml:id="harley4690_129">hem longed sore suche fflesche to ete</l> <!-- APB trans: there might be a swervy abbreviation for "e" at the end of "longed"? Also, at least to me, the "u" in "suche" resembles an "o" since it doesn't appear to be constructed out of two minims. Lastly, should we include the two interpuncts between "to" and "ete"? --> <!--SLG trans: I agree with all three changes. [longed] to [longede], [suche] to [soche], and [to ete] to [to.ete.]-->
 		<l xml:id="harley4690_130" n="130">kyng <name type="character" subtype="historical" ref="#KingRichard">Richard</name> the fure bette</l> <!-- APB trans: dotted y in "kyng" and possible swervy abbreviation at the end of "Richard?" --> <!--SLG trans: I agree. [kyng] to [k&ydot;ng] and [Richard] to [Richarde]-->
-		<l xml:id="harley4690_131">ffoukdoly to the spite hym sette.</l> <!-- APB trans: dotted y in "hym" --> <!--SLG trans: I agree. [hym] to [h&ydot;m]-->
-		<l xml:id="harley4690_132">Thomas of Molton stamped þe wose</l>
+    	<l xml:id="harley4690_131"><name type="person" subtype="historical" ref="#FoukDoly">ffoukdoly</name> to the spite hym sette.</l> <!-- APB trans: dotted y in "hym" --> <!--SLG trans: I agree. [hym] to [h&ydot;m]-->
+    	<l xml:id="harley4690_132"><name type="person" subtype="historical" ref="#ThomasMoulton">Thomas of Molton</name> stamped þe wose</l>
 		<l xml:id="harley4690_133">wel dere thei Bought þike goose.</l>
 		<l xml:id="harley4690_134">when the goos was rosted . welle</l> <!-- APB trans: possible capital "R" in "rosted"? "R" resembles "R" in "Richard" a few lines up --> <!--SLG trans: I agree. [rosted] to [Rosted]. I've noticed that for this variation of [R], in the initial transcription, it's written as uppercase for Richard and lowercase for most other words. Something to discuss together so we can figure out how to standardize the use of that specific character.-->
 		<l xml:id="harley4690_135">yn ther came a mynstrelle .</l> <!-- APB trans: dotted y in "yn" and "mynstrelle --> <!--SLG trans: I agree, [yn] to [&ydot;n]-->
 		<l xml:id="harley4690_136">and iff itte her wille were</l>
 		<l xml:id="harley4690_137">of is myrthe thei schulde hyre .</l> <!-- APB trans: dotted y in "myrthe" --> <!--SLG trans: I agree, [myrthe] to [m&ydot;rthe]-->
-		<l xml:id="harley4690_138"><name type="character" subtype="historical" ref="#KingRichard">Richard</name> hym answered [and] seid nay</l> <!-- APB trans: two dotted ys, possible swervy abbreviation at the end of "Richard" --> <!--SLG trans: I agree. [Richard] to [Richarde], [hym] to [h&ydot;m], and [nay] to [na&ydot;]-->
+		<l xml:id="harley4690_138"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> hym answered [and] seid nay</l> <!-- APB trans: two dotted ys, possible swervy abbreviation at the end of "Richard" --> <!--SLG trans: I agree. [Richard] to [Richarde], [hym] to [h&ydot;m], and [nay] to [na&ydot;]-->
 		<l xml:id="harley4690_139">whe mote ete and go oure . way</l> <!-- APB trans: dotted y in "way" --> <!--SLG trans: I agree, [way] to [wa&ydot;]-->
 		<l xml:id="harley4690_140" n="140">ye beth vncurteys so me thynke</l> <!-- APB trans: two dotted ys --> <!--SLG trans: [vncurteys] to [vncurte&ydot;s], [thynke] to [th&ydot;nke]-->
 		<l xml:id="harley4690_141">ye ne biddeth this mynstrell no drinke</l> <!-- APB trans: dotted y in "mynstrell" --> <!--SLG trans: [mynstrell] to [m&ydot;nstrell]-->
@@ -230,7 +230,7 @@
 		<l xml:id="harley4690_143">thus by hym self ganne he seye.</l> <!-- APB trans: dotted y in "hym" --> <!--SLG trans: [hym] to [h&ydot;m]-->
 		<l xml:id="harley4690_144">his weye he towke faire [and] welle</l> <!-- APB trans: dotted y in "weye" --> <!--SLG trans: [weye] to [we&ydot;e]-->
 		<l xml:id="harley4690_145">tille he come to the castelle .</l>
-		<l xml:id="harley4690_146">there the king of Almayne was</l> <!-- APB trans: the "a" in "Almayne" perhaps resembles the letter "e"? --> <!--SLG trans: Yes, also, it doesn't look capitalized. [Almayne] to [almeyne]-->
+    	<l xml:id="harley4690_146">there the king of <name type="place" ref="#Almayne">Almayne</name> was</l> <!-- APB trans: the "a" in "Almayne" perhaps resembles the letter "e"? --> <!--SLG trans: Yes, also, it doesn't look capitalized. [Almayne] to [almeyne]-->
 		<l xml:id="harley4690_147">and to the porter he made is pas</l>
 		<l xml:id="harley4690_148">and seyde go yn an hyyngge .</l> <!-- APB trans: three dotted ys in "seyde" and "yn" and hyyngge" --> <!--SLG trans: [seyde] to [se&ydot;de], [yn] to [&ydot;n], [hyyngge] to [hy&ydot;ngge]-->
 		<l xml:id="harley4690_149">and sey thus to my lorde kyngge.</l> <!-- APB trans: dotted y in "my" --> <!--SLG trans: [my] to [m&ydot;]-->
@@ -238,10 +238,10 @@
 		<l xml:id="harley4690_151">þre palmers y vnderstonde.</l> <!-- APB trans: dotted y in "y" --> <!--SLG trans: [y] to [&ydot;]-->
 		<l xml:id="harley4690_152">the strengest menne yn cristiante</l>
 		<l xml:id="harley4690_153">y schall tell watt they bee .</l> <!-- APB trans: dotted y in "they" --> <!--SLG trans: [they] to [the&ydot;]-->
-		<l xml:id="harley4690_154">kyng <name type="character" subtype="historical" ref="#KingRichard">Richard</name>. þ[at] is bothe stout [and] grym</l> <!--LKN text: need a t-note here addressing the mark above the word grym. Not entirely sure what it is, as the word is not abbreviated, and Brunner offers nothing in his notes. Interested to hear what you think about this, all!)--> <!-- APB dotted y in "kyng." As for the strange abbreviation above "grym" I have no idea other than maybe it is signalling an "er" at the end to make it "grymer"? This is a stretch, I think --> <!--SLG trans: [kyng] to [k&ydot;ng]. An abbreviation for [er] could make sense. It somewhat resembles a backwards [c], which can abbreviate [er]; see Cappelli. Moreover, the MED cites [grimmere] as an alternate spelling of [grim].-->
+		<l xml:id="harley4690_154">kyng <name type="person" subtype="historical" ref="#KingRichard">Richard</name>. þ[at] is bothe stout [and] grym</l> <!--LKN text: need a t-note here addressing the mark above the word grym. Not entirely sure what it is, as the word is not abbreviated, and Brunner offers nothing in his notes. Interested to hear what you think about this, all!)--> <!-- APB dotted y in "kyng." As for the strange abbreviation above "grym" I have no idea other than maybe it is signalling an "er" at the end to make it "grymer"? This is a stretch, I think --> <!--SLG trans: [kyng] to [k&ydot;ng]. An abbreviation for [er] could make sense. It somewhat resembles a backwards [c], which can abbreviate [er]; see Cappelli. Moreover, the MED cites [grimmere] as an alternate spelling of [grim].-->
 		<l xml:id="harley4690_155">and .ii. Baronnes ther be w[ith] hym</l> <!-- APB trans: dotted y in "hym" --> <!--SLG trans: [hym] to [h&ydot;m]-->
-		<l xml:id="harley4690_156">Syr ffoukedoly off renowne</l> <!-- APB trans: dotted y in "Syr" and "ffoukedoly, also possible capital "R" in "renowne"? --> <!--SLG trans: [Syr] to [S&ydot;r], [renowne] to [Renowne]-->
-		<l xml:id="harley4690_157">and Syr Thomas of moltonne .</l> <!--SLG trans: [Syr] to [syr]-->
+    	<l xml:id="harley4690_156"><name type="person" subtype="historical" ref="#FoukDoly">Syr ffoukedoly</name> off renowne</l> <!-- APB trans: dotted y in "Syr" and "ffoukedoly, also possible capital "R" in "renowne"? --> <!--SLG trans: [Syr] to [S&ydot;r], [renowne] to [Renowne]-->
+    	<l xml:id="harley4690_157">and <name type="person" subtype="historical" ref="#ThomasMoulton">Syr Thomas of moltonne</name> .</l> <!--SLG trans: [Syr] to [syr]-->
 		<l xml:id="harley4690_158">the porter ȝede ynne to the halle</l> <!-- APB trans: dotted y in "ynne" --> <!--SLG trans: [ynne] to [&ydot;nne]-->
 		<l xml:id="harley4690_159">and telde the lorde þar wordes alle</l> <!-- APB trans: the "r" in "þar" to me resembles an "s" --> <!--SLG trans: I agree. [&thorn;ar] to [&thorn;as]-->
 		<l xml:id="harley4690_160" n="160">the kyng was glad of this tidyng</l> <!-- APB trans: dotted y in "kyng" and "tidyng" --> <!--SLG trans: [kyng] to [k&ydot;ng], [tidyng] to [tid&ydot;ng]-->
@@ -256,16 +256,16 @@
 	
 		<cb n="2"/>
 	
-		<l xml:id="harley4690_169">To <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> is ynne sone thei comen</l> <!--SLG trans: [ynne] to [&ydot;nne]--> <!-- APB trans: agreed -->
+		<l xml:id="harley4690_169">To <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> is ynne sone thei comen</l> <!--SLG trans: [ynne] to [&ydot;nne]--> <!-- APB trans: agreed -->
 		<l xml:id="harley4690_170" n="170">and axed who ys att ynne here</l> <!--SLG trans: [axed] to [axede], [ynne] to [&ydot;nne]--> <!-- APB trans: "axede[e]" maybe, or no? -->
-		<l xml:id="harley4690_171">kyng <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> answered w[ith] myld chere</l> <!--SLG trans: [kyng] to [k&ydot;ng], [answered] to [answerede], [myld] to [m&ydot;lde &middot;]--> <!-- APB trans: agreed. Are swervy ending "e"s in brackets [] for abbreviations or no? -->
+		<l xml:id="harley4690_171">kyng <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> answered w[ith] myld chere</l> <!--SLG trans: [kyng] to [k&ydot;ng], [answered] to [answerede], [myld] to [m&ydot;lde &middot;]--> <!-- APB trans: agreed. Are swervy ending "e"s in brackets [] for abbreviations or no? -->
 		<l xml:id="harley4690_172">whe bene here palmers three .</l>
 		<l xml:id="harley4690_173">oute of hethenesse nough come whe</l> <!-- APB trans: capital "O" in "oute"? -->
 		<l xml:id="harley4690_174">the knyghtes seide on hyyngge</l>
 		<l xml:id="harley4690_175">ȝe schull speke w[ith] oure lorde the kyng</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
 		<l xml:id="harley4690_176">ffor tidynggez he wolde here ffayne</l> <!--SLG trans: [tidynggez] to [tid&ydot;nggez], [ffayne] to [ffa&ydot;ne]-->
 		<l xml:id="harley4690_177">thei touke the palmers [and] went again</l>
-		<l xml:id="harley4690_178">when the Emperour sighe king <name type="character" subtype="historical" ref="#KingRichard">Richard</name></l> <!--SLG trans: [Richard] to [Richarde]-->
+		<l xml:id="harley4690_178">when the Emperour sighe king <name type="person" subtype="historical" ref="#KingRichard">Richard</name></l> <!--SLG trans: [Richard] to [Richarde]-->
 		<l xml:id="harley4690_179">he seyd þis ys he so dow me garde</l> <!--SLG trans: [seyd] to [se&ydot;de]--> <!-- APB trans: possible capital "H" in "he"? -->
 	    <l xml:id="harley4690_180" n="180">that is my dodelyche foo</l> <!--SLG trans: period following [foo]--> <!-- APB trans: the second letter in "dodelyche," at least to me, resembles an "e" -->
 		<l xml:id="harley4690_181">he schalle abye or that he goo .</l>
@@ -274,11 +274,11 @@
 		<l xml:id="harley4690_184">he seide to hem with ffelonye</l>
 		<l xml:id="harley4690_185">ye ben come my londe to *sp*ye .</l> <!--LKN text: the first two characters of the word &quot;spye&quot; are all but illegible due to damage/smudging. We are, as a result, following the lead not only of Karl Brunner here but of the other witnesses who share this passage with Harley MS 4690. See Brunner, p. 116)-->
 		<l xml:id="harley4690_186">and som tresonne me to done</l>
-		<l xml:id="harley4690_187">thenne seide kyng <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> swith . sone</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
+		<l xml:id="harley4690_187">thenne seide kyng <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> swith . sone</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
 		<l xml:id="harley4690_188">whe ar palmers sothe to seye</l>
 		<l xml:id="harley4690_189">and wenden here in goddes weye .</l>
 		<l xml:id="harley4690_190" n="190">the emp[er]our named hym king by name</l>
-		<l xml:id="harley4690_191">and cleped hym taylard [and] seid hym scham</l> <!--LKN expl: calling someone a &quot;taylard&quot; (someone who has a tale) was considered an insult. See the MED entry for tailarde 1.a).--> <!--SLG trans: [cleped] to [clepede], [taylard] to [taylarde], [seid] to [seide], [hym] to [h&ydot;m]-->
+    	<l xml:id="harley4690_191">and cleped hym taylard [and] seid hym scham</l><note>Calling someone a &quot;taylard&quot; (someone who has a tale) was considered an insult. See the MED entry for tailarde 1.a).</note> <!--SLG trans: [cleped] to [clepede], [taylard] to [taylarde], [seid] to [seide], [hym] to [h&ydot;m]-->
 		<l xml:id="harley4690_192">but for as moche as thou arte kyng</l> <!--SLG trans: [but] to [But]-->
 		<l xml:id="harley4690_193">and thes thi baronnes w[ith]oute lesyng.</l>
 		<l xml:id="harley4690_194">ye schull notte be to with y dyghte</l> <!--SLG trans: [with] to [withe], [y] to [&ydot;], and period following [dyghte]-->
