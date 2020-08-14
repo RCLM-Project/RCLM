@@ -619,8 +619,9 @@
     	<l xml:id="harley4690_501">the pryson dore han vndone .</l>
     	<l xml:id="harley4690_502">and yn theẏ ȝede swythe sone</l>
     	<l xml:id="harley4690_503">Richard seẏd ȝe be welcome</l> <!--SLG trans: middot following [Richard]?-->
-	<!--SLG trans: missing line: [theẏ sẏghe the lyon dede there]. All further line numbers need to be corrected-->
-    	<l xml:id="harley4690_504">theẏ renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
+	<!--SLG trans: missing line, added below. Line numbers have been corrected-->
+	<l xml:id="harley4690_504">theẏ sẏghe the lyon dede there</l>
+    	<l xml:id="harley4690_505">theẏ renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
     	<l xml:id="harley4690_506">thatt R[ichard] was all hole and sownde</l>
     	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
     	<l xml:id="harley4690_508">the kyng seẏd vn to the quene þo</l>
@@ -669,68 +670,68 @@
     	<l xml:id="harley4690_548">ẏn to Englond[e] wente he thoo</l>
     	<l xml:id="harley4690_549">and ys too frendes so mote ẏ goo.</l>
 	<!--SLG trans: 4 lines missing. All line numbers below need to be adjusted accordingly-->
-	there þey maden moche gladyng
-	and manẏ a faẏre iustẏng
-	ffor love þer lorde was come to londe
-	theẏ thonked[e] owght goddẏs sonde. <!--SLG trans: is that a rip above [owght]?-->
-    	<l xml:id="harley4690_550" n="550">there þey wente to þere contreẏs alle</l> <!--SLG trans: [there] to [home]-->
-    	<l xml:id="harley4690_551">and att westmyster þe kẏng gan stalle</l>
-    	<l xml:id="harley4690_552">	sone after thys playẏng</l>
-    	<l xml:id="harley4690_553">	kẏng Rich[ard] dyd a nother thẏng</l>
-    	<l xml:id="harley4690_554">ys londe he towke the chawncelere</l>
-    	<l xml:id="harley4690_555">and be came goddes palmerre</l><!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
-    	<l xml:id="harley4690_556">and aȝenst goddys enemẏse</l>
-    	<l xml:id="harley4690_557">he     thowght to werre alle ways</l><!--LKN text: in this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line-->
-    	<l xml:id="harley4690_558">Bẏ   fore he went w[ith]e knyght[es] fyve</l> <!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
-    	<l xml:id="harley4690_559">By Brawnde?[e] and Bẏ costantyne</l> <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.-->
+	<l xml:id="harley4690_550" n="550">there þey maden moche gladyng</l>
+	<l xml:id="harley4690_551">and manẏ a faẏre iustẏng </l>
+	<l xml:id="harley4690_552">ffor love þer lorde was come to londe</l>
+	<l xml:id="harley4690_553">theẏ thonked[e] owght goddẏs sonde.</l> <!--SLG trans: is that a rip above [owght]?-->
+    	<l xml:id="harley4690_554">home þey wente to þere contreẏs alle</l>
+    	<l xml:id="harley4690_555">and att westmyster þe kẏng gan stalle</l>
+    	<l xml:id="harley4690_556">	sone after thys playẏng</l>
+    	<l xml:id="harley4690_557">	kẏng Rich[ard] dyd a nother thẏng</l>
+    	<l xml:id="harley4690_558">ys londe he towke the chawncelere</l>
+    	<l xml:id="harley4690_559">and be came goddes palmerre</l><!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
+    	<l xml:id="harley4690_560" n="560">and aȝenst goddys enemẏse</l>
+    	<l xml:id="harley4690_561">he     thowght to werre alle ways</l><!--LKN text: in this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line-->
+    	<l xml:id="harley4690_562">Bẏ   fore he went w[ith]e knyght[es] fyve</l> <!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
+    	<l xml:id="harley4690_563">By Brawnde?[e] and Bẏ costantyne</l> <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.-->
 
     	<pb xml:id="harley4690_fol112v" n="fol112v" facs="harley_ms_4690_f112v.tif"/>
     	<cb n="1"/>
 
-    	<l xml:id="harley4690_560" n="560">And With ẏnne a Whẏle afterwarde</l>
-    	<l xml:id="harley4690_561">so come dowghtẏ kẏng Richarde.</l>
-    	<l xml:id="harley4690_562">and to marcelly he wente arẏght</l>
-    	<l xml:id="harley4690_563">wẏth Baronnes and manẏ a knẏghte</l>
-    	<l xml:id="harley4690_564">wyth schẏppes and saleẏs grete ȝ smale</l> <!--SLG trans: [ȝ] to [&]-->
-    	<l xml:id="harley4690_565">ther cowthe nomanne telle þe tale</l>
-    	<l xml:id="harley4690_566">the wẏnde was both gode & kene</l>
-    	<l xml:id="harley4690_567">and drove hẏm vn to mẏssene</l>
-    	<l xml:id="harley4690_568">and Bẏ fore the yate of Grẏffoune</l>
-    	<l xml:id="harley4690_569">kẏng Richarde þẏght ys pavẏlonne.</l> <!--SLG trans: [þẏght] to [pẏght]-->
-    	<l xml:id="harley4690_570" n="570">the kyng of ffrawnce þere he ffownde</l>
-    	<l xml:id="harley4690_571">with pauelounes sqware & Rownde</l>
-    	<l xml:id="harley4690_572">Eyther of hem kyssed other</l>
-    	<l xml:id="harley4690_573">and by come sweren brether</l>
-    	<l xml:id="harley4690_574">ffor to wende to holẏ londe</l>
-    	<l xml:id="harley4690_575">to venge [Iesu] ẏ vnderstonde</l>
-    	<l xml:id="harley4690_576">ẏn treson thought þe kẏng of frawnce</l>
-    	<l xml:id="harley4690_577">and to do kyng Richarde dẏstawnce</l>
-    	<l xml:id="harley4690_578">and lete compẏle a letter</l>
-    	<l xml:id="harley4690_579">to þe kyng of the londe theere</l>
-    	<l xml:id="harley4690_580" n="580">ȝ seide kyng R[ichard] with strong honde</l> <!--SLG trans: middots surrounding [R[ichard]]-->
-    	<l xml:id="harley4690_581">was comen to drẏve hẏm off londe</l>
-    	<l xml:id="harley4690_582">Tanker kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
-    	<l xml:id="harley4690_583">and for thys letter seẏde alas</l>
-    	<l xml:id="harley4690_584">anone he sente a messangere</l>
-    	<l xml:id="harley4690_585">after ys sone syr Rogger[e]</l>
-    	<l xml:id="harley4690_586">thatt was kyng of cecyle londe</l> <!--LKN expl: note on Sicily-->
-    	<l xml:id="harley4690_587">and Bade hym come to ys sonde</l>
-    	<l xml:id="harley4690_588">and also after ys Barounes</l>
-    	<l xml:id="harley4690_589">Erles and lordes of townes</l>
-    	<l xml:id="harley4690_590" n="590">and whenne þeẏ wer yn a stede</l>
-    	<l xml:id="harley4690_591">anone thys letter he vndede</l>
-    	<l xml:id="harley4690_592">and seid[e] lordes þe kẏng of ffrawnce</l>
-    	<l xml:id="harley4690_593">hath warned[e] me of a dystawnce.</l>
-    	<l xml:id="harley4690_594">þatt kyng Richard wyth strong hond[e]</l>
-    	<l xml:id="harley4690_595">ys come to dryue me owte of londe</l>
-    	<l xml:id="harley4690_596">þe kyng ys sone spake full sone</l>
-    	<l xml:id="harley4690_597">and seyd[e] for goddes love in troue</l>
-    	<l xml:id="harley4690_598">mercẏ fader he seyd att þys tẏme</l>
-    	<l xml:id="harley4690_599">kyng Richarde ys a pylgrẏme</l>
-    	<l xml:id="harley4690_600" n="600">and ẏ crossed y vnderstonde</l><!--LKN expl: note needed here about being "crossed" and its implications in tandem with the term pilgrim in the preceding line.-->
-    	<l xml:id="harley4690_601">for to passe to holy londe .</l>
-    	<l xml:id="harley4690_602">for kyng Richarde y dar swere</l>
-    	<l xml:id="harley4690_603">he ne schall suffer no dawngere.</l>
+    	<l xml:id="harley4690_564">And With ẏnne a Whẏle afterwarde</l>
+    	<l xml:id="harley4690_565">so come dowghtẏ kẏng Richarde.</l>
+    	<l xml:id="harley4690_566">and to marcelly he wente arẏght</l>
+    	<l xml:id="harley4690_567">wẏth Baronnes and manẏ a knẏghte</l>
+    	<l xml:id="harley4690_568">wyth schẏppes and saleẏs grete ȝ smale</l> <!--SLG trans: [ȝ] to [&]-->
+    	<l xml:id="harley4690_569">ther cowthe nomanne telle þe tale</l>
+    	<l xml:id="harley4690_570" n="570">the wẏnde was both gode & kene</l>
+    	<l xml:id="harley4690_571">and drove hẏm vn to mẏssene</l>
+    	<l xml:id="harley4690_572">and Bẏ fore the yate of Grẏffoune</l>
+    	<l xml:id="harley4690_573">kẏng Richarde þẏght ys pavẏlonne.</l> <!--SLG trans: [þẏght] to [pẏght]-->
+    	<l xml:id="harley4690_574">the kyng of ffrawnce þere he ffownde</l>
+    	<l xml:id="harley4690_575">with pauelounes sqware & Rownde</l>
+    	<l xml:id="harley4690_576">Eyther of hem kyssed other</l>
+    	<l xml:id="harley4690_577">and by come sweren brether</l>
+    	<l xml:id="harley4690_578">ffor to wende to holẏ londe</l>
+    	<l xml:id="harley4690_579">to venge [Iesu] ẏ vnderstonde</l>
+    	<l xml:id="harley4690_580" n="580">ẏn treson thought þe kẏng of frawnce</l>
+    	<l xml:id="harley4690_581">and to do kyng Richarde dẏstawnce</l>
+    	<l xml:id="harley4690_582">and lete compẏle a letter</l>
+    	<l xml:id="harley4690_583">to þe kyng of the londe theere</l>
+    	<l xml:id="harley4690_584">ȝ seide kyng R[ichard] with strong honde</l> <!--SLG trans: middots surrounding [R[ichard]]-->
+    	<l xml:id="harley4690_585">was comen to drẏve hẏm off londe</l>
+    	<l xml:id="harley4690_586">Tanker kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
+    	<l xml:id="harley4690_587">and for thys letter seẏde alas</l>
+    	<l xml:id="harley4690_588">anone he sente a messangere</l>
+    	<l xml:id="harley4690_589">after ys sone syr Rogger[e]</l>
+    	<l xml:id="harley4690_590" "n="590">thatt was kyng of cecyle londe</l> <!--LKN expl: note on Sicily-->
+    	<l xml:id="harley4690_591">and Bade hym come to ys sonde</l>
+    	<l xml:id="harley4690_592">and also after ys Barounes</l>
+    	<l xml:id="harley4690_593">Erles and lordes of townes</l>
+    	<l xml:id="harley4690_594">and whenne þeẏ wer yn a stede</l>
+    	<l xml:id="harley4690_595">anone thys letter he vndede</l>
+    	<l xml:id="harley4690_596">and seid[e] lordes þe kẏng of ffrawnce</l>
+    	<l xml:id="harley4690_597">hath warned[e] me of a dystawnce.</l>
+    	<l xml:id="harley4690_598">þatt kyng Richard wyth strong hond[e]</l>
+    	<l xml:id="harley4690_599">ys come to dryue me owte of londe</l>
+    	<l xml:id="harley4690_600" n="600">þe kyng ys sone spake full sone</l>
+    	<l xml:id="harley4690_601">and seyd[e] for goddes love in troue</l>
+    	<l xml:id="harley4690_602">mercẏ fader he seyd att þys tẏme</l>
+    	<l xml:id="harley4690_603">kyng Richarde ys a pylgrẏme</l>
+    	<l xml:id="harley4690_604">and ẏ crossed y vnderstonde</l><!--LKN expl: note needed here about being "crossed" and its implications in tandem with the term pilgrim in the preceding line.-->
+    	<l xml:id="harley4690_605">for to passe to holy londe .</l>
+    	<l xml:id="harley4690_606">for kyng Richarde y dar swere</l>
+    	<l xml:id="harley4690_607">he ne schall suffer no dawngere.</l>
 
     	<cb n="2"/>
 
