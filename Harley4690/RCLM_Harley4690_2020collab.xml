@@ -605,20 +605,21 @@
     	<l xml:id="harley4690_487">ẏ am gladde of that tẏdẏngge .</l>
     	<l xml:id="harley4690_488">Bẏ thẏs tẏme y wote itte welle</l>
     	<l xml:id="harley4690_489">the lyon hath of hẏm hys dele .</l>
-    	<l xml:id="harley4690_490" n="490">Vp rose ys dowghter ẏonge</l>
+    	<l xml:id="harley4690_490" n="490">Vp rose ys dowghter ẏonge</l> <!--SLG trans: is [rose] capitalized? Compare with [Richard], line 484.-->
     	<l xml:id="harley4690_491">And seide thus to her fader þe kẏng .</l> 
-    	<l xml:id="harley4690_492">Naẏ sche seẏde so god me rede .</l>
+    	<l xml:id="harley4690_492">Naẏ sche seẏde so god me rede .</l> <!--SLG trans: is [rede] capitalized? The transcription tends to capitalize that character with proper nouns but not verbs.-->
     	<l xml:id="harley4690_493">ẏ ne lyve nowght þatt he be dede .</l>
     	<l xml:id="harley4690_494">he byhyghte me att sovpertẏme</l>
     	<l xml:id="harley4690_495">the lyons hert to daẏ bẏ prẏme .</l>
     	<l xml:id="harley4690_496">The kyng com[m]awnded ys knyghtz anone</l>
-    	<l xml:id="harley4690_497">To the pryson for to goon</l>
+    	<l xml:id="harley4690_497">To the pryson for to goon</l> <!--SLG trans: [pryson] to [pr&ydot;son]-->
     	<l xml:id="harley4690_498">and lowke hastlẏ and blyve</l>
     	<l xml:id="harley4690_499">yff that þe devell wer a lyve .</l> 
     	<l xml:id="harley4690_500" n="500">alle the knyghtes tho anone</l>
     	<l xml:id="harley4690_501">the pryson dore han vndone .</l>
     	<l xml:id="harley4690_502">and yn theẏ ȝede swythe sone</l>
-    	<l xml:id="harley4690_503">Richard seẏd ȝe be welcome</l>
+    	<l xml:id="harley4690_503">Richard seẏd ȝe be welcome</l> <!--SLG trans: middot following [Richard]?-->
+	<!--SLG trans: missing line: [theẏ sẏghe the lyon dede there]. All further line numbers need to be corrected-->
     	<l xml:id="harley4690_504">theẏ renne and telde þe k[ing] þer fore .</l> 
     	<l xml:id="harley4690_506">thatt R[ichard] was all hole and sownde</l>
     	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
