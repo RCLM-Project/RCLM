@@ -620,30 +620,30 @@
     	<l xml:id="harley4690_502">and yn theẏ ȝede swythe sone</l>
     	<l xml:id="harley4690_503">Richard seẏd ȝe be welcome</l> <!--SLG trans: middot following [Richard]?-->
 	<!--SLG trans: missing line: [theẏ sẏghe the lyon dede there]. All further line numbers need to be corrected-->
-    	<l xml:id="harley4690_504">theẏ renne and telde þe k[ing] þer fore .</l> 
+    	<l xml:id="harley4690_504">theẏ renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
     	<l xml:id="harley4690_506">thatt R[ichard] was all hole and sownde</l>
     	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
     	<l xml:id="harley4690_508">the kyng seẏd vn to the quene þo</l>
-    	<l xml:id="harley4690_509">yff he dwelle here he wyss vs sloo .</l>
+    	<l xml:id="harley4690_509">yff he dwelle here he wyss vs sloo .</l> <!--SLG trans: [wyss] to [wyll]. [s] is usually written as a straighter line while [l] has a loop on the top.-->
     	<l xml:id="harley4690_510" n="510">do whe rawnson hẏm þorwe ourehonde</l>
     	<l xml:id="harley4690_511">and swythe fleen owte of thys londe .</l>
     	<l xml:id="harley4690_512">and also ys felaws tweẏe</l>
     	<l xml:id="harley4690_513">ẏ wold[e] theẏ wer hennes awaẏ</l>
     	<l xml:id="harley4690_514">þe Emperour swere by [Ihesu]</l>
-    	<l xml:id="harley4690_515">Of lyme and stone y have an house</l><note>As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe--></note>
+    	<l xml:id="harley4690_515">Of lẏme and stone y have an house</l><note>As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe--></note>
     	<l xml:id="harley4690_516">þatt howse k[ing] Richard fylle schulde</l>
     	<l xml:id="harley4690_517">fulle of sẏluer and of golde .</l>
     	<l xml:id="harley4690_518">And elles to lye in prẏson euermore .</l>
 
 	<cb n="2"/>
 
-    	<l xml:id="harley4690_519">Thus hath the emperour ys hothe swore</l>
-    	<l xml:id="harley4690_520" n="520">anone kyng Richard[e] verament</l>
+    	<l xml:id="harley4690_519">Thus hath the emperour ys hothe swore</l> <!--SLG trans: is [emperour] capitalized? Compare to [Emperour] five lines above, and [Englond[e]] two lines below-->
+    	<l xml:id="harley4690_520" n="520">anone kyng Richard[e] verament</l> <!--SLG trans: [Richard[e]] to [Richarde]. Final [e] is not abbreviated-->
     	<l xml:id="harley4690_521">ẏn to Englond[e] letters he sente .</l>
     	<l xml:id="harley4690_522">To vs owne chawnceler</l>
     	<l xml:id="harley4690_523">the letters spake as ȝe maẏ here</l>
     	<l xml:id="harley4690_524">kẏng Richarde lythe yn prẏson[ne]</l>
-    	<l xml:id="harley4690_525">and moste haue grete rawnson[ne]</l>
+    	<l xml:id="harley4690_525">and moste haue grete rawnson[ne]</l> <!--SLG trans: [rawnson[ne]] capitalized?-->
     	<l xml:id="harley4690_526">Tresoure anne howse to fẏlle .</l>
     	<l xml:id="harley4690_527">Other elles yn prẏson he schall spẏlle</l>
     	<l xml:id="harley4690_528">thenne was ther made ẏ vnderstond[e]</l>
