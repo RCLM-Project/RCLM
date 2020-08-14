@@ -735,52 +735,54 @@
 
     	<cb n="2"/>
 
-    	<l xml:id="harley4690_604">sende to hym thẏ messawngere .</l>
-    	<l xml:id="harley4690_605">and he wylle come to yow here</l>
-    	<l xml:id="harley4690_606">and speke with yow right fawe</l> <!--SLG trans: is [right] capitalized?-->
-    	<l xml:id="harley4690_607">and watte he thẏnketh to beknawe.</l>
-    	<l xml:id="harley4690_608">kyng tanker wyth outen faẏle</l> <!--SLG trans: there's a large mark between [tanker] and [wyth]. Is it a middot or just an abberation on the manuscript?-->
-    	<l xml:id="harley4690_609">dyd[e] after ys sones cownceẏle.</l>
-    	<l xml:id="harley4690_610" n="610">kyng Richarde cometh forthe y wẏsse</l>
-    	<l xml:id="harley4690_611">vn to the cite of nowbell Rẏse</l><!--LKN expl: the city of Reggio.-->
-    	<l xml:id="harley4690_612">he fownde kyng Tanker in ys halle</l>
-    	<l xml:id="harley4690_613">among hys Erlys & Barounes alle</l>
-    	<l xml:id="harley4690_614">and eyther of hem grete other faẏre</l>
-    	<l xml:id="harley4690_615">With mẏlde wordes and bonere</l>
-    	<l xml:id="harley4690_616">than he seẏde to kyng Richard[e]</l> <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
-    	<l xml:id="harley4690_617">syr he seẏde by seynt leonarde.</l>
-    	<l xml:id="harley4690_618">me ys done to vnderstonde</l>
-    	<l xml:id="harley4690_619">of the nowbell men of þys londe</l>
-    	<l xml:id="harley4690_620" n="620">that þ[ou] art comen with power</l>
-    	<l xml:id="harley4690_621">to reve me of my londe here.</l> <!--SLG trans: [reve] capitalized?-->
-    	<l xml:id="harley4690_622">the wer better be a trew pylgryme</l>
-    	<l xml:id="harley4690_623">and werre vppon Sarazẏne</l>
-    	<l xml:id="harley4690_624">þan for to greue a crystenne kyng</l>
-    	<l xml:id="harley4690_625">þatt never mysdede the no thẏng</l>
-    	<l xml:id="harley4690_626">k[ing] Richarde was sore aschamed[e]</l>
-    	<l xml:id="harley4690_627">and of thes wordes sore agraiuedd[e]</l>
-    	<l xml:id="harley4690_628">and seẏd[e] Tanker þ[ou] arte mystawghte</l> 
-    	<l xml:id="harley4690_629">to haue on me soche a thowghte.</l>
-    	<l xml:id="harley4690_630" n="630">and soche a tresoune on me soche</l>
-    	<l xml:id="harley4690_631">þat bere on my flesche the crowche</l>
-    	<l xml:id="harley4690_632">ẏ newe notte tarẏ butt thys daye</l>
-    	<l xml:id="harley4690_633">and to morowe y wẏll wende my waẏ</l>
-    	<l xml:id="harley4690_634">kẏng Richarde prayed þat gentyl kyng</l>
-    	<l xml:id="harley4690_635">to þatte on hẏm noon ylle thyng</l> <!--SLG trans: [þatte] to [putte]-->
-    	<l xml:id="harley4690_636">menẏ wene to greue other</l> <!--LKN text: the shortness of the line here suggests that the copyist may have neglected to write down a word, likely "men" between "menẏ" and "wene."-->
-    	<l xml:id="harley4690_637">and ys owen necke falleth þer vnder</l>
-    	<l xml:id="harley4690_638">and who so doth me anẏ despyte</l>
-    	<l xml:id="harley4690_639">hẏm self schall nott passe alle quyte</l>
-    	<l xml:id="harley4690_640" n="640">syr ne be ȝe notte wrothe for thys</l>
-    	<l xml:id="harley4690_641">lo here the letter wreten ys</l>
-    	<l xml:id="harley4690_642">that þe kyng of frawnce me sente</l>
-    	<l xml:id="harley4690_643">thys ȝender day in presente</l>
-	<!--SLG trans: missing line-->
-	thanne kyng Richarde vnderstonde
-    	<l xml:id="harley4690_644">that the kyng of frawnce wold[e] hym no gode</l>
-    	<l xml:id="harley4690_645">Butte he an Tanker yn trew trest</l>
-    	<l xml:id="harley4690_646">Became frendes yn the beste.</l> <!--SLG trans: [beste] to [Beste]-->
-    	<l xml:id="harley4690_647">That myght Be yn any londe.</l>
+    	<l xml:id="harley4690_608">sende to hym thẏ messawngere .</l>
+    	<l xml:id="harley4690_609">and he wylle come to yow here</l>
+    	<l xml:id="harley4690_610" n="610">and speke with yow right fawe</l> <!--SLG trans: is [right] capitalized?-->
+    	<l xml:id="harley4690_611">and watte he thẏnketh to beknawe.</l>
+    	<l xml:id="harley4690_612">kyng tanker wyth outen faẏle</l> <!--SLG trans: there's a large mark between [tanker] and [wyth]. Is it a middot or just an abberation on the manuscript?-->
+    	<l xml:id="harley4690_613">dyd[e] after ys sones cownceẏle.</l>
+    	<l xml:id="harley4690_614">kyng Richarde cometh forthe y wẏsse</l>
+    	<l xml:id="harley4690_615">vn to the cite of nowbell Rẏse</l><!--LKN expl: the city of Reggio.-->
+    	<l xml:id="harley4690_616">he fownde kyng Tanker in ys halle</l>
+    	<l xml:id="harley4690_617">among hys Erlys & Barounes alle</l>
+    	<l xml:id="harley4690_618">and eyther of hem grete other faẏre</l>
+    	<l xml:id="harley4690_619">With mẏlde wordes and bonere</l>
+    	<l xml:id="harley4690_620" n="620">than he seẏde to kyng Richard[e]</l> <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
+    	<l xml:id="harley4690_621">syr he seẏde by seynt leonarde.</l>
+    	<l xml:id="harley4690_622">me ys done to vnderstonde</l>
+    	<l xml:id="harley4690_623">of the nowbell men of þys londe</l>
+    	<l xml:id="harley4690_624">that þ[ou] art comen with power</l>
+    	<l xml:id="harley4690_625">to reve me of my londe here.</l> <!--SLG trans: [reve] capitalized?-->
+    	<l xml:id="harley4690_626">the wer better be a trew pylgryme</l>
+    	<l xml:id="harley4690_627">and werre vppon Sarazẏne</l>
+    	<l xml:id="harley4690_628">þan for to greue a crystenne kyng</l>
+    	<l xml:id="harley4690_629">þatt never mysdede the no thẏng</l>
+    	<l xml:id="harley4690_630" n="630">k[ing] Richarde was sore aschamed[e]</l>
+    	<l xml:id="harley4690_631">and of thes wordes sore agraiuedd[e]</l>
+    	<l xml:id="harley4690_632">and seẏd[e] Tanker þ[ou] arte mystawghte</l> 
+    	<l xml:id="harley4690_633">to haue on me soche a thowghte.</l>
+    	<l xml:id="harley4690_634">and soche a tresoune on me soche</l>
+    	<l xml:id="harley4690_635">þat bere on my flesche the crowche</l>
+    	<l xml:id="harley4690_636">ẏ newe notte tarẏ butt thys daye</l>
+    	<l xml:id="harley4690_637">and to morowe y wẏll wende my waẏ</l>
+    	<l xml:id="harley4690_638">kẏng Richarde prayed þat gentyl kyng</l>
+    	<l xml:id="harley4690_639">to þatte on hẏm noon ylle thyng</l> <!--SLG trans: [þatte] to [putte]-->
+    	<l xml:id="harley4690_640" n="640">menẏ wene to greue other</l> <!--LKN text: the shortness of the line here suggests that the copyist may have neglected to write down a word, likely "men" between "menẏ" and "wene."-->
+    	<l xml:id="harley4690_641">and ys owen necke falleth þer vnder</l>
+    	<l xml:id="harley4690_642">and who so doth me anẏ despyte</l>
+    	<l xml:id="harley4690_643">hẏm self schall nott passe alle quyte</l>
+    	<l xml:id="harley4690_644">syr ne be ȝe notte wrothe for thys</l>
+    	<l xml:id="harley4690_645">lo here the letter wreten ys</l>
+    	<l xml:id="harley4690_646">that þe kyng of frawnce me sente</l>
+    	<l xml:id="harley4690_647">thys ȝender day in presente</l>
+	<!--SLG trans: missing line, added below, line numbers fixed-->
+	<l xml:id="harley4690_648">thanne kyng Richarde vnderstode</l>
+    	<l xml:id="harley4690_649">that the kyng of frawnce wold[e] hym no gode</l>
+    	<l xml:id="harley4690_650" n="650">Butte he an Tanker yn trew trest</l>
+    	<l xml:id="harley4690_651">Became frendes yn the beste.</l> <!--SLG trans: [beste] to [Beste]-->
+    	<l xml:id="harley4690_652">That myght Be yn any londe.</l>
+
+<!--SLG: phase 1 complete for fol 112-->
 
 fol. 113r
 
