@@ -691,12 +691,12 @@
     	<l xml:id="harley4690_561">so come dowghtẏ kẏng Richarde.</l>
     	<l xml:id="harley4690_562">and to marcelly he wente arẏght</l>
     	<l xml:id="harley4690_563">wẏth Baronnes and manẏ a knẏghte</l>
-    	<l xml:id="harley4690_564">wyth schẏppes and saleẏs grete ȝ smale</l>
+    	<l xml:id="harley4690_564">wyth schẏppes and saleẏs grete ȝ smale</l> <!--SLG trans: [ȝ] to [&]-->
     	<l xml:id="harley4690_565">ther cowthe nomanne telle þe tale</l>
     	<l xml:id="harley4690_566">the wẏnde was both gode & kene</l>
     	<l xml:id="harley4690_567">and drove hẏm vn to mẏssene</l>
     	<l xml:id="harley4690_568">and Bẏ fore the yate of Grẏffoune</l>
-    	<l xml:id="harley4690_569">kẏng Richarde þẏght ys pavẏlonne.</l>
+    	<l xml:id="harley4690_569">kẏng Richarde þẏght ys pavẏlonne.</l> <!--SLG trans: [þẏght] to [pẏght]-->
     	<l xml:id="harley4690_570" n="570">the kyng of ffrawnce þere he ffownde</l>
     	<l xml:id="harley4690_571">with pauelounes sqware & Rownde</l>
     	<l xml:id="harley4690_572">Eyther of hem kyssed other</l>
@@ -707,7 +707,7 @@
     	<l xml:id="harley4690_577">and to do kyng Richarde dẏstawnce</l>
     	<l xml:id="harley4690_578">and lete compẏle a letter</l>
     	<l xml:id="harley4690_579">to þe kyng of the londe theere</l>
-    	<l xml:id="harley4690_580" n="580">ȝ seide kyng R[ichard] with strong honde</l>
+    	<l xml:id="harley4690_580" n="580">ȝ seide kyng R[ichard] with strong honde</l> <!--SLG trans: middots surrounding [R[ichard]]-->
     	<l xml:id="harley4690_581">was comen to drẏve hẏm off londe</l>
     	<l xml:id="harley4690_582">Tanker kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
     	<l xml:id="harley4690_583">and for thys letter seẏde alas</l>
@@ -736,9 +736,9 @@
 
     	<l xml:id="harley4690_604">sende to hym thẏ messawngere .</l>
     	<l xml:id="harley4690_605">and he wylle come to yow here</l>
-    	<l xml:id="harley4690_606">and speke with yow right fawe</l>
-    	<l xml:id="harley4690_607">and watte he thynketh to beknawe.</l>
-    	<l xml:id="harley4690_608">kyng tanker wyth outen faẏle</l>
+    	<l xml:id="harley4690_606">and speke with yow right fawe</l> <!--SLG trans: is [right] capitalized?-->
+    	<l xml:id="harley4690_607">and watte he thẏnketh to beknawe.</l>
+    	<l xml:id="harley4690_608">kyng tanker wyth outen faẏle</l> <!--SLG trans: there's a large mark between [tanker] and [wyth]. Is it a middot or just an abberation on the manuscript?-->
     	<l xml:id="harley4690_609">dyd[e] after ys sones cownceẏle.</l>
     	<l xml:id="harley4690_610" n="610">kyng Richarde cometh forthe y wẏsse</l>
     	<l xml:id="harley4690_611">vn to the cite of nowbell Rẏse</l><!--LKN expl: the city of Reggio.-->
@@ -751,7 +751,7 @@
     	<l xml:id="harley4690_618">me ys done to vnderstonde</l>
     	<l xml:id="harley4690_619">of the nowbell men of þys londe</l>
     	<l xml:id="harley4690_620" n="620">that þ[ou] art comen with power</l>
-    	<l xml:id="harley4690_621">to reve me of my londe here.</l>
+    	<l xml:id="harley4690_621">to reve me of my londe here.</l> <!--SLG trans: [reve] capitalized?-->
     	<l xml:id="harley4690_622">the wer better be a trew pylgryme</l>
     	<l xml:id="harley4690_623">and werre vppon Sarazẏne</l>
     	<l xml:id="harley4690_624">þan for to greue a crystenne kyng</l>
@@ -765,7 +765,7 @@
     	<l xml:id="harley4690_632">ẏ newe notte tarẏ butt thys daye</l>
     	<l xml:id="harley4690_633">and to morowe y wẏll wende my waẏ</l>
     	<l xml:id="harley4690_634">kẏng Richarde prayed þat gentyl kyng</l>
-    	<l xml:id="harley4690_635">to þatte on hẏm noon ylle thyng</l>
+    	<l xml:id="harley4690_635">to þatte on hẏm noon ylle thyng</l> <!--SLG trans: [þatte] to [putte]-->
     	<l xml:id="harley4690_636">menẏ wene to greue other</l> <!--LKN text: the shortness of the line here suggests that the copyist may have neglected to write down a word, likely "men" between "menẏ" and "wene."-->
     	<l xml:id="harley4690_637">and ys owen necke falleth þer vnder</l>
     	<l xml:id="harley4690_638">and who so doth me anẏ despyte</l>
@@ -774,9 +774,11 @@
     	<l xml:id="harley4690_641">lo here the letter wreten ys</l>
     	<l xml:id="harley4690_642">that þe kyng of frawnce me sente</l>
     	<l xml:id="harley4690_643">thys ȝender day in presente</l>
-    	<l xml:id="harley4690_644">thanne kyng of frawnce wold[e] hym no gode</l>
+	<!--SLG trans: missing line-->
+	thanne kyng Richarde vnderstonde
+    	<l xml:id="harley4690_644">that the kyng of frawnce wold[e] hym no gode</l>
     	<l xml:id="harley4690_645">Butte he an Tanker yn trew trest</l>
-    	<l xml:id="harley4690_646">Became frendes yn the beste.</l>
+    	<l xml:id="harley4690_646">Became frendes yn the beste.</l> <!--SLG trans: [beste] to [Beste]-->
     	<l xml:id="harley4690_647">That myght Be yn any londe.</l>
 
 fol. 113r
