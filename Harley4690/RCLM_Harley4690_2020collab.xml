@@ -589,7 +589,7 @@
     	<pb xml:id="harley4690_fol112r" n="fol112r" facs="harley_ms_4690_f112r.tif"/>
     	<cb n="1"/>
 
-    	<l xml:id="harley4690_474">Atte þatt game Richarde lowghe</l>
+    	<l xml:id="harley4690_474">Atte þatt game <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> lowghe</l>
     	<l xml:id="harley4690_475">and of ys harme þe kerchewes drewe . </l>
     	<l xml:id="harley4690_476">he openedde hym atte þe breste bone </l>
     	<l xml:id="harley4690_477">and touke oute ys herte anone . </l>
@@ -629,7 +629,7 @@
     	<l xml:id="harley4690_512">and also ys felaws tweẏe</l>
     	<l xml:id="harley4690_513">ẏ wold[e] theẏ wer hennes awaẏ</l>
     	<l xml:id="harley4690_514">þe Emperour swere by [Ihesu]</l>
-    	<l xml:id="harley4690_515">Of lyme and stone y have an house</l> <!--LKN text: As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe-->
+    	<l xml:id="harley4690_515">Of lyme and stone y have an house</l><note>As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe--></note>
     	<l xml:id="harley4690_516">þatt howse k[ing] Richard fylle schulde</l>
     	<l xml:id="harley4690_517">fulle of sẏluer and of golde .</l>
     	<l xml:id="harley4690_518">And elles to lye in prẏson euermore .</l>
