@@ -17,8 +17,8 @@
 	  ]>
 <!-- SNM: TEI header adapted from the header Caitlin created for the Wynkyn1509 XML-->
 <!-- CMP: feel free to borrow/adapt from the RCLM_teiHeader blank from the Editorial Policies folder in the shared drive (https://drive.google.com/file/d/14NIwrux1HOt2EuljyKp0PODMeXqfRKOr/view?usp=sharing). I don't remember if/how it is different from Wynken specifically. -->	  
-<TEI xml:id="harley4690" xmlns="http://www.tei-c.org/ns/1.0"> 
 
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -77,7 +77,7 @@
         <revisionDesc><!-- to be incorporated after initial editing to log when changes are made -->
             <change who="#" when="2014-01-01">Corrected reading of ... </change>
         </revisionDesc>
-    </teiHeader>
+    </teiHeader> 
 
 
 <text>
@@ -89,42 +89,42 @@
         <l xml:id="harley4690_1">That itte was <name type="person" ref="#KingRichard">Richarde</name> the kingge</l>
         <l xml:id="harley4690_2">he wende he hadde be att <name type="place" subtype="tournament" ref="#Salisbury">Salesbur&ydot;</name></l> <!--LKN expl: The Salisbury Tournament is a fictional episode.-->
         <l xml:id="harley4690_3">att the <rs type="place" subtype="tournament">castell</rs> and made hem mer&ydot;</l>
-        <l xml:id="harley4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
-        <l xml:id="harley4690_5"><name type="person" subtype="historical" subtype="fictional" ref="#FoukDoly">Sir ffoukedol&ydot;</name> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
-        <l xml:id="harley4690_6">amydde is schelde with outen tale</l>
-        <l xml:id="harley4690_7">that itte to scheuerid in to pecis smale</l> 
-        <l xml:id="harley4690_8">And with that d&ydot;nte so harde he threste</l>
-        <l xml:id="harley4690_9">That the schafte a too he Braste</l>
-        <l xml:id="harley4690_10" n="10">The knight fell down sothe to se&ydot;e</l>
-        <l xml:id="harley4690_11">The kingge Rode northe on is &middot; we&ydot;</l>
-        <l xml:id="harley4690_12">&ydot;n to the foreste is we&ydot; he name</l>
-        <l xml:id="harley4690_13">ther wist no man were he became</l>
-        <l xml:id="harley4690_14"><name type="character" subtype="historical" ref="#FoukDoly">S&ydot;r ffoukdol&ydot;</name> with moche paine</l>
-        <l xml:id="harley4690_15">On horse was &ydot; sette againe &period;</l> 
+        <l xml:id="harley4690_4">The&ydot; priked ther <rs type="animal"><rs subtype="knight">stede</rs></rs> &yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
+        <l xml:id="harley4690_5"><name type="person" subtype="historical" ref="#FoukDoly">Sir ffoukedol&ydot;</name> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
+        <l xml:id="harley4690_6">amydde is <rs type="thing">schelde</rs> with outen <rs type="thing"><rs subtype="narrative">tale</rs></rs></l>
+        <l xml:id="harley4690_7">that itte to scheuerid in to <rs type="thing">smale</rs></l> 
+        <l xml:id="harley4690_8">And with that <rs type="thing">d&ydot;nte</rs> so harde he threste</l>
+        <l xml:id="harley4690_9">That the <rs type="thing"><rs subtype="weapon">schafte</rs></rs> a too he Braste</l>
+        <l xml:id="harley4690_10" n="10">The <rs type="person">knight</rs> fell down <rs type="thing"><rs subtype="narrative">sothe to se&ydot;e</rs></rs></l>
+        <l xml:id="harley4690_11">The <rs type="person" ref="#KingRichard">kingge</rs> Rode <rs type="place"><rs subtype="direction">northe,</rs></rs> on is &middot; we&ydot;</l>
+        <l xml:id="harley4690_12">&ydot;n to the <rs type="place"><rs subtype="boundary"><rs subtype="identity">foreste</rs></rs></rs> is we&ydot; he name</l>
+        <l xml:id="harley4690_13">ther wist no <rs type="thing"><rs type="person">man</rs></rs> were he became</l>
+        <l xml:id="harley4690_14"><name type="person" subtype="historical" ref="#FoukDoly">S&ydot;r ffoukdol&ydot;</name> with moche <rs type="thing"><rs subtype="body">paine</rs></rs></l>
+        <l xml:id="harley4690_15">On <rs type="animal"><rs subtype="knight">horse</rs></rs> was &ydot; sette againe &period;</l> 
         <l xml:id="harley4690_16">This was the firste t&ydot;me &ydot; &yogh;ow plight</l>
-        <l xml:id="harley4690_17">that <name type="character" subtype="historical" ref="#KingRichard">king Richarde</name> preued is myght</l>
-        <l xml:id="harley4690_18"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of is strengthe he had gode game</l>
-        <l xml:id="harley4690_19">and went home in goddis name</l>
-        <l xml:id="harley4690_20" n="20">&ydot;n to the castell b&ydot; a derne wa&ydot;</l>
-        <l xml:id="harley4690_21">that no man knewe h&ydot;m <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot;</l>
-        <l xml:id="harley4690_22">he vnarmed h&ydot;m sekyr <choice><abbr>&thorn;</abbr><expan>&thorn;on</expan></choice> be</l> <!--LKN text: Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.-->
-        <l xml:id="harley4690_23">Nough of the knightes speke Whe</l>
-        <l xml:id="harley4690_24">and of the iustes that was <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot; </l>
+        <l xml:id="harley4690_17">that <name type="person" subtype="historical" ref="#KingRichard">king Richarde</name> preued is myght</l>
+        <l xml:id="harley4690_18"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of is <rs type="thing"><rs subtype="value">strengthe</rs></rs> he had gode game</l>
+        <l xml:id="harley4690_19">and went <rs type="place">home</rs> in <rs type="person"><rs type="thing"><rs subtype="religion"><rs subtype="christian"><rs subtype="England"><rs subtype="nationalism"><rs subtype="racism"><rs subtype="authority">goddis</rs></rs></rs></rs></rs></rs></rs></rs> name</l>
+        <l xml:id="harley4690_20" n="20">&ydot;n to the <rs type="place">castell</rs> b&ydot; a <rs type="place"><rs subtype="directon">derne wa&ydot;</rs></rs></l>
+        <l xml:id="harley4690_21">that no <rs type="person"><rs subtype="abstract">man</rs></rs> knewe h&ydot;m <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot;</l>
+        <l xml:id="harley4690_22"><name type="person" ref="#KingRichard">he</name> vnarmed <name type="person" ref="#KingRichard">h&ydot;m</name> sekyr <choice><abbr>&thorn;</abbr><expan>&thorn;on</expan></choice> be</l> <!--LKN text: Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.-->
+        <l xml:id="harley4690_23">Nough of the <rs type="person">knightes</rs> speke <rs type="person"><rs subtype="narrative">Whe</rs></rs></l>
+        <l xml:id="harley4690_24">and of the <rs type="thing">iustes</rs> that was <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot; </l>
         <l xml:id="harley4690_25">and hough thei passidde then awa&ydot;</l>
         <l xml:id="harley4690_26">Thei commawndede hastel&ydot;</l>
-        <l xml:id="harley4690_27">The heraude&yogh; to make acr&ydot;e</l>
-        <l xml:id="harley4690_28">and euer&ydot; man for to wende</l>
-        <l xml:id="harley4690_29">home tille is owne ffrende</l>
-        <l xml:id="harley4690_30" n="30">The king a messawnger gan sende</l> <!--LKN summ: King Richard summons Sir Thomas Multon and Sir Fouk Doily-->
+        <l xml:id="harley4690_27">The <rs type="person">heraude&yogh;</rs> to make <rs type="thing"><rs subtype="authority"><rs subtype="Speech">acr&ydot;e</rs></rs></rs></l>
+        <l xml:id="harley4690_28">and euer&ydot; <rs type="person"><rs subtype="gender">man</rs></rs> for to wende</l>
+        <l xml:id="harley4690_29"><rs type="place">home</rs> tille is owne <rs type="person"><rs subtype="relationship">ffrende</rs></rs></l>
+        <l xml:id="harley4690_30" n="30">The <rs type="person" ref="#KingRichard">king</rs> a <rs type="person"><rs subtype="suthority"><rs subtype="Speech">messawnger</rs></rs></rs> gan sende</l> <!--LKN summ: King Richard summons Sir Thomas Multon and Sir Fouk Doily-->
         <l xml:id="harley4690_31"><choice><abbr>&amp;</abbr><expan>and</expan></choice> bad h&ydot;m priuel&ydot; for to wende</l>
-        <l xml:id="harley4690_32">To <name type="character" subtype="historical" ref="#ThomasMoulton">S&ydot;r Thomas</name> of moltoune</l>
-        <l xml:id="harley4690_33">that was a nobell baroune</l>
-        <l xml:id="harley4690_34">and to S&ydot;r &middot; <name type="character" subtype="historical" ref="#FoukDoly">ffoukedoly</name></l> <!--SLG: does the policy of encoding the title when it appears with the name of a character still apply when the title and name are separated by a punctuation mark?-->
-        <l xml:id="harley4690_35">that thei come to me an highe</l>
-        <l xml:id="harley4690_36">that thei dwelle in no manere</l>
-        <l xml:id="harley4690_37">Tille that &thorn;ei be bothen here</l>
-        <l xml:id="harley4690_38">the messanger sone was wente</l>
-        <l xml:id="harley4690_39">And seid the king to them had sente</l>
+        <l xml:id="harley4690_32">To <name type="person" ref="#ThomasMoulton">S&ydot;r Thomas</name> of moltoune</l>
+        <l xml:id="harley4690_33">that was a nobell <rs type="person"><rs subtype="title"><rs subtype="gender">baroune</rs></rs></rs></l>
+        <l xml:id="harley4690_34">and to <name type="person" ref="#FoukDoly">S&ydot;r &middot; ffoukedoly</name></l> <!--SLG: does the policy of encoding the title when it appears with the name of a character still apply when the title and name are separated by a punctuation mark?-->
+        <l xml:id="harley4690_35">that <rs type="person" ref="#FoukDoly"><rs type="person" ref="#ThomasMoulton">thei</rs></rs> come to me an highe</l>
+        <l xml:id="harley4690_36">that <rs type="person" ref="#FoukDoly"><rs type="person" ref="#ThomasMoulton">thei</rs></rs> dwelle in no manere</l>
+        <l xml:id="harley4690_37">Tille that <rs type="person" ref="#FoukDoly"><rs type="person" ref="#ThomasMoulton">&thorn;ei</rs></rs> be bothen here</l>
+        <l xml:id="harley4690_38">the <rs type="person"><rs subtype="authority">messanger</rs></rs> sone was wente</l>
+        <l xml:id="harley4690_39">And <rs type="thing"><rs subtype="authority"><rs subtype="speech">seid</rs></rs></rs> the <rs type="person" ref="#KingRichard">king</rs> to <rs type="person" ref="#FoukDoly"><rs type="person" ref="#ThomasMoulton">them</rs></rs> had sente</l>
         
         <pb xml:id="harley4690_fol109v" n="fol109v" facs="harley_ms_4690_f109v.tif"/>
         <cb n="1"/>
