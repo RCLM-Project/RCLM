@@ -638,36 +638,36 @@
 
 	<cb n="2"/>
 
-    	<l xml:id="harley4690_519">Thus hath the emperour ys hothe swore</l> <!--SLG trans: is [emperour] capitalized? Compare to [Emperour] five lines above, and [Englond[e]] two lines below-->
-    	<l xml:id="harley4690_520" n="520">anone kyng Richard[e] verament</l> <!--SLG trans: [Richard[e]] to [Richarde]. Final [e] is not abbreviated-->
-    	<l xml:id="harley4690_521">ẏn to Englond[e] letters he sente .</l>
+    	<l xml:id="harley4690_519">Thus hath the <name type="person" ref="#EmperorAlmayne">emperour</name> ys hothe swore</l> <!--SLG trans: is [emperour] capitalized? Compare to [Emperour] five lines above, and [Englond[e]] two lines below-->
+    	<l xml:id="harley4690_520" n="520">anone <name type="person" subtype="historical" ref="#KingRichard">kyng Richard[e]</name> verament</l> <!--SLG trans: [Richard[e]] to [Richarde]. Final [e] is not abbreviated-->
+    	<l xml:id="harley4690_521">ẏn to <name type="place" ref="#England">Englond[e]</name> letters he sente .</l>
     	<l xml:id="harley4690_522">To vs owne chawnceler</l>
     	<l xml:id="harley4690_523">the letters spake as ȝe maẏ here</l>
-    	<l xml:id="harley4690_524">kẏng Richarde lythe yn prẏson[ne]</l>
+    	<l xml:id="harley4690_524"><name type="person" subtype="historical" ref="#KingRichard">kẏng Richarde</name> lythe yn prẏson[ne]</l>
     	<l xml:id="harley4690_525">and moste haue grete rawnson[ne]</l> <!--SLG trans: [rawnson[ne]] capitalized?-->
     	<l xml:id="harley4690_526">Tresoure anne howse to fẏlle .</l>
     	<l xml:id="harley4690_527">Other elles yn prẏson he schall spẏlle</l>
     	<l xml:id="harley4690_528">thenne was ther made ẏ vnderstond[e]</l>
-    	<l xml:id="harley4690_529">a taxe thwrghe owte englond[e]</l>
+    	<l xml:id="harley4690_529">a taxe thwrghe owte <name type="place" ref="#England">englond[e]</name></l>
     	<l xml:id="harley4690_530" n="530">ẏn abbeys and chyrches also</l>
     	<l xml:id="harley4690_531">where ther nere butt chaleẏs too</l>
     	<l xml:id="harley4690_532">thet sone þeẏ towke w[ith] owte lesẏng</l>
-    	<l xml:id="harley4690_533">& þus rawnsomed[e] E[nglonde] for owre kẏnge.</l> <!--LKN expl: might be worth including a note on the randoming of Richard as it is historically recorded-->
+    	<l xml:id="harley4690_533">& þus rawnsomed[e] <name type="place" ref="#England">E[nglonde]</name> for owre kẏnge.</l> <!--LKN expl: might be worth including a note on the randoming of Richard as it is historically recorded-->
     	<l xml:id="harley4690_534">Whenne þe tresoure come þ[er] itte schuld[e] be</l>
     	<l xml:id="harley4690_535">Theẏ hadde ẏ Browght soche three.</l>
     	<l xml:id="harley4690_536">As theẏ hadde nede there fore</l>
     	<l xml:id="harley4690_537">Butt alle to geder ytte leued[e] there</l>
-    	<l xml:id="harley4690_538">kẏng Richard[e] swere by seint Joon</l> <!--LKN expl: note for St. John needed here--> 
+    	<l xml:id="harley4690_538"><name type="person" subtype="historical" ref="#KingRichard">kẏng Richard[e]</name> swere by seint Joon</l> <!--LKN expl: note for St. John needed here--> <!-- APB: don't know if I need to tag St. John as part of phase 3? -->
     	<l xml:id="harley4690_539">he wolde haue too for oon[e]</l>
     	<l xml:id="harley4690_540" n="540">thanne the kẏng y vnderstonde</l>
     	<l xml:id="harley4690_541">towke ys dowghter by the honde.</l>
-    	<l xml:id="harley4690_542">and bad her wẏth Richarde goo</l>
+    	<l xml:id="harley4690_542">and bad her wẏth <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> goo</l>
     	<l xml:id="harley4690_543">oute of ys londe for euermoo.</l>
     	<l xml:id="harley4690_544">he swore by alle ys parage</l>
     	<l xml:id="harley4690_545">thare schuld[e] sche have non herytage</l>
-    	<l xml:id="harley4690_546">thws come Richarde owte of pryson[ne]</l>
+    	<l xml:id="harley4690_546">thws come <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> owte of pryson[ne]</l>
     	<l xml:id="harley4690_547">God[e] ȝeffe vs alle ys Benesonne.</l>
-    	<l xml:id="harley4690_548">ẏn to Englond[e] wente he thoo</l>
+    	<l xml:id="harley4690_548">ẏn to <name type="place" ref="#England">Englond[e]</name> wente he thoo</l>
     	<l xml:id="harley4690_549">and ys too frendes so mote ẏ goo.</l>
 	<!--SLG trans: 4 lines missing. All line numbers below need to be adjusted accordingly-->
 	<l xml:id="harley4690_550" n="550">there þey maden moche gladyng</l>
@@ -675,15 +675,15 @@
 	<l xml:id="harley4690_552">ffor love þer lorde was come to londe</l>
 	<l xml:id="harley4690_553">theẏ thonked[e] owght goddẏs sonde.</l> <!--SLG trans: is that a rip above [owght]?-->
     	<l xml:id="harley4690_554">home þey wente to þere contreẏs alle</l>
-    	<l xml:id="harley4690_555">and att westmyster þe kẏng gan stalle</l>
+    	<l xml:id="harley4690_555">and att <name type="place" ref="#Westminster">westmyster</name> þe kẏng gan stalle</l>
     	<l xml:id="harley4690_556">	sone after thys playẏng</l>
-    	<l xml:id="harley4690_557">	kẏng Rich[ard] dyd a nother thẏng</l>
+    	<l xml:id="harley4690_557">	<name type="person" subtype="historical" ref="#KingRichard">kẏng Rich[ard]</name> dyd a nother thẏng</l>
     	<l xml:id="harley4690_558">ys londe he towke the chawncelere</l>
     	<l xml:id="harley4690_559">and be came goddes palmerre</l><!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
     	<l xml:id="harley4690_560" n="560">and aȝenst goddys enemẏse</l>
-    	<l xml:id="harley4690_561">he     thowght to werre alle ways</l><!--LKN text: in this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line-->
+    	<l xml:id="harley4690_561">he     thowght to werre alle ways</l><note>In this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line.</note>
     	<l xml:id="harley4690_562">Bẏ   fore he went w[ith]e knyght[es] fyve</l> <!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
-    	<l xml:id="harley4690_563">By Brawnde?[e] and Bẏ costantyne</l> <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.-->
+    	<l xml:id="harley4690_563">By Brawnde?[e] and Bẏ <name type="place" ref="#Constantine">costantyne</name></l> <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.--> <!-- APB: I tagged Constantine as a place here but I am unsure about Brawnde[?] -->
 
     	<pb xml:id="harley4690_fol112v" n="fol112v" facs="harley_ms_4690_f112v.tif"/>
     	<cb n="1"/>
