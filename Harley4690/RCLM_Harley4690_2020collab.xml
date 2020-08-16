@@ -598,8 +598,8 @@
     	<l xml:id="harley4690_480" n="480">and of this dede of grete Renowne</l>
     	<l xml:id="harley4690_481">cleped he was conquer de lyoune</l>
     	<l xml:id="harley4690_482">Nough wente þese knyghtes al fyve</l>
-    	<l xml:id="harley4690_483">and tolde the emperour also blyve</l>
-    	<l xml:id="harley4690_484">that Richard and the lyoune</l>
+    	<l xml:id="harley4690_483">and tolde the <name type="person" ref="#EmperorAlmayne">emperour</name> also blyve</l>
+    	<l xml:id="harley4690_484">that <name type="person" subtype="historical" ref="#KingRichard">Richard</name> and the lyoune</l>
     	<l xml:id="harley4690_485">To geders wer ẏnne prysoune .</l>
     	<l xml:id="harley4690_486">Thenne seẏd[e] he by heuenne kyng</l>
     	<l xml:id="harley4690_487">ẏ am gladde of that tẏdẏngge .</l>
@@ -618,11 +618,11 @@
     	<l xml:id="harley4690_500" n="500">alle the knyghtes tho anone</l>
     	<l xml:id="harley4690_501">the pryson dore han vndone .</l>
     	<l xml:id="harley4690_502">and yn theẏ ȝede swythe sone</l>
-    	<l xml:id="harley4690_503">Richard seẏd ȝe be welcome</l> <!--SLG trans: middot following [Richard]?-->
+    	<l xml:id="harley4690_503"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> seẏd ȝe be welcome</l> <!--SLG trans: middot following [Richard]?-->
 	<!--SLG trans: missing line, added below. Line numbers have been corrected-->
 	<l xml:id="harley4690_504">theẏ sẏghe the lyon dede there</l>
     	<l xml:id="harley4690_505">theẏ renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
-    	<l xml:id="harley4690_506">thatt R[ichard] was all hole and sownde</l>
+    	<l xml:id="harley4690_506">thatt <name type="person" subtype="historical" ref="#KingRichard">R[ichard]</name> was all hole and sownde</l>
     	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
     	<l xml:id="harley4690_508">the kyng seẏd vn to the quene þo</l>
     	<l xml:id="harley4690_509">yff he dwelle here he wyss vs sloo .</l> <!--SLG trans: [wyss] to [wyll]. [s] is usually written as a straighter line while [l] has a loop on the top.-->
@@ -630,9 +630,9 @@
     	<l xml:id="harley4690_511">and swythe fleen owte of thys londe .</l>
     	<l xml:id="harley4690_512">and also ys felaws tweẏe</l>
     	<l xml:id="harley4690_513">ẏ wold[e] theẏ wer hennes awaẏ</l>
-    	<l xml:id="harley4690_514">þe Emperour swere by [Ihesu]</l>
-    	<l xml:id="harley4690_515">Of lẏme and stone y have an house</l><note>As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe--></note>
-    	<l xml:id="harley4690_516">þatt howse k[ing] Richard fylle schulde</l>
+    	<l xml:id="harley4690_514">þe <name type="person" ref="#EmperorAlmayne">Emperour</name> swere by [Ihesu]</l>
+    	<l xml:id="harley4690_515">Of lẏme and stone y have an house</l><note>As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe.</note>
+    	<l xml:id="harley4690_516">þatt howse <name type="person" subtype="historical" ref="#KingRichard">k[ing] Richard</name> fylle schulde</l>
     	<l xml:id="harley4690_517">fulle of sẏluer and of golde .</l>
     	<l xml:id="harley4690_518">And elles to lye in prẏson euermore .</l>
 
