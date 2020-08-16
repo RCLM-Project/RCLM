@@ -429,7 +429,7 @@
     	<l xml:id="harley4690_325">that he felle vppon the stone .</l> 
     	<l xml:id="harley4690_326">as ẏ am sworne to yow here</l>
     	<l xml:id="harley4690_327">thus itte was in this manere .</l>
-    	<l xml:id="harley4690_328">the emperour commawnded w[ith] grete mode</l> <!--APB trans: probably an [e] at the end of "emperour" -->
+    	<l xml:id="harley4690_328">the emperour commawnded[e] w[ith] grete mode</l> <!--APB trans: probably an [e] at the end of "emperour" -->
     	<l xml:id="harley4690_329">he schold[e] duelle in pryson stẏlle .</l> 
     	<l xml:id="harley4690_330" n="330">and for he had ys sone ẏ slawghe</l>
     	<l xml:id="harley4690_331">he shuld[e] be demedd[e] bẏ londes lawghe</l> 
@@ -453,7 +453,7 @@
     	<l xml:id="harley4690_346">fforthe come Richard[e] þe nowbel man</l>
     	<l xml:id="harley4690_347">and well hendelyche he grete her þan</l>
     	<l xml:id="harley4690_348">damoysell he seide with herte ffree</l>
-    	<l xml:id="harley4690_349">watt ys þi wille to sey vn to me</l> <!--APB trans: there appears to be an abbreviation above "þi" > is it "þi[er]" or something like "their?-->
+    	<l xml:id="harley4690_349">watt ys þi wille to sey vn to me</l> <!--APB trans: there appears to be an abbreviation above "þi" > is it "þi[er]" or something like "their?--> <!--SLG trans: I think it's an abbreviation for [s], so þi[s]-->
     	<l xml:id="harley4690_350" n="350">Oute take sche seide god above .</l> 
     	<l xml:id="harley4690_351">of alle men moste y þe love .</l> 
     	<l xml:id="harley4690_352">wat maẏ my loue he seide availe þe</l>
@@ -468,19 +468,19 @@
     	<l xml:id="harley4690_361">y the commawnde for my sake</l>
     	<l xml:id="harley4690_362">and serue hẏm well in all wẏse</l>
     	<l xml:id="harley4690_363">as þ[u] wiste dwell ynne þẏ seruyse</l>
-    	<l xml:id="harley4690_364">and to mẏ bour þ[u] schalte hym bring</l> <!--APB trans: I think "bring" is spelled "bryng"-->
+    	<l xml:id="harley4690_364">and to mẏ bour þ[u] schalte hym bring</l> <!--APB trans: I think "bring" is spelled "bryng"--> <!--SLG trans: there's also a horizontal dash following the [g], which I think could stand for a final [e]-->
     	<l xml:id="harley4690_365">after soper ẏnne þe Euenyng</l>
     	<l xml:id="harley4690_366">yn attyre of a squẏer</l>
     	<l xml:id="harley4690_367">Mẏ selfe ẏ schall holpe ȝow þere</l>
-    	<l xml:id="harley4690_368">and by swete seint Sẏmonne</l>
+    	<l xml:id="harley4690_368">and by swete seint Sẏmonne</l> <!--SLG trans: [Sẏmonne] to [sẏmonne]-->
     	<l xml:id="harley4690_369">though schalte haue gode warẏȝo[u]n</l>
     	<l xml:id="harley4690_370" n="370">att euen he forȝate itte nought</l>
-    	<l xml:id="harley4690_371">to her chaumber he hath hym brought</l>
+    	<l xml:id="harley4690_371">to her chaumber he hath hym brought</l> <!--SLG trans: horizontal dash above and extending past [brought]. Does this indicate a final [e]?-->
     	<l xml:id="harley4690_372">With that lady he dwelled stẏlle</l>
     	<l xml:id="harley4690_373">and with her played[e] alle ys fylle</l>
     	<l xml:id="harley4690_374">Till that seuen dayes wer agoon</l>
     	<l xml:id="harley4690_375">there of wist none of ys ssoon</l>
-    	<l xml:id="harley4690_376">he was apried of a knyghte .</l> 
+    	<l xml:id="harley4690_376">he was apried of a knyghte .</l> <!--SLG trans: [apried] to [aspied]-->
     	<l xml:id="harley4690_377">hough he come to her anyghte .</l> 
     	<l xml:id="harley4690_378">priuelyche he tolde the kyngge</l>
     	<l xml:id="harley4690_379">þatt forleine was ys dowghter yong</l>
