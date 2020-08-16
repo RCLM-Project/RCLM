@@ -722,15 +722,15 @@
     	<l xml:id="harley4690_595">anone thys letter he vndede</l>
     	<l xml:id="harley4690_596">and seid[e] lordes þe <name type="person" subtype="historical" ref="#KingPhilip">kẏng of ffrawnce</name></l>
     	<l xml:id="harley4690_597">hath warned[e] me of a dystawnce.</l>
-    	<l xml:id="harley4690_598">þatt kyng Richard wyth strong hond[e]</l>
+    	<l xml:id="harley4690_598">þatt <name type="person" subtype="historical" ref="#KingRichard">kyng Richard</name> wyth strong hond[e]</l>
     	<l xml:id="harley4690_599">ys come to dryue me owte of londe</l>
     	<l xml:id="harley4690_600" n="600">þe kyng ys sone spake full sone</l>
     	<l xml:id="harley4690_601">and seyd[e] for goddes love in troue</l>
     	<l xml:id="harley4690_602">mercẏ fader he seyd att þys tẏme</l>
-    	<l xml:id="harley4690_603">kyng Richarde ys a pylgrẏme</l>
+    	<l xml:id="harley4690_603"><name type="person" subtype="historical" ref="#KingRichard">kyng Richarde</name> ys a pylgrẏme</l>
     	<l xml:id="harley4690_604">and ẏ crossed y vnderstonde</l><!--LKN expl: note needed here about being "crossed" and its implications in tandem with the term pilgrim in the preceding line.-->
     	<l xml:id="harley4690_605">for to passe to holy londe .</l>
-    	<l xml:id="harley4690_606">for kyng Richarde y dar swere</l>
+    	<l xml:id="harley4690_606">for <name type="person" subtype="historical" ref="#KingRichard">kyng Richarde</name> y dar swere</l>
     	<l xml:id="harley4690_607">he ne schall suffer no dawngere.</l>
 
     	<cb n="2"/>
@@ -739,33 +739,33 @@
     	<l xml:id="harley4690_609">and he wylle come to yow here</l>
     	<l xml:id="harley4690_610" n="610">and speke with yow right fawe</l> <!--SLG trans: is [right] capitalized?-->
     	<l xml:id="harley4690_611">and watte he thẏnketh to beknawe.</l>
-    	<l xml:id="harley4690_612">kyng tanker wyth outen faẏle</l> <!--SLG trans: there's a large mark between [tanker] and [wyth]. Is it a middot or just an abberation on the manuscript?-->
+    	<l xml:id="harley4690_612"><name type="person" subtype="historical" ref="#KingTancred">kyng tanker</name> wyth outen faẏle</l> <!--SLG trans: there's a large mark between [tanker] and [wyth]. Is it a middot or just an abberation on the manuscript?-->
     	<l xml:id="harley4690_613">dyd[e] after ys sones cownceẏle.</l>
-    	<l xml:id="harley4690_614">kyng Richarde cometh forthe y wẏsse</l>
-    	<l xml:id="harley4690_615">vn to the cite of nowbell Rẏse</l><!--LKN expl: the city of Reggio.-->
-    	<l xml:id="harley4690_616">he fownde kyng Tanker in ys halle</l>
+    	<l xml:id="harley4690_614"><name type="person" subtype="historical" ref="#KingRichard">kyng Richarde</name> cometh forthe y wẏsse</l>
+    	<l xml:id="harley4690_615">vn to the cite of nowbell <name type="place" ref="#Reggio">Rẏse</name></l><!--LKN expl: the city of Reggio.-->
+    	<l xml:id="harley4690_616">he fownde <name type="person" subtype="historical" ref="#KingTancred">kyng Tanker</name> in ys halle</l>
     	<l xml:id="harley4690_617">among hys Erlys & Barounes alle</l>
     	<l xml:id="harley4690_618">and eyther of hem grete other faẏre</l>
     	<l xml:id="harley4690_619">With mẏlde wordes and bonere</l>
-    	<l xml:id="harley4690_620" n="620">than he seẏde to kyng Richard[e]</l> <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
-    	<l xml:id="harley4690_621">syr he seẏde by seynt leonarde.</l>
+    	<l xml:id="harley4690_620" n="620">than he seẏde to <name type="person" subtype="historical" ref="#KingRichard">kyng Richard[e]</name></l> <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
+    	<l xml:id="harley4690_621">syr he seẏde by <name type="person" subtype="religious" ref="StLeonard">seynt leonarde</name>.</l> <!--APB: don't know if I should tag St. Leonard or not? -->
     	<l xml:id="harley4690_622">me ys done to vnderstonde</l>
     	<l xml:id="harley4690_623">of the nowbell men of þys londe</l>
     	<l xml:id="harley4690_624">that þ[ou] art comen with power</l>
     	<l xml:id="harley4690_625">to reve me of my londe here.</l> <!--SLG trans: [reve] capitalized?-->
     	<l xml:id="harley4690_626">the wer better be a trew pylgryme</l>
-    	<l xml:id="harley4690_627">and werre vppon Sarazẏne</l>
-    	<l xml:id="harley4690_628">þan for to greue a crystenne kyng</l>
+    	<l xml:id="harley4690_627">and werre vppon Sarazẏne</l> <!--APB: don't know how to proceed with tagging "Sarazẏne" -->
+    	<l xml:id="harley4690_628">þan for to greue a crystenne kyng</l> <!--APB: don't know how to proceed with tagging "crystenne kyng" -->
     	<l xml:id="harley4690_629">þatt never mysdede the no thẏng</l>
-    	<l xml:id="harley4690_630" n="630">k[ing] Richarde was sore aschamed[e]</l>
+    	<l xml:id="harley4690_630" n="630"><name type="person" subtype="historical" ref="#KingRichard">k[ing] Richarde</name> was sore aschamed[e]</l>
     	<l xml:id="harley4690_631">and of thes wordes sore agraiuedd[e]</l>
-    	<l xml:id="harley4690_632">and seẏd[e] Tanker þ[ou] arte mystawghte</l> 
+    	<l xml:id="harley4690_632">and seẏd[e] <name type="person" subtype="historical" ref="#KingTancred">Tanker</name> þ[ou] arte mystawghte</l> 
     	<l xml:id="harley4690_633">to haue on me soche a thowghte.</l>
     	<l xml:id="harley4690_634">and soche a tresoune on me soche</l>
     	<l xml:id="harley4690_635">þat bere on my flesche the crowche</l>
     	<l xml:id="harley4690_636">ẏ newe notte tarẏ butt thys daye</l>
     	<l xml:id="harley4690_637">and to morowe y wẏll wende my waẏ</l>
-    	<l xml:id="harley4690_638">kẏng Richarde prayed þat gentyl kyng</l>
+    	<l xml:id="harley4690_638"><name type="person" subtype="historical" ref="#KingRichard">kẏng Richarde</name> prayed þat gentyl kyng</l>
     	<l xml:id="harley4690_639">to þatte on hẏm noon ylle thyng</l> <!--SLG trans: [þatte] to [putte]-->
     	<l xml:id="harley4690_640" n="640">menẏ wene to greue other</l> <!--LKN text: the shortness of the line here suggests that the copyist may have neglected to write down a word, likely "men" between "menẏ" and "wene."-->
     	<l xml:id="harley4690_641">and ys owen necke falleth þer vnder</l>
@@ -773,16 +773,17 @@
     	<l xml:id="harley4690_643">hẏm self schall nott passe alle quyte</l>
     	<l xml:id="harley4690_644">syr ne be ȝe notte wrothe for thys</l>
     	<l xml:id="harley4690_645">lo here the letter wreten ys</l>
-    	<l xml:id="harley4690_646">that þe kyng of frawnce me sente</l>
+    	<l xml:id="harley4690_646">that þe <name type="person" subtype="historical" ref="#KingPhilip">kyng of frawnce</name> me sente</l>
     	<l xml:id="harley4690_647">thys ȝender day in presente</l>
 	<!--SLG trans: missing line, added below, line numbers fixed-->
-	<l xml:id="harley4690_648">thanne kyng Richarde vnderstode</l>
-    	<l xml:id="harley4690_649">that the kyng of frawnce wold[e] hym no gode</l>
-    	<l xml:id="harley4690_650" n="650">Butte he an Tanker yn trew trest</l>
+    	<l xml:id="harley4690_648">thanne <name type="person" subtype="historical" ref="#KingRichard">kyng Richarde</name> vnderstode</l>
+    	<l xml:id="harley4690_649">that the <name type="person" subtype="historical" ref="#KingPhilip">kyng of frawnce</name> wold[e] hym no gode</l>
+    	<l xml:id="harley4690_650" n="650">Butte he an <name type="person" subtype="historical" ref="#KingTancred">Tanker</name> yn trew trest</l>
     	<l xml:id="harley4690_651">Became frendes yn the beste.</l> <!--SLG trans: [beste] to [Beste]-->
     	<l xml:id="harley4690_652">That myght Be yn any londe.</l>
 
 <!--SLG: phase 1 complete for fol 112-->
+<!--APB: phase 3 complete for fol 112, though I did leave a few notes regarding uncertain tags-->
 
 fol. 113r
 
