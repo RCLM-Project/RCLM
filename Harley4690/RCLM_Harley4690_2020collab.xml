@@ -689,38 +689,38 @@
     	<cb n="1"/>
 
     	<l xml:id="harley4690_564">And With ẏnne a Whẏle afterwarde</l>
-    	<l xml:id="harley4690_565">so come dowghtẏ kẏng Richarde.</l>
+    	<l xml:id="harley4690_565">so come dowghtẏ <name type="person" subtype="historical" ref="#KingRichard">kẏng Richarde</name>.</l>
     	<l xml:id="harley4690_566">and to marcelly he wente arẏght</l>
     	<l xml:id="harley4690_567">wẏth Baronnes and manẏ a knẏghte</l>
     	<l xml:id="harley4690_568">wyth schẏppes and saleẏs grete ȝ smale</l> <!--SLG trans: [ȝ] to [&]-->
     	<l xml:id="harley4690_569">ther cowthe nomanne telle þe tale</l>
     	<l xml:id="harley4690_570" n="570">the wẏnde was both gode & kene</l>
     	<l xml:id="harley4690_571">and drove hẏm vn to mẏssene</l>
-    	<l xml:id="harley4690_572">and Bẏ fore the yate of Grẏffoune</l>
-    	<l xml:id="harley4690_573">kẏng Richarde þẏght ys pavẏlonne.</l> <!--SLG trans: [þẏght] to [pẏght]-->
-    	<l xml:id="harley4690_574">the kyng of ffrawnce þere he ffownde</l>
+    	<l xml:id="harley4690_572">and Bẏ fore the yate of Grẏffoune</l> <!--APB: unsure if "Grẏffoune" is a place or not or something else -->
+    	<l xml:id="harley4690_573"><name type="person" subtype="historical" ref="#KingRichard">kẏng Richarde</name> þẏght ys pavẏlonne.</l> <!--SLG trans: [þẏght] to [pẏght]-->
+    	<l xml:id="harley4690_574">the <name type="person" subtype="historical" ref="#KingPhilip">kyng of ffrawnce</name> þere he ffownde</l> <!-- APB: I tagged the king of france here but am not completely confident that this is what I'm supposed to do -->
     	<l xml:id="harley4690_575">with pauelounes sqware & Rownde</l>
     	<l xml:id="harley4690_576">Eyther of hem kyssed other</l>
     	<l xml:id="harley4690_577">and by come sweren brether</l>
     	<l xml:id="harley4690_578">ffor to wende to holẏ londe</l>
     	<l xml:id="harley4690_579">to venge [Iesu] ẏ vnderstonde</l>
-    	<l xml:id="harley4690_580" n="580">ẏn treson thought þe kẏng of frawnce</l>
-    	<l xml:id="harley4690_581">and to do kyng Richarde dẏstawnce</l>
+    	<l xml:id="harley4690_580" n="580">ẏn treson thought þe <name type="person" subtype="historical" ref="#KingPhilip">kẏng of frawnce</name></l>
+    	<l xml:id="harley4690_581">and to do <name type="person" subtype="historical" ref="#KingRichard">kyng Richarde</name> dẏstawnce</l>
     	<l xml:id="harley4690_582">and lete compẏle a letter</l>
     	<l xml:id="harley4690_583">to þe kyng of the londe theere</l>
-    	<l xml:id="harley4690_584">ȝ seide kyng R[ichard] with strong honde</l> <!--SLG trans: middots surrounding [R[ichard]]-->
+    	<l xml:id="harley4690_584">ȝ seide <name type="person" subtype="historical" ref="#KingRichard">kyng R[ichard]</name> with strong honde</l> <!--SLG trans: middots surrounding [R[ichard]]-->
     	<l xml:id="harley4690_585">was comen to drẏve hẏm off londe</l>
-    	<l xml:id="harley4690_586">Tanker kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
+    	<l xml:id="harley4690_586"><name type="person" subtype="historical" ref="#KingTancred">Tanker</name> kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
     	<l xml:id="harley4690_587">and for thys letter seẏde alas</l>
     	<l xml:id="harley4690_588">anone he sente a messangere</l>
-    	<l xml:id="harley4690_589">after ys sone syr Rogger[e]</l>
+    	<l xml:id="harley4690_589">after ys sone <name type="person" subtype="historical" ref="#Roger">syr Rogger[e]</l> <!--APB: don't know if Roger is worth tagging and what appropriate tag to use. -->
     	<l xml:id="harley4690_590" "n="590">thatt was kyng of cecyle londe</l> <!--LKN expl: note on Sicily-->
     	<l xml:id="harley4690_591">and Bade hym come to ys sonde</l>
     	<l xml:id="harley4690_592">and also after ys Barounes</l>
     	<l xml:id="harley4690_593">Erles and lordes of townes</l>
     	<l xml:id="harley4690_594">and whenne þeẏ wer yn a stede</l>
     	<l xml:id="harley4690_595">anone thys letter he vndede</l>
-    	<l xml:id="harley4690_596">and seid[e] lordes þe kẏng of ffrawnce</l>
+    	<l xml:id="harley4690_596">and seid[e] lordes þe <name type="person" subtype="historical" ref="#KingPhilip">kẏng of ffrawnce</name></l>
     	<l xml:id="harley4690_597">hath warned[e] me of a dystawnce.</l>
     	<l xml:id="harley4690_598">þatt kyng Richard wyth strong hond[e]</l>
     	<l xml:id="harley4690_599">ys come to dryue me owte of londe</l>
