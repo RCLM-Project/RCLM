@@ -566,8 +566,8 @@
     	<l xml:id="harley4690_452">Richard[e] thoughte ynne &thorn;att wyle</l> 
     	<l xml:id="harley4690_453">To slee the lyonne wyth ys g&ydot;le</l> 
     	<l xml:id="harley4690_454">the scharpe knyfe for&yogh;ate he notte</l> 
-    	<l xml:id="harley4690_455">Of gode st&ydot;le ytte was &ydot; wrowghte</l>  <!--LKN text: the scribe originally wrote "knygh" but crossed out the "gh" and wrote "fe" above the correction.--> 
-    	<l xml:id="harley4690_456">and semeliche yn ys cote stode</l> 
+    	<l xml:id="harley4690_455">Of gode st&ydot;le ytte was &ydot; wrowghte</l>  <!--LKN text: the scribe originally wrote "knygh" but crossed out the "gh" and wrote "fe" above the correction.--> <!--APB trans: this editorial note to line above?-->
+    	<l xml:id="harley4690_456">and semeliche yn ys cote stode</l> <!--APB trans: the "c" in "cote" might resemble an "s"?-->
     	<l xml:id="harley4690_457">to byde the lyon ffers and wode .</l>  
     	<l xml:id="harley4690_458">with that come the jayler</l>  <!--LKN text: the scrib seems to have mistakenly written a "c" but then wrote 'jayler' immediately following.-->
     	<l xml:id="harley4690_459">and the kn&ydot;ghte&yogh; all ynne feere</l> 
@@ -577,9 +577,9 @@
     	<l xml:id="harley4690_463">and the lyon &thorn;ey leted hym too .</l>  
     	<l xml:id="harley4690_464">whenne the lyon sighe hym skette</l>  
     	<l xml:id="harley4690_465">he ramped[e] sore with the ffete .</l>  
-    	<l xml:id="harley4690_466">he Gaped wide and gan to rage</l> 
+    	<l xml:id="harley4690_466">he Gaped wide and gan to rage</l> <!--APB trans: possible capital "W" in "wide"?-->
     	<l xml:id="harley4690_467">As a beste thatt was sauage .</l>  
-    	<l xml:id="harley4690_468">and kyng Richard also skette</l> <!--SLG trans: middot after [Richard]?-->
+    	<l xml:id="harley4690_468">and kyng Richard also skette</l> <!--SLG trans: middot after [Richard]?--><!--APB trans: I agree-->
     	<l xml:id="harley4690_469">yn to ys throte ys arme he schette</l> 
     	<l xml:id="harley4690_470" n="470">alle ynne kerchewes &ydot;s arme wownd[e]</l>  
     	<l xml:id="harley4690_471">the lyonne he strangled in &thorn;[at] stownd[e]</l>  
@@ -587,6 +587,7 @@
     	<l xml:id="harley4690_473">smote the lyon to the herte .</l>  <!--LKN text: Brunner argues that there are two missing lines here )see n. on page 138 for lines 37 and 38 of the version in the notes--> 
 
 <!--SLG: phase 2 thorn, yogh, ydot done for fol 111. Still need to do punctuation, abbreviations, expansions.-->
+ <!--APB: phase 1 transcription check, transcription notes, and line numbering complete-->
     	<pb xml:id="harley4690_fol112r" n="fol112r" facs="harley_ms_4690_f112r.tif"/>
     	<cb n="1"/>
 
