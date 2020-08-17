@@ -150,7 +150,7 @@
 		<l xml:id="harley4690_70" n="70">An awntres knight ther came ride</l> <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
 		<l xml:id="harley4690_71">in diuerse at&ydot;re with mochel pride</l>
 		<l xml:id="harley4690_72">he felde down bothe hors <choice><abbr>&amp;</abbr><expan>and</expan></choice> manne</l>
-		<l xml:id="harley4690_73">h&ydot;m m&ydot;ght noon <choice><abbr>wtstonde</abbr><expan>withstonde</expan></choice> aȝe&ydot;ne&period;</l>
+		<l xml:id="harley4690_73">h&ydot;m m&ydot;ght noon <choice><abbr>wtstonde</abbr><expan>withstonde</expan></choice> a&yogh;e&ydot;ne&period;</l>
 		<l xml:id="harley4690_74">&yogh;e [quod] the kyng by this da&ydot;e</l> <!--SLG: don't know how to encode the abbreviation for quod-->
 		<l xml:id="harley4690_75">of that knyght y schalle &yogh;ow seye&period;</l>
 		<l xml:id="harley4690_76">yche &middot; was theder goon for certe</l>
@@ -211,7 +211,7 @@
 		<pb xml:id="harley4690_fol110r" n="fol110r" facs="harley_ms_4690_f110r.tif"/>
 		<cb n="1"/>
 			
-		<l xml:id="harley4690_127">And ȝede to towne her mete to bye</l>
+		<l xml:id="harley4690_127">And &yogh;ede to towne her mete to bye</l>
 		<l xml:id="harley4690_128">theigh bought a goos to ther mete</l>
 		<l xml:id="harley4690_129">hem longede sore soche fflesche to.ete.</l> <!-- APB trans: there might be a swervy abbreviation for "e" at the end of "longed"? Also, at least to me, the "u" in "suche" resembles an "o" since it doesn't appear to be constructed out of two minims. Lastly, should we include the two interpuncts between "to" and "ete"? --> <!--SLG trans: I agree with all three changes. [longed] to [longede], [suche] to [soche], and [to ete] to [to.ete.]--><!--LKN trans: agreed also! Excellent catches, all of which I've gone ahead and made in the line itself!-->
 		<l xml:id="harley4690_130" n="130">kyng <name type="character" subtype="historical" ref="#KingRichard">Richard</name> the fure bette</l> <!-- APB trans: dotted y in "kyng" and possible swervy abbreviation at the end of "Richard?" --> <!--SLG trans: I agree. [kyng] to [k&ydot;ng] and [Richard] to [Richarde]-->
@@ -242,7 +242,7 @@
 		<l xml:id="harley4690_155">and .ii. Baronnes ther be w[ith] hym</l> <!-- APB trans: dotted y in "hym" --> <!--SLG trans: [hym] to [h&ydot;m]-->
     	<l xml:id="harley4690_156"><name type="person" subtype="historical" ref="#FoukDoly">S&ydot;r ffoukedol&ydot;</name> off renowne</l> <!-- APB trans: dotted y in "Syr" and "ffoukedoly, also possible capital "R" in "renowne"? --> <!--SLG trans: [Syr] to [S&ydot;r], [renowne] to [Renowne]--><!--LKN trans: again, I'm torn about r/R here...-->
     	<l xml:id="harley4690_157">and <name type="person" subtype="historical" ref="#ThomasMoulton">Syr Thomas of moltonne</name> .</l> <!--SLG trans: [Syr] to [syr]--><!--LKN trans: I think  we could make a case for this being capitalized. It's not as large as the S that starts the line above, but it's still larger than the rest of the letters in the word. Worth chatting about for sure!-->
-		<l xml:id="harley4690_158">the porter ȝede &ydot;nne to the halle</l> <!-- APB trans: dotted y in "ynne" --> <!--SLG trans: [ynne] to [&ydot;nne]-->
+		<l xml:id="harley4690_158">the porter &yogh;ede &ydot;nne to the halle</l> <!-- APB trans: dotted y in "ynne" --> <!--SLG trans: [ynne] to [&ydot;nne]-->
 		<l xml:id="harley4690_159">and telde the lorde þes wordes alle</l> <!-- APB trans: the "r" in "þar" to me resembles an "s" --> <!--SLG trans: I agree. [&thorn;ar] to [&thorn;as]--><!--LKN: yes! good catch. I also thnk that middle letter is an e and not an a...--> 
 		<l xml:id="harley4690_160" n="160">the k&ydot;ng was glad of this tid&ydot;ng</l> <!-- APB trans: dotted y in "kyng" and "tidyng" --> <!--SLG trans: [kyng] to [k&ydot;ng], [tidyng] to [tid&ydot;ng]-->
 		<l xml:id="harley4690_161">and swore is othe in hy&ydot;ng .</l> <!-- APB trans: dotted y in "hyyng --> <!--SLG trans: [hyyng] to [hy&ydot;ng]-->
@@ -262,7 +262,7 @@
 		<l xml:id="harley4690_172">whe bene here palmers three .</l>
 		<l xml:id="harley4690_173">Oute of hethenesse nough come whe</l> <!-- APB trans: capital "O" in "oute"? --><!--LKN: agreed! That's definitely a capital O.-->
 		<l xml:id="harley4690_174">the knyghtes seide on hyyngge</l>
-		<l xml:id="harley4690_175">ȝe schull speke w[ith] oure lorde the k&ydot;ng</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
+		<l xml:id="harley4690_175">&yogh;e schull speke w[ith] oure lorde the k&ydot;ng</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
 		<l xml:id="harley4690_176">ffor tid&ydot;nggez he wolde here ffa&ydot;ne</l> <!--SLG trans: [tidynggez] to [tid&ydot;nggez], [ffayne] to [ffa&ydot;ne]-->
 		<l xml:id="harley4690_177">thei touke the palmers [and] went again</l>
     	<l xml:id="harley4690_178">when the <name type="person" ref="#EmperorAlmayne">Emperour</name> sighe king <name type="person" subtype="historical" ref="#KingRichard">Richard[e]</name></l> <!--SLG trans: [Richard] to [Richarde]--> <!-- Don't know if the Emperor of Almayne is historical or pseudo-historical --><!--LKN trans: good catches here, Spencer. From here on out, I'll just go ahead and correct/add the [e] endings as we catch them. As for King of Almayne, he is fictional and should absolutely have a note here :)-->
@@ -283,7 +283,7 @@
 		<l xml:id="harley4690_193">and thes thi baronnes w[ith]oute lesyng.</l>
 		<l xml:id="harley4690_194">ye schull notte be to dethe &ydot; dyghte.</l> <!--SLG trans: [with] to [withe], [y] to [&ydot;], and period following [dyghte]--><!--LKN trans: you're quite right about that missing e, but as it happens the word is actually "dethe" and not with; and there's definitely a . at the end of the line-->
 		<l xml:id="harley4690_195">&thorn;er for &ydot; seye that itte is righte .</l> <!--SLG trans: [&thorn;or] to [&thorn;er], [y] to [&ydot;], [righte] to [Righte]-->
-		<l xml:id="harley4690_196">ȝe schull be in a prisonne</l>
+		<l xml:id="harley4690_196">&yogh;e schull be in a prisonne</l>
 		<l xml:id="harley4690_197">and that is skele and resonne</l> <!--SLG trans: [resonne] to [Resonne]. Again, this is the capitalization issue with that variation of [r/R].-->
 		<l xml:id="harley4690_198"><name type="character" subtype="historical" ref="#KingRichard">Richard</name> seide with herte free.</l> <!--SLG trans: [Richarde] to [Richard]--><!--LKN trans: will just write "accepted!" from here on out if I've accepted and corrected.-->
 		<l xml:id="harley4690_199">though doest no right so mote y thee.</l> <!--SLG trans: [mete] to [mote], and a period following [thee]-->
@@ -362,7 +362,7 @@
 	    <l xml:id="harley4690_264">a too was Broke is cheke bone</l>
 	    <l xml:id="harley4690_265">Wordes spake he neuer none.</l>
     	<l xml:id="harley4690_266">alle þus <name type="person" subtype="historical" ref="#KingRichard">k[ing] Richard</name> paidd is buffette</l> <!-- SNM trans: [Richard] to Richarde], [paidd] to [paied] -->
-    	<l xml:id="harley4690_267">God ȝew ys soule hevenne parte.</l> <!-- SNM trans: [ȝew] to [ȝebe] I am unsure about this emendation, but that [w] just looks odd to me --><!--LKN text: Brunner adds &quot;in&quot; before heaven, as the scribe seems to have left that preposition out in error-->
+    	<l xml:id="harley4690_267">God &yogh;ew ys soule hevenne parte.</l> <!-- SNM trans: [ȝew] to [ȝebe] I am unsure about this emendation, but that [w] just looks odd to me --><!--LKN text: Brunner adds &quot;in&quot; before heaven, as the scribe seems to have left that preposition out in error-->
     	<l xml:id="harley4690_268">to the <name type="person" ref="#EmperorAlmayne">Emperour</name> a kn&ydot;ght gan renne</l><note>The word knyght is spelled &quot;kmyght&quot; in the manuscript, as the scribe seems to have accidentally included an extra minim after the n.</note>
     	<l xml:id="harley4690_269">and tolde h&ydot;m of this tyd&ydot;ngge</l>
     	<l xml:id="harley4690_270" n="270">that <name type="person" subtype="historical" ref="#KingRichard">Richard</name> had is sone &ydot; slawe .</l> <!-- SNM trans: [Richard] to [Richarde] is faint, might be a stray mark -->
@@ -370,10 +370,10 @@
     	<l xml:id="harley4690_272">Alas seide þe <name type="person" subtype="historical" ref="#KingRichard">Emperour</name> nough hane &ydot; non</l> <!-- SNM trans: there is an odd mark above [non]. Appears to be a dot with a semi-circle over it -->
 	    <l xml:id="harley4690_273">[and] with that worde he felle in sowne</l>
     	<l xml:id="harley4690_274">kn&ydot;ghtes fele h&ydot;m vppe drowghe</l>
-    	<l xml:id="harley4690_275">And seid syr ne dysma&ydot;e ȝowghe</l>
+    	<l xml:id="harley4690_275">And seid syr ne dysma&ydot;e &yogh;owghe</l>
     	<l xml:id="harley4690_276">The <name type="person" ref="#EmperorAlmayne">emperour</name> bade on hyghe</l>
 	    <l xml:id="harley4690_277">to the knyghtes þ[at] stode hym bye</l>
-	    <l xml:id="harley4690_278">that ȝe tell me alle the cas</l>
+	    <l xml:id="harley4690_278">that &yogh;e tell me alle the cas</l>
 	    <l xml:id="harley4690_279">yn wate maner he dede was</l>
 	    <l xml:id="harley4690_280" n="280">Stylle þeighe stode euerychone .</l>
     	<l xml:id="harley4690_281">ffor sorowe ne myght þe&ydot; telle none</l>
@@ -381,7 +381,7 @@
 	    <l xml:id="harley4690_283">Alas sche seide wate may þis baene .</l> <!-- SNM trans: possible [baene] to [bæne] -->
 	    <l xml:id="harley4690_284">Why is þis sorow and this fare</l>
 	    <l xml:id="harley4690_285">and who hath wrought alle þis care .</l>
-	    <l xml:id="harley4690_286">A madame ne wyste ȝe noughte</l>
+	    <l xml:id="harley4690_286">A madame ne wyste &yogh;e noughte</l>
 	    <l xml:id="harley4690_287">thy sone ys to dethe y Broughte .</l>
     	<l xml:id="harley4690_288">Sythe þat &ydot; was borne manne</l>
 	    <l xml:id="harley4690_289">so moche sorowe to me ne came</l>
@@ -602,58 +602,58 @@
     	<l xml:id="harley4690_482">Nough wente þese knyghtes al fyve</l>
     	<l xml:id="harley4690_483">and tolde the <name type="person" ref="#EmperorAlmayne">emperour</name> also blyve</l>
     	<l xml:id="harley4690_484">that <name type="person" subtype="historical" ref="#KingRichard">Richard</name> and the lyoune</l>
-    	<l xml:id="harley4690_485">To geders wer ẏnne prysoune .</l>
-    	<l xml:id="harley4690_486">Thenne seẏd[e] he by heuenne kyng</l>
-    	<l xml:id="harley4690_487">ẏ am gladde of that tẏdẏngge .</l>
-    	<l xml:id="harley4690_488">Bẏ thẏs tẏme y wote itte welle</l>
-    	<l xml:id="harley4690_489">the lyon hath of hẏm hys dele .</l>
-    	<l xml:id="harley4690_490" n="490">Vp rose ys dowghter ẏonge</l> <!--SLG trans: is [rose] capitalized? Compare with [Richard], line 484.-->
-    	<l xml:id="harley4690_491">And seide thus to her fader þe kẏng .</l> 
-    	<l xml:id="harley4690_492">Naẏ sche seẏde so god me rede .</l> <!--SLG trans: is [rede] capitalized? The transcription tends to capitalize that character with proper nouns but not verbs.-->
-    	<l xml:id="harley4690_493">ẏ ne lyve nowght þatt he be dede .</l>
-    	<l xml:id="harley4690_494">he byhyghte me att sovpertẏme</l>
-    	<l xml:id="harley4690_495">the lyons hert to daẏ bẏ prẏme .</l>
+    	<l xml:id="harley4690_485">To geders wer &ydot;nne prysoune .</l>
+    	<l xml:id="harley4690_486">Thenne se&ydot;d[e] he by heuenne kyng</l>
+    	<l xml:id="harley4690_487">&ydot; am gladde of that t&ydot;d&ydot;ngge .</l>
+    	<l xml:id="harley4690_488">B&ydot; th&ydot;s t&ydot;me y wote itte welle</l>
+    	<l xml:id="harley4690_489">the lyon hath of h&ydot;m hys dele .</l>
+    	<l xml:id="harley4690_490" n="490">Vp rose ys dowghter &ydot;onge</l> <!--SLG trans: is [rose] capitalized? Compare with [Richard], line 484.-->
+    	<l xml:id="harley4690_491">And seide thus to her fader þe k&ydot;ng .</l> 
+    	<l xml:id="harley4690_492">Na&ydot; sche se&ydot;de so god me rede .</l> <!--SLG trans: is [rede] capitalized? The transcription tends to capitalize that character with proper nouns but not verbs.-->
+    	<l xml:id="harley4690_493">&ydot; ne lyve nowght þatt he be dede .</l>
+    	<l xml:id="harley4690_494">he byhyghte me att sovpert&ydot;me</l>
+    	<l xml:id="harley4690_495">the lyons hert to da&ydot; b&ydot; pr&ydot;me .</l>
     	<l xml:id="harley4690_496">The kyng com[m]awnded ys knyghtz anone</l>
     	<l xml:id="harley4690_497">To the pryson for to goon</l> <!--SLG trans: [pryson] to [pr&ydot;son]-->
-    	<l xml:id="harley4690_498">and lowke hastlẏ and blyve</l>
+    	<l xml:id="harley4690_498">and lowke hastl&ydot; and blyve</l>
     	<l xml:id="harley4690_499">yff that þe devell wer a lyve .</l> 
     	<l xml:id="harley4690_500" n="500">alle the knyghtes tho anone</l>
     	<l xml:id="harley4690_501">the pryson dore han vndone .</l>
-    	<l xml:id="harley4690_502">and yn theẏ &yogh;ede swythe sone</l>
-    	<l xml:id="harley4690_503"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> seẏd &yogh;e be welcome</l> <!--SLG trans: middot following [Richard]?-->
+    	<l xml:id="harley4690_502">and yn the&ydot; &yogh;ede swythe sone</l>
+    	<l xml:id="harley4690_503"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> se&ydot;d &yogh;e be welcome</l> <!--SLG trans: middot following [Richard]?-->
 	<!--SLG trans: missing line, added below. Line numbers have been corrected-->
-	<l xml:id="harley4690_504">theẏ sẏghe the lyon dede there</l>
-    	<l xml:id="harley4690_505">theẏ renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
+	<l xml:id="harley4690_504">the&ydot; s&ydot;ghe the lyon dede there</l>
+    	<l xml:id="harley4690_505">the&ydot; renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
     	<l xml:id="harley4690_506">thatt <name type="person" subtype="historical" ref="#KingRichard">R[ichard]</name> was all hole and sownde</l>
     	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
-    	<l xml:id="harley4690_508">the kyng seẏd vn to the quene þo</l>
+    	<l xml:id="harley4690_508">the kyng se&ydot;d vn to the quene þo</l>
     	<l xml:id="harley4690_509">yff he dwelle here he wyss vs sloo .</l> <!--SLG trans: [wyss] to [wyll]. [s] is usually written as a straighter line while [l] has a loop on the top.-->
-    	<l xml:id="harley4690_510" n="510">do whe rawnson hẏm þorwe ourehonde</l>
+    	<l xml:id="harley4690_510" n="510">do whe rawnson h&ydot;m þorwe ourehonde</l>
     	<l xml:id="harley4690_511">and swythe fleen owte of thys londe .</l>
-    	<l xml:id="harley4690_512">and also ys felaws tweẏe</l>
-    	<l xml:id="harley4690_513">ẏ wold[e] theẏ wer hennes awaẏ</l>
+    	<l xml:id="harley4690_512">and also ys felaws twe&ydot;e</l>
+    	<l xml:id="harley4690_513">&ydot; wold[e] the&ydot; wer hennes awa&ydot;</l>
     	<l xml:id="harley4690_514">þe <name type="person" ref="#EmperorAlmayne">Emperour</name> swere by [Ihesu]</l>
-    	<l xml:id="harley4690_515">Of lẏme and stone y have an house</l><note>As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe.</note>
+    	<l xml:id="harley4690_515">Of l&ydot;me and stone y have an house</l><note>As Brunner observes (pg 142) this line and the one that precedes it appear to have been accidentally switched by the scribe.</note>
     	<l xml:id="harley4690_516">þatt howse <name type="person" subtype="historical" ref="#KingRichard">k[ing] Richard</name> fylle schulde</l>
-    	<l xml:id="harley4690_517">fulle of sẏluer and of golde .</l>
-    	<l xml:id="harley4690_518">And elles to lye in prẏson euermore .</l>
+    	<l xml:id="harley4690_517">fulle of s&ydot;luer and of golde .</l>
+    	<l xml:id="harley4690_518">And elles to lye in pr&ydot;son euermore .</l>
 
 	<cb n="2"/>
 
     	<l xml:id="harley4690_519">Thus hath the <name type="person" ref="#EmperorAlmayne">emperour</name> ys hothe swore</l> <!--SLG trans: is [emperour] capitalized? Compare to [Emperour] five lines above, and [Englond[e]] two lines below-->
     	<l xml:id="harley4690_520" n="520">anone <name type="person" subtype="historical" ref="#KingRichard">kyng Richard[e]</name> verament</l> <!--SLG trans: [Richard[e]] to [Richarde]. Final [e] is not abbreviated-->
-    	<l xml:id="harley4690_521">ẏn to <name type="place" ref="#England">Englond[e]</name> letters he sente .</l>
+    	<l xml:id="harley4690_521">&ydot;n to <name type="place" ref="#England">Englond[e]</name> letters he sente .</l>
     	<l xml:id="harley4690_522">To vs owne chawnceler</l>
-    	<l xml:id="harley4690_523">the letters spake as ȝe maẏ here</l>
-    	<l xml:id="harley4690_524"><name type="person" subtype="historical" ref="#KingRichard">kẏng Richarde</name> lythe yn prẏson[ne]</l>
+    	<l xml:id="harley4690_523">the letters spake as &yogh;e ma&ydot; here</l>
+    	<l xml:id="harley4690_524"><name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Richarde</name> lythe yn pr&ydot;son[ne]</l>
     	<l xml:id="harley4690_525">and moste haue grete rawnson[ne]</l> <!--SLG trans: [rawnson[ne]] capitalized?-->
-    	<l xml:id="harley4690_526">Tresoure anne howse to fẏlle .</l>
-    	<l xml:id="harley4690_527">Other elles yn prẏson he schall spẏlle</l>
-    	<l xml:id="harley4690_528">thenne was ther made ẏ vnderstond[e]</l>
+    	<l xml:id="harley4690_526">Tresoure anne howse to f&ydot;lle .</l>
+    	<l xml:id="harley4690_527">Other elles yn pr&ydot;son he schall sp&ydot;lle</l>
+    	<l xml:id="harley4690_528">thenne was ther made &ydot; vnderstond[e]</l>
     	<l xml:id="harley4690_529">a taxe thwrghe owte <name type="place" ref="#England">englond[e]</name></l>
-    	<l xml:id="harley4690_530" n="530">ẏn abbeys and chyrches also</l>
-    	<l xml:id="harley4690_531">where ther nere butt chaleẏs too</l>
-    	<l xml:id="harley4690_532">thet sone þeẏ towke w[ith] owte lesẏng</l>
+    	<l xml:id="harley4690_530" n="530">&ydot;n abbeys and chyrches also</l>
+    	<l xml:id="harley4690_531">where ther nere butt chale&ydot;s too</l>
+    	<l xml:id="harley4690_532">thet sone þe&ydot; towke w[ith] owte lesẏng</l>
     	<l xml:id="harley4690_533">& þus rawnsomed[e] <name type="place" ref="#England">E[nglonde]</name> for owre kẏnge.</l> <!--LKN expl: might be worth including a note on the randoming of Richard as it is historically recorded-->
     	<l xml:id="harley4690_534">Whenne þe tresoure come þ[er] itte schuld[e] be</l>
     	<l xml:id="harley4690_535">Theẏ hadde ẏ Browght soche three.</l>
@@ -668,7 +668,7 @@
     	<l xml:id="harley4690_544">he swore by alle ys parage</l>
     	<l xml:id="harley4690_545">thare schuld[e] sche have non herytage</l>
     	<l xml:id="harley4690_546">thws come <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> owte of pryson[ne]</l>
-    	<l xml:id="harley4690_547">God[e] ȝeffe vs alle ys Benesonne.</l>
+    	<l xml:id="harley4690_547">God[e] &yogh;effe vs alle ys Benesonne.</l>
     	<l xml:id="harley4690_548">ẏn to <name type="place" ref="#England">Englond[e]</name> wente he thoo</l>
     	<l xml:id="harley4690_549">and ys too frendes so mote ẏ goo.</l>
 	<!--SLG trans: 4 lines missing. All line numbers below need to be adjusted accordingly-->
@@ -682,7 +682,7 @@
     	<l xml:id="harley4690_557">	<name type="person" subtype="historical" ref="#KingRichard">kẏng Rich[ard]</name> dyd a nother thẏng</l>
     	<l xml:id="harley4690_558">ys londe he towke the chawncelere</l>
     	<l xml:id="harley4690_559">and be came goddes palmerre</l><!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
-    	<l xml:id="harley4690_560" n="560">and aȝenst goddys enemẏse</l>
+    	<l xml:id="harley4690_560" n="560">and a&yogh;enst goddys enemẏse</l>
     	<l xml:id="harley4690_561">he     thowght to werre alle ways</l><note>In this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line.</note>
     	<l xml:id="harley4690_562">Bẏ   fore he went w[ith]e knyght[es] fyve</l> <!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
     	<l xml:id="harley4690_563">By Brawnde?[e] and Bẏ <name type="place" ref="#Constantine">costantyne</name></l> <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.--> <!-- APB: I tagged Constantine as a place here but I am unsure about Brawnde[?] -->
@@ -710,7 +710,7 @@
     	<l xml:id="harley4690_581">and to do <name type="person" subtype="historical" ref="#KingRichard">kyng Richarde</name> dẏstawnce</l>
     	<l xml:id="harley4690_582">and lete compẏle a letter</l>
     	<l xml:id="harley4690_583">to þe kyng of the londe theere</l>
-    	<l xml:id="harley4690_584">ȝ seide <name type="person" subtype="historical" ref="#KingRichard">kyng R[ichard]</name> with strong honde</l> <!--SLG trans: middots surrounding [R[ichard]]-->
+    	<l xml:id="harley4690_584">&yogh; seide <name type="person" subtype="historical" ref="#KingRichard">kyng R[ichard]</name> with strong honde</l> <!--SLG trans: middots surrounding [R[ichard]]-->
     	<l xml:id="harley4690_585">was comen to drẏve hẏm off londe</l>
     	<l xml:id="harley4690_586"><name type="person" subtype="historical" ref="#KingTancred">Tanker</name> kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
     	<l xml:id="harley4690_587">and for thys letter seẏde alas</l>
@@ -773,10 +773,10 @@
     	<l xml:id="harley4690_641">and ys owen necke falleth þer vnder</l>
     	<l xml:id="harley4690_642">and who so doth me anẏ despyte</l>
     	<l xml:id="harley4690_643">hẏm self schall nott passe alle quyte</l>
-    	<l xml:id="harley4690_644">syr ne be ȝe notte wrothe for thys</l>
+    	<l xml:id="harley4690_644">syr ne be &yogh;e notte wrothe for thys</l>
     	<l xml:id="harley4690_645">lo here the letter wreten ys</l>
     	<l xml:id="harley4690_646">that þe <name type="person" subtype="historical" ref="#KingPhilip">kyng of frawnce</name> me sente</l>
-    	<l xml:id="harley4690_647">thys ȝender day in presente</l>
+    	<l xml:id="harley4690_647">thys &yogh;ender day in presente</l>
 	<!--SLG trans: missing line, added below, line numbers fixed-->
     	<l xml:id="harley4690_648">thanne <name type="person" subtype="historical" ref="#KingRichard">kyng Richarde</name> vnderstode</l>
     	<l xml:id="harley4690_649">that the <name type="person" subtype="historical" ref="#KingPhilip">kyng of frawnce</name> wold[e] hym no gode</l>
@@ -797,26 +797,26 @@ and bowght best&ydot;s for &ydot;s store
 and lete bothe salte and sleen
 xxx th[ousand] oxen and k&ydot;enne. <!--LKN note for team: Brunner transcribes this as xxx m1 (172, n. 1758), but to me it looks more like a t and h followed by a superscript abbreviation mark that looks a lot like the abbreviation for "and"; it definitely does not look like an m based on "m"s that appear elsewhere; what think you?-->
 sw&ydot;ne and schepe he dude also
-Bvtte y canne notte acownpte þoo. 
-Of wete quarters . twent&ydot; þowseonde 
+Bvtte y canne notte acownpte &thorn;oo. 
+Of wete quarters . twent&ydot; &thorn;owseonde 
 he bowghte as whe ff&ydot;nde
 ffysche ffowle and venesoune
-whe ne canne acowmpte þo right Reson[ne]
+whe ne canne acowmpte &thorn;o right Reson[ne]
 the kyng of ffrawnce as &ydot; wene
 laye yn the cyte off m&ydot;ssene . 
-Oure Englysche menne wente to chepẏng
+Oure Englysche menne wente to chep&ydot;ng
 and hente there man&ydot; harde knockyng
-the ffrenschemen [and] þe gryffons down Rytes
+the ffrenschemen [and] &thorn;e gryffons down Rytes
 slew there owre englysche kn&ydot;ghtes
-whenne kyng Richard herd þys dystawns
+whenne kyng Richard herd &thorn;ys dystawns
 he ple&ydot;ned[e] h&ydot;m to the kyng of ffrawnce
 he seyde he helde no wardys <!--LKN text: the word "and" appears at the start of the line but is struck out. The copyist wrote the correct word "he" above and inbetween that error and the word "seyd."-->
 of the englysche tayla&ydot;rdys
-Go chast&ydot;ce the gryffonnes yf þ[ou] no Ryght 
+Go chast&ydot;ce the gryffonnes yf &thorn;[ou] no Ryght 
 Quod kyng Rycharde syth yt is soo
 &ydot; wote wate y haue to doo.
 &ydot; wylle me so awreke
-thatt alle þe worlde þer of schal speke
+thatt alle &thorn;e worlde &thorn;er of schal speke
 Atte the tyme of cryst&ydot;ssmasse <!--LKN expl: possibly insert note here on feast of Christmas and significance here-->
 kyng Richard and ys Barounes 
 Wente towarde the pavylouns
@@ -827,16 +827,16 @@ hownethe he myghte drawe ys blaste
 and felle on knee yn thatt tyde
 and to the kyng thus he seyde
 the frenschemen and the Gryffones
-have slayen m&ydot; fader yn þe downes
+have slayen m&ydot; fader yn &thorn;e downes
 and wyth h&ydot;m lyeth slayn xv.
 of thy knyghtes gode and kene
 leue syr he seyde take gode kepe.
 
 for yowre menne beth le&ydot;de on hepe
 awreke yow ther fore mannelyche
-Other elles ȝe tyte haslyche
+Other elles &yogh;e tyte haslyche
 fflee yn perell y vnderstonde
-and turne aȝe&ydot;ne to englonde
+and turne a&yogh;e&ydot;ne to englonde
 kyng R[ichard] satte and pykked[e] hym mode
 amd lowked ryght as he wer wode.
 The tabell anone ryght he smote  
@@ -846,98 +846,98 @@ he wolde be awreked sone yn haste .
 yn the h&ydot;ghe da&ydot; of cr&ydot;stessmasse
 he lette arme ys menne more and lesse
 alle byfore wente k&ydot;ng Richarde
-& the Erle of Salesb&ydot;r&ydot; afterwarde.
-thatt was cleped att þatt daẏ
-sẏr wyllam the longge spraẏ
-the Elre of leyceter þe Erle of herforde <!--LKN expl: should provide a note on these earls acknowledging whether they were there historically or are being inserted here as part of the text´s protonationalism-->
+<choice><abbr>&amp;</abbr><expan>and</expan></choice> the Erle of Salesb&ydot;r&ydot; afterwarde.
+thatt was cleped att &thorn;att da&ydot;
+s&ydot;r wyllam the longge spra&ydot;
+the Elre of leyceter &thorn;e Erle of herforde <!--LKN expl: should provide a note on these earls acknowledging whether they were there historically or are being inserted here as part of the text´s protonationalism-->
 stowtelyche folowed ther lorde.
 Erles Barounes and sqwyers
 speremen Bowmenne and arleblasters <!--LKN expl: need a note here explaining what an arleblaster is-->
-with kyng Richard theẏ ganne reke
+with kyng Richard the&ydot; ganne reke
 On the ffrenschemen to be awreke. 
 the ffrenschemen aspyed rathe 
 that oure englysche wold[e] do hem scathe
-smertelyche they schutte þe gate
-Wyth barres thatt þey fownd þer ate
-and ȝede an hyghe vppon the walle
-and schotte wyth Bow and sprẏngalle<!--LKN expl: insert note here on what a spryngalle is-->
+smertelyche they schutte &thorn;e gate
+Wyth barres thatt &thorn;ey fownd &thorn;er ate
+and &yogh;ede an hyghe vppon the walle
+and schotte wyth Bow and spr&ydot;ngalle<!--LKN expl: insert note here on what a spryngalle is-->
 and seyd to owre englysche menne nofaile
 Go home dogges wyth youre tayle. 
 alle yowre Boste and yore orgulle
-menne schall threste ẏn yowre cule
-thus theẏ deden and myssayde.
-and alle þatt daẏ sore hem trayedde
+menne schall threste &ydot;n yowre cule
+thus the&ydot; deden and myssayde.
+and alle &thorn;att da&ydot; sore hem trayedde
 thatt nyght for no mede.
 owre kyng in bateylle myght not spede
-	att nyght kyng Rich[ard] & ys bar[ou]ns
-Wente to ther paveẏlonnes
+	att nyght kyng Rich[ard] <choice><abbr>&amp;</abbr><expan>and</expan></choice> ys bar[ou]ns
+Wente to ther pave&ydot;lonnes
 ho so slepe other who so woke
-kyng Richard[e] þ[at] nyght no reste towke
+kyng Richard[e] &thorn;[at] nyght no reste towke
 on morowe he cleped[e] ys cownsa[y]l y wysse<!--LKN text: the copyist appears to have skipped over the "y" in "cownsayl" initially and wrote it above and between the 'a' and 'l' with a carat below signalling where it ought to be inserted-->
-& of the .v. portes the barones
+<choice><abbr>&amp;</abbr><expan>and</expan></choice> of the .v. portes the barones
 and seyde lordes that be wyth me
 owre cownsayle awghte to be pryve. 
 
 fol. 113v   
 Alle whe schulle venge ffonde
 wyth the strengthe of owre honde
-on ffrenschemenne and the Grẏffonnes
-that haue Despẏsed owre nacyouns
+on ffrenschemenne and the Gr&ydot;ffonnes
+that haue Desp&ydot;sed owre nacyouns
 y have a castelle y vnderstonde
-that was made of tẏmber yn englond[e]
+that was made of t&ydot;mber yn englond[e]
 wyth sexe stages y made of styrelles <!--LKN expl: note for styrelle-->
 welle y fflorysched w[ith] gode kervelles <!--LKN expl: note for kervelle-->
-þer ẏnne schalle be manẏ a knyght
-aȝeẏne the ffrenschemenne for fyght
+&thorn;er &ydot;nne schalle be man&ydot; a knyght
+a&yogh;e&ydot;ne the ffrenschemenne for fyght
 the castelle schall haue a surname
 he schalle hote mawngegryffoune <!--LKN expl: need a note here for the Mate Gryffoun-->
-maryners arme welle ȝoure schyppeȝ
-and holde vppe ȝowre manneschippeȝ
-and ȝe by water schalle hem assaile
+maryners arme welle &yogh;oure schyppe&yogh;
+and holde vppe &yogh;owre manneschippe&yogh;
+and &yogh;e by water schalle hem assaile
 and whe by londe wyth outen fayle
-ffor y wẏ cometh never vn to me
+ffor y w&ydot; cometh never vn to me
 or y of them awrekedde be.
 the maryners faste on hyghe
-made al redẏ Bothe schyppe & galye
+made al red&ydot; Bothe schyppe <choice><abbr>&amp;</abbr><expan>and</expan></choice> galye
 with Bowsprete and sayle blyve
-vn to the cite ganne þeẏ dryve.
+vn to the cite ganne &thorn;e&ydot; dryve.
 knyghtes framed the tre castelle
 Be syde the cyte on anne hylle . 
 that hym sawgh the . kyng of f[ra]unce 
-and seid haue ȝe ne dowtawnce 
-of thes englysche taẏlardes
-ffor theẏ be butte cowardes
+and seid haue &yogh;e ne dowtawnce 
+of thes englysche ta&ydot;lardes
+ffor the&ydot; be butte cowardes
 dyght he seyde owre mawngevelle
 and sett hym to the tree castelle
 and schote to them wyth arblaste
 the dogge tayles for to agaste. 
 		sone after Rich[ard] owre kyngge
-lette bere yn the dawenẏng
+lette bere yn the dawen&ydot;ng
 Targes and dores ys folke alle
 Ryght afore the cyte walle
 hys hoste att ones he lette crye
-that menne myght yt here to þe skye
-and seyde ȝe ffrensche mosardes
-cometh to ffyghte w[ith] the taẏlardes
-þe frenschemen sone armed hem alle
-and ȝede vppe in to the walle
+that menne myght yt here to &thorn;e skye
+and seyde &yogh;e ffrensche mosardes
+cometh to ffyghte w[ith] the ta&ydot;lardes
+&thorn;e frenschemen sone armed hem alle
+and &yogh;ede vppe in to the walle
 and ther byganne w[ith] owte fayle
 Betwene hem a strong Batayle. 
 
-owre englysche menne w[ith] arblast & bowe
+owre englysche menne w[ith] arblast <choice><abbr>&amp;</abbr><expan>and</expan></choice> bowe
 the ffrensche and the gryffounes slowe
-By thanne comen schyppes to þe cite
+By thanne comen schyppes to &thorn;e cite
 and alle moste hadd wonne entre.
-so harde theẏ moẏned vnder the walle
-that þe Gryffounes dydde down falle
-wyth howkes harwes and quarelleȝ
+so harde the&ydot; mo&ydot;ned vnder the walle
+that &thorn;e Gryffounes dydde down falle
+wyth howkes harwes and quarelle&yogh;
 many fylle of the torelles
-and Brake bothe nekke & arme
-Butte ẏ wysse ytte was no harme. 
-thenne come frenschemen in þ[at] stoure
+and Brake bothe nekke <choice><abbr>&amp;</abbr><expan>and</expan></choice> arme
+Butte &ydot; wysse ytte was no harme. 
+thenne come frenschemen in &thorn;[at] stoure
 and schotte wylde fuyre of the toure
 ther wyth y wote welle y wysse
-theẏ kylled[e] manẏ englysche . 
+the&ydot; kylled[e] man&ydot; englysche . 
 Butt englysche menne defended hem
 Wyth her swerdes of Brown stele
 and slowgh of hem grete chepes
@@ -954,11 +954,11 @@ here vppe syr ys yate oone
 ffor sothe ytte hath warde none.
 the menne ar goon to the water towre
 for to de ther menne socoure
-there ȝe mowghe veramente
-have entre wyth owten dẏnte
-ffull gladde was kẏng Richarde
+there &yogh;e mowghe veramente
+have entre wyth owten d&ydot;nte
+ffull gladde was k&ydot;ng Richarde
 and wente manlyche thyderwarde
-and manẏ a knyghte dowghty of dede
+and man&ydot; a knyghte dowghty of dede
 prykedde after on her stede
 the kyng entred wyth owten drede
 Wyth alle ys fayre felawrede
@@ -968,6 +968,8 @@ and . sevenne cheynes w[ith] ys swerde
 he cutte a too on the myddewarde
 that were drawe for grete dowte
 wyth ynne the yate and w[ith] oute. 
+
+<!-- APB: phase 2 thorn, ydot, ampersand/choice complete. Transcription check with in-line mark up still needs to be done by me at a later date-->
 
     </body>
 </text>
