@@ -586,7 +586,7 @@
     	<l xml:id="harley4690_472">Richarde w[ith] the knyfe so smerte</l> 
     	<l xml:id="harley4690_473">smote the lyon to the herte &period;</l>  <!--LKN text: Brunner argues that there are two missing lines here )see n. on page 138 for lines 37 and 38 of the version in the notes--> 
 
-<!--SLG: phase 2 thorn, yogh, ydot, punctuation done for fol 111. Still need to do abbreviations, expansions.-->
+<!--SLG: phase 2 thorn, yogh, ydot, punctuation done for fol 111. Still need to do abbreviations, expansions; also, period entities need to be changed to normal periods-->
 <!--APB: phase 1 transcription check, transcription notes, and line numbering complete-->
     	<pb xml:id="harley4690_fol112r" n="fol112r" facs="harley_ms_4690_f112r.tif"/>
     	<cb n="1"/>
