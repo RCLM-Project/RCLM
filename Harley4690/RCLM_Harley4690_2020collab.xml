@@ -471,7 +471,7 @@
     	<l xml:id="harley4690_364">and to mẏ bour þ[u] schalte hym bring</l> <!--APB trans: I think "bring" is spelled "bryng"-->
     	<l xml:id="harley4690_365">after soper ẏnne þe Euenyng</l>
     	<l xml:id="harley4690_366">yn attyre of a squẏer</l>
-    	<l xml:id="harley4690_367">Mẏ selfe ẏ schall holpe ȝow þere</l>
+    	<l xml:id="harley4690_367">Mẏ selfe ẏ schall holpe ȝow þere</l><!--APB trans: the "o" in "holpe" sort of resembles an "e" to make "helpe" maybe?-->
     	<l xml:id="harley4690_368">and by swete seint Sẏmonne</l>
     	<l xml:id="harley4690_369">though schalte haue gode warẏȝo[u]n</l>
     	<l xml:id="harley4690_370" n="370">att euen he forȝate itte nought</l>
@@ -486,9 +486,9 @@
     	<l xml:id="harley4690_379">þatt forleine was ys dowghter yong</l>
     	<l xml:id="harley4690_380" n="380">þenne was the kẏng sore amayedd[e]</l>
     	<l xml:id="harley4690_381">alas he seide ẏ am betrayed[e]</l>
-    	<l xml:id="harley4690_382">þatt traitour hath mẏ sone ẏ slaẏn</l>
+    	<l xml:id="harley4690_382">þatt traitour hath mẏ sone ẏ slaẏn</l><!--APB trans: "y" does not appear to have a dot above it?-->
     	<l xml:id="harley4690_383">and my dowghter nough fforleẏne</l>
-    	<l xml:id="harley4690_384">Smertelẏe þe emperour w[ith] out faile</l>
+    	<l xml:id="harley4690_384">Smertelẏe þe emperour w[ith] out faile</l> <!--APB trans: the beginning "e" in "emperour" looks capitalized-->
     	<l xml:id="harley4690_385">lette sende after ys counceyle .</l> 
 
     	<pb xml:id="harley4690_fol111v" n="fol111v" facs="harley_ms_4690_f111v.tif"/>
