@@ -494,7 +494,7 @@
     	<pb xml:id="harley4690_fol111v" n="fol111v" facs="harley_ms_4690_f111v.tif"/>
     	<cb n="1"/>
 
-    	<l xml:id="harley4690_386">And of hem he asked rede</l> 
+    	<l xml:id="harley4690_386">And of hem he asked rede</l><!--APB trans: possible capital "R" in "rede"?--> 
     	<l xml:id="harley4690_387">hough he m&ydot;ght .R[ichard]. do to dede .</l> <!--SLG trans: middots surrounding [R]-->
     	<l xml:id="harley4690_388">he tolde hem alle howgh he had done</l> 
     	<l xml:id="harley4690_389">the Barons radde h&ydot;m also sone .</l>  
@@ -515,7 +515,7 @@
     	<l xml:id="harley4690_404">þatt ys anhongredde sw&ydot;the sore</l> 
     	<l xml:id="harley4690_405">þenne wote &ydot; welle þ[u] leuest nomore</l> 
     	<l xml:id="harley4690_406">leue lemmanne seyde sche</l> 
-    	<l xml:id="harley4690_407">to nyght &ydot; rede of londe whe fflee .</l>  
+    	<l xml:id="harley4690_407">to nyght &ydot; rede of londe whe fflee .</l><!--APB trans: possible capital "R" in "rede"?-->  
     	<l xml:id="harley4690_408">with ous golde and tresoure</l> 
     	<l xml:id="harley4690_409">to haue &ydot; nowgh for euermore .</l>  
     	<l xml:id="harley4690_410" n="410">Richarde seide y vnderstonde</l> 
