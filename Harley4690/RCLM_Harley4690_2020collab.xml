@@ -839,12 +839,12 @@
     	
     	<l xml:id="harley4690_697">for yowre menne beth le&ydot;de on hepe</l>
     	<l xml:id="harley4690_698">awreke yow ther fore mannelyche</l>
-    	<l xml:id="harley4690_699">Other elles &yogh;e tyte haslyche</l>
+    	<l xml:id="harley4690_699">Other elles &yogh;e tyte haslyche</l><!-- APB trans: is there a "t" in "haslyche? > "hastlyche"?-->
     	<l xml:id="harley4690_700" n="700">fflee yn perell y vnderstonde</l>
     	<l xml:id="harley4690_701">and turne a&yogh;e&ydot;ne to englonde</l>
     	<l xml:id="harley4690_702">kyng R[ichard] satte and pykked[e] hym mode</l>
-    	<l xml:id="harley4690_703">amd lowked ryght as he wer wode&period;</l>
-    	<l xml:id="harley4690_704">The tabell anone ryght he smote</l>
+    	<l xml:id="harley4690_703">amd lowked ryght as he wer wode&period;</l><!-- APB trans: "amd" to "and" and possible capital "R" in "ryght"-->
+    	<l xml:id="harley4690_704">The tabell anone ryght he smote</l><!-- APB trans: possible capital "R" in "ryght"-->
     	<l xml:id="harley4690_705">yn to the fflore ytte felle fote hote</l> 
     	<l xml:id="harley4690_706">he swere the by crystes faste</l> <!--SNM [the] to [tho]-->
     	<l xml:id="harley4690_707">he wolde be awreked sone &ydot;n haste &period;</l> 
@@ -858,9 +858,9 @@
     	<l xml:id="harley4690_715">stowtelyche folowed ther lorde&period;</l>
     	<l xml:id="harley4690_716">Erles Barounes and sqwyers</l>
     	<l xml:id="harley4690_717">speremen Bowmenne and arleblasters</l> <!--LKN expl: need a note here explaining what an arleblaster is-->
-    	<l xml:id="harley4690_718">with kyng Richard the&ydot; ganne reke</l>
+    	<l xml:id="harley4690_718">with kyng Richard the&ydot; ganne reke</l><!-- APB trans: possible capital "R" in "reke"-->
     	<l xml:id="harley4690_719">On the ffrenschemen to be awreke&period;</l> 
-    	<l xml:id="harley4690_720" n="720">the ffrenschemen aspyed rathe</l> 
+    	<l xml:id="harley4690_720" n="720">the ffrenschemen aspyed rathe</l> <!-- APB trans: possible capital "R" in "rathe?-->
     	<l xml:id="harley4690_721">that oure englysche wold[e] do hem scathe</l>
     	<l xml:id="harley4690_722">smertelyche they schutte &thorn;e gate</l>
     	<l xml:id="harley4690_723">Wyth barres thatt &thorn;ey fownd &thorn;er ate</l>
@@ -878,12 +878,13 @@
     	<l xml:id="harley4690_735">Wente to ther pave&ydot;lonnes</l>
     	<l xml:id="harley4690_736">ho so slepe other who so woke</l>
     	<l xml:id="harley4690_737">kyng Richard[e] &thorn;[at] nyght no reste towke</l>
-    	<l xml:id="harley4690_738">on morowe he cleped[e] ys cownsa[y]l y wysse</l><!--LKN text: the copyist appears to have skipped over the "y" in "cownsayl" initially and wrote it above and between the 'a' and 'l' with a carat below signalling where it ought to be inserted-->
+    	<l xml:id="harley4690_738">on morowe he cleped[e] ys cownsa[y]l y wysse</l><note>The copyist appears to have skipped over the "y" in "cownsayl" initially and wrote it above and between the 'a' and 'l' with a carat below signalling where it ought to be inserted.</note>
     	<l xml:id="harley4690_739"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of the &period;v&period; portes the barones</l>
     	<l xml:id="harley4690_740" n="740">and seyde lordes that be wyth me</l>
     	<l xml:id="harley4690_741">owre cownsayle awghte to be pryve&period;</l> 
     	<!-- SNM phase 1 done through line 741-->
-
+		<!-- APB phase 2 complete-->
+    	
     	<pb xml:id="harley4690_fol113v" n="fol113v" facs="harley_ms_4690_f113v.tif"/>
     	<cb n="1"/>
     	
