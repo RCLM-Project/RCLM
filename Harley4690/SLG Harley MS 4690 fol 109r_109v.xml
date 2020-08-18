@@ -1,4 +1,4 @@
-<!--SLG: Phase 3 109r done; added fol 109v; Phase 1 done; Phase 2 entities, choice done; names and places needed-->
+<!--SLG: revisit subtypes for place names after meeting-->
 
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE TEI [
@@ -76,140 +76,140 @@
 	<pb xml:id="harley4690_fol109r" n="fol109r" facs="harley_ms_4690_f109r.tif"/>
 	<cb n="2"/>
 
-	<l xml:id="harley4690_1">That itte was <name type="character" subtype="historical" ref="#KingRichard">Richarde</name> the kingge</l>
-	<l xml:id="harley4690_2">he wende he hadde be att <name type="place" subtype="historical" ref="#Salisbury">Salesbur&ydot;</name></l> <!--LKN expl: The Salisbury Tournament is a fictional episode.-->
-	<l xml:id="harley4690_3">att the castell and made hem mer&ydot;</l>
-	<l xml:id="harley4690_4">The&ydot; priked ther stede&yogh; <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
-	<l xml:id="harley4690_5"><name type="character" subtype="historical" ref="#FoukDoly">Sir ffoukedol&ydot;</name> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
-	<l xml:id="harley4690_6">amydde is schelde with outen tale</l>
-	<l xml:id="harley4690_7">that itte to scheuerid in to pecis smale</l> <!-- SLG: unsure about extending pecis to pecises-->
+	<l xml:id="harley4690_1">That itte was <person ref="#KingRichard">Richarde the <thing>kingge</thing></person></l>
+	<l xml:id="harley4690_2"><person>he</person> wende he hadde be att <place ref="#Salisbury">Salesbur&ydot;</place></l> <!--LKN expl: The Salisbury Tournament is a fictional episode.-->
+	<l xml:id="harley4690_3">att the <place>castell</place> and made <person>hem</person> mer&ydot;</l>
+	<l xml:id="harley4690_4"><person>The&ydot;</person> priked ther <thing>stede&yogh;</thing> <choice><abbr>&amp;</abbr><expan>and</expan></choice> to geder mette</l>
+	<l xml:id="harley4690_5"><person ref="#FoukDoly">Sir ffoukedol&ydot;</person> soche a stroke he sette</l> <!--LKN expl: explain who this and Thomas Multon are and acknowledge the spelling variations of Fouk's name. Supplying Larkin’s note here for now since we’ll want to draw on it and Finlayson, who he references: 399 Fouke Doly. Of undoubted historicity, Fulk D’Oilly and Thomas Moulton (line 433) were Lincolnshire knights connected by marriage in the thirteenth century. As they do not appear in chronicles of the Third Crusade, Finalyson suggests that the large role these knights play in RCL’s a version represents an early redactor’s efforts “to glorify his or a patron’s family,” since the names do not occur in L, the fragment that Finlayson believes to contain the story’s basic form (“‘Richard, Coer de Lyon,’” p. 166; and “Legendary Ancestors”) (METS RCL, n. 399)-->
+	<l xml:id="harley4690_6">amydde is <thing>schelde</thing> with outen tale</l>
+	<l xml:id="harley4690_7">that itte to scheuerid in to <thing>pecis</thing> smale</l> <!-- SLG: unsure about extending pecis to pecises-->
         <!-- SNM same-I think we need to talk to Kate about the [pecis]-->
-	<l xml:id="harley4690_8">And with that d&ydot;nte so harde he threste</l>
-	<l xml:id="harley4690_9">That the schafte a too he Braste</l>
-	<l xml:id="harley4690_10" n="10">The knight fell down sothe to se&ydot;e</l>
-	<l xml:id="harley4690_11">The kingge Rode northe on is &middot; we&ydot;</l>
-	<l xml:id="harley4690_12">&ydot;n to the foreste is we&ydot; he name</l>
-	<l xml:id="harley4690_13">ther wist no man were he became</l>
-	<l xml:id="harley4690_14"><name type="character" subtype="historical" ref="#FoukDoly">S&ydot;r ffoukdol&ydot;</name> with moche paine</l>
-	<l xml:id="harley4690_15">On horse was &ydot; sette againe &period;</l> 
+	<l xml:id="harley4690_8">And with that d&ydot;nte so harde <person>he</person> threste</l>
+	<l xml:id="harley4690_9">That the <thing>schafte</thing> a too <person>he</person> Braste</l>
+	<l xml:id="harley4690_10" n="10">The <person><thing>knight</thing></person> fell down sothe to se&ydot;e</l>
+	<l xml:id="harley4690_11">The <person>kingge</person> Rode northe on is &middot; we&ydot;</l>
+	<l xml:id="harley4690_12">&ydot;n to the <place>foreste</place> is we&ydot; <person>he</person> name</l>
+	<l xml:id="harley4690_13">ther wist no <person><thing>man</thing></person> were <person>he</person> became</l>
+	<l xml:id="harley4690_14"><person ref="#FoukDoly">S&ydot;r ffoukdol&ydot;</person> with moche <thing>paine</thing></l>
+	<l xml:id="harley4690_15">On <thing>horse</thing> was <person>&ydot;</person> sette againe &period;</l> 
 	<l xml:id="harley4690_16">This was the firste t&ydot;me &ydot; &yogh;ow plight</l>
-	<l xml:id="harley4690_17">that <name type="character" subtype="historical" ref="#KingRichard">king Richarde</name> preued is myght</l>
-	<l xml:id="harley4690_18"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of is strengthe he had gode game</l>
-	<l xml:id="harley4690_19">and went home in goddis name</l>
-	<l xml:id="harley4690_20" n="20">&ydot;n to the castell b&ydot; a derne wa&ydot;</l>
-	<l xml:id="harley4690_21">that no man knewe h&ydot;m <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot;</l>
-	<l xml:id="harley4690_22">he vnarmed h&ydot;m sekyr <choice><abbr>&thorn;</abbr><expan>&thorn;on</expan></choice> be</l> <!--LKN text: Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.-->
-	<l xml:id="harley4690_23">Nough of the knightes speke Whe</l>
-	<l xml:id="harley4690_24">and of the iustes that was <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> da&ydot; </l>
-	<l xml:id="harley4690_25">and hough thei passidde then awa&ydot;</l>
-	<l xml:id="harley4690_26">Thei commawndede hastel&ydot;</l>
-	<l xml:id="harley4690_27">The heraude&yogh; to make acr&ydot;e</l>
-	<l xml:id="harley4690_28">and euer&ydot; man for to wende</l>
-	<l xml:id="harley4690_29">home tille is owne ffrende</l>
-	<l xml:id="harley4690_30" n="30">The king a messawnger gan sende</l> <!--LKN summ: King Richard summons Sir Thomas Multon and Sir Fouk Doily-->
-	<l xml:id="harley4690_31"><choice><abbr>&amp;</abbr><expan>and</expan></choice> bad h&ydot;m priuel&ydot; for to wende</l>
-	<l xml:id="harley4690_32">To <name type="character" subtype="historical" ref="#ThomasMoulton">S&ydot;r Thomas</name> of moltoune</l>
-	<l xml:id="harley4690_33">that was a nobell baroune</l>
-	<l xml:id="harley4690_34">and to S&ydot;r &middot; <name type="character" subtype="historical" ref="#FoukDoly">ffoukedoly</name></l> <!--SLG: does the policy of encoding the title when it appears with the name of a character still apply when the title and name are separated by a punctuation mark?-->
-	<l xml:id="harley4690_35">that thei come to me an highe</l>
-	<l xml:id="harley4690_36">that thei dwelle in no manere</l>
-	<l xml:id="harley4690_37">Tille that &thorn;ei be bothen here</l>
-	<l xml:id="harley4690_38">the messanger sone was wente</l>
-	<l xml:id="harley4690_39">And seid the king to them had sente</l>
+	<l xml:id="harley4690_17">that <person ref="#KingRichard"><thing>king</thing> Richarde</person> preued is myght</l>
+	<l xml:id="harley4690_18"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of <person>is</person> <thing>strengthe</thing> <person>he</person> had gode <thing>game</thing></l>
+	<l xml:id="harley4690_19">and went <place><thing>home</thing></place> in <person><thing>goddis</thing></person> <thing>name</thing></l>
+	<l xml:id="harley4690_20" n="20">&ydot;n to the <place>castell</place> b&ydot; a derne <place><thing>wa&ydot;</thing></place></l>
+	<l xml:id="harley4690_21">that no <person><thing>man</thing></person> knewe <person>h&ydot;m</person> <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> <thing>da&ydot;</thing></l>
+	<l xml:id="harley4690_22"><person>he</person> vnarmed <person>h&ydot;m</person> sekyr <choice><abbr>&thorn;</abbr><expan>&thorn;on</expan></choice> be</l> <!--LKN text: Brunner expands the abbreviation to read "þon", and that makes the most contextual sense. The abbreviation symbol above the thorn, however, looks like u, though it is in all likelyhood a (perhaps hastily) written lower-case n.-->
+	<l xml:id="harley4690_23">Nough of the <person><thing>knightes</thing></person> speke Whe</l>
+	<l xml:id="harley4690_24">and of the <thing>iustes</thing> that was <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> <thing>da&ydot;</thing> </l>
+	<l xml:id="harley4690_25">and hough <person>thei</person> passidde then awa&ydot;</l>
+	<l xml:id="harley4690_26"><person>Thei</person> commawndede hastel&ydot;</l>
+	<l xml:id="harley4690_27">The <person>heraude&yogh;</person> to make acr&ydot;e</l>
+	<l xml:id="harley4690_28">and euer&ydot; <person>man</person> for to wende</l>
+	<l xml:id="harley4690_29"><place><thing>home</thing></place> tille <person>is</person> owne <person><thing>ffrende</thing></person></l>
+	<l xml:id="harley4690_30" n="30">The <person>king</person> a <person>messawnger</person> gan sende</l> <!--LKN summ: King Richard summons Sir Thomas Multon and Sir Fouk Doily-->
+	<l xml:id="harley4690_31"><choice><abbr>&amp;</abbr><expan>and</expan></choice> bad <person>h&ydot;m</person> priuel&ydot; for to wende</l>
+	<l xml:id="harley4690_32">To <person ref="#ThomasMoulton"><thing>S&ydot;r</thing> Thomas of <place>moltoune</place></person></l>
+	<l xml:id="harley4690_33">that was a nobell <person><thing>baroune</thing></person></l>
+	<l xml:id="harley4690_34">and to <person ref="#FoukDoly"><thing>S&ydot;r</thing> &middot; ffoukedoly</person></l>
+	<l xml:id="harley4690_35">that <person>thei</person> come to <person>me</person> an highe</l>
+	<l xml:id="harley4690_36">that <person>thei</person> dwelle in no <thing>manere</thing></l>
+	<l xml:id="harley4690_37">Tille that <person>&thorn;ei</thing> be bothen <place><thing>here</thing></place></l>
+	<l xml:id="harley4690_38">the <person>messanger</person> sone was wente</l>
+	<l xml:id="harley4690_39">And seid the <person>king</person> to <person>them</person> had sente</l>
 
 	<pb xml:id="harley4690_fol109v" n="fol109v" facs="harley_ms_4690_f109v.tif"/>
 	<cb n="1"/>
 
-	<l xml:id="harley4690_40" n="40">Priuely to come h&ydot;m vn to</l>
+	<l xml:id="harley4690_40" n="40">Priuely to come <person>h&ydot;m</person> vn to</l>
 	<l xml:id="harley4690_41">with oute lett&ydot;ng that itte be doo</l>
-	<l xml:id="harley4690_42">the&ydot; hyeden fast on her wa&ydot;</l>
-	<l xml:id="harley4690_43">And come to h&ydot;m on a da&ydot;</l> <!--SLG: I believe that the A in And of this line, as well as those of lines 6 and 7, are capitalized-->
-	<l xml:id="harley4690_44">when thei come the king was glade</l>
-	<l xml:id="harley4690_45">And mochell io&ydot;e to them he made</l> <!--SLG: third word initially written as wẏe, but I think those are actually two characters. Lowercase w's are written differently and ioẏe makes more contextual sense to me. Thoughts?-->
-	<l xml:id="harley4690_46">And seid to hem in mer&ydot; sowne</l>
-	<l xml:id="harley4690_47">&yogh;e be wellcome b&ydot; seint Symonne&period;</l> <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter-->
-	<l xml:id="harley4690_48">lordes he seid knowe &yogh;e notte</l>
-	<l xml:id="harley4690_49">Wat &ydot; haue ordeinedde in m&ydot; &thorn;ought&period;</l>
-	<l xml:id="harley4690_50" n="50">&ydot;n to the holy londe for to goo</l> <!--LKN expl: The journey to Outremer that Richard, Thomas, and Fouk agree to embark upon in this episode is wholly fictional. Richard never undertook such a journey prior to going to the so-called Third Crusade.--> 
-	<l xml:id="harley4690_51">whe thre felaues and no mo</l>
-	<l xml:id="harley4690_52">Al in palmeren g&ydot;se</l> <!--LKN expl: The term "palmer" referred specifically to a pilgrim bound for Jerusalem. The term referred to the badge that such a pilgrim would wear as a sign of their intended destination; pilgrims bound for Jerusalem wore a palm badge that recalled Christ's celebrated entry into Jerusalem prior to his crucifixion. The term "guise" here, however, makes it very clear that Richard and his fellow knights are not pilgrims in earnest but that they plan to disguise themselves as such in order to embark on a reconaissance mission that will aid them in their later crusading endeavors.-->
-	<l xml:id="harley4690_53">the holy londe for to devise&period;</l>
-	<l xml:id="harley4690_54">to me &ydot; will that &yogh;e be sworne</l>
-	<l xml:id="harley4690_55">that &yogh;e ne tell to no man borne&period;</l>
-	<l xml:id="harley4690_56">thei <choice><abbr>grawnted</abbr><expan>grawntede</expan></choice> h&ydot;m is askingge</l>
+	<l xml:id="harley4690_42"><person>the&ydot;</person> hyeden fast on <person>her</person> <place><thing>wa&ydot;</thing></place></l>
+	<l xml:id="harley4690_43">And come to <person>h&ydot;m</person> on a <thing>da&ydot;</thing></l> <!--SLG: I believe that the A in And of this line, as well as those of lines 6 and 7, are capitalized-->
+	<l xml:id="harley4690_44">when <person>thei</person> come the <person><thing>king</thing></person> was glade</l>
+	<l xml:id="harley4690_45">And mochell <thing>io&ydot;e</thing> to <person>them</person> <person>he</person> made</l> <!--SLG: third word initially written as wẏe, but I think those are actually two characters. Lowercase w's are written differently and ioẏe makes more contextual sense to me. Thoughts?-->
+	<l xml:id="harley4690_46">And seid to <person>hem</person> in mer&ydot; <thing>sowne</thing></l>
+	<l xml:id="harley4690_47">&yogh;e be wellcome b&ydot; <person ref="#StSimon"><thing>seint Symonne</thing></person>&period;</l> <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter-->
+	<l xml:id="harley4690_48"><person><thing>lordes</thing></person> <person>he</person> seid knowe &yogh;e notte</l>
+	<l xml:id="harley4690_49">Wat <person>&ydot;</person> haue ordeinedde in <person>m&ydot;</person> <thing>&thorn;ought</thing>&period;</l>
+	<l xml:id="harley4690_50" n="50">&ydot;n to the <place><thing>holy londe</thing></place> for to goo</l> <!--LKN expl: The journey to Outremer that Richard, Thomas, and Fouk agree to embark upon in this episode is wholly fictional. Richard never undertook such a journey prior to going to the so-called Third Crusade.--> 
+	<l xml:id="harley4690_51">whe thre <person>felaues</person> and no mo</l>
+	<l xml:id="harley4690_52">Al in palmeren <thing>g&ydot;se</thing></l> <!--LKN expl: The term "palmer" referred specifically to a pilgrim bound for Jerusalem. The term referred to the badge that such a pilgrim would wear as a sign of their intended destination; pilgrims bound for Jerusalem wore a palm badge that recalled Christ's celebrated entry into Jerusalem prior to his crucifixion. The term "guise" here, however, makes it very clear that Richard and his fellow knights are not pilgrims in earnest but that they plan to disguise themselves as such in order to embark on a reconaissance mission that will aid them in their later crusading endeavors.-->
+	<l xml:id="harley4690_53">the <place><thing>holy londe</thing></place> for to devise&period;</l>
+	<l xml:id="harley4690_54">to <person>me</person> <person>&ydot;</person> will that <person>&yogh;e</person> be sworne</l>
+	<l xml:id="harley4690_55">that <person>&yogh;e</person> ne tell to no <person><thing>man</thing></person> borne&period;</l>
+	<l xml:id="harley4690_56"><person>thei</person> <choice><abbr>grawnted</abbr><expan>grawntede</expan></choice> <person>h&ydot;m</person> is <thing>askingge</thing></l>
 	<l xml:id="harley4690_57">with oute an&ydot; againe se&ydot;&ydot;ngge&period;</l>
-	<l xml:id="harley4690_58">With h&ydot;m to liue and to d&ydot;e</l> <!--SLG: Capital W. Contrast with lowercase w from first word of preceding line-->
-	<l xml:id="harley4690_59">Notte to lette for loue ne eye&period;</l> <!--LKN “for loue ne eye” This idiomatic phrase translates as “[neither]for love nor fear.” See entry for “eie” (1) in The Middle English Dictionary. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117-->
-	<l xml:id="harley4690_60" n="60">Vppon the bouke thei leide her honde</l>
-	<l xml:id="harley4690_61">To that couenante for to stonde</l>
-	<l xml:id="harley4690_62">thei kiste the Bouke alle &ydot; three&period;</l>
-	<l xml:id="harley4690_63">trow ffelawes for to bee&period;</l>
-	<l xml:id="harley4690_64">when her couenawnt was &ydot; made</l>
-	<l xml:id="harley4690_65">the king spake with herte glade&period;</l>
-	<l xml:id="harley4690_66">m&ydot; leue ffrendes with gode entente</l>
-	<l xml:id="harley4690_67">hough fferde &yogh;e atte the turmente&period;</l>
-	<l xml:id="harley4690_68">came an&ydot; strong knight to <choice><abbr>yo</abbr><expan>your</expan></choice> pla&ydot;</l>
-	<l xml:id="harley4690_69">&yogh;e thei seyden in gode fa&ydot;&period;</l> <!--LKN expl: "in gode fay" means "in good faith."-->
-	<l xml:id="harley4690_70" n="70">An awntres knight ther came ride</l> <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
-	<l xml:id="harley4690_71">in diuerse at&ydot;re with mochel pride</l>
-	<l xml:id="harley4690_72">he felde down bothe hors <choice><abbr>&amp;</abbr><expan>and</expan></choice> manne</l>
-	<l xml:id="harley4690_73">h&ydot;m m&ydot;ght noon <choice><abbr>wtstonde</abbr><expan>withstonde</expan></choice> aȝe&ydot;ne&period;</l>
-	<l xml:id="harley4690_74">&yogh;e [quod] the kyng by this da&ydot;e</l> <!--SLG: don't know how to encode the abbreviation for quod-->
-	<l xml:id="harley4690_75">of that knyght y schalle &yogh;ow seye&period;</l>
+	<l xml:id="harley4690_58">With <person>h&ydot;m</person> to liue and to d&ydot;e</l> <!--SLG: Capital W. Contrast with lowercase w from first word of preceding line-->
+	<l xml:id="harley4690_59">Notte to lette for <thing>loue</thing> ne <thing>eye</thing>&period;</l> <!--LKN “for loue ne eye” This idiomatic phrase translates as “[neither]for love nor fear.” See entry for “eie” (1) in The Middle English Dictionary. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117-->
+	<l xml:id="harley4690_60" n="60">Vppon the <thing>bouke</thing> <person>thei</person> leide <person>her</person> <thing><person>honde</person></thing></l>
+	<l xml:id="harley4690_61">To that <thing>couenante</thing> for to stonde</l>
+	<l xml:id="harley4690_62"><person>thei</person> kiste the <thing>Bouke</thing> alle &ydot; three&period;</l>
+	<l xml:id="harley4690_63">trow <person>ffelawes</person> for to bee&period;</l>
+	<l xml:id="harley4690_64">when <person>her</person> <thing>couenawnt</thing> was &ydot; made</l>
+	<l xml:id="harley4690_65">the <person><thing>king</thing></person> spake with <thing>herte</thing> glade&period;</l>
+	<l xml:id="harley4690_66"><person>m&ydot;</person> leue <person>ffrendes</person> with gode <thing>entente</thing></l>
+	<l xml:id="harley4690_67">hough fferde &yogh;e atte the <thing>turmente</thing>&period;</l>
+	<l xml:id="harley4690_68">came an&ydot; strong <person><thing>knight</thing></person> to <person><choice><abbr>yo</abbr><expan>your</expan></choice></person> pla&ydot;</l>
+	<l xml:id="harley4690_69">&yogh;e <person>thei</person> seyden in gode fa&ydot;&period;</l> <!--LKN expl: "in gode fay" means "in good faith."-->
+	<l xml:id="harley4690_70" n="70">An awntres <person><thing>knight</thing></person> <place><thing>ther</thing></place> came ride</l> <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
+	<l xml:id="harley4690_71">in diuerse <thing>at&ydot;re</thing> with mochel <thing>pride</thing></l>
+	<l xml:id="harley4690_72"><person>he<person> felde down bothe <thing>hors</thing> <choice><abbr>&amp;</abbr><expan>and</expan></choice> <person><thing>manne</thing></person></l>
+	<l xml:id="harley4690_73"><person>h&ydot;m</person> m&ydot;ght noon <choice><abbr>wtstonde</abbr><expan>withstonde</expan></choice> aȝe&ydot;ne&period;</l>
+	<l xml:id="harley4690_74">&yogh;e [quod] the <person><thing>kyng</thing></person> by this <thing>da&ydot;e</thing></l> <!--SLG: don't know how to encode the abbreviation for quod-->
+	<l xml:id="harley4690_75">of that <person><thing>knyght</thing></person> y schalle &yogh;ow seye&period;</l>
 	<l xml:id="harley4690_76">yche &middot; was theder goon for certe</l>
-	<l xml:id="harley4690_77">tho wer the&ydot; gladde <choice><abbr>&amp;</abbr><expan>and</expan></choice> blithe in herte&period;</l>
-	<l xml:id="harley4690_78">that he loued her ffelawrede</l>
-	<l xml:id="harley4690_79">ffor he was <choice><abbr>&amp;</abbr><expan>and</expan></choice> dought&ydot; man of dede&period;</l>
-	<l xml:id="harley4690_80" n="80">and also queynte in man&ydot; case</l>
-	<l xml:id="harley4690_81">ther for thei maden grete solase&period;</l>
-	<l xml:id="harley4690_82">Trompes blewen and made acrye</l>
-	<l xml:id="harley4690_83">to geder thei wenten hastlye&period;</l><!--LKN text: the scribe appears to have begun to write an incorrect letter at the start of this line, and scraped away most of the error, writing "to" over it.--> 
+	<l xml:id="harley4690_77">tho wer <person>the&ydot;</person> gladde <choice><abbr>&amp;</abbr><expan>and</expan></choice> blithe in <thing>herte</thing>&period;</l>
+	<l xml:id="harley4690_78">that <person>he</person> loued <person>her</person> <thing>ffelawrede</thing></l>
+	<l xml:id="harley4690_79">ffor <person>he</person> was <choice><abbr>&amp;</abbr><expan>and</expan></choice> dought&ydot; <person>man</person> of <thing>dede</thing>&period;</l>
+	<l xml:id="harley4690_80" n="80">and also queynte in man&ydot; <thing>case</thing></l>
+	<l xml:id="harley4690_81">ther for <person>thei</person> maden grete <thing>solase</thing>&period;</l>
+	<l xml:id="harley4690_82"><thing>Trompes</thing> blewen and made acrye</l>
+	<l xml:id="harley4690_83">to geder <person>thei</thing> wenten hastlye&period;</l><!--LKN text: the scribe appears to have begun to write an incorrect letter at the start of this line, and scraped away most of the error, writing "to" over it.--> 
 	
 	<cb n="2"/>
 
-	<l xml:id="harley4690_84">Bi the twent&ydot; day att ende&period;</l>
-	<l xml:id="harley4690_85">Redy thei weren&period; Vn to wende&period;</l>
-	<l xml:id="harley4690_86">With Bordon scrippe <choice><abbr>&amp;</abbr><expan>and</expan></choice> sclauenne</l> <!--LKN expl: a staff and cloak that would have marked them specifically as pilgrims.-->
-	<l xml:id="harley4690_87">as palmers wer&middot; and pilgr&ydot;me&period;</l>
-	<l xml:id="harley4690_88">they touke leue of ther ffrende</l>
-	<l xml:id="harley4690_89">And to schippe ganne thei wende&period;</l>
-	<l xml:id="harley4690_90" n="90">the&ydot; drewe vppe saile <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> <choice><abbr>wynd</abbr><expan>wynde</expan></choice> was gode</l>
-	<l xml:id="harley4690_91">and <choice><abbr>sayled</abbr><expan>saylede</expan></choice> ouer the salte fflode&period;</l>
-	<l xml:id="harley4690_92">vppon fflawnders sothe to seye</l> <!--LKN expl: explain significance of Flanders as an initial destination, perhaps-->
-	<l xml:id="harley4690_93">Aryved king <choice><abbr>R</abbr><expan>Richard</expan></choice> and is ffelawes tweye</l>
-	<l xml:id="harley4690_94">the&ydot; wenten northe alle in ffere</l>
-	<l xml:id="harley4690_95">ffrom towne to towne as &yogh;e ma&ydot; here</l>
-	<l xml:id="harley4690_96">Til thei come to Brawndys</l>
+	<l xml:id="harley4690_84">Bi the twent&ydot; <thing>day</thing> att ende&period;</l>
+	<l xml:id="harley4690_85">Redy <person>thei</person> weren&period; Vn to wende&period;</l>
+	<l xml:id="harley4690_86">With <thing>Bordon scrippe <choice><abbr>&amp;</abbr><expan>and</expan></choice> sclauenne</thing></l> <!--LKN expl: a staff and cloak that would have marked them specifically as pilgrims.-->
+	<l xml:id="harley4690_87">as <person><thing>palmers</thing></person> wer&middot; and <person><thing>pilgr&ydot;me</thing></person>&period;</l>
+	<l xml:id="harley4690_88"><person>they</person> touke leue of ther <person>ffrende</person></l>
+	<l xml:id="harley4690_89">And to <place><thing>schippe</thing></place> ganne <person>thei</person> wende&period;</l>
+	<l xml:id="harley4690_90" n="90"><person>the&ydot;</person> drewe vppe <thing>saile</thing> <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> <thing><choice><abbr>wynd</abbr><expan>wynde</expan></choice></thing> was gode</l>
+	<l xml:id="harley4690_91">and <choice><abbr>sayled</abbr><expan>saylede</expan></choice> ouer the <thing>salte fflode</thing>&period;</l>
+	<l xml:id="harley4690_92">vppon <place ref="#Flanders">fflawnders</place> sothe to seye</l> <!--LKN expl: explain significance of Flanders as an initial destination, perhaps-->
+	<l xml:id="harley4690_93">Aryved <person ref="#KingRichard"><thing>king</thing> <choice><abbr>R</abbr><expan>Richard</expan></choice></person> and is <person>ffelawes</person> tweye</l>
+	<l xml:id="harley4690_94"><person>the&ydot;</person> wenten northe alle in <thing>ffere</thing></l>
+	<l xml:id="harley4690_95">ffrom <place><thing>towne</thing></place> to <place><thing>towne</thing></place> as &yogh;e ma&ydot; here</l>
+	<l xml:id="harley4690_96">Til <person>thei</person> come to <place ref="#Blaundys">Brawndys</place></l>
 	<l xml:id="harley4690_97">that is a coste of noubell pr&ydot;se&period;</l>
-	<l xml:id="harley4690_98">A schippe theí fownden thare</l> <!--SLG: how to encode accent on the i?-->
-	<l xml:id="harley4690_99">&ydot;n to C&ydot;presse for to&period; ffare&period;</l>
-	<l xml:id="harley4690_100" n="100">the&ydot; sette vppe sa&ydot;le y vnderstonde</l>
-	<l xml:id="harley4690_101">att Samagus &thorn;ey&middot;touke the londe</l>
-	<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period<num value="40">xl</num>&period; dayes</l>
-	<l xml:id="harley4690_103">And sithe <choice><abbr>didd</abbr><expan>didde</expan></choice> hem in to the see &period;</l>
-	<l xml:id="harley4690_104">&ydot;n to Artys &thorn;att fair cite</l>
-	<l xml:id="harley4690_105">ffro thennes in to chascidone&period;</l> <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
-	<l xml:id="harley4690_106">And to the cite Babilone</l> <!--LKN expl: Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, "[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: "the city of On," derived from the earlier "Pi-Hapi-n-On" of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic 'Bab-al-yun' was rendered as 'Babylon' early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called "Babylon" and their lord the "Sultan of Babylon" (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258)-->
-	<l xml:id="harley4690_107">And to the cite of Sesare&period;</l> <!--LKN expl: Cesarea, a city on the Sharon plain (HaSharon in Hebrew) between the Mediterranean coast and the Samarian Hills. The Byzantine Empire lost control of the city in 640 CE when it was taken by 'Amr ibn al-'As and his Rashidun army during the Al-Faṫṫḥul-Islāmiyyuash-Shām ("The Muslim Conquest of the Levant") The city was taken by Baldwin I of Jerusalem and his army in 1101, shortly after the conquest of Jerusalem. Salah ad-Din conquered the city in 1187, and Richard I conquered the city in 1191 during the so-called Third Crusade.-->
-	<l xml:id="harley4690_108">and to the cite of Jer[usalem]&period;</l>  <!--LKN text: potential t-note. This has to be an abbreviation for Jerusalem, but it is unusual. Also of note, perhaps, is that unlike other witnesses, the rhyme scheme is broken between the lines ending with Cesare and Jerusalem because there appears to be a “missing” line. Brunner, in fact, writes “fehlt” (i.e. “is missing”) in his note for this line (pg. 111, n. 638), which in other versions refers to the city of Nineva and ends with the word “ware.” Based on the break in rhyme, this is very likely an eye-skip on the part of the copyist.-->
-	<l xml:id="harley4690_109">To Betayne and to Bedleem&period;</l> <!--LKN expl: Bethany and Bethlehem are both towns on the West Bank and woudl have registered as significant because of the former's associations with Lazarus (who hailed from Bethany and who Christ raises from the dead in the gospels) and because of the latter being the place of Christ's birth.-->
-	<l xml:id="harley4690_110" n="110">and to the cite of Sudranturp&ydot;e</l> <!--LKN expl: A variant spelling of "Sudan Turry," which presumably refers to Sidon and Tyre-->
-	<l xml:id="harley4690_111">and to the cite of Ebed&ydot;e&period;</l> <!--LKN expl: this perhaps refers to the city of Ebron/Hebron. Both Brunner and Larkin suggest as much.-->
-	<l xml:id="harley4690_112">and to the castell of Orglyous&period;</l><!--LKN expl: The Castle of Pride, also fictional. As Peter Larkin suggests, this city name "evokes romance castles" (Larkin n. for 643). See also Andrew Scheil's discussion of this catalogue, (<i>Baylon Under Western Eyes</i>, 269-71)-->
-	<l xml:id="harley4690_113">and to the cite of peryeus&period;</l> <!--LKN expl: possibly the port city Piraeus in Attica, Greece; if so, this name seems out of place since the place names before and after this line are in Outremer.-->
-	<l xml:id="harley4690_114">To Japhes and to saffrane</l><!--LKN expl: provide note on Jaffa and Safrane, Larkin n. 645-->
-	<l xml:id="harley4690_115">to taburet and to Archane&period;</l> <!--LKN expl: provide note on Tiberias and Archas, Larkin n. 646-->
-	<l xml:id="harley4690_116">thus visited they the hol&ydot;londe</l>
+	<l xml:id="harley4690_98">A <thing>schippe</thing> <person>theí</person> fownden <place>thare</place></l> <!--SLG: how to encode accent on the i?-->
+	<l xml:id="harley4690_99">&ydot;n to <place ref="#Cypress">C&ydot;presse</place> for to&period; ffare&period;</l> <!--SLG: I believe a ref is needed for Cypress-->
+	<l xml:id="harley4690_100" n="100"><person>the&ydot;</person> sette vppe <thing>sa&ydot;le</thing> y vnderstonde</l>
+	<l xml:id="harley4690_101">att <place ref="#Samagus">Samagus</place> &thorn;ey&middot;touke the <place><thing>londe</thing></place></l> <!--SLG: ref needed for Samagus as well?-->
+	<l xml:id="harley4690_102">there <person>thei</person> <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &period<num value="40">xl</num>&period; <thing>dayes</thing></l>
+	<l xml:id="harley4690_103">And sithe <choice><abbr>didd</abbr><expan>didde</expan></choice> <person>hem</person> in to the <place><thing>see</thing></place> &period;</l>
+	<l xml:id="harley4690_104">&ydot;n to <place>Artys</place> &thorn;att fair <place><thing>cite</thing></place></l>
+	<l xml:id="harley4690_105">ffro thennes in to <place ref="#Chalcedon">chascidone&period;</place></l> <!--LKN expl: Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, A History of the Crusades, vol. 1, 152) -->
+	<l xml:id="harley4690_106">And to the cite <place ref="#Babylon">Babilone</place></l> <!--LKN expl: Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, "[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: "the city of On," derived from the earlier "Pi-Hapi-n-On" of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic 'Bab-al-yun' was rendered as 'Babylon' early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called "Babylon" and their lord the "Sultan of Babylon" (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258)-->
+	<l xml:id="harley4690_107">And to the cite of <place ref="#Cesarea">Sesare&period;</place></l> <!--LKN expl: Cesarea, a city on the Sharon plain (HaSharon in Hebrew) between the Mediterranean coast and the Samarian Hills. The Byzantine Empire lost control of the city in 640 CE when it was taken by 'Amr ibn al-'As and his Rashidun army during the Al-Faṫṫḥul-Islāmiyyuash-Shām ("The Muslim Conquest of the Levant") The city was taken by Baldwin I of Jerusalem and his army in 1101, shortly after the conquest of Jerusalem. Salah ad-Din conquered the city in 1187, and Richard I conquered the city in 1191 during the so-called Third Crusade.-->
+	<l xml:id="harley4690_108">and to the cite of <place ref="#Jerusalem"><choice><abbr>Jerlm</abbr><expan>Jerusalem</expan></choice></place>&period;</l>  <!--LKN text: potential t-note. This has to be an abbreviation for Jerusalem, but it is unusual. Also of note, perhaps, is that unlike other witnesses, the rhyme scheme is broken between the lines ending with Cesare and Jerusalem because there appears to be a “missing” line. Brunner, in fact, writes “fehlt” (i.e. “is missing”) in his note for this line (pg. 111, n. 638), which in other versions refers to the city of Nineva and ends with the word “ware.” Based on the break in rhyme, this is very likely an eye-skip on the part of the copyist.-->
+	<l xml:id="harley4690_109">To <place ref="#Bethany">Betayne</place> and to <place ref="#Bethlehem">Bedleem</place>&period;</l> <!--LKN expl: Bethany and Bethlehem are both towns on the West Bank and woudl have registered as significant because of the former's associations with Lazarus (who hailed from Bethany and who Christ raises from the dead in the gospels) and because of the latter being the place of Christ's birth.-->
+	<l xml:id="harley4690_110" n="110">and to the cite of <place ref="#Sudan Turry">Sudranturp&ydot;e</place></l> <!--LKN expl: A variant spelling of "Sudan Turry," which presumably refers to Sidon and Tyre-->
+	<l xml:id="harley4690_111">and to the cite of <place ref="#Obedy">Ebed&ydot;e</place>&period;</l> <!--LKN expl: this perhaps refers to the city of Ebron/Hebron. Both Brunner and Larkin suggest as much.-->
+	<l xml:id="harley4690_112">and to the castell of <place ref="#CastleOrgulous"><thing>Orglyous</thing></place>&period;</l><!--LKN expl: The Castle of Pride, also fictional. As Peter Larkin suggests, this city name "evokes romance castles" (Larkin n. for 643). See also Andrew Scheil's discussion of this catalogue, (<i>Baylon Under Western Eyes</i>, 269-71)-->
+	<l xml:id="harley4690_113">and to the cite of <place ref="#Piraeus">peryeus</place>&period;</l> <!--LKN expl: possibly the port city Piraeus in Attica, Greece; if so, this name seems out of place since the place names before and after this line are in Outremer.-->
+	<l xml:id="harley4690_114">To <place ref="#Jaffa">Japhes</place> and to <place ref="#Saffrayne">saffrane</place></l><!--LKN expl: provide note on Jaffa and Safrane, Larkin n. 645-->
+	<l xml:id="harley4690_115">to <place ref="#Tiberias">taburet</place> and to <place ref="#Arcas">Archane</place>&period;</l> <!--LKN expl: provide note on Tiberias and Archas, Larkin n. 646-->
+	<l xml:id="harley4690_116">thus visited <person>they</person> the <place><thing>hol&ydot;londe</thing></place></l>
 	<l xml:id="harley4690_117">Ryghe &thorn;urgh oute y vnderstonde&period;</l>
-	<l xml:id="harley4690_118">So then homwarde &thorn;ei haue &ydot; t&ydot;ghte</l>
-	<l xml:id="harley4690_119">&ydot;n to Englond with alle her myght</l>
-	<l xml:id="harley4690_120" n="120">when the&ydot; wer <choice><abbr>passedd</abbr><expan>passedde</expan></choice>&middot; &thorn;e grekes&middot; see</l>
-	<l xml:id="harley4690_121">&ydot;n to alme&ydot;ne thenne roden hee&period;</l> <!--LKN summ: Richard, Thomas, and Fouk arrive in Germany--> <!--LKN expl: This episode, which recounts Richard's imprisonment by the king of Germany is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from Outremer, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.-->
-	<l xml:id="harley4690_122">and he &thorn;at in alme&ydot;ne was king&period;</l>
-	<l xml:id="harley4690_123">hated king Richard abow &period; al thyng</l>
-	<l xml:id="harley4690_124">Richard and is ffelawes too</l>
-	<l xml:id="harley4690_125">&ydot;n to towne the&ydot; wer agoo&period;</l>
-	<l xml:id="harley4690_126">the&ydot; touke her &ydot;nne sekurl&ydot;e&period;</l>
+	<l xml:id="harley4690_118">So then homwarde <person>&thorn;ei</person> haue &ydot; t&ydot;ghte</l>
+	<l xml:id="harley4690_119">&ydot;n to <place ref="#England">Englond</place> with alle <person>her</person> myght</l>
+	<l xml:id="harley4690_120" n="120">when <person>the&ydot;</person> wer <choice><abbr>passedd</abbr><expan>passedde</expan></choice>&middot; &thorn;e <place>grekes&middot; see</place></l>
+	<l xml:id="harley4690_121">&ydot;n to <place ref=#"Almayne">alme&ydot;ne</place> thenne roden <person>hee&period;</person></l> <!--LKN summ: Richard, Thomas, and Fouk arrive in Germany--> <!--LKN expl: This episode, which recounts Richard's imprisonment by the king of Germany is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from Outremer, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.-->
+	<l xml:id="harley4690_122">and <person>he</person> &thorn;at in <place ref=#"Almayne">alme&ydot;ne</place> was <person><thing>king&period;</thing></person></l>
+	<l xml:id="harley4690_123">hated <person ref="#KingRichard"><thing>king</thing> Richard</person> abow &period; al thyng</l>
+	<l xml:id="harley4690_124"><person ref="#KingRichard">Richard</person> and is <person>ffelawes</person> too</l>
+	<l xml:id="harley4690_125">&ydot;n to <place>towne</place> <person>the&ydot;</person> wer agoo&period;</l>
+	<l xml:id="harley4690_126"><person>the&ydot;</person> touke her &ydot;nne sekurl&ydot;e&period;</l>
 
     </body>
 </text>

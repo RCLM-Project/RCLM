@@ -52,10 +52,10 @@ With Bordon scrippe [and] sclauenne <!--LKN expl: a staff and cloak that would h
 as palmers wer. and pilgrẏme.
 they touke leue of ther ffrende
 And to schippe ganne thei wende.
-theẏ drewe vppe saile þ[e] wynd[e] was gode
+theẏ drewe vppe saile þ[e] wynd[e] was gode <!-- APB little line/dash above "saile"? -->
 and sayled[e] ouer the salte fflode.
 vppon fflawnders sothe to seye <!--LKN expl: explain significance of Flanders as an initial destination, perhaps-->
-Aryved king R[ichard] and is ffelawes tweye
+Aryved king R[ichard] and is ffelawes tweye <!-- APB is the punctus a part of the "R" abbreviation or does it need to be present in the transcription after it? -->
 theẏ wenten northe alle in ffere
 ffrom towne to towne as ȝe maẏ here
 Til thei come to Brawndys
@@ -74,7 +74,7 @@ and to the cite of Jer[usalem].  <!--LKN text: potential t-note. This has to be 
 To Betayne and to Bedleem. <!--LKN expl: Bethany and Bethlehem are both towns on the West Bank and woudl have registered as significant because of the former's associations with Lazarus (who hailed from Bethany and who Christ raises from the dead in the gospels) and because of the latter being the place of Christ's birth.-->
 and to the cite of Sudranturpẏe <!--LKN expl: A variant spelling of "Sudan Turry," which presumably refers to Sidon and Tyre-->
 and to the cite of Ebedẏe. <!--LKN expl: this perhaps refers to the city of Ebron/Hebron. Both Brunner and Larkin suggest as much.-->
-and to the castell of Orglyous.<!--LKN expl: The Castle of Pride, also fictional. As Peter Larkin suggests, this city name "evokes romance castles" (Larkin n. for 643). See also Andrew Scheil's discussion of this catalogue, (<i>Baylon Under Western Eyes</i>, 269-71)-->
+and to the castell of Orglyous.<!--LKN expl: The Castle of Pride, also fictional. As Peter Larkin suggests, this city name "evokes romance castles" (Larkin n. for 643). See also Andrew Scheil's discussion of this catalogue, (<i>Baylon Under Western Eyes</i>, 269-71)--> <!-- is the second and final "o" in "Orglyous" actually the letter "e"? -->
 and to the cite of peryeus. <!--LKN expl: possibly the port city Piraeus in Attica, Greece; if so, this name seems out of place since the place names before and after this line are in Outremer.-->
 To Japhes and to saffrane<!--LKN expl: provide note on Jaffa and Safrane, Larkin n. 645-->
 to taburet and to Archane. <!--LKN expl: provide note on Tiberias and Archas, Larkin n. 646-->
@@ -83,7 +83,7 @@ Ryghe þurgh oute y vnderstonde.
 So then homwarde þei haue ẏ tẏghte
 ẏn to Englond with alle her myght
 when theẏ wer passedd[e]. þe grekes. see
-ẏn to almeẏne thenne roden hee. <!--LKN summ: Richard, Thomas, and Fouk arrive in Germany--> <!--LKN expl: This episode, which recounts Richard's imprisonment by the king of Germany is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from Outremer, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.-->
+ẏn to almeẏne thenne roden hee. <!--LKN summ: Richard, Thomas, and Fouk arrive in Germany--> <!--LKN expl: This episode, which recounts Richard's imprisonment by the king of Germany is largely a fiction. While the historical King Richard was imprisoned in Germany, this occurred on his return from Outremer, not before it. To the best of our knowledge, the historical Richard did not kill the king's son, sleep with the king's daughter, and kill a lion with his bare hands while a prisoner.--> <!-- is the "r" in "roden" a capital letter? It looks awfully similar in style and size to the "R" in "Richard" two lines down -->
 and he þat in almeẏne was king.
 hated king Richard abow. al thyng
 Richard and is ffelawes too
