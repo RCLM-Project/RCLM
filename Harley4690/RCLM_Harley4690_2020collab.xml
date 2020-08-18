@@ -621,8 +621,8 @@
     	<l xml:id="harley4690_501">the pryson dore han vndone .</l>
     	<l xml:id="harley4690_502">and yn the&ydot; &yogh;ede swythe sone</l>
     	<l xml:id="harley4690_503"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> se&ydot;d &yogh;e be welcome</l> <!--SLG trans: middot following [Richard]?-->
-	<!--SLG trans: missing line, added below. Line numbers have been corrected-->
-	<l xml:id="harley4690_504">the&ydot; s&ydot;ghe the lyon dede there</l>
+		<l xml:id="harley4690_"></l><!--SLG trans: missing line, added below. Line numbers have been corrected-->
+		<l xml:id="harley4690_504">the&ydot; s&ydot;ghe the lyon dede there</l>
     	<l xml:id="harley4690_505">the&ydot; renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
     	<l xml:id="harley4690_506">thatt <name type="person" subtype="historical" ref="#KingRichard">R[ichard]</name> was all hole and sownde</l>
     	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
