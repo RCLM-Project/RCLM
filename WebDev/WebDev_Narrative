@@ -1,0 +1,12 @@
+<style>
+h2 {text-align: center;}
+h4 {text-align: center;}
+</style>
+<h2> Building a Digital Edition: Under the Hood</h2>
+<h4>A Short Guide to the Coding and Web Development of the RCLM Project</h4>
+<br>
+<br>
+<br>
+<p> The creation of a digital edition is not just translation, TEI or XML encoding, or compiling resources, there is also vital work to be done on making sure that the project functions as a digital project. While it might seem like a last step, the coding and website development of a digital project is where authors can control how a text renders, how readers will interact with it, and code in accessibility features that make the project more usable.</p>
+<br>
+<br>
