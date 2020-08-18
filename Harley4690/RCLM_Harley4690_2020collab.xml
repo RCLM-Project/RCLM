@@ -450,7 +450,7 @@
     	<l xml:id="harley4690_343">Porter sche seide lett me see &period;</l> 
     	<l xml:id="harley4690_344">th&ydot;ne prisoners hastelye</l>
     	<l xml:id="harley4690_345">Gladlyche he seide m&ydot; lad&ydot;</l>
-    	<l xml:id="harley4690_346">fforthe come Richard[e] &thorn;e nowbel man</l>
+    	<l xml:id="harley4690_346">fforthe come <choice><abbr>Richard</abbr><expan>Richarde</expan></choice> &thorn;e nowbel man</l>
     	<l xml:id="harley4690_347">and well hendelyche he grete her &thorn;an</l>
     	<l xml:id="harley4690_348">damoysell he seide with herte ffree</l>
     	<l xml:id="harley4690_349">watt ys &thorn;i wille to sey vn to me</l> <!--APB trans: there appears to be an abbreviation above "þi" > is it "þi[er]" or something like "their?--> <!--SLG trans: I think it's an abbreviation for [s], so þi[s]-->
@@ -461,34 +461,34 @@
     	<l xml:id="harley4690_354">for nough ys the &thorn;rydde da&ydot; agoon</l>
     	<l xml:id="harley4690_355">&thorn;att mete ne drinke bode &ydot; noon</l>
     	<l xml:id="harley4690_356">the lad&ydot; had of h&ydot;m pyte &period;</l> 
-    	<l xml:id="harley4690_357">Amended[e] sche seide &thorn;att schall be</l>
-    	<l xml:id="harley4690_358">sche commawnded[e] &thorn;e porter snelle</l>
+    	<l xml:id="harley4690_357"><choice><abbr>Amended</abbr><expan>Amendede</expan></choice> sche seide &thorn;att schall be</l>
+    	<l xml:id="harley4690_358">sche <choice><abbr>commawnded</abbr><expan>commawndede</expan></choice> &thorn;e porter snelle</l>
     	<l xml:id="harley4690_359">that he wer serued welle</l>
-    	<l xml:id="harley4690_360" n="360">and &thorn;e &ydot;rons from h&ydot;m &thorn;[u] take</l>
+    	<l xml:id="harley4690_360" n="360">and &thorn;e &ydot;rons from h&ydot;m <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> take</l>
     	<l xml:id="harley4690_361">y the commawnde for my sake</l>
     	<l xml:id="harley4690_362">and serue h&ydot;m well in all w&ydot;se</l>
-    	<l xml:id="harley4690_363">as &thorn;[u] wiste dwell ynne &thorn;&ydot; seruyse</l>
-    	<l xml:id="harley4690_364">and to m&ydot; bour &thorn;[u] schalte hym bring</l> <!--APB trans: I think "bring" is spelled "bryng"--> <!--SLG trans: there's also a horizontal dash following the [g], which I think could stand for a final [e]-->
+    	<l xml:id="harley4690_363">as <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> wiste dwell ynne &thorn;&ydot; seruyse</l>
+    	<l xml:id="harley4690_364">and to m&ydot; bour <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> schalte hym bring</l> <!--APB trans: I think "bring" is spelled "bryng"--> <!--SLG trans: there's also a horizontal dash following the [g], which I think could stand for a final [e]-->
     	<l xml:id="harley4690_365">after soper &ydot;nne &thorn;e Euenyng</l>
     	<l xml:id="harley4690_366">yn attyre of a squ&ydot;er</l>
     	<l xml:id="harley4690_367">M&ydot; selfe &ydot; schall holpe &yogh;ow &thorn;ere</l>
     	<l xml:id="harley4690_368">and by swete seint S&ydot;monne</l> <!--SLG trans: [Sẏmonne] to [sẏmonne]-->
-    	<l xml:id="harley4690_369">though schalte haue gode war&ydot;&yogh;o[u]n</l>
+    	<l xml:id="harley4690_369">though schalte haue gode <choice><abbr>war&ydot;&yogh;on</abbr><expan>war&ydot;&yogh;oun</expan></choice></l>
     	<l xml:id="harley4690_370" n="370">att euen he for&yogh;ate itte nought</l>
     	<l xml:id="harley4690_371">to her chaumber he hath hym brought</l> <!--SLG trans: horizontal dash above and extending past [brought]. Does this indicate a final [e]?-->
     	<l xml:id="harley4690_372">With that lady he dwelled st&ydot;lle</l>
-    	<l xml:id="harley4690_373">and with her played[e] alle ys fylle</l>
+    	<l xml:id="harley4690_373">and with her <choice><abbr>played</abbr><expan>playede</expan></choice> alle ys fylle</l>
     	<l xml:id="harley4690_374">Till that seuen dayes wer agoon</l>
     	<l xml:id="harley4690_375">there of wist none of ys ssoon</l>
     	<l xml:id="harley4690_376">he was apried of a knyghte &period;</l> <!--SLG trans: [apried] to [aspied]-->
     	<l xml:id="harley4690_377">hough he come to her anyghte &period;</l> 
     	<l xml:id="harley4690_378">priuelyche he tolde the kyngge</l>
     	<l xml:id="harley4690_379">&thorn;att forleine was ys dowghter yong</l>
-    	<l xml:id="harley4690_380" n="380">&thorn;enne was the k&ydot;ng sore amayedd[e]</l>
-    	<l xml:id="harley4690_381">alas he seide &ydot; am betrayed[e]</l>
+    	<l xml:id="harley4690_380" n="380">&thorn;enne was the k&ydot;ng sore <choice><abbr>amayedd</abbr><expan>amayedde</expan></choice></l>
+    	<l xml:id="harley4690_381">alas he seide &ydot; am <choice><abbr>betrayed</abbr><expan>betrayede</expan></choice></l>
     	<l xml:id="harley4690_382">&thorn;att traitour hath m&ydot; sone &ydot; sla&ydot;n</l>
     	<l xml:id="harley4690_383">and my dowghter nough fforle&ydot;ne</l>
-    	<l xml:id="harley4690_384">Smertel&ydot;e &thorn;e emperour w[ith] out faile</l>
+    	<l xml:id="harley4690_384">Smertel&ydot;e &thorn;e emperour <choice><abbr>wt</abbr><expan>with</expan></choice> out faile</l>
     	<l xml:id="harley4690_385">lette sende after ys counceyle &period;</l> 
 
     	<pb xml:id="harley4690_fol111v" n="fol111v" facs="harley_ms_4690_f111v.tif"/>
