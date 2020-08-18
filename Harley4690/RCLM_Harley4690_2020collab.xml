@@ -794,15 +794,15 @@
     	<l xml:id="harley4690_654">kyng Richarde wente forthe st&ydot;lle</l> 
     	<l xml:id="harley4690_655">and suffred the k&ydot;ng of ffrawnces ylle</l>
     	<l xml:id="harley4690_656">and vndede ys tresowre</l>
-    	<l xml:id="harley4690_657">and bowght best&ydot;s for &ydot;s store</l> <!--SNM trans: [bowght] and [bestys] might have a capital [B]-->
+    	<l xml:id="harley4690_657">and bowght best&ydot;s for &ydot;s store</l> <!--SNM trans: [bowght] and [bestys] might have a capital [B]--> <!--APB trans: I agree-->
     	<l xml:id="harley4690_658">and lete bothe salte and sleen</l>
     	<l xml:id="harley4690_659">xxx th[ousand] oxen and k&ydot;enne&period;</l> <!--LKN note for team: Brunner transcribes this as xxx m1 (172, n. 1758), but to me it looks more like a t and h followed by a superscript abbreviation mark that looks a lot like the abbreviation for "and"; it definitely does not look like an m based on "m"s that appear elsewhere; what think you?-->
     	<l xml:id="harley4690_660" n="660">sw&ydot;ne and schepe he dude also</l>
     	<l xml:id="harley4690_661">Bvtte y canne notte acownpte &thorn;oo&period;</l> 
     	<l xml:id="harley4690_662">Of wete quarters &period;; twent&ydot; &thorn;owseonde</l> <!-- SNM trans: [þowseonde] might be [þowsande]-->
     	<l xml:id="harley4690_663">he bowghte as whe ff&ydot;nde</l>
-    	<l xml:id="harley4690_664">ffysche ffowle and venesoune</l>
-    	<l xml:id="harley4690_665">whe ne canne acowmpte &thorn;o right Reson[ne]</l>
+    	<l xml:id="harley4690_664">ffysche ffowle and venesoune</l> <!--APB trans: "venesoune" possible "venesonne"?-->
+    	<l xml:id="harley4690_665">whe ne canne acowmpte &thorn;o right Reson[ne]</l><!--APB trans: "&thorn;o" might be "&thorn;e" and possible capital "R" in "right" since it resembles the capital "R" in "Reson[ne]"-->
     	<l xml:id="harley4690_666">the kyng of ffrawnce as &ydot; wene</l>
     	<l xml:id="harley4690_667">laye yn the cyte off m&ydot;ssene &period; </l>
     	<l xml:id="harley4690_668">Oure Englysche menne wente to chep&ydot;ng</l>
@@ -813,10 +813,10 @@
     	<l xml:id="harley4690_673">he ple&ydot;ned[e] h&ydot;m to the kyng of ffrawnce</l> <!-- SNM trans: [pleyned[e]]: so far we have just been transcribing the abbreviated [e] as a normal letter (i.e. Richarde). Would you like us to continue with this or give it a @choice tag? -->
     	<l xml:id="harley4690_674"><del rend="overstrike">and</del>he seyde he helde no wardys</l> <!--LKN text: the word "and" appears at the start of the line but is struck out. The copyist wrote the correct word "he" above and inbetween that error and the word "seyd."--> <!-- SNM trans: we can encode this! TEI has a tag for strikethrough. I've put it in; tell me what you think!-->
     	<l xml:id="harley4690_675">of the englysche tayla&ydot;rdys</l>
-    	<l xml:id="harley4690_676">Go chast&ydot;ce the gryffonnes yf &thorn;[ou] no Ryght</l> <!-- SNM trans: [no Ryght] to [myght]. This is from the next line-->
+    	<l xml:id="harley4690_676">Go chast&ydot;ce the gryffonnes yf &thorn;[ou] no Ryght</l> <!-- SNM trans: [no Ryght] to [myght]. This is from the next line--> <!-- APB trans: I agree-->
     	<l xml:id="harley4690_677">for of my menne getest &thorn;[ou] no Ryght</l> <!-- SNM trans: skipped line, added here-->
     	<l xml:id="harley4690_678">Quod kyng Rycharde syth yt is soo</l>
-    	<l xml:id="harley4690_679">&ydot; wote wate y haue to doo&period;;</l>
+    	<l xml:id="harley4690_679">&ydot; wote wate y haue to doo&period;</l>
     	<l xml:id="harley4690_680" n="680">&ydot; wylle me so awreke</l>
     	<l xml:id="harley4690_681">thatt alle &thorn;e worlde &thorn;er of schal speke</l>
     	<l xml:id="harley4690_682">Atte the tyme of cryst&ydot;ssmasse</l> <!--LKN expl: possibly insert note here on feast of Christmas and significance here-->
