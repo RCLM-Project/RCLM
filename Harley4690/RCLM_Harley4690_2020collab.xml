@@ -797,7 +797,7 @@
     	<l xml:id="harley4690_657">and bowght best&ydot;s for &ydot;s store</l> <!--SNM trans: [bowght] and [bestys] might have a capital [B]-->
     	<l xml:id="harley4690_658">and lete bothe salte and sleen</l>
     	<l xml:id="harley4690_659">xxx th[ousand] oxen and k&ydot;enne.</l> <!--LKN note for team: Brunner transcribes this as xxx m1 (172, n. 1758), but to me it looks more like a t and h followed by a superscript abbreviation mark that looks a lot like the abbreviation for "and"; it definitely does not look like an m based on "m"s that appear elsewhere; what think you?-->
-    	<l xml:id="harley4690_660">sw&ydot;ne and schepe he dude also</l>
+    	<l xml:id="harley4690_660" n="660">sw&ydot;ne and schepe he dude also</l>
     	<l xml:id="harley4690_661">Bvtte y canne notte acownpte &thorn;oo.</l> 
     	<l xml:id="harley4690_662">Of wete quarters . twent&ydot; &thorn;owseonde</l> <!-- SNM trans: [þowseonde] might be [þowsande]-->
     	<l xml:id="harley4690_663">he bowghte as whe ff&ydot;nde</l>
@@ -806,7 +806,7 @@
     	<l xml:id="harley4690_666">the kyng of ffrawnce as &ydot; wene</l>
     	<l xml:id="harley4690_667">laye yn the cyte off m&ydot;ssene . </l>
     	<l xml:id="harley4690_668">Oure Englysche menne wente to chep&ydot;ng</l>
-    	<l xml:id="harley4690_669">and hente there man&ydot; harde knockyng</l>
+    	<l xml:id="harley4690_669" n="670">and hente there man&ydot; harde knockyng</l>
     	<l xml:id="harley4690_670">the ffrenschemen [and] &thorn;e gryffons down Rytes</l>
     	<l xml:id="harley4690_671">slew there owre englysche kn&ydot;ghtes</l>
     	<l xml:id="harley4690_672">whenne kyng Richard herd &thorn;ys dystawns</l>
@@ -817,7 +817,7 @@
     	<l xml:id="harley4690_677">for of my menne getest &thorn;[ou] no Ryght</l> <!-- SNM trans: skipped line, added here-->
     	<l xml:id="harley4690_678">Quod kyng Rycharde syth yt is soo</l>
     	<l xml:id="harley4690_679">&ydot; wote wate y haue to doo.</l>
-    	<l xml:id="harley4690_680">&ydot; wylle me so awreke</l>
+    	<l xml:id="harley4690_680" n="680">&ydot; wylle me so awreke</l>
     	<l xml:id="harley4690_681">thatt alle &thorn;e worlde &thorn;er of schal speke</l>
     	<l xml:id="harley4690_682">Atte the tyme of cryst&ydot;ssmasse</l> <!--LKN expl: possibly insert note here on feast of Christmas and significance here-->
     	<l xml:id="harley4690_683">kyng Richard honowred that feste</l> <!-- SNM trans: split line; I have added [honowred that feste] but I'm unsure on the [feste], could be [peste], do you mind checking?-->
@@ -827,7 +827,7 @@
     	<l xml:id="harley4690_687">mete and drynke and deynte</l>
     	<l xml:id="harley4690_688">ther come a knyghte all yn haste</l>
     	<l xml:id="harley4690_689">hownethe he myghte drawe ys blaste</l>
-    	<l xml:id="harley4690_690">and felle on knee yn thatt tyde</l>
+    	<l xml:id="harley4690_690" n="690">and felle on knee yn thatt tyde</l>
     	<l xml:id="harley4690_691">and to the kyng thus he seyde</l>
     	<l xml:id="harley4690_692">the frenschemen and the Gryffones</l>
     	<l xml:id="harley4690_693">have slayen m&ydot; fader yn &thorn;e downes</l>
@@ -840,7 +840,7 @@
     	<l xml:id="harley4690_697">for yowre menne beth le&ydot;de on hepe</l>
     	<l xml:id="harley4690_698">awreke yow ther fore mannelyche</l>
     	<l xml:id="harley4690_699">Other elles &yogh;e tyte haslyche</l>
-    	<l xml:id="harley4690_700">fflee yn perell y vnderstonde</l>
+    	<l xml:id="harley4690_700" n="700">fflee yn perell y vnderstonde</l>
     	<l xml:id="harley4690_701">and turne a&yogh;e&ydot;ne to englonde</l>
     	<l xml:id="harley4690_702">kyng R[ichard] satte and pykked[e] hym mode</l>
     	<l xml:id="harley4690_703">amd lowked ryght as he wer wode.</l>
@@ -850,7 +850,7 @@
     	<l xml:id="harley4690_707">he wolde be awreked sone &ydot;n haste .</l> 
     	<l xml:id="harley4690_708">yn the h&ydot;ghe da&ydot; of cr&ydot;stessmasse</l>
     	<l xml:id="harley4690_709">he lette arme ys menne more and lesse</l>
-    	<l xml:id="harley4690_710">alle byfore wente k&ydot;ng Richarde</l>
+    	<l xml:id="harley4690_710" n="710">alle byfore wente k&ydot;ng Richarde</l>
     	<l xml:id="harley4690_711"><choice><abbr>&amp;</abbr><expan>and</expan></choice> the Erle of Salesb&ydot;r&ydot; afterwarde.</l>
     	<l xml:id="harley4690_712">thatt was cleped att &thorn;att da&ydot;</l>
     	<l xml:id="harley4690_713">s&ydot;r wyllam the longge spra&ydot;</l>
@@ -860,7 +860,7 @@
     	<l xml:id="harley4690_717">speremen Bowmenne and arleblasters</l> <!--LKN expl: need a note here explaining what an arleblaster is-->
     	<l xml:id="harley4690_718">with kyng Richard the&ydot; ganne reke</l>
     	<l xml:id="harley4690_719">On the ffrenschemen to be awreke.</l> 
-    	<l xml:id="harley4690_720">the ffrenschemen aspyed rathe</l> 
+    	<l xml:id="harley4690_720" n="720">the ffrenschemen aspyed rathe</l> 
     	<l xml:id="harley4690_721">that oure englysche wold[e] do hem scathe</l>
     	<l xml:id="harley4690_722">smertelyche they schutte &thorn;e gate</l>
     	<l xml:id="harley4690_723">Wyth barres thatt &thorn;ey fownd &thorn;er ate</l>
@@ -870,7 +870,7 @@
     	<l xml:id="harley4690_727">Go home dogges wyth youre tayle.</l> 
     	<l xml:id="harley4690_728">alle yowre Boste and yore orgulle</l> <!-- SNM trans: [yore] to [yowre]-->
     	<l xml:id="harley4690_729">menne schall threste &ydot;n yowre cule</l>
-    	<l xml:id="harley4690_730">thus the&ydot; deden and myssayde.</l>
+    	<l xml:id="harley4690_730" n="730">thus the&ydot; deden and myssayde.</l>
     	<l xml:id="harley4690_731">and alle &thorn;att da&ydot; sore hem trayedde</l>
     	<l xml:id="harley4690_732">thatt nyght for no mede.</l>
     	<l xml:id="harley4690_733">owre kyng in bateylle myght not spede</l>
@@ -880,7 +880,7 @@
     	<l xml:id="harley4690_737">kyng Richard[e] &thorn;[at] nyght no reste towke</l>
     	<l xml:id="harley4690_738">on morowe he cleped[e] ys cownsa[y]l y wysse</l><!--LKN text: the copyist appears to have skipped over the "y" in "cownsayl" initially and wrote it above and between the 'a' and 'l' with a carat below signalling where it ought to be inserted-->
     	<l xml:id="harley4690_739"><choice><abbr>&amp;</abbr><expan>and</expan></choice> of the .v. portes the barones</l>
-    	<l xml:id="harley4690_740">and seyde lordes that be wyth me</l>
+    	<l xml:id="harley4690_740" n="740">and seyde lordes that be wyth me</l>
     	<l xml:id="harley4690_741">owre cownsayle awghte to be pryve.</l> 
     	<!-- SNM phase 1 done through line 741-->
     	<pb xml:id="harley4690_fol113v" n="fol113v" facs="harley_ms_4690_f113v.tif"/>
