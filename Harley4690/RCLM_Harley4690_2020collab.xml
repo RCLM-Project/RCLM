@@ -678,13 +678,13 @@
 		<l xml:id="harley4690_553">theẏ thonked[e] owght goddẏs sonde.</l> <!--SLG trans: is that a rip above [owght]?-->
     	<l xml:id="harley4690_554">home þey wente to þere contreẏs alle</l>
     	<l xml:id="harley4690_555">and att <name type="place" ref="#Westminster">westmyster</name> þe kẏng gan stalle</l>
-    	<l xml:id="harley4690_556">	sone after thys playẏng</l>
-    	<l xml:id="harley4690_557">	<name type="person" subtype="historical" ref="#KingRichard">kẏng Rich[ard]</name> dyd a nother thẏng</l>
+    	<l xml:id="harley4690_556"><space quantity="5" unit="char"/>sone after thys playẏng</l>
+    	<l xml:id="harley4690_557"><space quantity="5" unit="char"/><name type="person" subtype="historical" ref="#KingRichard">kẏng Rich[ard]</name> dyd a nother thẏng</l>
     	<l xml:id="harley4690_558">ys londe he towke the chawncelere</l>
     	<l xml:id="harley4690_559">and be came goddes palmerre</l><!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
     	<l xml:id="harley4690_560" n="560">and a&yogh;enst goddys enemẏse</l>
-    	<l xml:id="harley4690_561">he     thowght to werre alle ways</l><note>In this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line.</note>
-    	<l xml:id="harley4690_562">Bẏ   fore he went w[ith]e knyght[es] fyve</l> <!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
+    	<l xml:id="harley4690_561">he<space quantity="4" unit="char"/>thowght to werre alle ways</l><!-- LKN text: In this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line.-->
+    	<l xml:id="harley4690_562">Bẏ<space quantity="4" unit="char"/>fore he went w[ith]e knyght[es] fyve</l> <!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
     	<l xml:id="harley4690_563">By Brawnde?[e] and Bẏ <name type="place" ref="#Constantine">costantyne</name></l> <!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.--> <!-- APB: I tagged Constantine as a place here but I am unsure about Brawnde[?] -->
 
     	<pb xml:id="harley4690_fol112v" n="fol112v" facs="harley_ms_4690_f112v.tif"/>
@@ -918,7 +918,7 @@
     	<l xml:id="harley4690_771">and sett hym to the tree castelle</l>
     	<l xml:id="harley4690_772">and schote to them wyth arblaste</l>
     	<l xml:id="harley4690_773">the dogge tayles for to agaste. </l>
-    	<l xml:id="harley4690_774">		sone after Rich[ard] owre kyngge</l>
+    	<l xml:id="harley4690_774"><space quantity="8" unit="char"/>sone after Rich[ard] owre kyngge</l>
     	<l xml:id="harley4690_775">lette bere yn the dawen&ydot;ng</l>
     	<l xml:id="harley4690_776">Targes and dores ys folke alle</l>
     	<l xml:id="harley4690_777">Ryght afore the cyte walle</l>
