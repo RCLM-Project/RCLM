@@ -1220,7 +1220,7 @@ the emperour be gan to rage.
     	By the grace of goddes sonde
     	<!--APB trans: three missing lines here that I've added-->
     	<!--APB trans: missing 1-->ẏ schalle make hẏm sone fleen
-    	<!--APB trans: missing 2-->Butt he ẏn haste turne areẏne
+    	<!--APB trans: missing 2-->Butt he ẏn haste turne aȝeẏne
     	<!--APB trans: missing 3-->the stywarde ys nose in honde hente
     	ẏ wysse ys face was alle to schente
     	owte of the courte blyve he ranne <!--APB trans: capital "O" in "owte?-->
@@ -1272,7 +1272,9 @@ the emperour be gan to rage.
     	her gode dayes sone ganne of... ...
     	whenne þat he to pryson ca.... ... ...
     	thyke axe yn honde he ... ... ...
-    	and hewe þer bothe bar.... ... ...
+    	and hewe þer bothe bar.... ... ... <!--APB trans: capital "B" in "bothe"?-->
+    	
+    	<!--APB: phase 1 transcription check complete > will go back and do line numbers soon-->
     	
     	<pb xml:id="harley4690_fol115v" n="fol115v" facs="harley_ms_4690_f115v.tif"/>
     	<cb n="1"/>
