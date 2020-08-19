@@ -1033,57 +1033,57 @@
 
 	<cb n="2"/>
 
-kẏng R[ichard]. seẏde wyth alle thy tresowre
-þe myght þ[ou] amende the dyshonowre <!--SLG trans: is the first thorn capitalized?-->
-þ[ou] ne canste make amendes y wysse
-of that þẏ menne have done amysse
-þ[ou] were to blame w[ith] owten fayle
-to sende a letter vn to poyle
-and ȝett whe werre Bretheren swore
-Who so Breketh ys pylgremage ys forlore <!--SLG trans: added in missing line-->
-Or who so maketh anẏ mẏslaẏ
-Betwene vs tweẏne in thys weẏe.
-whenne alle cessed was thys dystawnce
-thenne come too justeys of ffrawnce
-on hors bakke ganne theẏ ryde
-and w[ith] oure kẏng ganne þey schyde
-thett oone was called sẏr margaryte <!--LKN expl: note on this knight needed here-->
-þatt other syr hughe penpetẏte. <!--LKN expl: note on this knight needed here-->
-and to oure kẏng þeẏ gan hem greyde
-and fulle foule hẏm mẏssaẏde.
-oure kẏng hadde a trownsoune
-and towarde hem he made hem bown <!--LKN note for transcription checkers: I´d like your take on the final word in this line. Brunner transcribes as ´bown´ but there seems to be an abbrev. marker above the n...--> <!--SLG trans: could be an [n] or [ne]. Resembles abbreviations for [n] in [grẏffou[n]s], seventh line of fol 114v's first column-->
-syr margaryte smote he thanne
-Even vppon þe Braẏne panne.
-his sculle Brast with þatt dẏnte
-hẏs ẏe fflye oute quitemente.
-þatt he felle downe dede alle moste
-sẏr hughe pempetẏte was agaste.
-and flyghe faste w[ith] outen fayle.
-the kyng was sone att ys tayle.
-he yaff hẏm astroke on the molde
-that hẏm þought he dede be schulde.
-Termis and quermis he yaff hẏm þere
-and seyd sẏr þ[ou] schalte lere
-to myssaye thy soueraẏne
-Go pleyne ȝow to youre kẏng
-an erchebyschoppe come full sone <!--SLG trans: [erchebyschoppe] to [Erchebyschoppe]-->
-and of oure kyng he bade aboue
-and for goddes loue he cryed mercẏ
-thatt he schulde sesseẏ
-kyng Richarde g[ri]nned hẏm þanne <!--SLG trans: [g[ri]nned] to [g[ra]nnted]-->
-and drew to paueloune ys menne
-yett to thys daẏ men may here speke
-howgh oure englysche menne wer awreke
-so kyng Richard soiourned in pes & jeste
-fram crystissmasse þ[at] nowbell feste
-for to ytte was aȝeine the lente. <!--LKN expl: note on Lent and liturgical calendar here-->
+    	<l xml:id="harley4690_874">kẏng R[ichard]. seẏde wyth alle thy tresowre
+    	<l xml:id="harley4690_875">þe myght þ[ou] amende the dyshonowre <!--SLG trans: is the first thorn capitalized?-->
+    	<l xml:id="harley4690_876">þ[ou] ne canste make amendes y wysse
+    	<l xml:id="harley4690_877">of that þẏ menne have done amysse
+    	<l xml:id="harley4690_878">þ[ou] were to blame w[ith] owten fayle
+    	<l xml:id="harley4690_879">to sende a letter vn to poyle
+    	<l xml:id="harley4690_880" n="880">and ȝett whe werre Bretheren swore
+    	<l xml:id="harley4690_881">Who so Breketh ys pylgremage ys forlore <!--SLG trans: added in missing line-->
+    	<l xml:id="harley4690_882">Or who so maketh anẏ mẏslaẏ
+    	<l xml:id="harley4690_883">Betwene vs tweẏne in thys weẏe.
+    	<l xml:id="harley4690_884">whenne alle cessed was thys dystawnce
+    	<l xml:id="harley4690_885">thenne come too justeys of ffrawnce
+    	<l xml:id="harley4690_886">on hors bakke ganne theẏ ryde
+    	<l xml:id="harley4690_887">and w[ith] oure kẏng ganne þey schyde
+    	<l xml:id="harley4690_888">thett oone was called sẏr margaryte <!--LKN expl: note on this knight needed here-->
+    	<l xml:id="harley4690_889">þatt other syr hughe penpetẏte. <!--LKN expl: note on this knight needed here-->
+    	<l xml:id="harley4690_890" n="890">and to oure kẏng þeẏ gan hem greyde
+    	<l xml:id="harley4690_891">and fulle foule hẏm mẏssaẏde.
+    	<l xml:id="harley4690_892">oure kẏng hadde a trownsoune
+    	<l xml:id="harley4690_893">and towarde hem he made hem bown <!--LKN note for transcription checkers: I´d like your take on the final word in this line. Brunner transcribes as ´bown´ but there seems to be an abbrev. marker above the n...--> <!--SLG trans: could be an [n] or [ne]. Resembles abbreviations for [n] in [grẏffou[n]s], seventh line of fol 114v's first column-->
+    	<l xml:id="harley4690_894">syr margaryte smote he thanne
+    	<l xml:id="harley4690_895">Even vppon þe Braẏne panne.
+    	<l xml:id="harley4690_896">his sculle Brast with þatt dẏnte
+    	<l xml:id="harley4690_897">hẏs ẏe fflye oute quitemente.
+    	<l xml:id="harley4690_898">þatt he felle downe dede alle moste
+    	<l xml:id="harley4690_899">sẏr hughe pempetẏte was agaste.
+    	<l xml:id="harley4690_900" n="900">and flyghe faste w[ith] outen fayle.
+    	<l xml:id="harley4690_901">the kyng was sone att ys tayle.
+    	<l xml:id="harley4690_902">he yaff hẏm astroke on the molde
+    	<l xml:id="harley4690_903">that hẏm þought he dede be schulde.
+    	<l xml:id="harley4690_904">Termis and quermis he yaff hẏm þere
+    	<l xml:id="harley4690_905">and seyd sẏr þ[ou] schalte lere
+    	<l xml:id="harley4690_906">to myssaye thy soueraẏne
+    	<l xml:id="harley4690_907">Go pleyne ȝow to youre kẏng
+    	<l xml:id="harley4690_908">an erchebyschoppe come full sone <!--SLG trans: [erchebyschoppe] to [Erchebyschoppe]-->
+    	<l xml:id="harley4690_909">and of oure kyng he bade aboue
+    	<l xml:id="harley4690_910" n="910">and for goddes loue he cryed mercẏ
+    	<l xml:id="harley4690_911">thatt he schulde sesseẏ
+    	<l xml:id="harley4690_912">kyng Richarde g[ri]nned hẏm þanne <!--SLG trans: [g[ri]nned] to [g[ra]nnted]-->
+    	<l xml:id="harley4690_913">and drew to paueloune ys menne
+    	<l xml:id="harley4690_914">yett to thys daẏ men may here speke
+    	<l xml:id="harley4690_915">howgh oure englysche menne wer awreke
+    	<l xml:id="harley4690_916">so kyng Richard soiourned in pes & jeste
+    	<l xml:id="harley4690_917">fram crystissmasse þ[at] nowbell feste
+    	<l xml:id="harley4690_918">for to ytte was aȝeine the lente. <!--LKN expl: note on Lent and liturgical calendar here-->
 
 	<pb xml:id="harley4690_fol114v" n="fol114v" facs="harley_ms_4690_f114v.tif"/>
     	<cb n="1"/>
 
-ys moder sente hẏm a faẏre p[re]sente<!--LKN expl: note on Eleanor of Aquitaine oblique reference here-->
-sche sende hẏm maẏde Belẏne<!--LKN expl: need note on Belyne here, especially since this is either a different figure altogether or a very creative alternate spelling of Berengaria of Navarre, and this latter option seems likliest based on the evocation of Navarre in the following line. Should also go ahead and provide note on Navarre here.-->
+    	<l xml:id="harley4690_919">ys moder sente hẏm a faẏre p[re]sente<!--LKN expl: note on Eleanor of Aquitaine oblique reference here-->
+    	<l xml:id="harley4690_920" n="920">sche sende hẏm maẏde Belẏne<!--LKN expl: need note on Belyne here, especially since this is either a different figure altogether or a very creative alternate spelling of Berengaria of Navarre, and this latter option seems likliest based on the evocation of Navarre in the following line. Should also go ahead and provide note on Navarre here.-->
 the kẏngges dowghter of nauerne. 
 kẏng Richarde the precẏous
 Beleẏne he schulde spowse.
