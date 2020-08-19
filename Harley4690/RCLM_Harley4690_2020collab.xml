@@ -896,7 +896,7 @@
     	<l xml:id="harley4690_747">that was made of t&ydot;mber yn englond[e]</l>
     	<l xml:id="harley4690_748">wyth sexe stages y made of styrelles</l> <!--LKN expl: note for styrelle-->
     	<l xml:id="harley4690_749">welle y fflorysched w[ith] gode kervelles</l> <!--LKN expl: note for kervelle-->
-    	<l xml:id="harley4690_750">&thorn;er &ydot;nne schalle be man&ydot; a knyght</l>
+    	<l xml:id="harley4690_750" n="750">&thorn;er &ydot;nne schalle be man&ydot; a knyght</l>
     	<l xml:id="harley4690_751">a&yogh;e&ydot;ne the ffrenschemenne for fyght</l>
     	<l xml:id="harley4690_752">the castelle schall haue a surname</l>
     	<l xml:id="harley4690_753">he schalle hote mawngegryffoune</l> <!--LKN expl: need a note here for the Mate Gryffoun-->
@@ -906,7 +906,7 @@
     	<l xml:id="harley4690_757">and whe by londe wyth outen fayle</l>
     	<l xml:id="harley4690_758">ffor y w&ydot; cometh never vn to me</l><!-- APB trans: is "w&ydot;" possibly something followed by "o&ydot;"? I kind of see a minium followed by an o and a y dot-->
     	<l xml:id="harley4690_759">or y of them awrekedde be&period;</l>
-    	<l xml:id="harley4690_760">the maryners faste on hyghe</l>
+    	<l xml:id="harley4690_760" n="760">the maryners faste on hyghe</l>
     	<l xml:id="harley4690_761">made al red&ydot; Bothe schyppe <choice><abbr>&amp;</abbr><expan>and</expan></choice> galye</l><!-- APB trans: possible capital "R" in "redy"?-->
     	<l xml:id="harley4690_762">with Bowsprete and sayle blyve</l>
     	<l xml:id="harley4690_763">vn to the cite ganne &thorn;e&ydot; dryve&period;</l>
@@ -916,7 +916,7 @@
     	<l xml:id="harley4690_767">and seid haue &yogh;e ne dowtawnce </l>
     	<l xml:id="harley4690_768">of thes englysche ta&ydot;lardes</l>
     	<l xml:id="harley4690_769">ffor the&ydot; be butte cowardes</l>
-    	<l xml:id="harley4690_770">dyght he seyde owre mawngevelle</l>
+    	<l xml:id="harley4690_770" n="770">dyght he seyde owre mawngevelle</l>
     	<l xml:id="harley4690_771">and sett hym to the tree castelle</l>
     	<l xml:id="harley4690_772">and schote to them wyth arblaste</l><!-- APB trans: possible "e" in "schote" instead of "o"?-->
     	<l xml:id="harley4690_773">the dogge tayles for to agaste&period; </l>
@@ -926,7 +926,7 @@
     	<l xml:id="harley4690_777">Ryght afore the cyte walle</l>
     	<l xml:id="harley4690_778">hys hoste att ones he lette crye</l>
     	<l xml:id="harley4690_779">that menne myght yt here to &thorn;e skye</l>
-    	<l xml:id="harley4690_780">and seyde &yogh;e ffrensche mosardes</l>
+    	<l xml:id="harley4690_780" n="780">and seyde &yogh;e ffrensche mosardes</l>
     	<l xml:id="harley4690_781">cometh to ffyghte w[ith] the ta&ydot;lardes</l>
     	<l xml:id="harley4690_782">&thorn;e frenschemen sone armed hem alle</l>
     	<l xml:id="harley4690_783">and &yogh;ede vppe in to the walle</l>
@@ -939,7 +939,7 @@
     	<l xml:id="harley4690_787">the ffrensche and the gryffounes slowe</l>
     	<l xml:id="harley4690_788">By thanne comen schyppes to &thorn;e cite</l>
     	<l xml:id="harley4690_789">and alle moste hadd wonne entre&period;</l>
-    	<l xml:id="harley4690_790">so harde the&ydot; mo&ydot;ned vnder the walle</l>
+    	<l xml:id="harley4690_790" n="790">so harde the&ydot; mo&ydot;ned vnder the walle</l>
     	<l xml:id="harley4690_791">that &thorn;e Gryffounes dydde down falle</l>
     	<l xml:id="harley4690_792">wyth howkes harwes and quarelle&yogh;</l><!-- APB trans: I believe "howkes" should read "howked"-->
     	<l xml:id="harley4690_793">many fylle of the torelles</l>
@@ -949,7 +949,7 @@
     	<l xml:id="harley4690_797">and schotte wylde fuyre of the toure</l>
     	<l xml:id="harley4690_798">ther wyth y wote welle y wysse</l>
     	<l xml:id="harley4690_799">the&ydot; kylled[e] man&ydot; englysche &period; </l>
-    	<l xml:id="harley4690_800">Butt englysche menne defended hem</l>
+    	<l xml:id="harley4690_800" n="800">Butt englysche menne defended hem</l>
     	<l xml:id="harley4690_801">Wyth her swerdes of Brown stele</l>
     	<l xml:id="harley4690_802">and slowgh of hem grete chepes</l>
     	<l xml:id="harley4690_803">that many ther leye on hepes</l>
@@ -959,7 +959,7 @@
     	<l xml:id="harley4690_807">thatt he leste butte fewe abowne</l>
     	<l xml:id="harley4690_808">		kyng Richard sighe besyde hym how</l><!-- APB trans: might "how" be "hove" or "ho[]e"?-->
     	<l xml:id="harley4690_809">a knight that tokked hym w[ith] a glow</l><!-- APB trans: could "tokked" be "tolled"? the letters seem to be a bit different to the "k" in "knght" earlier in this line"-->
-    	<l xml:id="harley4690_810">he seyde he had spyedd[e] a syght</l>
+    	<l xml:id="harley4690_810" n="810">he seyde he had spyedd[e] a syght</l>
     	<l xml:id="harley4690_811">that made ys herte somdele lyght</l>
     	<l xml:id="harley4690_812">here vppe syr ys yate oone</l>
     	<l xml:id="harley4690_813">ffor sothe ytte hath warde none&period;</l>
@@ -969,7 +969,7 @@
     	<l xml:id="harley4690_817">have entre wyth owten d&ydot;nte</l>
     	<l xml:id="harley4690_818">ffull gladde was k&ydot;ng Richarde</l>
     	<l xml:id="harley4690_819">and wente manlyche thyderwarde</l>
-    	<l xml:id="harley4690_820">and man&ydot; a knyghte dowghty of dede</l>
+    	<l xml:id="harley4690_820" n="820">and man&ydot; a knyghte dowghty of dede</l>
     	<l xml:id="harley4690_821">prykedde after on her stede</l>
     	<l xml:id="harley4690_822">the kyng entred wyth owten drede</l>
     	<l xml:id="harley4690_823">Wyth alle ys fayre felawrede</l>
@@ -986,17 +986,17 @@
 	<pb xml:id="harley4690_fol114r" n="fol114r" facs="harley_ms_4690_f114r.tif"/>
     	<cb n="1"/>
 
-Portecoleẏs and yates vppe he wanne. 
-and yaffe goddes? curs to ther panne <!--SLG trans: the descender following [goddes] could indicate a final [e]?-->
-ryght as Grehowndes passen of lesse.
-kyng Richard pryked þurgh þe presse.
-menne myght se by strete and lane.
-ffrenche Gryffounes to take schame. <!--SLG trans: [ffrenche] to [ffrensche]-->
-meny ranne to howse yn haste.
-and schette dorus and wẏndowes fast
-englysche menne wyth levowres <!--SLG trans: [englysche] to [Englysche]-->
-Brake hem vpp wyth grete vigowrs
-alle þat they fownde Before hem stond[e]
+    	<l xml:id="harley4690_830" n="830">Portecoleẏs and yates vppe he wanne. 
+    	<l xml:id="harley4690_831">and yaffe goddes? curs to ther panne <!--SLG trans: the descender following [goddes] could indicate a final [e]?-->
+    	<l xml:id="harley4690_832">ryght as Grehowndes passen of lesse.
+    	<l xml:id="harley4690_833">kyng Richard pryked þurgh þe presse.
+    	<l xml:id="harley4690_834">menne myght se by strete and lane.
+    	<l xml:id="harley4690_835">ffrenche Gryffounes to take schame. <!--SLG trans: [ffrenche] to [ffrensche]-->
+    	<l xml:id="harley4690_836">meny ranne to howse yn haste.
+    	<l xml:id="harley4690_837">and schette dorus and wẏndowes fast
+    	<l xml:id="harley4690_838">englysche menne wyth levowres <!--SLG trans: [englysche] to [Englysche]-->
+    	<l xml:id="harley4690_839">Brake hem vpp wyth grete vigowrs
+    	<l xml:id="harley4690_840" n="840">alle þat they fownde Before hem stond[e]
 adowne þeẏ leẏde on the sonde.
 theẏ Breken cofers and towke tresowre
 golde sẏlver and couerture <!--SLG trans: [golde] to [Golde], [sẏlver] to [sẏluer]-->
