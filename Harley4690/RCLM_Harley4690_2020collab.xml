@@ -1280,99 +1280,98 @@
     	<pb xml:id="harley4690_fol115v" n="fol115v" facs="harley_ms_4690_f115v.tif"/>
     	<cb n="1"/>
     	
-    	To lyver ys menne of paẏnes <!--APB trans: possible middot at the end of this line?-->
-    	and to ys menne he lyvered clothe
-    	and of the despyte was ful wrothe
-    	he hym swore by sente sanoure <!--LKN expl: need a note for saint here-->
-    	abygged schulde the emperowre
-    	the citeȝeẏnes began to renne <!--APB trans: capital "B" in "began"?--> 
-    	fulle fayne theẏ wer aweẏ to fflen
-    	wham he towke att wordes ffewe
-    	with ys axe he dude to hewe
-    	he name her tresowrs & her juells
-    	Right for ys owne catelles
-    		tydyng came to the emperour
-    	that Richarde kẏng of honowre
-    	hadde ys Burgeẏs sleẏne thoo
-    	No wonder þeẏgh hẏm wer woo
-    	anone right with outen fayle
-    	he sente after ys cownceyle
-    	and badde ham to come an hyghe
-    	to wreke hẏm of ys enemye <!--APB trans: possible capital "W" in "wreke"?-->
-    	hys hoste was redy bẏ myddenyght <!--APB trans: capital "B" in "by"?-->
-    	alle preste on morwe for to fyght
-    	nowgh speke whe of the stywarde <!--APB trans: capital "N" in "nowgh"?-->
-    	howgh he came to kẏng Richarde
-    	And felle on knee and sore wepe
-    	and seyd sẏr godd yow kepe
-    	thus y am besaye for the
-    	Gentelle lorde awreke thu me.
-    	and the emperour dowghter Bryght
-    	here y take the hynde knyght
-    	an hvndred knyghtes y the behighte
-    	here they arne redy atte my feete
-    	they wyll yow helpe and socour
-    	aȝenste the swykell emperour[e]
-    	and or to morowe þ[ou] schalt be sowre <!--APB trans: the "o" in "sowre" to me resembles an "e" > "sewre" might line up with the rhyme with "emprer[e]" below-->
-    	of ys kyngdom and ys emprer[e]
-    	and swete syr withouten fayle <!--APB trans: space between "with" and "outen"?-->
-    	he behoveth mẏ cownceyle <!--APB trans: the first "e" in behoveth" looks like a "y"-->
-    	...he schalle the lede by a coste <!--APB trans: capital "B" in "by"?-->
-    	....vely by hys hoste <!--APB trans: capital "B" in "by"?-->
-    	... ... her pauelones þ[ou] schalt he[re] take
-    	... ... þenketh do the mochell wrake
-    	... ... ... he done ȝow or thys
-    	... ... ... hym kylle no fors y wysse
-    	... ... ....vine kyng Richarde
+    	<l xml:id="harley4690_1098">To lyver ys menne of paẏnes</l> <!--APB trans: possible middot at the end of this line?-->
+    	<l xml:id="harley4690_1099">and to ys menne he lyvered clothe</l>
+    	<l xml:id="harley4690_1100" n="1100">and of the despyte was ful wrothe</l>
+    	<l xml:id="harley4690_1101">he hym swore by sente sanoure</l> <!--LKN expl: need a note for saint here-->
+    	<l xml:id="harley4690_1102">abygged schulde the emperowre</l>
+    	<l xml:id="harley4690_1103">the citeȝeẏnes began to renne</l> <!--APB trans: capital "B" in "began"?--> 
+    	<l xml:id="harley4690_1104">fulle fayne theẏ wer aweẏ to fflen</l>
+    	<l xml:id="harley4690_1105">wham he towke att wordes ffewe</l>
+    	<l xml:id="harley4690_1106">with ys axe he dude to hewe</l>
+    	<l xml:id="harley4690_1107">he name her tresowrs & her juells</l>
+    	<l xml:id="harley4690_1108">Right for ys owne catelles</l>
+    	<l xml:id="harley4690_1109">	tydyng came to the emperour</l>
+    	<l xml:id="harley4690_1110" n="1110">that Richarde kẏng of honowre</l>
+    	<l xml:id="harley4690_1111">hadde ys Burgeẏs sleẏne thoo</l>
+    	<l xml:id="harley4690_1112">No wonder þeẏgh hẏm wer woo</l>
+    	<l xml:id="harley4690_1113">anone right with outen fayle</l>
+    	<l xml:id="harley4690_1114">he sente after ys cownceyle</l>
+    	<l xml:id="harley4690_1115">and badde ham to come an hyghe</l>
+    	<l xml:id="harley4690_1116">to wreke hẏm of ys enemye</l> <!--APB trans: possible capital "W" in "wreke"?-->
+    	<l xml:id="harley4690_1117">hys hoste was redy bẏ myddenyght</l> <!--APB trans: capital "B" in "by"?-->
+    	<l xml:id="harley4690_1118">alle preste on morwe for to fyght</l>
+    	<l xml:id="harley4690_1119">nowgh speke whe of the stywarde</l> <!--APB trans: capital "N" in "nowgh"?-->
+    	<l xml:id="harley4690_1120" n="1120">howgh he came to kẏng Richarde</l>
+    	<l xml:id="harley4690_1121">And felle on knee and sore wepe</l>
+    	<l xml:id="harley4690_1122">and seyd sẏr godd yow kepe</l>
+    	<l xml:id="harley4690_1123">thus y am besaye for the</l>
+    	<l xml:id="harley4690_1124">Gentelle lorde awreke thu me.</l>
+    	<l xml:id="harley4690_1125">and the emperour dowghter Bryght</l>
+    	<l xml:id="harley4690_1126">here y take the hynde knyght</l>
+    	<l xml:id="harley4690_1127">an hvndred knyghtes y the behighte</l>
+    	<l xml:id="harley4690_1128">here they arne redy atte my feete</l>
+    	<l xml:id="harley4690_1129">they wyll yow helpe and socour</l>
+    	<l xml:id="harley4690_1130" n="1130">aȝenste the swykell emperour[e]</l>
+    	<l xml:id="harley4690_1131">and or to morowe þ[ou] schalt be sowre</l> <!--APB trans: the "o" in "sowre" to me resembles an "e" > "sewre" might line up with the rhyme with "emprer[e]" below-->
+    	<l xml:id="harley4690_1132">of ys kyngdom and ys emprer[e]</l>
+    	<l xml:id="harley4690_1133">and swete syr withouten fayle</l> <!--APB trans: space between "with" and "outen"?-->
+    	<l xml:id="harley4690_1134">he behoveth mẏ cownceyle</l> <!--APB trans: the first "e" in behoveth" looks like a "y"-->
+    	<l xml:id="harley4690_1135">...he schalle the lede by a coste</l> <!--APB trans: capital "B" in "by"?-->
+    	<l xml:id="harley4690_1136">....vely by hys hoste</l> <!--APB trans: capital "B" in "by"?-->
+    	<l xml:id="harley4690_1137">... ... her pauelones þ[ou] schalt he[re] take</l>
+    	<l xml:id="harley4690_1138">... ... þenketh do the mochell wrake</l>
+    	<l xml:id="harley4690_1139">... ... ... he done ȝow or thys</l>
+    	<l xml:id="harley4690_1140" n="1140">... ... ... hym kylle no fors y wysse</l>
+    	<l xml:id="harley4690_1141">... ... ....vine kyng Richarde</l>
     	
     	<cb n="2"/>
     	
-    	mykell thonkedd[e] thys stywarde
-    	and swere by owre saweowre <!--APB trans: capital "B" in "by"?-->
-    	ys nose schulde be bowght dewre
-    	Tenne hundred stedes gode and sewre
-    	he lete hem hele wyth gode crepowre
-    	an eueryche lepe an englysche knẏghte <!--APB trans: "an" looks like "on" to me-->
-    	stoute in armes stronge in ffyghte
-    	tho the stywarde ẏ the plyghte
-    	ledde hem by the mone lyghte
-    	to the emperour ys pauelonne
-    	that of the trompes theẏ herde þe sown[ne]
-    	a lytell by fore the dawẏng <!--APB trans: capital "B" in "by"?-->
-    	þe styward seide to Richarde kẏng
-    	a seythe sẏr he seẏde full ȝerne
-    	þe pauelonne w[ith] þe golde vane
-    	ther yn ys the emperour
-    	that thynketh yow dyshonour
-    	the . was Richarde fresche to fyghte <!--APB trans: "the" to "tho"?-->
-    	as ys the ffawcon to ys fflyghte. 
-    	hys axe he helde yn honde y drawe
-    	that many gryffon hadd y slawe
-    	the weytes of the hoste þ[at] sighen
-    	and full lowde þei ganne hem scryen
-    	to armes lordes alle and somme
-    	for whe ben trayed and y nome
-    	yn a sory tyme oure emperour
-    	revedd[e] kyng Richarde ys tresour
-    	for he ys come among vs
-    	and sleeth down right by ihesus
-    		englysche men for þe nones
-    	smote the gryffons þurgh body and hones <!--APB trans: might "hones" be "bones"?-->
-    	and smyten the cordes adowne
-    	of many ryche pauelowne
-    	he cryed to squyers and to knyghtes
-    	seynt loye and slee down rightes <!--LKN expl: note for St. Loy here-->
-    	and ȝeldeth the tresour aȝeinewarde
-    	that ȝe revedde kyng Richarde
-    	ȝe be worthy for that dede
-    	wyth grẏm woundes to lye & blede <!--APB trans: capital "B" in "blede"?-->
-    	att þe Emperour y[s] pauelon k[ing] Richard[e]
-    	lyghte a down & the stywarde
-    	Butte the emperour was fled awaẏ
-    	hym self allone or itt was daẏ
-    	y flowe was the foule cowarde 
-    	
-    	<!--APB: phase 1 transcription check complete > will add line numbers soon--> 
+    	<l xml:id="harley4690_1142">mykell thonkedd[e] thys stywarde</l>
+    	<l xml:id="harley4690_1143">and swere by owre saweowre</l> <!--APB trans: capital "B" in "by"?-->
+    	<l xml:id="harley4690_1144">ys nose schulde be bowght dewre</l>
+    	<l xml:id="harley4690_1145">Tenne hundred stedes gode and sewre</l>
+    	<l xml:id="harley4690_1146">he lete hem hele wyth gode crepowre</l>
+    	<l xml:id="harley4690_1147">an eueryche lepe an englysche knẏghte</l> <!--APB trans: "an" looks like "on" to me-->
+    	<l xml:id="harley4690_1148">stoute in armes stronge in ffyghte</l>
+    	<l xml:id="harley4690_1149">tho the stywarde ẏ the plyghte</l>
+    	<l xml:id="harley4690_1150" n="1150">ledde hem by the mone lyghte</l>
+    	<l xml:id="harley4690_1151">to the emperour ys pauelonne</l>
+    	<l xml:id="harley4690_1152">that of the trompes theẏ herde þe sown[ne]</l>
+    	<l xml:id="harley4690_1153">a lytell by fore the dawẏng</l> <!--APB trans: capital "B" in "by"?-->
+    	<l xml:id="harley4690_1154">þe styward seide to Richarde kẏng</l>
+    	<l xml:id="harley4690_1155">a seythe sẏr he seẏde full ȝerne</l>
+    	<l xml:id="harley4690_1156">þe pauelonne w[ith] þe golde vane</l>
+    	<l xml:id="harley4690_1157">ther yn ys the emperour</l>
+    	<l xml:id="harley4690_1158">that thynketh yow dyshonour</l>
+    	<l xml:id="harley4690_1159">the . was Richarde fresche to fyghte</l> <!--APB trans: "the" to "tho"?-->
+    	<l xml:id="harley4690_1160" n="1160">as ys the ffawcon to ys fflyghte.</l>
+    	<l xml:id="harley4690_1161">hys axe he helde yn honde y drawe</l>
+    	<l xml:id="harley4690_1162">that many gryffon hadd y slawe</l>
+    	<l xml:id="harley4690_1163">the weytes of the hoste þ[at] sighen</l>
+    	<l xml:id="harley4690_1164">and full lowde þei ganne hem scryen</l>
+    	<l xml:id="harley4690_1165">to armes lordes alle and somme</l>
+    	<l xml:id="harley4690_1166">for whe ben trayed and y nome</l>
+    	<l xml:id="harley4690_1167">yn a sory tyme oure emperour</l>
+    	<l xml:id="harley4690_1168">revedd[e] kyng Richarde ys tresour</l>
+    	<l xml:id="harley4690_1169">for he ys come among vs</l>
+    	<l xml:id="harley4690_1170" n="1170">and sleeth down right by ihesus</l>
+    	<l xml:id="harley4690_1171">	englysche men for þe nones</l>
+    	<l xml:id="harley4690_1172">smote the gryffons þurgh body and hones</l> <!--APB trans: might "hones" be "bones"?-->
+    	<l xml:id="harley4690_1173">and smyten the cordes adowne</l>
+    	<l xml:id="harley4690_1174">of many ryche pauelowne</l>
+    	<l xml:id="harley4690_1175">he cryed to squyers and to knyghtes</l>
+    	<l xml:id="harley4690_1176">seynt loye and slee down rightes</l> <!--LKN expl: note for St. Loy here-->
+    	<l xml:id="harley4690_1177">and ȝeldeth the tresour aȝeinewarde</l>
+    	<l xml:id="harley4690_1178">that ȝe revedde kyng Richarde</l>
+    	<l xml:id="harley4690_1179">ȝe be worthy for that dede</l>
+    	<l xml:id="harley4690_1180" n="1180">wyth grẏm woundes to lye & blede</l> <!--APB trans: capital "B" in "blede"?-->
+    	<l xml:id="harley4690_1181">att þe Emperour y[s] pauelon k[ing] Richard[e]</l>
+    	<l xml:id="harley4690_1182">lyghte a down & the stywarde</l>
+    	<l xml:id="harley4690_1183">Butte the emperour was fled awaẏ</l>
+    	<l xml:id="harley4690_1184">hym self allone or itt was daẏ</l>
+    	<l xml:id="harley4690_1185">y flowe was the foule cowarde</l>
+    	<!--APB: phase 1 complete-->
     </body>
 </text>
 </TEI>
