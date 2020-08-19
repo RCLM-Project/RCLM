@@ -957,7 +957,7 @@
     	<l xml:id="harley4690_805">helde ys sawte euer harde&period;</l>
     	<l xml:id="harley4690_806">so mannelyche he towke oon</l>
     	<l xml:id="harley4690_807">thatt he leste butte fewe abowne</l>
-    	<l xml:id="harley4690_808">		kyng Richard sighe besyde hym how</l><!-- APB trans: might "how" be "hove" or "ho[]e"?-->
+    	<l xml:id="harley4690_808"><space quantity="5" unit="char"/>kyng Richard sighe besyde hym how</l><!-- APB trans: might "how" be "hove" or "ho[]e"?-->
     	<l xml:id="harley4690_809">a knight that tokked hym w[ith] a glow</l><!-- APB trans: could "tokked" be "tolled"? the letters seem to be a bit different to the "k" in "knght" earlier in this line"-->
     	<l xml:id="harley4690_810" n="810">he seyde he had spyedd[e] a syght</l>
     	<l xml:id="harley4690_811">that made ys herte somdele lyght</l>
@@ -1006,7 +1006,7 @@
     	<l xml:id="harley4690_847">to schyppe and pauẏloune y þe swore</l>
     	<l xml:id="harley4690_848">and ouer cryed oure kẏng Richarde</l>
     	<l xml:id="harley4690_849">slee a downe þese ffrrensche mosardes</l> <!--LKN expl:probably need a note here for ´mosardes´-->
-    	<l xml:id="harley4690_850" n="850">		ther come forþe þe frensche kyng</l>
+    	<l xml:id="harley4690_850" n="850"><space quantity="5" unit="char"/>ther come forþe þe frensche kyng</l>
     	<l xml:id="harley4690_851">vn to Richarde fast prykyng</l>
     	<l xml:id="harley4690_852">and badde hẏm sese for goddes love</l>
     	<l xml:id="harley4690_853">þatt ys in heven vs above</l>
@@ -1180,101 +1180,101 @@
     	<pb xml:id="harley4690_fol115r" n="fol115r" facs="harley_ms_4690_f1145.tif"/>
     	<cb n="1"/>
     	
-    	1108and grynte ys tethe and harde blewe
-    	a knyfe after sẏr Roberte he þrewe <!--APB trans: I believe "Roberte" is "Robarte"-->
-    	and beganne to crye as vncurteys <!--APB trans: possible capital "B" in "beganne"?-->
-    	oute taylardes of mẏ paleys <!--APB trans: possible capital "O" in "oute"?-->
-    	and sey to youre tayled kẏng<!--LKN expl: need note here on significance of being called taylardes and richard a tayled king-->
-    	thatt y owghe hy no thyng <!--APB trans: "hy" should probably read "hym" > missing minims-->
-    	Butt sey hym ẏ wyll be to morwe
-    	att the hauen hym to sorowe<!--APB trans: possible capital "A" in "att"?-->
-    	and werche hym as moche wrake
-    	as ys menne þ[at] y haue take
-    	the messangers oute gan rape <!--APB trans: phase 2 should probably encode the gap/indent at the beginning of this line-->
-    	and wer fulle faine so to scape <!--APB trans: possible capital "A" in "and"?-->
-    	thenne come a manne of honoure 
-    	that was stywarde to the emp[er]our
-    	and seyd syr þ[ou] doste vn ryghte 
-    	thow woldest hand y slaine a knyght 
-    	þatte was messawnger to a kẏng
-    	oon the beste body nowghe lyvẏng.
-    	yelde hym his tresour þ[ou] hast þe wowghe
-    	for þ[ou] haste tresoure ẏ nowghe.
-    	he ys croysedde to pẏlgrẏme
-    	and alle the menne þatt be w[ith hẏm
-    	lette hem doo ther pilgremage
-    	and kepe þẏ selfe fro damage.
-    	ys eyen twẏnkeled the emperour
-    	wyth semblante sadde and sowre
-    	and a knyfe towke vpp full rathe
-    	ffor to do the stẏwarde skathe
-    	he called hym with outen faẏle
-    	for to herkenne a cownceẏlle.
-    	the stywarde kneledd[e] a downe
-    	Wyth the emperour for to bowne <!--APB trans: possible capital "B" or, on second thought, possible "r" at the beginning of "bowne"?--> 
-    	the emperour sone in trew truste
-    	carfe a too ys nose gruste <!--APB trans: capital "C" in "carfe"?-->
-    	and seyde traytour þese stywarde
-    	Go pleyne the to kyng Richarde
-    	and yff he come vppon my londe.
-    	By the grace of goddes sonde
+    	<l xml:id="harley4690_1009">and grynte ys tethe and harde blewe</l>
+    	<l xml:id="harley4690_1010" n="1010">a knyfe after sẏr Roberte he þrewe</l> <!--APB trans: I believe "Roberte" is "Robarte"-->
+    	<l xml:id="harley4690_1011">and beganne to crye as vncurteys</l> <!--APB trans: possible capital "B" in "beganne"?-->
+    	<l xml:id="harley4690_1012">oute taylardes of mẏ paleys</l> <!--APB trans: possible capital "O" in "oute"?-->
+    	<l xml:id="harley4690_1013">and sey to youre tayled kẏng</l><!--LKN expl: need note here on significance of being called taylardes and richard a tayled king-->
+    	<l xml:id="harley4690_1014">thatt y owghe hy no thyng</l> <!--APB trans: "hy" should probably read "hym" > missing minims-->
+    	<l xml:id="harley4690_1015">Butt sey hym ẏ wyll be to morwe</l>
+    	<l xml:id="harley4690_1016">att the hauen hym to sorowe</l><!--APB trans: possible capital "A" in "att"?-->
+    	<l xml:id="harley4690_1017">and werche hym as moche wrake</l>
+    	<l xml:id="harley4690_1018">as ys menne þ[at] y haue take</l>
+    	<l xml:id="harley4690_1019">the messangers oute gan rape</l> <!--APB trans: phase 2 should probably encode the gap/indent at the beginning of this line-->
+    	<l xml:id="harley4690_1020" n="1020">and wer fulle faine so to scape</l> <!--APB trans: possible capital "A" in "and"?-->
+    	<l xml:id="harley4690_1021">thenne come a manne of honoure</l> 
+    	<l xml:id="harley4690_1022">that was stywarde to the emp[er]our</l>
+    	<l xml:id="harley4690_1023">and seyd syr þ[ou] doste vn ryghte</l> 
+    	<l xml:id="harley4690_1024">thow woldest hand y slaine a knyght</l> 
+    	<l xml:id="harley4690_1025">þatte was messawnger to a kẏng</l>
+    	<l xml:id="harley4690_1026">oon the beste body nowghe lyvẏng.</l>
+    	<l xml:id="harley4690_1027">yelde hym his tresour þ[ou] hast þe wowghe</l>
+    	<l xml:id="harley4690_1028">for þ[ou] haste tresoure ẏ nowghe.</l>
+    	<l xml:id="harley4690_1029">he ys croysedde to pẏlgrẏme</l>
+    	<l xml:id="harley4690_1030" n="1030">and alle the menne þatt be w[ith hẏm</l>
+    	<l xml:id="harley4690_1031">lette hem doo ther pilgremage</l>
+    	<l xml:id="harley4690_1032">and kepe þẏ selfe fro damage.</l>
+    	<l xml:id="harley4690_1033">ys eyen twẏnkeled the emperour</l>
+    	<l xml:id="harley4690_1034">wyth semblante sadde and sowre</l>
+    	<l xml:id="harley4690_1035">and a knyfe towke vpp full rathe</l>
+    	<l xml:id="harley4690_1036">ffor to do the stẏwarde skathe</l>
+    	<l xml:id="harley4690_1037">he called hym with outen faẏle</l>
+    	<l xml:id="harley4690_1038">for to herkenne a cownceẏlle.</l>
+    	<l xml:id="harley4690_1039">the stywarde kneledd[e] a downe</l>
+    	<l xml:id="harley4690_1040" n="1040">Wyth the emperour for to bowne</l> <!--APB trans: possible capital "B" or, on second thought, possible "r" at the beginning of "bowne"?--> 
+    	<l xml:id="harley4690_1041">the emperour sone in trew truste</l>
+    	<l xml:id="harley4690_1042">carfe a too ys nose gruste</l> <!--APB trans: capital "C" in "carfe"?-->
+    	<l xml:id="harley4690_1043">and seyde traytour þese stywarde</l>
+    	<l xml:id="harley4690_1044">Go pleyne the to kyng Richarde</l>
+    	<l xml:id="harley4690_1045">and yff he come vppon my londe.</l>
+    	<l xml:id="harley4690_1046">By the grace of goddes sonde</l>
     	<!--APB trans: three missing lines here that I've added-->
-    	<!--APB trans: missing 1-->ẏ schalle make hẏm sone fleen
-    	<!--APB trans: missing 2-->Butt he ẏn haste turne aȝeẏne
-    	<!--APB trans: missing 3-->the stywarde ys nose in honde hente
-    	ẏ wysse ys face was alle to schente
-    	owte of the courte blyve he ranne <!--APB trans: capital "O" in "owte?-->
-    	leve he towke of no manne
+    	<!--APB trans: missing 1--><l xml:id="harley4690_1047">ẏ schalle make hẏm sone fleen</l>
+    	<!--APB trans: missing 2--><l xml:id="harley4690_1048">Butt he ẏn haste turne aȝeẏne</l>
+    	<!--APB trans: missing 3--><l xml:id="harley4690_1049">the stywarde ys nose in honde hente</l>
+    	<l xml:id="harley4690_1050 n=1050">ẏ wysse ys face was alle to schente</l>
+    	<l xml:id="harley4690_1051">owte of the courte blyve he ranne</l> <!--APB trans: capital "O" in "owte?-->
+    	<l xml:id="harley4690_1052">leve he towke of no manne</l>
     	
     	<cb n="2"/>
     	
-    	To the messangers he crẏedde.
-    	ffor mary love. abyde <!--APB trans: middot between "love" and "abyde"?-->
-    	goþe and telleth Richard owre lorde <!--APB trans: capital "G" in "gothe"?-->
-    	the dishonowre he dide me at borde
-    	and bydde hym hyghe to the londe <!--APB trans: capital "B" in "bydde"?-->
-    	and y schall sese yn ys honde
-    	the keyes of euery towre
-    	thatt hath the fals emperour[e]
-    	and the emperour ys downther bryght <!--APB trans: could "downther" actually be "dowghter"? and possible capital "B" in bryght"-->
-    	y schall hym bryng þis same nyght <!--APB trans: capital "B" in "bryng"?-->
-    	and also an hundredde knyghtes
-    	þat be styffe and sterne yn fyghtes
-    	and on hym y schall me wreke
-    	that manẏ man þ[er] of schall speke
-    	ther messawngers hyghden harde
-    	for to hy came to kyng Richarde
-    	and kyng Richarde stode and pleye
-    	att þe chesse yn ys Galeẏ
-    	theẏ telde hym the dyshonowre
-    	thatt to hem had done the emperour
-    	and wate he dude to ys stywarde
-    	yn the name of kyng Richarde
-    	and the stywardes presentẏng
-    	of ys beheste and hys helpẏng <!--APB trans: capital "O" in "of"?-->
-    	þanne answeredde þe manne of renown[ne]
-    	that hight Richard conquer de lyoune
-    	of your sawes y am blythe
-    	lette see myne armes swythe
-    	a crye was made fote hote 
-    	þatt schotte forthe manẏ a bote.
-    	þatt schotte quarelles and ffloon <!--APB trans: the second "o" in "floon" at least to me resembles an "e" to potentially read "floen"-->
-    	as þykke as the hawle stone 
-    	kyng Richarde as y vnderstonde
-    	Or he wente of Englonde
-    	made an haxe for the nones
-    	to cutte with the sareȝein bones
-    	þe hede was wrowght ful welle
-    	þer ynne was xx pownd of stele
-    	and whenne he come to cyperlou....
-    	thyke axe he name yn ys hon....
-    	alle the gryffonnes þ[at] w[ith] hy[m] gan.... ...
-    	her gode dayes sone ganne of... ...
-    	whenne þat he to pryson ca.... ... ...
-    	thyke axe yn honde he ... ... ...
-    	and hewe þer bothe bar.... ... ... <!--APB trans: capital "B" in "bothe"?-->
+    	<l xml:id="harley4690_1053">To the messangers he crẏedde.</l>
+    	<l xml:id="harley4690_1054">ffor mary love. abyde</l> <!--APB trans: middot between "love" and "abyde"?-->
+    	<l xml:id="harley4690_1055">goþe and telleth Richard owre lorde</l> <!--APB trans: capital "G" in "gothe"?-->
+    	<l xml:id="harley4690_1056">the dishonowre he dide me at borde</l>
+    	<l xml:id="harley4690_1057">and bydde hym hyghe to the londe</l> <!--APB trans: capital "B" in "bydde"?-->
+    	<l xml:id="harley4690_1058">and y schall sese yn ys honde</l>
+    	<l xml:id="harley4690_1059">the keyes of euery towre</l>
+    	<l xml:id="harley4690_1060" n="1060">thatt hath the fals emperour[e]</l>
+    	<l xml:id="harley4690_1061">and the emperour ys downther bryght</l> <!--APB trans: could "downther" actually be "dowghter"? and possible capital "B" in bryght"-->
+    	<l xml:id="harley4690_1062">y schall hym bryng þis same nyght</l> <!--APB trans: capital "B" in "bryng"?-->
+    	<l xml:id="harley4690_1063">and also an hundredde knyghtes</l>
+    	<l xml:id="harley4690_1064">þat be styffe and sterne yn fyghtes</l>
+    	<l xml:id="harley4690_1065">and on hym y schall me wreke</l>
+    	<l xml:id="harley4690_1066">that manẏ man þ[er] of schall speke</l>
+    	<l xml:id="harley4690_1067">ther messawngers hyghden harde</l>
+    	<l xml:id="harley4690_1068">for to hy came to kyng Richarde</l>
+    	<l xml:id="harley4690_1069">and kyng Richarde stode and pleye</l>
+    	<l xml:id="harley4690_1070" n="1070">att þe chesse yn ys Galeẏ</l>
+    	<l xml:id="harley4690_1071">theẏ telde hym the dyshonowre</l>
+    	<l xml:id="harley4690_1072">thatt to hem had done the emperour</l>
+    	<l xml:id="harley4690_1073">and wate he dude to ys stywarde</l>
+    	<l xml:id="harley4690_1074">yn the name of kyng Richarde</l>
+    	<l xml:id="harley4690_1075">and the stywardes presentẏng</l>
+    	<l xml:id="harley4690_1076">of ys beheste and hys helpẏng</l> <!--APB trans: capital "O" in "of"?-->
+    	<l xml:id="harley4690_1077">þanne answeredde þe manne of renown[ne]</l>
+    	<l xml:id="harley4690_1078">that hight Richard conquer de lyoune</l>
+    	<l xml:id="harley4690_1079">of your sawes y am blythe</l>
+    	<l xml:id="harley4690_1080" n="1080">lette see myne armes swythe</l>
+    	<l xml:id="harley4690_1081">a crye was made fote hote</l>
+    	<l xml:id="harley4690_1082">þatt schotte forthe manẏ a bote.</l>
+    	<l xml:id="harley4690_1083">þatt schotte quarelles and ffloon</l> <!--APB trans: the second "o" in "floon" at least to me resembles an "e" to potentially read "floen"-->
+    	<l xml:id="harley4690_1084">as þykke as the hawle stone</l> 
+    	<l xml:id="harley4690_1085">kyng Richarde as y vnderstonde</l>
+    	<l xml:id="harley4690_1086">Or he wente of Englonde</l>
+    	<l xml:id="harley4690_1087">made an haxe for the nones</l>
+    	<l xml:id="harley4690_1088">to cutte with the sareȝein bones</l>
+    	<l xml:id="harley4690_1089">þe hede was wrowght ful welle</l>
+    	<l xml:id="harley4690_1090" n="1090">þer ynne was xx pownd of stele</l>
+    	<l xml:id="harley4690_1091">and whenne he come to cyperlou....</l>
+    	<l xml:id="harley4690_1092">thyke axe he name yn ys hon....</l>
+    	<l xml:id="harley4690_1093">alle the gryffonnes þ[at] w[ith] hy[m] gan.... ...</l>
+    	<l xml:id="harley4690_1094">her gode dayes sone ganne of... ...</l>
+    	<l xml:id="harley4690_1095">whenne þat he to pryson ca.... ... ...</l>
+    	<l xml:id="harley4690_1096">thyke axe yn honde he ... ... ...</l>
+    	<l xml:id="harley4690_1097">and hewe þer bothe bar.... ... ...</l> <!--APB trans: capital "B" in "bothe"?-->
     	
-    	<!--APB: phase 1 transcription check complete > will go back and do line numbers soon-->
+    	<!--APB: phase 1 complete-->
     	
     	<pb xml:id="harley4690_fol115v" n="fol115v" facs="harley_ms_4690_f115v.tif"/>
     	<cb n="1"/>
