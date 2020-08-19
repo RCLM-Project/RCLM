@@ -603,7 +603,7 @@
     	<l xml:id="harley4690_483">and tolde the <name type="person" ref="#EmperorAlmayne">emperour</name> also blyve</l>
     	<l xml:id="harley4690_484">that <name type="person" subtype="historical" ref="#KingRichard">Richard</name> and the lyoune</l>
     	<l xml:id="harley4690_485">To geders wer &ydot;nne prysoune .</l>
-    	<l xml:id="harley4690_486">Thenne se&ydot;d[e] he by heuenne kyng</l>
+    	<l xml:id="harley4690_486">Thenne <choice><abbr>se&ydot;d</abbr><expan>se&ydot;de</expan></choice> he by heuenne kyng</l>
     	<l xml:id="harley4690_487">&ydot; am gladde of that t&ydot;d&ydot;ngge .</l>
     	<l xml:id="harley4690_488">B&ydot; th&ydot;s t&ydot;me y wote itte welle</l>
     	<l xml:id="harley4690_489">the lyon hath of h&ydot;m hys dele .</l>
@@ -623,9 +623,9 @@
     	<l xml:id="harley4690_503"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> se&ydot;d &yogh;e be welcome</l> <!--SLG trans: middot following [Richard]?-->
 		<!--SLG trans: missing line, added below. Line numbers have been corrected-->
 		<l xml:id="harley4690_504">the&ydot; s&ydot;ghe the lyon dede there</l>
-    	<l xml:id="harley4690_505">the&ydot; renne and telde þe k[ing] þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
-    	<l xml:id="harley4690_506">thatt <name type="person" subtype="historical" ref="#KingRichard">R[ichard]</name> was all hole and sownde</l>
-    	<l xml:id="harley4690_507">and the lyon dede vppon the grownd[e]</l>
+    	<l xml:id="harley4690_505">the&ydot; renne and telde þe <choice><abbr>k</abbr><expan>king</expan></choice> þer fore .</l> <!--SLG trans: issue with whether to capitalize that variation of [r], here in [renne]-->
+    	<l xml:id="harley4690_506">thatt <name type="person" subtype="historical" ref="#KingRichard"><choice><abbr>R</abbr><expan>Richard</expan></choice></name> was all hole and sownde</l>
+    	<l xml:id="harley4690_507">and the lyon dede vppon the <choice><abbr>grownd</abbr><expan>grownde</expan></choice></l>
     	<l xml:id="harley4690_508">the kyng se&ydot;d vn to the quene þo</l>
     	<l xml:id="harley4690_509">yff he dwelle here he wyss vs sloo .</l> <!--SLG trans: [wyss] to [wyll]. [s] is usually written as a straighter line while [l] has a loop on the top.-->
     	<l xml:id="harley4690_510" n="510">do whe rawnson h&ydot;m þorwe ourehonde</l>
@@ -1375,193 +1375,193 @@
     	
     	fol. 116r. 
     	
-    	Narwe hẏm sowght kẏng Richarde
+    	Narwe h&ydot;m sowght k&ydot;ng Richarde
     	alle was the emperour ys paueloune
-    	Sẏlke sendale and sekelatoune <!--LKN expl: note on fabrics here-->
-    	ẏn the worlde was hẏm ẏ lyche
-    	ne ẏn fele partes so rẏche
-    	ẏn alle acres nas y ffownde
-    	a pauẏlon of so moche mownde
-    	that kyng Richarde wyth worschẏppe
+    	S&ydot;lke sendale and sekelatoune <!--LKN expl: note on fabrics here-->
+    	&ydot;n the worlde was h&ydot;m &ydot; lyche
+    	ne &ydot;n fele partes so r&ydot;che
+    	&ydot;n alle acres nas y ffownde
+    	a pau&ydot;lon of so moche mownde
+    	that kyng Richarde wyth worsch&ydot;ppe
     	dydde lette bere yn to ys schyppe
     	coppes of golde wyth outen tale
     	he ffownd there bothe grete & smale 
     	soffres bothe smale and grete
     	welle ffylled and well y bete . 
-    	Too stedes fownde kẏng Richarde
+    	Too stedes fownde k&ydot;ng Richarde
     	Thatt oon favell þett other lyarde
-    	ẏn this worlde þeẏ hadde no peere
-    	Dromedarẏ nether destrere
+    	&ydot;n this worlde þe&ydot; hadde no peere
+    	Dromedar&ydot; nether destrere
     	stede rabyte ne cammele
-    	Gothe none so swẏfte w[ith] oute faẏle 
+    	Gothe none so sw&ydot;fte w[ith] oute fa&ydot;le 
     	for a thowsand pownd of golde
     	ne scholde thett oon be soolde. 
     	for ys menne had arste y lore
     	the sevenne dowbell ther before
     	tydyng to the emperour come
-    	thatt ys dowghter ys hẏm benome
+    	thatt ys dowghter ys h&ydot;m benome
     	and thatt ys hyghe stywarde
     	Betowke her to kyng Richarde 
-    	þanne wyst the emperour y wẏsse 
+    	þanne wyst the emperour y w&ydot;sse 
     	that he hadde done amysse
     	hys messangers he calledde sone
-    	and bade he to kẏng Richarde gone
-    	seẏe vn to thatt nowbell kyng
-    	thatt y sente hẏm goddes gretẏng 
-    	homage ẏ schall hẏm Bere & yolde
-    	and alle mẏ londe of hẏm holde
+    	and bade he to k&ydot;ng Richarde gone
+    	se&ydot;e vn to thatt nowbell kyng
+    	thatt y sente h&ydot;m goddes gret&ydot;ng 
+    	homage &ydot; schall h&ydot;m Bere & yolde
+    	and alle m&ydot; londe of h&ydot;m holde
     	thatt he wolde þur charyte
     	late me yn þees Be
     	The messangers Be forthe y wente
     	To do her lordes commawndmente
-    	kẏng Richarde answeredde thee
+    	k&ydot;ng Richarde answeredde thee
     	lordes y grawnt that ytte Be soo
     	Goeth and seithe yowre emperour
     	that he dude me dyshonowre
-    	whenne he ruvvedd pylgrẏmes
-    	Thatt wer ẏ Bownde to paynẏmes <!--LKN expl: perhaps include a note here on conflation of pilgrimage and (implicit) crusading, with relevant scholarship cited.-->
-    	Bydde hẏm yolde my tresoure alle
+    	whenne he ruvvedd pylgr&ydot;mes
+    	Thatt wer &ydot; Bownde to payn&ydot;mes <!--LKN expl: perhaps include a note here on conflation of pilgrimage and (implicit) crusading, with relevant scholarship cited.-->
+    	Bydde h&ydot;m yolde my tresoure alle
     	
-    	yff he thenke to be mẏ specẏalle.
+    	yff he thenke to be m&ydot; spec&ydot;alle.
     	and also seye youre emperoure
-    	thatt he amende the dẏshonoure
-    	thatt he dude vnto ys stẏwarde
-    	ẏn the despyte of kẏngge Richarde
+    	thatt he amende the d&ydot;shonoure
+    	thatt he dude vnto ys st&ydot;warde
+    	&ydot;n the despyte of k&ydot;ngge Richarde
     	and bydde þatte he come to morwe
-    	& axe mercẏ wyth care & sorwe
+    	& axe merc&ydot; wyth care & sorwe
     	and homage me yelde or bere
-    	or bẏ my crowne ẏ the swere
-    	ẏ nelle hẏm leve a foote of londe
-    	ynne schorte tẏme ẏ vnderstonde
+    	or b&ydot; my crowne &ydot; the swere
+    	&ydot; nelle h&ydot;m leve a foote of londe
+    	ynne schorte t&ydot;me &ydot; vnderstonde
     	The messangers went by oon accorde
     	and telde thus vn to ther lorde
     	the was the emperour fulle woo
     	thatt he schulde thatt dede doo.
     	natheles he come vppon the morowe
-    	and hasked mercẏ w[ith] grete sorowe .
+    	and hasked merc&ydot; w[ith] grete sorowe .
     	and ȝede full loughe so saythe þe bouke
     	and by the fete kyng Richarde towke
-    	and cryed mercẏ with gode entente
+    	and cryed merc&ydot; with gode entente
     	and he for yave hys male talente
-    	Thylke day theẏ weren atte accorde
+    	Thylke day the&ydot; weren atte accorde
     	and sete to dyner atte oone borde
-    	with grete delyte and wyth plaẏe 
-    	they wer to geder alle thatt daẏe.
+    	with grete delyte and wyth pla&ydot;e 
+    	they wer to geder alle thatt da&ydot;e.
     	And whenne ytte drewe toward[e even[ne]
     	the emperour touke ys leue.
     	for to wynde to hys hostelle
-    	ynne herte nas ym no thẏng welle
+    	ynne herte nas ym no th&ydot;ng welle
     	he hulde hym self a cowarde
-    	thatt he ȝwldedde homage to kẏng Richard[e]
-    	and thowght howghe he awreke mẏght 
-    	and wente forthe anone rẏght 
+    	thatt he ȝwldedde homage to k&ydot;ng Richard[e]
+    	and thowght howghe he awreke m&ydot;ght 
+    	and wente forthe anone r&ydot;ght 
     	To a cyte menne calleth Bonnevente
     	he come by day veramente
-    	Ther he ffownde many a grete Sẏre
+    	Ther he ffownde many a grete S&ydot;re
     	The nowbleste of all ys empyre . 
-    	to them plaẏnedde the emperoure
+    	to them pla&ydot;nedde the emperoure
     	of thatt ylke Dyshonoure
-    	thatt hẏm dude kẏng Richarde
-    	thurgh the helpe of hys stẏwarde
+    	thatt h&ydot;m dude k&ydot;ng Richarde
+    	thurgh the helpe of hys st&ydot;warde
     	<!--LKN note for transcription checkers: there is a mark before vppe here and I´m trying to sort out what it is, and whether it´s signalling something that needs to be added to this line or the one in L column of text on this page. Ideas welcome! -->vppe sterte paskasye a nowbelle baroune<!--LKN espl: need a note here for name, if possible-->
     	a riche lorde of grete renowne
     	the stywardes eme for sothe he was
     	thatt the emperour hadd[e] schent ys fate
-    	and seyde sẏr thew arte becawghte 
+    	and seyde s&ydot;r thew arte becawghte 
     	
     	fol. 116v. 
     	
     	ffor thow art aboute nowghte
     	withe oute encheson and ingemente
-    	thẏ gode stẏwarde þ[ou] haste schente
-    	thatt schulde ous haue ẏ saued nowghe
-    	and ẏ gouernedde as he welle couthe 
-    	thurgh thẏ wẏlle malicious
-    	and so thou wost seruẏ ous
-    	and ther for ẏ seẏe w[ith] wordes bolde
-    	Wyth soche a lorde whe wẏll nott holde
-    	for to fyghte aȝenste Richarde kẏng
-    	the best bodẏ vnder sonne schẏnẏng
+    	th&ydot; gode st&ydot;warde þ[ou] haste schente
+    	thatt schulde ous haue &ydot; saued nowghe
+    	and &ydot; gouernedde as he welle couthe 
+    	thurgh th&ydot; w&ydot;lle malicious
+    	and so thou wost seru&ydot; ous
+    	and ther for &ydot; se&ydot;e w[ith] wordes bolde
+    	Wyth soche a lorde whe w&ydot;ll nott holde
+    	for to fyghte aȝenste Richarde k&ydot;ng
+    	the best bod&ydot; vnder sonne sch&ydot;n&ydot;ng
     	Ne none of alle my baronage
     	schalle the neuer don homage . 
-    	alle that other seẏde att oon worde
+    	alle that other se&ydot;de att oon worde
     	thatt kyng Richarde was her lorde
-    	and the emperour for ys velanẏe
-    	Wer welle worthe for to dẏghe.
-    	The emperour sẏghe and vnderstode
-    	Thatt hys barounes wold[e] hẏm no gode
+    	and the emperour for ys velan&ydot;e
+    	Wer welle worthe for to d&ydot;ghe.
+    	The emperour s&ydot;ghe and vnderstode
+    	Thatt hys barounes wold[e] h&ydot;m no gode
     	To a nother cyte fledde he thare
-    	ẏn hys herte was mekell care . 
-    	sone after the stẏwarde
-    	Telde thys cownceylle to kẏng Richard[e]
-    	and seẏde yn herte hẏm was full wo
+    	&ydot;n hys herte was mekell care . 
+    	sone after the st&ydot;warde
+    	Telde thys cownceylle to k&ydot;ng Richard[e]
+    	and se&ydot;de yn herte h&ydot;m was full wo
     	That the emperoure was lore soo.
-    	and lette hym syche vn alle wẏse
-    	and fownd hym yn the cẏte of pẏse 
-    	hewghnethe owre kẏng Richarde
-    	wolde lowke to hẏm warde.
+    	and lette hym syche vn alle w&ydot;se
+    	and fownd hym yn the c&ydot;te of p&ydot;se 
+    	hewghnethe owre k&ydot;ng Richarde
+    	wolde lowke to h&ydot;m warde.
     	ffor he hadde broke hys trewthe
-    	kẏng Richard[e] nadde of hẏm no rewthe
-    	Butt bade a serante faste hẏm bynde
+    	k&ydot;ng Richard[e] nadde of h&ydot;m no rewthe
+    	Butt bade a serante faste h&ydot;m bynde
     	Bothe hendes hym behynde
-    	and cast hym ẏn to Galeẏ
-    	and ladde hẏm forthe to Surreẏ
-    	and swore by hẏm þatt made the sterre
-    	aȝenste the saraȝẏnes schulde he werre
+    	and cast hym &ydot;n to Gale&ydot;
+    	and ladde h&ydot;m forthe to Surre&ydot;
+    	and swore by h&ydot;m þatt made the sterre
+    	aȝenste the saraȝ&ydot;nes schulde he werre
     	and whenne y doo whas þatt rees
-    	he schulde haue hys londe ẏn pees
-    	The erle of laẏceter as tydelẏ
-    	Thurghe cownceylle of hys baronẏe
+    	he schulde haue hys londe &ydot;n pees
+    	The erle of la&ydot;ceter as tydel&ydot;
+    	Thurghe cownceylle of hys baron&ydot;e
     	made hym stywarde of hys londe
     	and towke hys reame yn hys honde
-    	there kyn Richarde sowsed Beleẏne
-    	the kẏnggys dowghter of Nauerne
+    	there kyn Richarde sowsed Bele&ydot;ne
+    	the k&ydot;nggys dowghter of Nauerne
     	
     	And made ther þe Richest spowsyngge
-    	thatt euer made any kẏngge . 
+    	thatt euer made any k&ydot;ngge . 
     	and crowned hym selfe emperoure
     	and her Emp[er]yce wyth honowre . 
-    	alle þus kyng Richard[e] wanne cẏpres
+    	alle þus kyng Richard[e] wanne c&ydot;pres
     	God grawnte ys soule heuen blysse . 
     	and whenne the feste was y done
-    	kyng Richarde made hẏm bowne . 
+    	kyng Richarde made h&ydot;m bowne . 
     	Towarde acrys thanne he wolde
     	wyth moche stoor of syluer and goolde
     	sexty score schyppes as whe ffynde
     	Werre fforwarde saylyngge
-    	and after come ffyffetẏ galeys
-    	ffor to warde the nauẏes <!--LKN text: looks like there is an additional character or abbrev mark at the end of the final word here. Ideas welcome!-->
-    	So they saylede tenne dayes stẏlle
-    	and hadde wẏnde & weder att wylle
+    	and after come ffyffet&ydot; galeys
+    	ffor to warde the nau&ydot;es <!--LKN text: looks like there is an additional character or abbrev mark at the end of the final word here. Ideas welcome!-->
+    	So they saylede tenne dayes st&ydot;lle
+    	and hadde w&ydot;nde & weder att wylle
     	the elevenne day þay hadde tempeste
-    	Nyght ne daẏ had þaẏ no reste . 
+    	Nyght ne da&ydot; had þa&ydot; no reste . 
     	Also theigh werre in strong auenture
     	theigh sighe a dromonde w[ith] oute mesure <!--LKN expl: need a note on dromonde ship here-->
     	thatt was towarde the saraȝines
-    	y charged w[ith] corne and w[ith] wẏnes
-    	with wylde fuẏre and other vytayle
-    	kẏng R[ichard] syghe the dromonde sanȝfaẏle<!--LKN text: the copyist seems to have mistakenly written a d before writing ´the,´ presumably because they initially skipped over that word and began to write dromonde.--> 
-    	and calledde of hastẏng trenchemere<!--LKN:need a note for the person Trenchemere -->
-    	and bad hym ẏn a galeẏ wẏnde nere
-    	for to aske wyth wham theẏ were
-    	and watte theẏ hadde ẏn chaffare <!--LKN expl: need a definition of chaffare here-->
-    	Aleẏne had tẏde and men ẏ nowghe
+    	y charged w[ith] corne and w[ith] w&ydot;nes
+    	with wylde fu&ydot;re and other vytayle
+    	k&ydot;ng R[ichard] syghe the dromonde sanȝfa&ydot;le<!--LKN text: the copyist seems to have mistakenly written a d before writing ´the,´ presumably because they initially skipped over that word and began to write dromonde.--> 
+    	and calledde of hast&ydot;ng trenchemere<!--LKN:need a note for the person Trenchemere -->
+    	and bad hym &ydot;n a gale&ydot; w&ydot;nde nere
+    	for to aske wyth wham the&ydot; were
+    	and watte the&ydot; hadde &ydot;n chaffare <!--LKN expl: need a definition of chaffare here-->
+    	Ale&ydot;ne had t&ydot;de and men &ydot; nowghe
     	and to the dromonde gan to rowghe
-    	and asked with wham theẏ ware
-    	and wate theẏ had ynne chaffare . 
-    	then answeryd[e] her latẏmer
-    	Wordes to aleẏne trenchemer
+    	and asked with wham the&ydot; ware
+    	and wate the&ydot; had ynne chaffare . 
+    	then answeryd[e] her lat&ydot;mer
+    	Wordes to ale&ydot;ne trenchemer
     	whe be w[ith] the kyng of ffrawnce
-    	and fro pvẏle bryng hys sustenawnce <!--LKN expl: provide note on Poyle here-->
+    	and fro pv&ydot;le bryng hys sustenawnce <!--LKN expl: provide note on Poyle here-->
     	alle thys monethe whe haue be in þe cee 
     	Towarde acrys fayn wolde whe
-    	Wẏnde vppe sayle sayde aleẏne swythe 
+    	W&ydot;nde vppe sayle sayde ale&ydot;ne swythe 
     	& sayle whe fforthe w[ith] wedres lythe
-    	Nay he seẏde bẏ Thomas of ẏnde <!--LKN expl: note on Thomas here-->
+    	Nay he se&ydot;de b&ydot; Thomas of &ydot;nde <!--LKN expl: note on Thomas here-->
     	whe mote nedes come behynde 
-    	for whe beth so eueẏ ffrawght
+    	for whe beth so eue&ydot; ffrawght
     	howghnethe mowghe whe sayle owght
-    	thanne seide aleẏne sone anone
+    	thanne seide ale&ydot;ne sone anone
     	
     	fol. 117r. 
     	
