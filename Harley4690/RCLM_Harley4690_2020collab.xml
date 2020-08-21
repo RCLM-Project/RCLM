@@ -1289,7 +1289,7 @@
     	<l xml:id="harley4690_1104">fulle fayne the&ydot; wer awe&ydot; to fflen</l>
     	<l xml:id="harley4690_1105">wham he towke att wordes ffewe</l>
     	<l xml:id="harley4690_1106">with ys axe he dude to hewe</l>
-    	<l xml:id="harley4690_1107">he name her tresowrs & her juells</l>
+    	<l xml:id="harley4690_1107">he name her tresowrs <choice><abbr>&amp;</abbr><expan>and</expan></choice> her juells</l>
     	<l xml:id="harley4690_1108">Right for ys owne catelles</l>
     	<l xml:id="harley4690_1109"><space quantity="5" unit="char"/>tydyng came to the emperour</l>
     	<l xml:id="harley4690_1110" n="1110">that Richarde k&ydot;ng of honowre</l>
@@ -1365,9 +1365,9 @@
     	<l xml:id="harley4690_1177">and &yogh;eldeth the tresour a&yogh;einewarde</l>
     	<l xml:id="harley4690_1178">that &yogh;e revedde kyng Richarde</l>
     	<l xml:id="harley4690_1179">&yogh;e be worthy for that dede</l>
-    	<l xml:id="harley4690_1180" n="1180">wyth gr&ydot;m woundes to lye & blede</l> <!--APB trans: capital "B" in "blede"?-->
+    	<l xml:id="harley4690_1180" n="1180">wyth gr&ydot;m woundes to lye <choice><abbr>&amp;</abbr><expan>and</expan></choice> blede</l> <!--APB trans: capital "B" in "blede"?-->
     	<l xml:id="harley4690_1181">att &thorn;e Emperour <choice><abbr>y</abbr><expan>ys</expan></choice> pauelon <choice><abbr>k</abbr><expan>king</expan></choice> <choice><abbr>Richard</abbr><expan>Richarde</expan></choice></l>
-    	<l xml:id="harley4690_1182">lyghte a down & the stywarde</l>
+    	<l xml:id="harley4690_1182">lyghte a down <choice><abbr>&amp;</abbr><expan>and</expan></choice> the stywarde</l>
     	<l xml:id="harley4690_1183">Butte the emperour was fled awa&ydot;</l>
     	<l xml:id="harley4690_1184">hym self allone or itt was da&ydot;</l>
     	<l xml:id="harley4690_1185">y flowe was &thorn;e foule cowarde</l>
