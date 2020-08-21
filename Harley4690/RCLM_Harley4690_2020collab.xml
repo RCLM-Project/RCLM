@@ -1280,10 +1280,10 @@
     	<pb xml:id="harley4690_fol115v" n="fol115v" facs="harley_ms_4690_f115v.tif"/>
     	<cb n="1"/>
     	
-    	<l xml:id="harley4690_1098">To lyver ys menne of paẏnes</l> <!--APB trans: possible middot at the end of this line?-->
+    	<l xml:id="harley4690_1098">To lyver ys menne of paẏnes</l> <!--APB trans: possible middot at the end of this line?--> <!--SLG trans: I agree-->
     	<l xml:id="harley4690_1099">and to ys menne he lyvered clothe</l>
     	<l xml:id="harley4690_1100" n="1100">and of the despyte was ful wrothe</l>
-    	<l xml:id="harley4690_1101">he hym swore by sente sanoure</l> <!--LKN expl: need a note for saint here-->
+    	<l xml:id="harley4690_1101">he hym swore by sente sanoure</l> <!--LKN expl: need a note for saint here--> <!--SLG trans: [sente] to [seynte]-->
     	<l xml:id="harley4690_1102">abygged schulde the emperowre</l>
     	<l xml:id="harley4690_1103">the citeȝeẏnes began to renne</l> <!--APB trans: capital "B" in "began"?--> 
     	<l xml:id="harley4690_1104">fulle fayne theẏ wer aweẏ to fflen</l>
@@ -1291,10 +1291,10 @@
     	<l xml:id="harley4690_1106">with ys axe he dude to hewe</l>
     	<l xml:id="harley4690_1107">he name her tresowrs & her juells</l>
     	<l xml:id="harley4690_1108">Right for ys owne catelles</l>
-    	<l xml:id="harley4690_1109">	tydyng came to the emperour</l>
+    	<l xml:id="harley4690_1109"><space quantity="5" unit="char"/>tydyng came to the emperour</l>
     	<l xml:id="harley4690_1110" n="1110">that Richarde kẏng of honowre</l>
     	<l xml:id="harley4690_1111">hadde ys Burgeẏs sleẏne thoo</l>
-    	<l xml:id="harley4690_1112">No wonder þeẏgh hẏm wer woo</l>
+    	<l xml:id="harley4690_1112">No wonder þeẏgh hẏm wer woo</l> <!--SLG trans: possible capital [W] in [wonder]-->
     	<l xml:id="harley4690_1113">anone right with outen fayle</l>
     	<l xml:id="harley4690_1114">he sente after ys cownceyle</l>
     	<l xml:id="harley4690_1115">and badde ham to come an hyghe</l>
@@ -1313,12 +1313,12 @@
     	<l xml:id="harley4690_1128">here they arne redy atte my feete</l>
     	<l xml:id="harley4690_1129">they wyll yow helpe and socour</l>
     	<l xml:id="harley4690_1130" n="1130">aȝenste the swykell emperour[e]</l>
-    	<l xml:id="harley4690_1131">and or to morowe þ[ou] schalt be sowre</l> <!--APB trans: the "o" in "sowre" to me resembles an "e" > "sewre" might line up with the rhyme with "emprer[e]" below-->
+    	<l xml:id="harley4690_1131">and or to morowe þ[ou] schalt be sowre</l> <!--APB trans: the "o" in "sowre" to me resembles an "e" > "sewre" might line up with the rhyme with "emprer[e]" below--> <!--SLG trans: I agree-->
     	<l xml:id="harley4690_1132">of ys kyngdom and ys emprer[e]</l>
     	<l xml:id="harley4690_1133">and swete syr withouten fayle</l> <!--APB trans: space between "with" and "outen"?-->
-    	<l xml:id="harley4690_1134">he behoveth mẏ cownceyle</l> <!--APB trans: the first "e" in behoveth" looks like a "y"-->
+    	<l xml:id="harley4690_1134">he behoveth mẏ cownceyle</l> <!--APB trans: the first "e" in behoveth" looks like a "y"--> <!--SLG trans: also, there appears to be a third character in the first word. Looks like [the] to me, rather than [he]-->
     	<l xml:id="harley4690_1135">...he schalle the lede by a coste</l> <!--APB trans: capital "B" in "by"?-->
-    	<l xml:id="harley4690_1136">....vely by hys hoste</l> <!--APB trans: capital "B" in "by"?-->
+    	<l xml:id="harley4690_1136">....vely by hys hoste</l> <!--APB trans: capital "B" in "by"?--> <!--SLG trans: also appears to be another discernable character in the first word. [...yvely] rather than [....vely]-->
     	<l xml:id="harley4690_1137">... ... her pauelones þ[ou] schalt he[re] take</l>
     	<l xml:id="harley4690_1138">... ... þenketh do the mochell wrake</l>
     	<l xml:id="harley4690_1139">... ... ... he done ȝow or thys</l>
