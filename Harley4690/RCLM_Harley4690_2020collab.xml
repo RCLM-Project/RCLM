@@ -1423,7 +1423,7 @@
     	<l xml:id="harley4690_1230">Thatt wer &ydot; Bownde to payn&ydot;mes</l> <!--LKN expl: perhaps include a note here on conflation of pilgrimage and (implicit) </l>crusading, with relevant scholarship cited.-->
     	<l xml:id="harley4690_1231">Bydde h&ydot;m yolde my tresoure alle</l>
     	
-		<l xml:id="harley4690_1232">yff he thenke to be m&ydot; spec&ydot;alle&period;</l>
+	<l xml:id="harley4690_1232">yff he thenke to be m&ydot; spec&ydot;alle&period;</l>
     	<l xml:id="harley4690_1233">and also seye youre emperoure</l>
     	<l xml:id="harley4690_1234">thatt he amende the d&ydot;shonoure</l>
     	<l xml:id="harley4690_1235">thatt he dude vnto ys st&ydot;warde</l>
@@ -1518,7 +1518,7 @@
     	<l xml:id="harley4690_1321">there kyn Richarde sowsed Bele&ydot;ne</l>
     	<l xml:id="harley4690_1322">the k&ydot;nggys dowghter of Nauerne</l>
     	
-		<l xml:id="harley4690_1323">And made ther &thorn;e Richest spowsyngge</l>
+	<l xml:id="harley4690_1323">And made ther &thorn;e Richest spowsyngge</l>
     	<l xml:id="harley4690_1324">thatt euer made any k&ydot;ngge &period;</l>
     	<l xml:id="harley4690_1325">and crowned hym selfe emperoure</l>
     	<l xml:id="harley4690_1326">and her <choice><abbr>Empyce</abbr><expan>Emperyce</expan></choice> wyth honowre &period;</l>
@@ -1566,7 +1566,8 @@
     	
     	<!--APB: most of phase 2 complete > need to do transcription check-->
     	
-    	fol. 117r. 
+    	<pb xml:id="harley4690_fol117r" n="fol117r" facs="harley_ms_4690_f117r.tif"/>
+    	<cb n="1"/> 
     	
     	<l xml:id="harley4690_1368">ẏ here none speke of ẏow butte one </l>
     	<l xml:id="harley4690_1369">lete stonde vppe me fferenne</l>
@@ -1614,6 +1615,8 @@
     	<l xml:id="harley4690_1411">kyng Richarde and hys gode knẏghtes</l>
     	<!--LKN text: the copyist accidentally rewrote the penultimate line in this column "aȝenste [the] gode kẏng Richarde" here (adding a 'the" that isn't in the initial version above, and then crossed out the duplicate line.)-->
     	
+	<cb n="2"/>
+
     	<l xml:id="harley4690_1412">slye the saraȝẏnes a downe rẏghtes</l>
     	<l xml:id="harley4690_1413">and as theẏ ganne worche ham woo</l>
     	<l xml:id="harley4690_1414">Euer ther rysenne mo and mo </l>
@@ -1659,7 +1662,8 @@
     	<l xml:id="harley4690_1454">Of gold and syluer moche deinte</l>
     	<l xml:id="harley4690_1455">Of tresour had not halfe þe mownde</l>
     	
-    	fol. 117v.
+    	<pb xml:id="harley4690_fol117v" n="fol117v" facs="harley_ms_4690_f117v.tif"/>
+    	<cb n="1"/>
     	
     	<l xml:id="harley4690_1456">as ẏn the dromonde was ẏ ffownde.</l>
     	<l xml:id="harley4690_1457">avawnced was alle crẏstiante</l>
@@ -1705,8 +1709,10 @@
     	<l xml:id="harley4690_1497">coppes fast abowghte yede</l>
     	<l xml:id="harley4690_1498">with wẏne pẏmente and clare</l>
     	<l xml:id="harley4690_1499">and seyleden to acres cẏtee. </l>
+
+	<cb n="2"/>
     	
-		<l xml:id="harley4690_1500">kyng Richard oute of hys galeẏ</l>
+	<l xml:id="harley4690_1500">kyng Richard oute of hys galeẏ</l>
     	<l xml:id="harley4690_1501">schotte wyldefuẏre to the skẏe</l>
     	<l xml:id="harley4690_1502">he caste fuyre Gregeẏs on the see</l>
     	<l xml:id="harley4690_1503">as alle on fuyre were he</l>
@@ -1751,6 +1757,7 @@
     	<l xml:id="harley4690_1542">the Barbicannes for the nones</l>
     	<l xml:id="harley4690_1543">wer y wrowght w[ith] hard stones</l>
     	<l xml:id="harley4690_1544">and when ytte was redẏ made</l>
+<!--SLG: pb and cb done for 117, transcription check still needed-->
     	
     	fol. 118r. 
     	
