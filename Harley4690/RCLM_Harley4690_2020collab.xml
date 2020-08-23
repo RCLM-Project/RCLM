@@ -1774,7 +1774,7 @@
     	<l xml:id="harley4690_1554">Nough fader sone and holygoste</l>
     	<l xml:id="harley4690_1555">Graunte h&ydot;m grace of worlded schame</l>
     	<l xml:id="harley4690_1556">marcusferaunt by h&ydot;s name</l> <!--SLG trans: [by] to [By]-->
-    	<l xml:id="harley4690_1557">the fyrste bata&ydot;lle securlyche</l>
+    	<l xml:id="harley4690_1557">the fyrste bata&ydot;lle securlyche</l><!--APB trans: possible capital "B" in "bataylle"?--></l>
     	<l xml:id="harley4690_1558">was full strong and dethelyche</l>
     	<l xml:id="harley4690_1559">Welle foughte oure crysten knyghtes</l>
     	<l xml:id="harley4690_1560">and slye the sara&yogh;&ydot;nes down ryghtes</l>
@@ -1794,7 +1794,7 @@
     	<l xml:id="harley4690_1574">The Best bodyes vnder cr&ydot;ste</l>
     	<l xml:id="harley4690_1575">The lorde ffereys of Englande</l>
     	<l xml:id="harley4690_1576">ther nas none so dowght&ydot; of honde</l>
-    	<l xml:id="harley4690_1577">and the emperour of alme&ydot;ne </l>
+    	<l xml:id="harley4690_1577">and the emperour of alme&ydot;ne </l><!--APB trans: possible capital "E" in "emperour"?-->
     	<l xml:id="harley4690_1578">and an Erle owte of spa&ydot;ne </l>
     	<l xml:id="harley4690_1579">and there whe lofte <choice><abbr>wt</abbr><expan>with</expan></choice> grete pyte</l>
     	<l xml:id="harley4690_1580">alevenne thowsand of our me&ydot;ne</l>
@@ -1830,6 +1830,7 @@
     	<l xml:id="harley4690_1609">on a se&ydot;nt James da&ydot; veramente</l>
 <!--SLG: phase 2 complete-->
 <!--APB: corrected line numbers from 1546 to 1609-->  
+<!--APB: phase 1 complete--> 
     	<!--LKN text: the text ends here abruptly, and well before the end of the column. The verso side of this folio (the last in this manuscript) is also blank. Need to ascertain whether this was always the case or whether this was a product of rebinding and explain as much here.-->
     	
     </body>
