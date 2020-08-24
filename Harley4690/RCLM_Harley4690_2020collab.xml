@@ -1691,8 +1691,8 @@
     	<l xml:id="harley4690_1477">seuen ȝeere ẏn grete peyne</l>
     	<l xml:id="harley4690_1478">for the lettẏng of þatt cheẏne</l>
     	<l xml:id="harley4690_1479">and whenne kẏng Richard herd þis</l> <!--SLG trans: mark above [þis], unsure what it abbreviates. A final [e] or [es]?-->
-	<!--SLG trans: missing line, added below. Line numbers need to be corrected-->
-		<l xml:id="harley4690_1480" n="1480"> yn herte he was gladde ẏ wẏsse</l>
+	<!--SLG trans: missing line, added below-->
+	<l xml:id="harley4690_1480" n="1480"> yn herte he was gladde ẏ wẏsse</l>
     	<l xml:id="harley4690_1481">and swore and seẏd[e] ẏn hys þoughte</l>
     	<l xml:id="harley4690_1482">thatt ne scholde helpe hem noghte</l>
     	<l xml:id="harley4690_1483">a swythe strongge galeẏ he towke</l>
@@ -1702,7 +1702,7 @@
     	<l xml:id="harley4690_1487">were the marẏners glad or wrothe</l>
     	<l xml:id="harley4690_1488">he made hem seẏle and rowe bothe</l>
     	<l xml:id="harley4690_1489">thatt the galeẏ ȝede so swẏfte</l>
-    	<l xml:id="harley4690_1490">so dothe the fowle by the lyfte</l>
+    	<l xml:id="harley4690_1490" n="1490">so dothe the fowle by the lyfte</l>
     	<l xml:id="harley4690_1491">and oure kyng thatt was so goode</l>
     	<l xml:id="harley4690_1492">wyth ys axe a fore schyppe stode</l>
     	<l xml:id="harley4690_1493">and whenne he come to the cheẏne</l>
@@ -1712,7 +1712,7 @@
     	<l xml:id="harley4690_1497">for gladdnesse of thatt ylke dede</l>
     	<l xml:id="harley4690_1498">coppes fast abowghte yede</l> <!--SLG trans: [coppes] to [soppes]-->
     	<l xml:id="harley4690_1499">with wẏne pẏmente and clare</l>
-    	<l xml:id="harley4690_1500">And seyleden to acres cẏtee. </l>
+    	<l xml:id="harley4690_1500" n="1500">And seyleden to acres cẏtee. </l>
 
 	<cb n="2"/>
     	
@@ -1725,7 +1725,7 @@
     	<l xml:id="harley4690_1507">theẏ Bette trompes and pẏped saraȝẏns</l>
     	<l xml:id="harley4690_1508">the see Brente al of fuyre Gregeẏs </l>
     	<l xml:id="harley4690_1509">The saraȝẏnes thatt wer yn acres town</l>
-    	<l xml:id="harley4690_1510">To the walles ronne abawndowne</l>
+    	<l xml:id="harley4690_1510" n="1510">To the walles ronne abawndowne</l>
     	<l xml:id="harley4690_1511">Of the fare hẏ hadde wonder</l>
     	<l xml:id="harley4690_1512">The see Brente abowne and vnder</l>
     	<l xml:id="harley4690_1513">and alle crẏstennmenne kẏnges & pages</l> <!--SLG trans: [crẏstennmenne] to [crẏstenmenne]-->
@@ -1735,7 +1735,7 @@
     	<l xml:id="harley4690_1517">ffor to see the galeẏs saẏle</l>
     	<l xml:id="harley4690_1518">hys mẏnstrellecẏe and hys apparaẏle </l>
     	<l xml:id="harley4690_1519">for theẏ syghe neuer soche a comẏng</l>
-    	<l xml:id="harley4690_1520">yn to acres of no crẏstenne kẏng </l>
+    	<l xml:id="harley4690_1520" n="1520">yn to acres of no crẏstenne kẏng </l>
     	<l xml:id="harley4690_1521">and whenne ẏ do was þẏs mervaile</l>
     	<l xml:id="harley4690_1522">kẏng Richarde wente to londe sanȝfaile</l>
     	<l xml:id="harley4690_1523">the kẏng of frawnce aȝenst hẏm come</l>
@@ -1745,7 +1745,7 @@
     	<l xml:id="harley4690_1527">and alle the kẏnggeȝ yn crẏstiante</l>
     	<l xml:id="harley4690_1528">that there long hadde ẏ Be</l>
     	<l xml:id="harley4690_1529">sevenne yere in grete doloure</l>
-    	<l xml:id="harley4690_1530">Welcomedde hẏm wyth honoure</l>
+    	<l xml:id="harley4690_1530" n="1530">Welcomedde hẏm wyth honoure</l>
     	<l xml:id="harley4690_1531">The Archebyschoppe of Pẏse</l>
     	<l xml:id="harley4690_1532">dude kẏng Richard ys seruẏse </l>
     	<l xml:id="harley4690_1533">and after masse as ȝe maẏ see</l>
@@ -1755,7 +1755,7 @@
     	<l xml:id="harley4690_1537">and seyde kẏng .R[icharde]. þ[ou] schalte here</l>
     	<l xml:id="harley4690_1538">thys seege hathe laste many a yere</l>
     	<l xml:id="harley4690_1539">whe ne haue here no castelle</l>
-    	<l xml:id="harley4690_1540">thatt owse owght warde schalle</l>
+    	<l xml:id="harley4690_1540" n="1540">thatt owse owght warde schalle</l>
     	<l xml:id="harley4690_1541">Butt a wẏde dyche and a depe</l>
     	<l xml:id="harley4690_1542">there ynne owre bodyes for to kepe</l>
     	<l xml:id="harley4690_1543">the Barbicannes for the nones</l>
@@ -1769,7 +1769,7 @@
     	<l xml:id="harley4690_1547">and come on vs wyth a grete route</l>
     	<l xml:id="harley4690_1548">and besette ous alle aboute</l> <!--SLG trans: [besette] to [Besette]-->
     	<l xml:id="harley4690_1549">and wyth h&ydot;m marces momfarante</l>  <!--LKN expl: note on Conrad of Montferrat here and differences between this account and historical record--> <!--SLG trans: [marces] to [marcus]-->
-    	<l xml:id="harley4690_1550">that leueth on <choice><abbr>mahownd</abbr><expan>mahownde</expan></choice> <choice><abbr>&amp;</abbr><expan>and</expan></choice> termagawnt</l> <!--LKN expl: need a note on Termagaunt and Mahound as deities in polemical and Islamophobic depictions of Islam.-->
+    	<l xml:id="harley4690_1550" n="1550">that leueth on <choice><abbr>mahownd</abbr><expan>mahownde</expan></choice> <choice><abbr>&amp;</abbr><expan>and</expan></choice> termagawnt</l> <!--LKN expl: need a note on Termagaunt and Mahound as deities in polemical and Islamophobic depictions of Islam.-->
     	<l xml:id="harley4690_1551">he was a cr&ydot;stenne man som w&ydot;le</l>
     	<l xml:id="harley4690_1552">and nough he weyteth more harm <choice><abbr>&amp;</abbr><expan>and</expan></choice> g&ydot;le</l>
     	<l xml:id="harley4690_1553">than doth the sowdan and al &middot; ys hoste</l>
@@ -1779,7 +1779,7 @@
     	<l xml:id="harley4690_1557">the fyrste bata&ydot;lle securlyche</l><!--APB trans: possible capital "B" in "bataylle"?--></l>
     	<l xml:id="harley4690_1558">was full strong and dethelyche</l>
     	<l xml:id="harley4690_1559">Welle foughte oure crysten knyghtes</l>
-    	<l xml:id="harley4690_1560">and slye the sara&yogh;&ydot;nes down ryghtes</l>
+    	<l xml:id="harley4690_1560" n="1560">and slye the sara&yogh;&ydot;nes down ryghtes</l>
     	<l xml:id="harley4690_1561">Oure cr&ydot;sten had the ma&ydot;str&ydot;</l>
     	<l xml:id="harley4690_1562">the sara&yogh;&ydot;nes <choice><abbr>fledd</abbr><expan>fledde</expan></choice> <choice><abbr>wt</abbr><expan>with</expan></choice> grette crye</l>
     	<l xml:id="harley4690_1563">yn the fleyng whe slye many the</l> <!--SLG trans: [the] to [tho]-->
@@ -1789,7 +1789,7 @@
     	<l xml:id="harley4690_1567">a stede ranne fram a pa&ydot;n&ydot;me</l>
     	<l xml:id="harley4690_1568">the crysten menne folwed h&ydot;m</l>
     	<l xml:id="harley4690_1569">the sara&yogh;&ydot;nes sighe oure folke come</l>
-    	<l xml:id="harley4690_1570">and flowe a syde alle and some</l>
+    	<l xml:id="harley4690_1570" n="1570">and flowe a syde alle and some</l>
     	<l xml:id="harley4690_1571">and se&ydot;n &thorn;e&ydot; <choice><abbr>turned</abbr><expan>turnede</expan></choice> <choice><abbr>wt</abbr><expan>with</expan></choice> grete fyghte</l>
     	<l xml:id="harley4690_1572">and slyghe the crystenne down ryghte</l>
     	<l xml:id="harley4690_1573">and there whe lore or whe wyste</l>
@@ -1799,7 +1799,7 @@
     	<l xml:id="harley4690_1577">and the emperour of alme&ydot;ne </l><!--APB trans: possible capital "E" in "emperour"?-->
     	<l xml:id="harley4690_1578">and an Erle owte of spa&ydot;ne </l>
     	<l xml:id="harley4690_1579">and there whe lofte <choice><abbr>wt</abbr><expan>with</expan></choice> grete pyte</l>
-    	<l xml:id="harley4690_1580">alevenne thowsand of our me&ydot;ne</l>
+    	<l xml:id="harley4690_1580" n="1580">alevenne thowsand of our me&ydot;ne</l>
     	<l xml:id="harley4690_1581">The sawdan ther of was ful glade</l>
     	<l xml:id="harley4690_1582">on morow a newe seint he made</l>
     	<l xml:id="harley4690_1583">and lette take the dede corses</l> <!--SLG trans: [corses] to [corsese]-->
@@ -1809,7 +1809,7 @@
     	<l xml:id="harley4690_1587">he dide neuer no worse dede</l>
     	<l xml:id="harley4690_1588">to crystenmenne for no nede</l>
     	<l xml:id="harley4690_1589">for of thatt poysoun <choice><abbr>&amp;</abbr><expan>and</expan></choice> thatt Brethe</l>
-    	<l xml:id="harley4690_1590">ffourty &thorn;owsande touke her dethe </l>
+    	<l xml:id="harley4690_1590" n="1590">ffourty &thorn;owsande touke her dethe </l>
     	
 		<l xml:id="harley4690_1591">After nowghe &ydot;s nott to hyde</l>
     	<l xml:id="harley4690_1592">The thrydde cas our ganne bet&ydot;de&period;</l> <!--SLG trans: [betẏde] to [Betẏde]-->
@@ -1820,7 +1820,7 @@
     	<l xml:id="harley4690_1597">the cr&ydot;stenne touke rede san&yogh;fa&ydot;le</l>
     	<l xml:id="harley4690_1598">thatt h&ydot; wolde the sch&ydot;ppe assa&ydot;le</l>
     	<l xml:id="harley4690_1599">so the&ydot; dude to oure damage</l>
-    	<l xml:id="harley4690_1600">the w&ydot;nde blewe harde <choice><abbr>wt</abbr><expan>with</expan></choice> outerage</l> <!--SLG trans: [blewe] to [Blewe]-->
+    	<l xml:id="harley4690_1600" n="1600">the w&ydot;nde blewe harde <choice><abbr>wt</abbr><expan>with</expan></choice> outerage</l> <!--SLG trans: [blewe] to [Blewe]-->
     	<l xml:id="harley4690_1601">the sara&yogh;&ydot;nes drew vppe se&ydot;le</l>
     	<l xml:id="harley4690_1602">and ouersayled ous wyth oute fa&ydot;le</l>
     	<l xml:id="harley4690_1603">ther whe loste sext&ydot; score</l>
