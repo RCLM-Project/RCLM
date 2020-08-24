@@ -1223,7 +1223,7 @@
     	<!--APB trans: missing 1--><l xml:id="harley4690_1047">&ydot; schalle make h&ydot;m sone fleen</l>
     	<!--APB trans: missing 2--><l xml:id="harley4690_1048">Butt he &ydot;n haste turne a&yogh;e&ydot;ne</l>
     	<!--APB trans: missing 3--><l xml:id="harley4690_1049">the stywarde ys nose in honde hente</l>
-    	<l xml:id="harley4690_1050 n="1050">&ydot; wysse ys face was alle to schente</l>
+    	<l xml:id="harley4690_1050" n="1050">&ydot; wysse ys face was alle to schente</l>
     	<l xml:id="harley4690_1051">owte of the courte blyve he ranne</l> <!--APB trans: capital "O" in "owte?-->
     	<l xml:id="harley4690_1052">leve he towke of no manne</l>
     	
@@ -1374,25 +1374,26 @@
     	<!--APB: phase 1 complete-->
 	<!--SLG: phase 2 complete, but let me know if I missed any spaces or numerals-->
     	
-    	fol. 116r. 
+    	<pb xml:id="harley4690_fol116r" n="fol116r" facs="harley_ms_4690_f116r.tif"/>
+    	<cb n="1"/> 
     	
     	<l xml:id="harley4690_1186">Narwe h&ydot;m sowght k&ydot;ng Richarde</l>
     	<l xml:id="harley4690_1187">alle was the emperour ys paueloune</l>
     	<l xml:id="harley4690_1188">S&ydot;lke sendale and sekelatoune</l> <!--LKN expl: note on fabrics here-->
     	<l xml:id="harley4690_1189">&ydot;n the worlde was h&ydot;m &ydot; lyche</l>
-    	<l xml:id="harley4690_1190">ne &ydot;n fele partes so r&ydot;che</l>
+    	<l xml:id="harley4690_1190">ne &ydot;n fele partes so r&ydot;che</l><!-- SNM trans: is that a middot between [so ryche] or just a manuscript artifact? it's hard to tell with these images!-->
     	<l xml:id="harley4690_1191">&ydot;n alle acres nas y ffownde</l>
     	<l xml:id="harley4690_1192">a pau&ydot;lon of so moche mownde</l>
     	<l xml:id="harley4690_1193">that kyng Richarde wyth worsch&ydot;ppe</l>
     	<l xml:id="harley4690_1194">dydde lette bere yn to ys schyppe</l><!--APB trans: "bere" to "Bere"?-->
     	<l xml:id="harley4690_1195">coppes of golde wyth outen tale</l><!--APB trans: "coppes" to "Coppes"?-->
-    	<l xml:id="harley4690_1196">he ffownd there bothe grete <choice><abbr>&amp;</abbr><expan>and</expan></choice> smale </l><!--APB trans: I'm going to stop commenting on the capital "B" here since I'm wondering if this is just the hand of the scribe-->
+    	<l xml:id="harley4690_1196">he ffownd there bothe grete <choice><abbr>&amp;</abbr><expan>and</expan></choice> smale</l><!--APB trans: I'm going to stop commenting on the capital "B" here since I'm wondering if this is just the hand of the scribe-->
     	<l xml:id="harley4690_1197">soffres bothe smale and grete</l>
     	<l xml:id="harley4690_1198">welle ffylled and well y bete &period; </l>
     	<l xml:id="harley4690_1199">Too stedes fownde k&ydot;ng Richarde</l>
     	<l xml:id="harley4690_1200">Thatt oon favell &thorn;ett other lyarde</l>
     	<l xml:id="harley4690_1201">&ydot;n this worlde &thorn;e&ydot; hadde no peere</l>
-    	<l xml:id="harley4690_1202">Dromedar&ydot; nether destrere</l><!--APB trans: "destrere" to "Destrere"? the "D" looks similar to the "D" in the first word of this sentence-->
+    	<l xml:id="harley4690_1202">Dromedar&ydot; nether destrere</l><!--APB trans: "destrere" to "Destrere"? the "D" looks similar to the "D" in the first word of this sentence--><!--SNM trans: I'm wondering if [Destrere] is actually [Deftrere], the [f] looks similar to ones below in [swyfte] and [fayle]-->
     	<l xml:id="harley4690_1203">stede rabyte ne cammele</l>
     	<l xml:id="harley4690_1204">Gothe none so sw&ydot;fte <choice><abbr>w</abbr><expan>with</expan></choice> oute fa&ydot;le </l>
     	<l xml:id="harley4690_1205">for a thowsand pownd of golde</l>
