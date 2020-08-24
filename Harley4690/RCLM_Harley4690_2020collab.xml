@@ -1381,7 +1381,7 @@
     	<l xml:id="harley4690_1187">alle was the emperour ys paueloune</l>
     	<l xml:id="harley4690_1188">S&ydot;lke sendale and sekelatoune</l> <!--LKN expl: note on fabrics here-->
     	<l xml:id="harley4690_1189">&ydot;n the worlde was h&ydot;m &ydot; lyche</l>
-    	<l xml:id="harley4690_1190">ne &ydot;n fele partes so r&ydot;che</l><!-- SNM trans: is that a middot between [so ryche] or just a manuscript artifact? it's hard to tell with these images!-->
+    	<l xml:id="harley4690_1190" n="1190">ne &ydot;n fele partes so r&ydot;che</l><!-- SNM trans: is that a middot between [so ryche] or just a manuscript artifact? it's hard to tell with these images!-->
     	<l xml:id="harley4690_1191">&ydot;n alle acres nas y ffownde</l>
     	<l xml:id="harley4690_1192">a pau&ydot;lon of so moche mownde</l>
     	<l xml:id="harley4690_1193">that kyng Richarde wyth worsch&ydot;ppe</l>
@@ -1391,17 +1391,17 @@
     	<l xml:id="harley4690_1197">soffres bothe smale and grete</l>
     	<l xml:id="harley4690_1198">welle ffylled and well y bete &period; </l>
     	<l xml:id="harley4690_1199">Too stedes fownde k&ydot;ng Richarde</l>
-    	<l xml:id="harley4690_1200">Thatt oon favell &thorn;ett other lyarde</l>
+    	<l xml:id="harley4690_1200" n="1200">Thatt oon favell &thorn;ett other lyarde</l>
     	<l xml:id="harley4690_1201">&ydot;n this worlde &thorn;e&ydot; hadde no peere</l>
     	<l xml:id="harley4690_1202">Dromedar&ydot; nether destrere</l><!--APB trans: "destrere" to "Destrere"? the "D" looks similar to the "D" in the first word of this sentence--><!--SNM trans: I'm wondering if [Destrere] is actually [Deftrere], the [f] looks similar to ones below in [swyfte] and [fayle]-->
     	<l xml:id="harley4690_1203">stede rabyte ne cammele</l>
     	<l xml:id="harley4690_1204">Gothe none so sw&ydot;fte <choice><abbr>w</abbr><expan>with</expan></choice> oute fa&ydot;le </l>
     	<l xml:id="harley4690_1205">for a thowsand pownd of golde</l>
-    	<l xml:id="harley4690_1206">ne scholde thett oon be soolde&period; </l>
+    	<l xml:id="harley4690_1206">ne scholde thett oon be soolde&middot; </l>
     	<l xml:id="harley4690_1207">for ys menne had arste y lore</l>
     	<l xml:id="harley4690_1208">the sevenne dowbell ther before</l>
-    	<l xml:id="harley4690_1209">	tydyng to the emperour come</l><!--APB trans: inserted space in the beginning of the line. Also, "emperour" to "Emperour"?-->
-    	<l xml:id="harley4690_1210">thatt ys dowghter ys h&ydot;m benome</l>
+    	<l xml:id="harley4690_1209"><space quantity="5" unit="char"/> tydyng to the emperour come</l><!--APB trans: inserted space in the beginning of the line. Also, "emperour" to "Emperour"?-->
+    	<l xml:id="harley4690_1210" n="1210">thatt ys dowghter ys h&ydot;m benome</l>
     	<l xml:id="harley4690_1211">and thatt ys hyghe stywarde</l>
     	<l xml:id="harley4690_1212">Betowke her to kyng Richarde </l>
     	<l xml:id="harley4690_1213">&thorn;anne wyst the emperour y w&ydot;sse </l>
@@ -1411,7 +1411,7 @@
     	<l xml:id="harley4690_1217">se&ydot;e vn to thatt nowbell kyng</l>
     	<l xml:id="harley4690_1218">thatt y sente h&ydot;m goddes gret&ydot;ng</l>
     	<l xml:id="harley4690_1219">homage &ydot; schall h&ydot;m Bere <choice><abbr>&amp;</abbr><expan>and</expan></choice> yolde</l>
-    	<l xml:id="harley4690_1220">and alle m&ydot; londe of h&ydot;m holde</l>
+    	<l xml:id="harley4690_1220" n="1220">and alle m&ydot; londe of h&ydot;m holde</l>
     	<l xml:id="harley4690_1221">thatt he wolde &thorn;ur charyte</l>
     	<l xml:id="harley4690_1222">late me yn &thorn;ees Be</l>
     	<l xml:id="harley4690_1223">The messangers Be forthe y wente</l>
@@ -1421,11 +1421,12 @@
     	<l xml:id="harley4690_1227">Goeth and seithe yowre emperour</l>
     	<l xml:id="harley4690_1228">that he dude me dyshonowre</l>
     	<l xml:id="harley4690_1229">whenne he ruvvedd pylgr&ydot;mes</l><!--APB trans: could the "vv" in "ruvvedd" potentially be "bb"?-->
-    	<l xml:id="harley4690_1230">Thatt wer &ydot; Bownde to payn&ydot;mes</l> <!--LKN expl: perhaps include a note here on conflation of pilgrimage and (implicit) </l>crusading, with relevant scholarship cited.-->
+    	<l xml:id="harley4690_1230" n="1230">Thatt wer &ydot; Bownde to pa&ydot;n&ydot;mes</l> <!--LKN expl: perhaps include a note here on conflation of pilgrimage and (implicit) </l>crusading, with relevant scholarship cited.-->
     	<l xml:id="harley4690_1231">Bydde h&ydot;m yolde my tresoure alle</l>
     	<!--APB: phase 2 complete-->
+    	<cb n="2"/>
     	
-		<l xml:id="harley4690_1232">yff he thenke to be m&ydot; spec&ydot;alle&period;</l>
+		<l xml:id="harley4690_1232">yff he thenke to be m&ydot; spec&ydot;alle&middot;</l>
     	<l xml:id="harley4690_1233">and also seye youre emperoure</l>
     	<l xml:id="harley4690_1234">thatt he amende the d&ydot;shonoure</l>
     	<l xml:id="harley4690_1235">thatt he dude vnto ys st&ydot;warde</l>
@@ -1433,27 +1434,27 @@
     	<l xml:id="harley4690_1237">and bydde &thorn;atte he come to morwe</l>
     	<l xml:id="harley4690_1238"><choice><abbr>&amp;</abbr><expan>and</expan></choice> axe merc&ydot; wyth care <choice><abbr>&amp;</abbr><expan>and</expan></choice> sorwe</l>
     	<l xml:id="harley4690_1239">and homage me yelde or bere</l>
-    	<l xml:id="harley4690_1240">or b&ydot; my crowne &ydot; the swere</l>
+    	<l xml:id="harley4690_1240" n="1240">or b&ydot; my crowne &ydot; the swere</l>
     	<l xml:id="harley4690_1241">&ydot; nelle h&ydot;m leve a foote of londe</l>
     	<l xml:id="harley4690_1242">ynne schorte t&ydot;me &ydot; vnderstonde</l>
     	<l xml:id="harley4690_1243">The messangers went by oon accorde</l>
     	<l xml:id="harley4690_1244">and telde thus vn to ther lorde</l>
     	<l xml:id="harley4690_1245">the was the emperour fulle woo</l>
-    	<l xml:id="harley4690_1246">thatt he schulde thatt dede doo&period;</l>
+    	<l xml:id="harley4690_1246">thatt he schulde thatt dede doo&middot;</l>
     	<l xml:id="harley4690_1247">natheles he come vppon the morowe</l>
-    	<l xml:id="harley4690_1248">and hasked merc&ydot; <choice><abbr>w</abbr><expan>with</expan></choice> grete sorowe &period;</l>
+    	<l xml:id="harley4690_1248">and hasked merc&ydot; <choice><abbr>w</abbr><expan>with</expan></choice> grete sorowe&middot;</l>
     	<l xml:id="harley4690_1249">and &yogh;ede full loughe so saythe &thorn;e bouke</l>
-    	<l xml:id="harley4690_1250">and by the fete kyng Richarde towke</l>
+    	<l xml:id="harley4690_1250" n="1250">and by the fete kyng Richarde towke</l>
     	<l xml:id="harley4690_1251">and cryed merc&ydot; with gode entente</l>
     	<l xml:id="harley4690_1252">and he for yave hys male talente</l>
     	<l xml:id="harley4690_1253">Thylke day the&ydot; weren atte accorde</l>
-    	<l xml:id="harley4690_1254">and sete to dyner atte oone borde</l>
+    	<l xml:id="harley4690_1254">and sete to d&ydot;ner atte oone borde</l>
     	<l xml:id="harley4690_1255">with grete delyte and wyth pla&ydot;e </l>
-    	<l xml:id="harley4690_1256">they wer to geder alle thatt da&ydot;e&period;</l>
-    	<l xml:id="harley4690_1257">And whenne ytte drewe <choice><abbr>toward</abbr><expan>towarde</expan></choice> <choice><abbr>even</abbr><expan>evennre</expan></</choice>
-    	<l xml:id="harley4690_1258">the emperour touke ys leue&period;</l>
+    	<l xml:id="harley4690_1256">they wer to geder alle thatt da&ydot;e&middot;</l>
+    	<l xml:id="harley4690_1257">And whenne ytte drewe <choice><abbr>toward</abbr><expan>towarde</expan></choice> <choice><abbr>even</abbr><expan>evennre</expan></choice></l>
+    	<l xml:id="harley4690_1258">the emperour touke ys leue&middot;</l>
     	<l xml:id="harley4690_1259">for to wynde to hys hostelle</l>
-    	<l xml:id="harley4690_1260">ynne herte nas ym no th&ydot;ng welle</l>
+    	<l xml:id="harley4690_1260" n="1260">ynne herte nas ym no th&ydot;ng welle</l><!-- SNM trans: [ym] to [hym]-->
     	<l xml:id="harley4690_1261">he hulde hym self a cowarde</l>
     	<l xml:id="harley4690_1262">thatt he &yogh;wldedde homage to k&ydot;ng <choice><abbr>Richard</abbr><expan>Richarde</expan></choice></l>
     	<l xml:id="harley4690_1263">and thowght howghe he awreke m&ydot;ght </l>
@@ -1461,18 +1462,19 @@
     	<l xml:id="harley4690_1265">To a cyte menne calleth Bonnevente</l>
     	<l xml:id="harley4690_1266">he come by day veramente</l>
     	<l xml:id="harley4690_1267">Ther he ffownde many a grete S&ydot;re</l>
-    	<l xml:id="harley4690_1268">The nowbleste of all ys empyre &period; </l>
-    	<l xml:id="harley4690_1269">to them pla&ydot;nedde the emperoure</l>
-    	<l xml:id="harley4690_1270">of thatt ylke Dyshonoure</l>
+    	<l xml:id="harley4690_1268">The nowbleste of all ys empyre &middot;&middot;</l>
+    	<l xml:id="harley4690_1269">to them pla&ydot;nedde the emperoure</l><!-- SNM trans: [playnedde] to [pleynedde]-->
+    	<l xml:id="harley4690_1270" n="1270">of thatt ylke Dyshonoure</l>
     	<l xml:id="harley4690_1271">thatt h&ydot;m dude k&ydot;ng Richarde</l>
     	<l xml:id="harley4690_1272">thurgh the helpe of hys st&ydot;warde</l>
-    	<l xml:id="harley4690_1273">vppe sterte paskasye a nowbelle baroune</l><!--LKN note for transcription checkers: there is a mark before vppe here and I´m trying to </l>sort out what it is, and whether it´s signalling something that needs to be added to this line or the one in L column of text on this page. Ideas welcome! --><!--LKN espl: need a note here for name, if possible-->
+    	<l xml:id="harley4690_1273">vppe sterte paskasye a nowbelle baroune</l><!--LKN note for transcription checkers: there is a mark before vppe here and I´m trying to sort out what it is, and whether it´s signalling something that needs to be added to this line or the one in L column of text on this page. Ideas welcome! --><!--LKN espl: need a note here for name, if possible--><!-- SNM trans: [nowbelle] to [nowbell]--><!-- SNM trans: yes! I wonder what that is! It looks like something-[e], but I can't parse out what the first character is or why it would be there-->
     	<l xml:id="harley4690_1274">a riche lorde of grete renowne</l>
     	<l xml:id="harley4690_1275">the stywardes eme for sothe he was</l>
     	<l xml:id="harley4690_1276">thatt the emperour <choice><abbr>hadd</abbr><expan>hadde</expan></choice> schent ys fate</l>
-    	<l xml:id="harley4690_1277">and seyde s&ydot;r thew arte becawghte </l>
+    	<l xml:id="harley4690_1277">and seyde s&ydot;r thew arte becawghte</l>
     	
-    	fol. 116v. 
+    	<pb xml:id="harley4690_fol116v" n="fol116v" facs="harley_ms_4690_f116v.tif"/>
+    	<cb n="1"/> 
     	
     	<l xml:id="harley4690_1278">ffor thow art aboute nowghte</l>
     	<l xml:id="harley4690_1279">withe oute encheson and ingemente</l>
@@ -1480,32 +1482,32 @@
     	<l xml:id="harley4690_1281">thatt schulde ous haue &ydot; saued nowghe</l>
     	<l xml:id="harley4690_1282">and &ydot; gouernedde as he welle couthe </l>
     	<l xml:id="harley4690_1283">thurgh th&ydot; w&ydot;lle malicious</l>
-    	<l xml:id="harley4690_1284">and so thou wost seru&ydot; ous</l>
+    	<l xml:id="harley4690_1284">and so thou wost seru&ydot; ous</l> <!-- SNM text: there is a marginalia between the columns after line 1284. It looks almost line an [a]-->
     	<l xml:id="harley4690_1285">and ther for &ydot; se&ydot;e <choice><abbr>w</abbr><expan>with</expan></choice> wordes bolde</l>
     	<l xml:id="harley4690_1286">Wyth soche a lorde whe w&ydot;ll nott holde</l>
     	<l xml:id="harley4690_1287">for to fyghte a&yogh;enste Richarde k&ydot;ng</l>
     	<l xml:id="harley4690_1288">the best bod&ydot; vnder sonne sch&ydot;n&ydot;ng</l>
     	<l xml:id="harley4690_1289">Ne none of alle my baronage</l>
-    	<l xml:id="harley4690_1290">schalle the neuer don homage &period; </l>
+    	<l xml:id="harley4690_1290">schalle the neuer don homage &middot;</l>
     	<l xml:id="harley4690_1291">alle that other se&ydot;de att oon worde</l>
     	<l xml:id="harley4690_1292">thatt kyng Richarde was her lorde</l>
     	<l xml:id="harley4690_1293">and the emperour for ys velan&ydot;e</l>
-    	<l xml:id="harley4690_1294">Wer welle worthe for to d&ydot;ghe&period;</l>
+    	<l xml:id="harley4690_1294">Wer welle worthe for to d&ydot;ghe&middot;</l>
     	<l xml:id="harley4690_1295">The emperour s&ydot;ghe and vnderstode</l>
     	<l xml:id="harley4690_1296">Thatt hys barounes <choice><abbr>wold</abbr><expan>wolde</expan></choice> h&ydot;m no gode</l>
     	<l xml:id="harley4690_1297">To a nother cyte fledde he thare</l>
-    	<l xml:id="harley4690_1298">&ydot;n hys herte was mekell care &period; </l>
+    	<l xml:id="harley4690_1298">&ydot;n hys herte was mekell care&middot;</l>
     	<l xml:id="harley4690_1299">sone after the st&ydot;warde</l>
-    	<l xml:id="harley4690_1300">Telde thys cownceylle to k&ydot;ng <choice><abbr>Richard</abbr><expan>Richarde</expan></choice></l>
+    	<l xml:id="harley4690_1300">Telde thys cownce&ydot;lle to k&ydot;ng <choice><abbr>Richard</abbr><expan>Richarde</expan></choice></l>
     	<l xml:id="harley4690_1301">and se&ydot;de yn herte h&ydot;m was full wo</l>
-    	<l xml:id="harley4690_1302">That the emperoure was lore soo&period;</l>
+    	<l xml:id="harley4690_1302">That the emperoure was lore soo&middot;</l>
     	<l xml:id="harley4690_1303">and lette hym syche vn alle w&ydot;se</l>
     	<l xml:id="harley4690_1304">and fownd hym yn the c&ydot;te of p&ydot;se </l>
     	<l xml:id="harley4690_1305">hewghnethe owre k&ydot;ng Richarde</l>
     	<l xml:id="harley4690_1306">wolde lowke to h&ydot;m warde&period;</l>
     	<l xml:id="harley4690_1307">ffor he hadde broke hys trewthe</l>
-    	<l xml:id="harley4690_1308">k&ydot;ng <choice><abbr>Richard</abbr><expan>Richarde</expan></choice> nadde of h&ydot;m no rewthe</l>
-    	<l xml:id="harley4690_1309">Butt bade a serante faste h&ydot;m bynde</l>
+    	<l xml:id="harley4690_1308">k&ydot;ng <choice><abbr>Richard</abbr><expan>Richarde</expan></choice> nadde of h&ydot;m no rewthe</l><!-- SNM trans: possible [rewthe] to [Rewthe]-->
+    	<l xml:id="harley4690_1309">Butt bade a serante faste h&ydot;m bynde</l><!-- SNM trans: there is an odd extra stroke after the r in [serante] that makes me think perhaps the scribe intended another character there. A v makes the most sense, but it is definetly not a fully-formed v-->
     	<l xml:id="harley4690_1310">Bothe hendes hym behynde</l>
     	<l xml:id="harley4690_1311">and cast hym &ydot;n to Gale&ydot;</l>
     	<l xml:id="harley4690_1312">and ladde h&ydot;m forthe to Surre&ydot;</l>
@@ -1517,33 +1519,35 @@
     	<l xml:id="harley4690_1318">Thurghe cownceylle of hys baron&ydot;e</l>
     	<l xml:id="harley4690_1319">made hym stywarde of hys londe</l>
     	<l xml:id="harley4690_1320">and towke hys reame yn hys honde</l>
-    	<l xml:id="harley4690_1321">there kyn Richarde sowsed Bele&ydot;ne</l>
+    	<l xml:id="harley4690_1321">there kyn Richarde sowsed Bele&ydot;ne</l><!-- SNM trans: [kyn] to [kyng] --> <!-- SNM trans: [sowsed] to [spowsed] --> <!-- SNM trans: possible [Beleyne] to [Beleiyne], the blurry image makes it hard to tell -->
     	<l xml:id="harley4690_1322">the k&ydot;nggys dowghter of Nauerne</l>
     	
-	<l xml:id="harley4690_1323">And made ther &thorn;e Richest spowsyngge</l>
-    	<l xml:id="harley4690_1324">thatt euer made any k&ydot;ngge &period;</l>
+    	<cb n="2"/>
+    	
+		<l xml:id="harley4690_1323">And made ther &thorn;e Richest spowsyngge</l>
+    	<l xml:id="harley4690_1324">thatt euer made any k&ydot;ngge&middot;</l>
     	<l xml:id="harley4690_1325">and crowned hym selfe emperoure</l>
-    	<l xml:id="harley4690_1326">and her <choice><abbr>Empyce</abbr><expan>Emperyce</expan></choice> wyth honowre &period;</l>
+    	<l xml:id="harley4690_1326">and her <choice><abbr>Empyce</abbr><expan>Emperyce</expan></choice> wyth honowre&middot;</l>
     	<l xml:id="harley4690_1327">alle &thorn;us kyng <choice><abbr>Richard</abbr><expan>Richarde</expan></choice> wanne c&ydot;pres</l>
-    	<l xml:id="harley4690_1328">God grawnte ys soule heuen blysse &period;</l>
+    	<l xml:id="harley4690_1328">God grawnte ys soule heuen blysse&middot;</l>
     	<l xml:id="harley4690_1329">and whenne the feste was y done</l>
-    	<l xml:id="harley4690_1330">kyng Richarde made h&ydot;m bowne &period;</l>
+    	<l xml:id="harley4690_1330">kyng Richarde made h&ydot;m bowne&middot;</l>
     	<l xml:id="harley4690_1331">Towarde acrys thanne he wolde</l>
     	<l xml:id="harley4690_1332">wyth moche stoor of syluer and goolde</l>
     	<l xml:id="harley4690_1333">sexty score schyppes as whe ffynde</l>
     	<l xml:id="harley4690_1334">Werre fforwarde saylyngge</l>
     	<l xml:id="harley4690_1335">and after come ffyffet&ydot; galeys</l>
-    	<l xml:id="harley4690_1336">ffor to warde the nau&ydot;es</l> <!--LKN text: looks like there is an additional character or abbrev mark at the end of the final word here. Ideas welcome!-->
-    	<l xml:id="harley4690_1337">So they saylede tenne dayes st&ydot;lle</l>
+    	<l xml:id="harley4690_1336">ffor to warde the nau&ydot;es</l> <!--LKN text: looks like there is an additional character or abbrev mark at the end of the final word here. Ideas welcome!--><!-- SNM trans: it's an odd looking s at the end of [nauyes] too. I wonder what is happening here. I like the [nauyes] transcription becuase it rhymes with [galeys] above -->
+    	<l xml:id="harley4690_1337">So they saylede tenne dayes st&ydot;lle</l><!-- SNM trans: possibe [So] to [so] -->
     	<l xml:id="harley4690_1338">and hadde w&ydot;nde <choice><abbr>&amp;</abbr><expan>and</expan></choice> weder att wylle</l>
     	<l xml:id="harley4690_1339">the elevenne day &thorn;ay hadde tempeste</l>
-    	<l xml:id="harley4690_1340">Nyght ne da&ydot; had &thorn;a&ydot; no reste &period; </l>
+    	<l xml:id="harley4690_1340">Nyght ne da&ydot; had &thorn;a&ydot; no reste&middot;</l>
     	<l xml:id="harley4690_1341">Also theigh werre in strong auenture</l>
     	<l xml:id="harley4690_1342">theigh sighe a dromonde <choice><abbr>w</abbr><expan>with</expan></choice> oute mesure</l> <!--LKN expl: need a note on dromonde ship here-->
-    	<l xml:id="harley4690_1343">thatt was towarde the sara&yogh;ines</l>
-    	<l xml:id="harley4690_1344">y charged <choice><abbr>w</abbr><expan>with</expan></choice> corne and <choice><abbr>w</abbr><expan>with</expan></choice> w&ydot;</nes</l>
+    	<l xml:id="harley4690_1343">thatt was towarde the sara&yogh;ines</l><!-- SNM trans: there is a faint mark above the i in [saraʒines]. Possible expansion? -->
+    	<l xml:id="harley4690_1344">y charged <choice><abbr>w</abbr><expan>with</expan></choice> corne and <choice><abbr>w</abbr><expan>with</expan></choice> w&ydot;nes</l>
     	<l xml:id="harley4690_1345">with wylde fu&ydot;re and other vytayle</l>
-    	<l xml:id="harley4690_1346">k&ydot;ng <choice><abbr>R</abbr><expan>Richard</expan></choice> syghe the dromonde san&yogh;fa&ydot;le</l><!--LKN text: the copyist seems to have mistakenly written a d before writing ´the,´ presumably because they initially skipped over that word and began to write dromonde.-->
+    	<l xml:id="harley4690_1346">k&ydot;ng <choice><abbr>R&period;</abbr><expan>Richard</expan></choice> syghe the dromonde san&yogh;fa&ydot;le</l><!--LKN text: the copyist seems to have mistakenly written a d before writing ´the,´ presumably because they initially skipped over that word and began to write dromonde.-->
     	<l xml:id="harley4690_1347">and calledde of hast&ydot;ng trenchemere</l> <!--LKN:need a note for the person Trenchemere -->
     	<l xml:id="harley4690_1348">and bad hym &ydot;n a gale&ydot; w&ydot;nde nere</l>
     	<l xml:id="harley4690_1349">for to aske wyth wham the&ydot; were</l>
@@ -1551,23 +1555,23 @@
     	<l xml:id="harley4690_1351">Ale&ydot;ne had t&ydot;de and men &ydot; nowghe</l>
     	<l xml:id="harley4690_1352">and to the dromonde gan to rowghe</l>
     	<l xml:id="harley4690_1353">and asked with wham the&ydot; ware</l>
-    	<l xml:id="harley4690_1354">and wate the&ydot; had ynne chaffare &period;</l>
+    	<l xml:id="harley4690_1354">and wate &thorn;e&ydot; had ynne chaffare&middot;</l>
     	<l xml:id="harley4690_1355">then <choice><abbr>answeryd</abbr><expan>answeryde</expan></choice> her lat&ydot;mer</l>
     	<l xml:id="harley4690_1356">Wordes to ale&ydot;ne trenchemer</l>
     	<l xml:id="harley4690_1357">whe be <choice><abbr>w</abbr><expan>with</expan></choice> the kyng of ffrawnce</l>
     	<l xml:id="harley4690_1358">and fro pv&ydot;le bryng hys sustenawnce</l> <!--LKN expl: provide note on Poyle here-->
     	<l xml:id="harley4690_1359">alle thys monethe whe haue be in &thorn;e cee </l>
     	<l xml:id="harley4690_1360">Towarde acrys fayn wolde whe</l>
-    	<l xml:id="harley4690_1361">W&ydot;nde vppe sayle sayde ale&ydot;ne swythe </l>
+    	<l xml:id="harley4690_1361">W&ydot;nde vppe sayle sayde ale&ydot;ne swythe</l>
     	<l xml:id="harley4690_1362"><choice><abbr>&amp;</abbr><expan>and</expan></choice> sayle whe fforthe <choice><abbr>w</abbr><expan>with</expan></choice> wedres lythe</l>
     	<l xml:id="harley4690_1363">Nay he se&ydot;de b&ydot; Thomas of &ydot;nde</l> <!--LKN expl: note on Thomas here-->
-    	<l xml:id="harley4690_1364">whe mote nedes come behynde </l>
+    	<l xml:id="harley4690_1364">whe mote nedes come behynde</l>
     	<l xml:id="harley4690_1365">for whe beth so eue&ydot; ffrawght</l>
     	<l xml:id="harley4690_1366">howghnethe mowghe whe sayle owght</l>
     	<l xml:id="harley4690_1367">thanne seide ale&ydot;ne sone anone</l>
     	
     	<!--APB: most of phase 2 complete > need to do transcription check-->
-    	
+    	<!-- SNM phase 1 complete 116 -->
     	<pb xml:id="harley4690_fol117r" n="fol117r" facs="harley_ms_4690_f117r.tif"/>
     	<cb n="1"/> 
     	
