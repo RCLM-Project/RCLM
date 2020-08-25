@@ -156,7 +156,7 @@
 	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><!-- #CMP: add religious-figure once policies are finalized -->
 	    <l xml:id="wynken1509_41">At <name type="place" subtype="historical" ref="#Canterbury">Caunterbury</name> before the auter stone</l>
 	    <l xml:id="wynken1509_42">There myracles be done many one</l>
-	    <l xml:id="wynken1509_43">Whan he was <num value="20">.xx.</num> wynter olde</l>
+	    <l xml:id="wynken1509_43">Whan he was <num value="20">&period;xx&period;</num> wynter olde</l>
 	    <l xml:id="wynken1509_44">He was a kynge swythe bolde</l>
 	    <l xml:id="wynken1509_45">He wolde no wyfe I vnderstonde</l>
 	    <l xml:id="wynken1509_46">With grete tresour thoughe they her fonde</l>
@@ -173,7 +173,7 @@
 	    <l xml:id="wynken1509_57">And they came amyddes the see</l>
 	    <l xml:id="wynken1509_58">No wyndes brethe ne had he</l>
 
-        <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="characters"/>+<space quantity="12" unit="characters"/>A.ii.</fw> <!--CMP: maybe define entity for the footer stamps-->
+        <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="characters"/>+<space quantity="12" unit="characters"/>A&period;ii&period;</fw> <!--CMP: maybe define entity for the footer stamps-->
         <note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. The footer contains, spaced out, "Kyynge R.," a cross, and pagination that consists of a capital letter and roman numerals i-iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note>
 
 	  <pb xml:id="wynken1509_253jpg" n="253jpg" facs="JRL19060253.jpg"/>
