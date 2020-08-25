@@ -365,7 +365,7 @@
     	<l xml:id="harley4690_269">and tolde h&ydot;m of this tyd&ydot;ngge</l>
     	<l xml:id="harley4690_270" n="270">that <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> had is sone &ydot; slawe .</l> <!--LKN trans: accepted! good catch!--><!-- SNM trans: [Richard] to [Richarde] is faint, might be a stray mark -->
     	<l xml:id="harley4690_271">and &ydot; Brought h&ydot;m of is lyue dawe.</l>
-    	<l xml:id="harley4690_272">Alas seide þe <name type="person" subtype="historical" ref="#KingRichard">Emperour</name> nough hane &ydot; non[ne]</l> <!--LKN trans:  good catch! that abbreviation mark should be interpreted as an "ne" here--><!-- SNM trans: there is an odd mark above [non]. Appears to be a dot with a semi-circle over it -->
+    	<l xml:id="harley4690_272">Alas seide þe <name type="person" subtype="historical" ref="#KingRichard">Emperour</name> nough hane &ydot; <choice><abbr>non</abbr><expan>nonne</expan></choice></l> <!--LKN trans:  good catch! that abbreviation mark should be interpreted as an "ne" here--><!-- SNM trans: there is an odd mark above [non]. Appears to be a dot with a semi-circle over it -->
 	    <l xml:id="harley4690_273">[and] with that worde he felle in sowne</l>
     	<l xml:id="harley4690_274">kn&ydot;ghtes fele h&ydot;m vppe drowghe</l>
     	<l xml:id="harley4690_275">And seid syr ne dysma&ydot;e &yogh;owghe</l>
@@ -474,7 +474,7 @@
     	<l xml:id="harley4690_368">and by swete seint s&ydot;monne</l> 
     	<l xml:id="harley4690_369">though schalte haue gode <choice><abbr>war&ydot;&yogh;on</abbr><expan>war&ydot;&yogh;oun</expan></choice></l>
     	<l xml:id="harley4690_370" n="370">att euen he for&yogh;ate itte nought</l>
-    	<l xml:id="harley4690_371">to her chaumber he hath hym brought</l> <!--LKN-- I don't think so, but am keeping these notes in place for now as a reminder to check!--><!--SLG trans: horizontal dash above and extending past [brought]. Does this indicate a final [e]?-->
+    	<l xml:id="harley4690_371">to her chaumber he hath hym brought</l> <!--LKN I don't think so, but am keeping these notes in place for now as a reminder to check!--><!--SLG trans: horizontal dash above and extending past [brought]. Does this indicate a final [e]?-->
     	<l xml:id="harley4690_372">With that lady he dwelled st&ydot;lle</l>
     	<l xml:id="harley4690_373">and with her <choice><abbr>played</abbr><expan>playede</expan></choice> alle ys fylle</l>
     	<l xml:id="harley4690_374">Till that seuen dayes wer agoon</l>
