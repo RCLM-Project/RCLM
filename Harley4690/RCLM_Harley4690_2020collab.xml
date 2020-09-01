@@ -672,13 +672,13 @@
 		<l xml:id="harley4690_553">the&ydot; thonked[e] owght godd&ydot;s sonde.</l> <!--LKN: nope! just a smudge of some sort; there's no matching spot on the opposite side of the folio--><!--SLG trans: is that a rip above [owght]?-->
     	<l xml:id="harley4690_554">home &thorn;ey wente to &thorn;ere contre&ydot;s alle</l>
     	<l xml:id="harley4690_555">and att <name type="place" ref="#Westminster">westmyster</name> &thorn;e k&ydot;ng gan stalle</l>
-    	<l xml:id="harley4690_556"><space quantity="5" unit="char"/>sone after thys play&ydot;ng</l>
-    	<l xml:id="harley4690_557"><space quantity="5" unit="char"/><name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Rich[ard]</name> dyd a nother th&ydot;ng</l>
+    	<l xml:id="harley4690_556"><space quantity="5" unit="character"/>sone after thys play&ydot;ng</l>
+    	<l xml:id="harley4690_557"><space quantity="5" unit="character"/><name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Rich[ard]</name> dyd a nother th&ydot;ng</l>
     	<l xml:id="harley4690_558">ys londe he towke the chawncelere</l>
     	<l xml:id="harley4690_559">and be came goddes palmerre</l><!--LKN: need to make a note here that this seems a reference to him taking a crusader vow, something that doesn't appear to happen in other witnesses at this point-->
     	<l xml:id="harley4690_560" n="560">and a&yogh;enst goddys enem&ydot;se</l>
-    	<l xml:id="harley4690_561">he<space quantity="4" unit="char"/>thowght to werre alle ways</l><!-- LKN text: In this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line.-->
-    	<l xml:id="harley4690_562">B&ydot;<space quantity="4" unit="char"/>fore he went w[ith]e knyght[es] fyve</l> <!--LKN: ack! Good catch; I'm inclined to expand this to es, but will keep thinking on it and make sure it's normalized throughout--><!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
+    	<l xml:id="harley4690_561">he<space quantity="4" unit="character"/>thowght to werre alle ways</l><!-- LKN text: In this line and the two that follow, a lacuna in the manuscript has forced the scribe to write around it, resulting in a space between the first and second words in each line.-->
+    	<l xml:id="harley4690_562">B&ydot;<space quantity="4" unit="character"/>fore he went w[ith]e knyght[es] fyve</l> <!--LKN: ack! Good catch; I'm inclined to expand this to es, but will keep thinking on it and make sure it's normalized throughout--><!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
     	<l xml:id="harley4690_563">By Brawnde?[e] and B&ydot; <name type="place" ref="#Constantine">costantyne</name></l> <!--LKN update trans: Ok, I've been staring at this for a few minutes now, and think I've figured out what's going on. Brawndes makes the most sense, and I agree with Sarah that that final character looks most like an s, and my suspicion is that the descender is a scribal error. Thoughts?--><!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.--> <!-- APB: I tagged Constantine as a place here but I am unsure about Brawnde[?] -->
 
     	<!--LKN: have checked transcriber notes and made corrections up to here. Just a few lingering questions thus far...--> 
@@ -869,7 +869,7 @@
     	<l xml:id="harley4690_731">and alle &thorn;att da&ydot; sore hem trayedde</l>
     	<l xml:id="harley4690_732">thatt nyght for no mede&period;</l>
     	<l xml:id="harley4690_733">owre kyng in bateylle myght not spede</l>
-    	<l xml:id="harley4690_734"><space quantity="6" unit="char"/>att nyght kyng <choice><abbr>Rich</abbr><expan>Richard</expan></choice> <choice><abbr>&amp;</abbr><expan>and</expan></choice> ys <choice><abbr>barns</abbr><expan>barouns</expan></choice></l>
+    	<l xml:id="harley4690_734"><space quantity="6" unit="character"/>att nyght kyng <choice><abbr>Rich</abbr><expan>Richard</expan></choice> <choice><abbr>&amp;</abbr><expan>and</expan></choice> ys <choice><abbr>barns</abbr><expan>barouns</expan></choice></l>
     	<l xml:id="harley4690_735">Wente to ther pave&ydot;lonnes</l>
     	<l xml:id="harley4690_736">ho so slepe other who so woke</l>
     	<l xml:id="harley4690_737">kyng Richard[e] &thorn;[at] nyght no reste towke</l>
@@ -916,7 +916,7 @@
     	<l xml:id="harley4690_771">and sett hym to the tree castelle</l>
     	<l xml:id="harley4690_772">and schete to them wyth arblaste</l>
     	<l xml:id="harley4690_773">the dogge tayles for to agaste&period; </l>
-    	<l xml:id="harley4690_774"><space quantity="8" unit="char"/>sone after <choice><abbr>Rich</abbr><expan>Richard</expan></choice> owre kyngge</l>
+    	<l xml:id="harley4690_774"><space quantity="8" unit="character"/>sone after <choice><abbr>Rich</abbr><expan>Richard</expan></choice> owre kyngge</l>
     	<l xml:id="harley4690_775">lette bere yn the dawen&ydot;ng</l>
     	<l xml:id="harley4690_776">Targes and dores ys folke alle</l>
     	<l xml:id="harley4690_777">Ryght afore the cyte walle</l>
@@ -953,7 +953,7 @@
     	<l xml:id="harley4690_805">helde ys sawte euer harde&period;</l>
     	<l xml:id="harley4690_806">so mannelyche he towke oon</l>
     	<l xml:id="harley4690_807">thatt he leste butte fewe abowne</l>
-    	<l xml:id="harley4690_808"><space quantity="5" unit="char"/>kyng Richard sighe besyde hym hove</l> 
+    	<l xml:id="harley4690_808"><space quantity="5" unit="character"/>kyng Richard sighe besyde hym hove</l> 
     	<l xml:id="harley4690_809">a knight that tolled hym <choice><abbr>w</abbr><expan>with</expan></choice> a glove</l>
     	<l xml:id="harley4690_810" n="810">he seyde he had <choice><abbr>speyedd</abbr><expan>speyedde</expan></choice> a syght</l>
     	<l xml:id="harley4690_811">that made ys herte somdele lyght</l>
@@ -1004,7 +1004,7 @@
     	<l xml:id="harley4690_847">to schyppe and pau&ydot;loune y &thorn;e swore</l>
     	<l xml:id="harley4690_848">and ouer cryed oure k&ydot;ng Richarde</l>
     	<l xml:id="harley4690_849">slee a downe &thorn;ese ffrrensche mosardes</l> <!--LKN expl:probably need a note here for ´mosardes´-->
-    	<l xml:id="harley4690_850" n="850"><space quantity="5" unit="char"/>ther come for&thorn;e &thorn;e frensche kyng</l>
+    	<l xml:id="harley4690_850" n="850"><space quantity="5" unit="character"/>ther come for&thorn;e &thorn;e frensche kyng</l>
     	<l xml:id="harley4690_851">vn to Richarde fast prykyng</l>
     	<l xml:id="harley4690_852">and badde h&ydot;m sese for goddes love</l>
     	<l xml:id="harley4690_853">&thorn;att ys in heven vs above</l>
@@ -1190,7 +1190,7 @@
     	<l xml:id="harley4690_1016">Att the hauen hym to sorowe</l>
     	<l xml:id="harley4690_1017">and werche hym as moche wrake</l>
     	<l xml:id="harley4690_1018">as ys menne <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> y haue take</l>
-    	<l xml:id="harley4690_1019"><space quantity="4" unit="char"/>the messangers oute gan rape</l> <!--APB trans: phase 2 should probably encode the gap/indent at the beginning of this line-->
+    	<l xml:id="harley4690_1019"><space quantity="4" unit="character"/>the messangers oute gan rape</l> <!--APB trans: phase 2 should probably encode the gap/indent at the beginning of this line-->
     	<l xml:id="harley4690_1020" n="1020">And wer fulle faine so to scape</l> 
     	<l xml:id="harley4690_1021">thenne come a manne of honoure</l> 
     	<l xml:id="harley4690_1022">that was stywarde to the <choice><abbr>empour</abbr><expan>emperour</expan></choice></l>
@@ -1289,7 +1289,7 @@
     	<l xml:id="harley4690_1106">with ys axe he dude to hewe</l>
     	<l xml:id="harley4690_1107">he name her tresowrs <choice><abbr>&amp;</abbr><expan>and</expan></choice> her juells</l>
     	<l xml:id="harley4690_1108">Right for ys owne catelles</l>
-    	<l xml:id="harley4690_1109"><space quantity="5" unit="char"/>tydyng came to the emperour</l>
+    	<l xml:id="harley4690_1109"><space quantity="5" unit="character"/>tydyng came to the emperour</l>
     	<l xml:id="harley4690_1110" n="1110">that Richarde k&ydot;ng of honowre</l>
     	<l xml:id="harley4690_1111">hadde ys Burge&ydot;s sle&ydot;ne thoo</l>
     	<l xml:id="harley4690_1112">No Wonder &thorn;e&ydot;gh h&ydot;m wer woo</l> 
@@ -1354,7 +1354,7 @@
     	<l xml:id="harley4690_1168"><choice><abbr>revedd</abbr><expan>revedde</expan></choice> kyng Richarde ys tresour</l>
     	<l xml:id="harley4690_1169">for he ys come among vs</l>
     	<l xml:id="harley4690_1170" n="1170">and sleeth down right by ihesus</l>
-    	<l xml:id="harley4690_1171"><space quantity="4" unit="char"/>englysche men for &thorn;e nones</l>
+    	<l xml:id="harley4690_1171"><space quantity="4" unit="character"/>englysche men for &thorn;e nones</l>
     	<l xml:id="harley4690_1172">smote the gryffons &thorn;urgh body and bones</l> 
     	<l xml:id="harley4690_1173">and smyten the cordes adowne</l>
     	<l xml:id="harley4690_1174">of many ryche pauelowne</l>
@@ -1399,7 +1399,7 @@
     	<l xml:id="harley4690_1206">ne scholde thett oon be soolde&middot; </l>
     	<l xml:id="harley4690_1207">for ys menne had arste y lore</l>
     	<l xml:id="harley4690_1208">the sevenne dowbell ther before</l>
-    	<l xml:id="harley4690_1209"><space quantity="5" unit="char"/> tydyng to the Emperour come</l>
+    	<l xml:id="harley4690_1209"><space quantity="5" unit="character"/> tydyng to the Emperour come</l>
     	<l xml:id="harley4690_1210" n="1210">thatt ys dowghter ys h&ydot;m Benome</l>
     	<l xml:id="harley4690_1211">and thatt ys hyghe stywarde</l>
     	<l xml:id="harley4690_1212">Betowke her to kyng Richarde </l>
@@ -1680,7 +1680,7 @@
     	<l xml:id="harley4690_1463">and thus kyng <choice><abbr>&period;R&period;</abbr><expan>&period;Richard&period;</expan></choice> wanne &thorn;e dromonde</l>
     	<l xml:id="harley4690_1464">thourgh helpe of godd <choice><abbr>&amp;</abbr><expan>and</expan></choice> seint Edmonde</l>  <!--LKN expl: note for St. Edmond here-->
     	<l xml:id="harley4690_1465"><space quantity="6" unit="character"/>kyng Richard anone righte</l>
-    	<l xml:id="harley4690_1466">Towarde acres ganne h&ydot;m dyghte &midot;</l>
+    	<l xml:id="harley4690_1466">Towarde acres ganne h&ydot;m dyghte &middot;</l>
     	<l xml:id="harley4690_1467">and as he was towarde surre&ydot;</l>
     	<l xml:id="harley4690_1468">he was warned of asp&ydot;e</l>
     	<l xml:id="harley4690_1469">that the folke of hethen lawe</l>
@@ -1699,7 +1699,7 @@
     	<l xml:id="harley4690_1482">thatt ne scholde helpe hem noghte</l>
     	<l xml:id="harley4690_1483">a swythe strongge gale&ydot; he towke</l>
     	<l xml:id="harley4690_1484">and trenchemerre so seythe &thorn;e bowke</l>
-    	<l xml:id="harley4690_1485"><choice><abbr>Steredd</abbr>Steredde</choice> the gale&ydot; fulle evenne</l>
+    	<l xml:id="harley4690_1485"><choice><abbr>Steredd</abbr><expan>Steredde</expan></choice> the gale&ydot; fulle evenne</l>
     	<l xml:id="harley4690_1486">Right am&ydot;ddewarde the havenne</l>
     	<l xml:id="harley4690_1487">were the mar&ydot;ners glad or wrothe</l>
     	<l xml:id="harley4690_1488">he made hem se&ydot;le and rowe bothe</l>
@@ -1766,7 +1766,7 @@
 
     	<pb xml:id="harley4690_fol118r" n="fol118r" facs="harley_ms_4690_f118r.tif"/> 
     	
-		<cb="1"/>
+		<cb n="1"/>
 
 		<l xml:id="harley4690_1546">The sowdanne there of was fulle glade</l>
     	<l xml:id="harley4690_1547">and come on vs wyth a grete route</l>
