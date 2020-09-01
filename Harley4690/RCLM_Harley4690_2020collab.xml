@@ -299,26 +299,26 @@
 		<l xml:id="harley4690_209">and towke <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> by &thorn;e honde</l>
 		<l xml:id="harley4690_210" n="210">and bothe is felawes h&ydot;m with</l> <!--SLG trans: [hym] to [h&ydot;m]-->
     	<l xml:id="harley4690_211">there hadde they no nother gryt<unclear reason="illegible">h</unclear></l><note>The final character of &#39;gryth&#39; is illegible. We follow both Brunner and the logic of the rhyme scheme as a result.</note>
-	<!--SNM phase 2 complete f110r-->
+	
 	    <pb xml:id="harley4690_fol110v" n="fol110v" facs="harley_ms_4690_f110v.tif"/>
 	    <cb n="1"/>
-	    <l xml:id="harley4690_212">Till thet other da&ydot; atte prime</l> <!-- SNM trans: [that] to [thet]; that makes more sense, but it just really looks like an [e] to me--><!--LKN trans: accepted! good catch!-->
+	    <l xml:id="harley4690_212">Till thet other da&ydot; atte prime</l> 
 	    <l xml:id="harley4690_213">the k&ydot;ngges sone come that t&ydot;me .</l>
     	<l xml:id="harley4690_214"><name type="person" ref="#Ardour">Ardour</name> was is right name</l> <!-- I don't know if Ardour is historical so I've not included a subtype here for the time being --><!--LKN trans: Ardour is the fictional king's son, and so should be noted as such-->
     	<l xml:id="harley4690_215">he thought to do <name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Richarde</name> schame .</l>
 	    <l xml:id="harley4690_216">ffor he was holden &ydot; understonde</l>
 	    <l xml:id="harley4690_217">the strengest man of alle &thorn;at londe .</l>
-	    <l xml:id="harley4690_218">To the porter thenne seide hee</l> <!-- SNM trans: [hæ] to [hee], matches [see] on next line --><!--LKN trans: accepted! good catch!-->
+	    <l xml:id="harley4690_218">To the porter thenne seide hee</l> 
 	    <l xml:id="harley4690_219">alle &thorn;i[s] prisoners &thorn;[ou] lette me see .</l> <!---LKN text: there is an abbreviation mark above the &quot;þi,&quot; but Brunner does not account for it in his edition. My guess is that it&#39;s meant to be expanded with an &quot;s&quot; at the end, but would like to hear your thoughts also!-->
 	    <l xml:id="harley4690_220" n="220">the porter seide syr atte th&ydot; wille</l>
 	    <l xml:id="harley4690_221">youre commawndement &ydot; schall fylle .</l>
-	    <l xml:id="harley4690_222">he brought hem fforthe sone anone</l> <!-- SNM trans: [bronght] to [brought] --><!--LKN trans: accepted! good catch!-->
-    	<l xml:id="harley4690_223">and <name type="person" subtype="historical" ref="#KingRichard">Richard</name> ganne fformest gone .</l> <!-- SNM trans: [Richarde] to [Richard]; [fformost] to [fformest] --><!--LKN trans: accepted! good catch!-->
+	    <l xml:id="harley4690_222">he brought hem fforthe sone anone</l>
+    	<l xml:id="harley4690_223">and <name type="person" subtype="historical" ref="#KingRichard">Richard</name> ganne fformest gone .</l> 
     	<l xml:id="harley4690_224">the <name type="person" ref="#EmperorAlmayne">emperour</name> ys sone hym vndernam</l>
     	<l xml:id="harley4690_225">Art thow <name type="person" subtype="historical" ref="#KingRichard">Richard</name> &thorn;e strong manne .</l>
 	    <l xml:id="harley4690_226">as men seyen in euer&ydot; londe</l>
 	    <l xml:id="harley4690_227">Durste &thorn;u stonde a boffete of m&ydot; honde</l><note>Brunner transcribes as &quot;boffett&quot; but the final letter looks much more like an &quot;e.&quot;.</note>
-	    <l xml:id="harley4690_228">and &ydot; schalle &yogh;eue the leue</l> <!-- SNM trans: [youe] to [yeue] ? --><!--LKN trans: good catch! the first character is a yogh, however, so I've corrected it as such here-->
+	    <l xml:id="harley4690_228">and &ydot; schalle &yogh;eue the leue</l> 
 	    <l xml:id="harley4690_229">A nother boffette me to yeve</l> 
     	<l xml:id="harley4690_230" n="230">hastel&ydot; <name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Richarde</name></l>
 	    <l xml:id="harley4690_231">G[ra]unted hym in that fforwarde .</l>
@@ -326,12 +326,12 @@
     	<l xml:id="harley4690_233">yaff to <name type="person" subtype="historical" ref="#KingRichard">Rych[arde]</name> a swithe sore cloute .</l>
 	    <l xml:id="harley4690_234">the fyre of is &ydot;en oute sprangge .</l>
     	<l xml:id="harley4690_235"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> &thorn;ought he dude hym wrong</l>
-	    <l xml:id="harley4690_236">&ydot; the swere by seint G&ydot;melyne</l> <!--LKN expl: need a note on the saint--> <!-- APB: don't know if I need to tag this person/entity? --><!--LKN: only if we're still tagging people, and I think we're setting all of that aside for the time being!-->
+	    <l xml:id="harley4690_236">&ydot; the swere by seint G&ydot;melyne</l> 
 	    <l xml:id="harley4690_237">to morowe &thorn;is t&ydot;me y schall pa&ydot; &thorn;ine</l> 
-    	<l xml:id="harley4690_238">&thorn;e <name type="person" ref="#EmperorAlmayne">Emperour</name> is sone on hym loughe</l> <!--LKN trans: terrific catch, Sarah!--> <!-- SNM trans: [lougys] to [loughe] Yes! I see what you are talking about Kate! I zoomed in and I think it is actaully an [h]; it looks like the ink was just not coming out of the quill correctly. You can just barely see the top of the [h] formation --><!--LKN text: something strange is going on with that last word. Should be &quot;laugh&quot; but the spelling here is strange at best. Wondering if that second to last character (which looks like a y) was meant to be an H instead? Wondering too about the mark above the y for that matter . . . -->
-	    <l xml:id="harley4690_239">and seid he scholde haue is wille &ydot; nough .</l> <!-- SNM [schold] to [scholde] --><!--LKN trans: accepted! good catch!-->
+    	<l xml:id="harley4690_238">&thorn;e <name type="person" ref="#EmperorAlmayne">Emperour</name> is sone on hym loughe</l> 
+	    <l xml:id="harley4690_239">and seid he scholde haue is wille &ydot; nough .</l> 
 	    <l xml:id="harley4690_240" n="240">Bothe of drinke and of mete .</l>
-	    <l xml:id="harley4690_241">Of the beste he wolde ete .</l> <!-- SNM trans: [of] to [Of] --><!--LKN trans: accepted! good catch!-->
+	    <l xml:id="harley4690_241">Of the beste he wolde ete .</l> 
 	    <l xml:id="harley4690_242">that he durst itte notte wite</l>
 	    <l xml:id="harley4690_243">ffor ffeb&ydot;lnesse ys d&ydot;nte to quyte .</l>
 	    <l xml:id="harley4690_244">On the morwne whanne itte was da&ydot;</l>
@@ -343,7 +343,7 @@
 	    <l xml:id="harley4690_250" n="250">he made is honde well and slyghte .</l>
 	    <l xml:id="harley4690_251">to holde &thorn;e pa&ydot;ement &thorn;[at] he behighte .</l>
     	<l xml:id="harley4690_252">&thorn;e <name type="person" ref="#EmperorAlmayne">Emperour</name> ys sone come thanne</l>
-	    <l xml:id="harley4690_253">...o kepe forwarde as a trow manne</l> <!-- SNM trans: maybe [e] to [o] --><!--LKN trans: accepted! good catch!-->
+	    <l xml:id="harley4690_253">...o kepe forwarde as a trow manne</l> 
     	<l xml:id="harley4690_254">...d b&ydot;fore <name type="person" subtype="historical" ref="#KingRichard">k&ydot;ngge Richarde</name> stode .</l>
 	
     	<cb n="2"/>
@@ -355,17 +355,17 @@
     	<l xml:id="harley4690_259">&ydot; ne kepte bere neuer schelde</l>
 	    <l xml:id="harley4690_260" n="260">Vnder is cheke is honde he leide</l>
 	    <l xml:id="harley4690_261">he that itte sighe the sothe seide</l>
-    	<l xml:id="harley4690_262">fflesche and skynne awe&ydot; he drowghe</l> <!-- SNM trans: [drowghte] to [drowghe] --><!--LKN trans: accepted! good catch!-->
+    	<l xml:id="harley4690_262">fflesche and skynne awe&ydot; he drowghe</l> 
     	<l xml:id="harley4690_263">and to grownde he fell &ydot;nne sowghe</l>
 	    <l xml:id="harley4690_264">a too was Broke is cheke bone</l>
 	    <l xml:id="harley4690_265">Wordes spake he neuer none.</l>
-    	<l xml:id="harley4690_266">alle &thorn;us <name type="person" subtype="historical" ref="#KingRichard">k[ing] Richarde</name> paied is buffette</l> <!-- SNM trans: [Richard] to Richarde], [paidd] to [paied] --><!--LKN trans: accepted! good catch!-->
-    	<l xml:id="harley4690_267">God &yogh;eve ys soule hevenne parte.</l> <!--LKN trans: good catch! that second to last character is a v (the same strange looking one that tripped me up earlier in the text--><!-- SNM trans: [ȝew] to [ȝebe] I am unsure about this emendation, but that [w] just looks odd to me --><!--LKN text: Brunner adds &quot;in&quot; before heaven, as the scribe seems to have left that preposition out in error-->
+    	<l xml:id="harley4690_266">alle &thorn;us <name type="person" subtype="historical" ref="#KingRichard">k[ing] Richarde</name> paied is buffette</l> 
+    	<l xml:id="harley4690_267">God &yogh;eve ys soule hevenne parte.</l> <!--LKN text: Brunner adds &quot;in&quot; before heaven, as the scribe seems to have left that preposition out in error-->
     	<l xml:id="harley4690_268">to the <name type="person" ref="#EmperorAlmayne">Emperour</name> a kn&ydot;ght gan renne</l><note>The word knyght is spelled &quot;kmyght&quot; in the manuscript, as the scribe seems to have accidentally included an extra minim after the n.</note>
     	<l xml:id="harley4690_269">and tolde h&ydot;m of this tyd&ydot;ngge</l>
-    	<l xml:id="harley4690_270" n="270">that <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> had is sone &ydot; slawe .</l> <!--LKN trans: accepted! good catch!--><!-- SNM trans: [Richard] to [Richarde] is faint, might be a stray mark -->
+    	<l xml:id="harley4690_270" n="270">that <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> had is sone &ydot; slawe .</l> 
     	<l xml:id="harley4690_271">and &ydot; Brought h&ydot;m of is lyue dawe.</l>
-    	<l xml:id="harley4690_272">Alas seide &thorn;e <name type="person" subtype="historical" ref="#KingRichard">Emperour</name> nough hane &ydot; non[ne]</l> <!--LKN trans:  good catch! that abbreviation mark should be interpreted as an "ne" here--><!-- SNM trans: there is an odd mark above [non]. Appears to be a dot with a semi-circle over it -->
+    	<l xml:id="harley4690_272">Alas seide &thorn;e <name type="person" subtype="historical" ref="#KingRichard">Emperour</name> nough hane &ydot; non[ne]</l> 
 	    <l xml:id="harley4690_273">[and] with that worde he felle in sowne</l>
     	<l xml:id="harley4690_274">kn&ydot;ghtes fele h&ydot;m vppe drowghe</l>
     	<l xml:id="harley4690_275">And seid syr ne dysma&ydot;e &yogh;owghe</l>
@@ -376,25 +376,23 @@
 	    <l xml:id="harley4690_280" n="280">Stylle &thorn;eighe stode euerychone .</l>
     	<l xml:id="harley4690_281">ffor sorowe ne myght &thorn;e&ydot; telle none</l>
 	    <l xml:id="harley4690_282">with that worde come the quene</l>
-	    <l xml:id="harley4690_283">Alas sche seide wate may &thorn;is beene .</l> <!--LKN trans: good catch! in this case, it's actually been (especially since that rhymes with quene in the line above, it's just tricky b/c we have two different forms of e right next to one another here!--><!-- SNM trans: possible [baene] to [bæne] -->
+	    <l xml:id="harley4690_283">Alas sche seide wate may &thorn;is beene .</l> 
 	    <l xml:id="harley4690_284">Why is &thorn;is sorow and this fare</l>
 	    <l xml:id="harley4690_285">and who hath wrought alle &thorn;is care .</l>
 	    <l xml:id="harley4690_286">A madame ne wyste &yogh;e noughte</l>
 	    <l xml:id="harley4690_287">thy sone ys to dethe y Broughte .</l>
     	<l xml:id="harley4690_288">Sythe &thorn;at &ydot; was borne manne</l>
 	    <l xml:id="harley4690_289">so moche sorowe to me ne came</l>
-    	<l xml:id="harley4690_290" n="290">Alle my io&ydot; ys turned to woo</l> <!--LKN trans: good catch! Definitely an i in this case--><!-- SNM trans: not sure if this is [joy] or [ioy], I don't know how the hand forms [j] -->
+    	<l xml:id="harley4690_290" n="290">Alle my io&ydot; ys turned to woo</l> 
     	<l xml:id="harley4690_291">ffor sorow &ydot; schall m&ydot; self sloo .</l>
 	    <l xml:id="harley4690_292">her kerchews sche alle to drowghe</l>
     	<l xml:id="harley4690_293">alas sche seide me is wo &ydot; noughe</l>
-    	<l xml:id="harley4690_294">sche cursede &thorn;e t&ydot;me &thorn;[at] sche was bore</l> <!--LKN trans: accepted! good catch!--><!-- SNM trans: [cursed] to [cursede] -->
+    	<l xml:id="harley4690_294">sche cursede &thorn;e t&ydot;me &thorn;[at] sche was bore</l> 
     	<l xml:id="harley4690_295">&ydot;n wat maner ys m&ydot; sone forlore .</l>
     	<l xml:id="harley4690_296">&thorn;e <name type="person" ref="#EmperorAlmayne">Emperour</name> seide . y telle the</l>
 	    <l xml:id="harley4690_297">he &thorn;at here stante telde itte me .</l>
 
-<!-- SNM phase 1 complete to line 297-->
-<!-- APB phase 3 complete to line 297 [to the best of my ability] -->
-<!--LKN checked and commented through 110v, for some reason the last folio's worth of comments went missing (I fear I didn't save them!), so I've gone back and redone those and will truck on along from here, to save time, I'll only make comments if there's lingering doubt over how to transcribe/interpret something. Otherwise, I'll accept/correct and delete comments once I've done so!-->
+
     	<pb xml:id="harley4690_fol111r" n="fol111r" facs="harley_ms_4690_f111r.tif"/>
     	<cb n="1"/>
     	
@@ -585,9 +583,7 @@
     	<l xml:id="harley4690_472">Richarde <choice><abbr>wt</abbr><expan>with</expan></choice> the knyfe so smerte</l> 
     	<l xml:id="harley4690_473">smote the lyon to the herte &period;</l>  <!--LKN text: Brunner argues that there are two missing lines here )see n. on page 138 for lines 37 and 38 of the version in the notes--> 
 
-<!--SLG: phase 2 complete for fol 111-->
-<!--APB: phase 1 transcription check, transcription notes, and line numbering complete-->
-<!--LKN: checked through comments up to this point!--> 
+
     	<pb xml:id="harley4690_fol112r" n="fol112r" facs="harley_ms_4690_f112r.tif"/>
     	<cb n="1"/>
 
@@ -1269,7 +1265,7 @@
     	<l xml:id="harley4690_1088">to cutte with the sare&yogh;ein bones</l>
     	<l xml:id="harley4690_1089">&thorn;e hede was wrowght ful welle</l>
     	<l xml:id="harley4690_1090" n="1090">&thorn;er ynne was <num value="20">xx</num> pownd of stele</l>
-    	<l xml:id="harley4690_1091">and whenne he come to cyperlou....</l> <!--LKN: a good question!--><!--SLG: how to encode rips?-->
+    	<l xml:id="harley4690_1091">and whenne he come to cyperlou<gap reason="illegible" agent="tear" quantity="2" unit="character"/></l> <!--LKN: a good question!--><!--SLG: how to encode rips?-->
     	<l xml:id="harley4690_1092">thyke axe he name yn ys honde....</l> <!--LKN excellent! I see that now!--><!--SLG trans: this line's final observable word seems to be [honde]-->
     	<l xml:id="harley4690_1093">alle the gryffonnes <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> <choice><abbr>wt</abbr><expan>with</expan></choice> <choice><abbr>hy</abbr><expan>hym</expan></choice> gan.... ...</l>
     	<l xml:id="harley4690_1094">her gode dayes sone ganne of... ...</l>
