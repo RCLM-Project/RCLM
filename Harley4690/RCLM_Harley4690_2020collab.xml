@@ -120,23 +120,23 @@
 		<l xml:id="harley4690_40" n="40">Priuely to come h&ydot;m vn to</l>
 		<l xml:id="harley4690_41">with oute lett&ydot;ng that itte be doo</l>
 		<l xml:id="harley4690_42">the&ydot; hyeden fast on her wa&ydot;</l>
-		<l xml:id="harley4690_43">And come to h&ydot;m on a da&ydot;</l> <!--LKN: you're absolutely right, Spencer good eye!--><!--SLG: I believe that the A in And of this line, as well as those of lines 6 and 7, are capitalized-->
+		<l xml:id="harley4690_43">And come to h&ydot;m on a da&ydot;</l>
 		<l xml:id="harley4690_44">when thei come the king was glade</l>
-		<l xml:id="harley4690_45">And mochell io&ydot;e to them he made</l> <!--LKN: good catch here also; looking at it again, and having now gotten well aquainted with the hand, this is absolutely iote and note wye--><!--SLG: third word initially written as wẏe, but I think those are actually two characters. Lowercase w's are written differently and ioẏe makes more contextual sense to me. Thoughts?-->
+		<l xml:id="harley4690_45">And mochell io&ydot;e to them he made</l>
 		<l xml:id="harley4690_46">And seid to hem in mer&ydot; sowne</l>
-		<l xml:id="harley4690_47">&yogh;e be wellcome b&ydot; <name type="religious-figure" subtype="Christianity" ref="#StSimon">seint Symonne</name>&period;</l> <!--LKN expl: the apostle St. Simon, not to be confused with Simon Peter-->
+		<l xml:id="harley4690_47">&yogh;e be wellcome b&ydot; seint Symonne&period;</l><note type="expl" resp="#LKN" corresp="harley4690_47">The apostle St. Simon, not to be confused with Simon Peter.</note>
 		<l xml:id="harley4690_48">lordes he seid knowe &yogh;e notte</l>
 		<l xml:id="harley4690_49">Wat &ydot; haue ordeinedde in m&ydot; &thorn;ought&period;</l>
-		<l xml:id="harley4690_50" n="50">&ydot;n to the holy londe for to goo</l> <!--LKN expl: The journey to Outremer that Richard, Thomas, and Fouk agree to embark upon in this episode is wholly fictional. Richard never undertook such a journey prior to going to the so-called Third Crusade.--> 
+		<l xml:id="harley4690_50" n="50">&ydot;n to the holy londe for to goo</l><note type="expl" resp="#LKN" corresp="harley4690_50">The journey to Outremer that Richard, Thomas, and Fouk agree to embark upon in this episode is wholly fictional. Richard never undertook such a journey prior to going to the so-called Third Crusade.</note>
 		<l xml:id="harley4690_51">whe thre felaues and no mo</l>
-		<l xml:id="harley4690_52">Al in palmeren g&ydot;se</l> <!--LKN expl: The term "palmer" referred specifically to a pilgrim bound for Jerusalem. The term referred to the badge that such a pilgrim would wear as a sign of their intended destination; pilgrims bound for Jerusalem wore a palm badge that recalled Christ's celebrated entry into Jerusalem prior to his crucifixion. The term "guise" here, however, makes it very clear that Richard and his fellow knights are not pilgrims in earnest but that they plan to disguise themselves as such in order to embark on a reconaissance mission that will aid them in their later crusading endeavors.-->
+		<l xml:id="harley4690_52">Al in palmeren g&ydot;se</l><note type="expl" resp="#LKN" corresp="harley4690_52">The term &quot;palmer&quot; referred specifically to a pilgrim bound for Jerusalem. The term referred to the badge that such a pilgrim would wear as a sign of their intended destination; pilgrims bound for Jerusalem wore a palm badge that recalled Christ's celebrated entry into Jerusalem prior to his crucifixion. The term &quot;guise&quot; here, however, makes it very clear that Richard and his fellow knights are not pilgrims in earnest but that they plan to disguise themselves as such in order to embark on a reconaissance mission that will aid them in their later crusading endeavors.</note>
 		<l xml:id="harley4690_53">the holy londe for to devise&period;</l>
 		<l xml:id="harley4690_54">to me &ydot; will that &yogh;e be sworne</l>
 		<l xml:id="harley4690_55">that &yogh;e ne tell to no man borne&period;</l>
 		<l xml:id="harley4690_56">thei <choice><abbr>grawnted</abbr><expan>grawntede</expan></choice> h&ydot;m is askingge</l>
 		<l xml:id="harley4690_57">with oute an&ydot; againe se&ydot;&ydot;ngge&period;</l>
-		<l xml:id="harley4690_58">With h&ydot;m to liue and to d&ydot;e</l> <!--LKN: you're absolutely right, Spencer good eye!--><!--SLG: Capital W. Contrast with lowercase w from first word of preceding line-->
-		<l xml:id="harley4690_59">Notte to lette for loue ne eye&period;</l> <!--LKN “for loue ne eye” This idiomatic phrase translates as “[neither]for love nor fear.” See entry for “eie” (1) in The Middle English Dictionary. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117-->
+		<l xml:id="harley4690_58">With h&ydot;m to liue and to d&ydot;e</l>
+		<l xml:id="harley4690_59">Notte to lette for loue ne eye&period;</l><note type="expl" resp="#LKN" corresp="harley4690_59">The idiomatic phrase &quot;for loue ne eye&quot; translates as &quot;[neither]for love nor fear.&quot; See entry for &quot;eie&quot; (1) in The Middle English Dictionary. https://quod.lib.umich.edu/m/middle-english-dictionary/dictionary/MED13117</note>
 		<l xml:id="harley4690_60" n="60">Vppon the bouke thei leide her honde</l>
 		<l xml:id="harley4690_61">To that couenante for to stonde</l>
 		<l xml:id="harley4690_62">thei kiste the Bouke alle &ydot; three&period;</l>
@@ -146,7 +146,7 @@
 		<l xml:id="harley4690_66">m&ydot; leue ffrendes with gode entente</l>
 		<l xml:id="harley4690_67">hough fferde &yogh;e atte the turmente&period;</l>
 		<l xml:id="harley4690_68">came an&ydot; strong knight to <choice><abbr>yo</abbr><expan>your</expan></choice> pla&ydot;</l>
-		<l xml:id="harley4690_69">&yogh;e thei seyden in gode fa&ydot;&period;</l> <!--LKN expl: "in gode fay" means "in good faith."-->
+		<l xml:id="harley4690_69">&yogh;e thei seyden in gode fa&ydot;&period;</l><note type="expl" resp="#LKN" corresp="harley4690_69">&quot;in gode fay&quot; means &quot;in good faith.&quot;</note>
 		<l xml:id="harley4690_70" n="70">An awntres knight ther came ride</l> <!--LKN expl: Insert a note here on the significance of the term awnterous, drawing on the MED definition and conference paper/close-reading of the word-->
 		<l xml:id="harley4690_71">in diuerse at&ydot;re with mochel pride</l>
 		<l xml:id="harley4690_72">he felde down bothe hors <choice><abbr>&amp;</abbr><expan>and</expan></choice> manne</l>
