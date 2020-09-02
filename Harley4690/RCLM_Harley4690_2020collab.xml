@@ -176,7 +176,7 @@
 		<l xml:id="harley4690_93">Aryved king <choice><abbr>R</abbr><expan>Richard</expan></choice> and is ffelawes tweye</l>
 		<l xml:id="harley4690_94">the&ydot; wenten northe alle in ffere</l>
 		<l xml:id="harley4690_95">ffrom towne to towne as &yogh;e ma&ydot; here</l>
-		<l xml:id="harley4690_96">Til thei come to Brawndys</name></l> <!--SLG: note needed for Brawndys?-->
+		<l xml:id="harley4690_96">Til thei come to Brawndys</l> <!--SLG: note needed for Brawndys?-->
 		<l xml:id="harley4690_97">that is a coste of noubell pr&ydot;se&middot;</l>
 		<l xml:id="harley4690_98">A schippe theí fownden thare</l> <!--SLG: how to encode accent on the i?-->
 		<l xml:id="harley4690_99">&ydot;n to C&ydot;presse for to &middot; ffare &middot;</l> <!--LKN/SLG: Note for Cypress needed here-->
@@ -185,16 +185,16 @@
 		<l xml:id="harley4690_102">there thei <choice><abbr>dwelled</abbr><expan>dwellede</expan></choice> &middot;<num value="40">xl</num>&middot; dayes</l>
 		<l xml:id="harley4690_103">And sithe <choice><abbr>didd</abbr><expan>didde</expan></choice> hem in to the see &middot;</l>
 		<l xml:id="harley4690_104">&ydot;n to Artys &thorn;att fair cite</l> <!--SLG: note needed for Artys?-->
-		<l xml:id="harley4690_105">ffro thennes in to chascidone &middot;</l> <note type="expl" resp="#LKN" corresp="harley4690_105">Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, <i>A History of the Crusades</i>, vol. 1, 152).</note>
-		<l xml:id="harley4690_106">And to the cite Babilone</l><note type="expl" resp="#LKN" corresp="harley4690_106">Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, &quot;[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: &quot;the city of On,&quot; derived from the earlier &quot;Pi-Hapi-n-On&quot; of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic &quot;Bab-al-yun&quot; was rendered as &quot;Babylon&quot; early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called &quot;Babylon&quot; and their lord the &quot;Sultan of Babylon&quot; (<i>Babylon Under Western Eyes: A Study of Allusion and Myth</i>, 258).</note>
+		<l xml:id="harley4690_105">ffro thennes in to chascidone &middot;</l> <note type="expl" resp="#LKN" corresp="harley4690_105">Chalcedon, a city across the Bosporus from Constantinople (now Istanbul) on the coast of the Sea of Marmara, which crusaders and pilgrims headed to Jerusalem frequented. Durint the so-called First Crusade, for example, Godfrey de Bouillon and his army were transported to Chalcedon after a sojourn in Constantinople and made thier way from there (See Runciman, <emph rend="italic">A History of the Crusades</emph>, vol. 1, 152).</note>
+		<l xml:id="harley4690_106">And to the cite Babilone</l><note type="expl" resp="#LKN" corresp="harley4690_106">Babylon was a common name for the Egyptian city Cairo in the Middle Ages, but could also refer to Egypt itself at this time. According to Andrew Scheil, &quot;[t]he Egyptian location is the town of fortress of Bāb-al-yūn (Arabic: &quot;the city of On,&quot; derived from the earlier &quot;Pi-Hapi-n-On&quot; of the Pharaohs)...; Cairo itself was founded in 969 CE and the two places eventually merged and today are part of Old Cairo. Understandably, Arabic &quot;Bab-al-yun&quot; was rendered as &quot;Babylon&quot; early in the Western tradition; thus in a wide variety of medieval texts-particularly beginning with the crusades-Cairo, Alexandria, Memphis, or Egypt could be called &quot;Babylon&quot; and their lord the &quot;Sultan of Babylon&quot; (<emph rend="italic">Babylon Under Western Eyes: A Study of Allusion and Myth</emph>, 258).</note>
 		<l xml:id="harley4690_107">And to the cite of Sesare &middot;</l><note type="expl" resp="#LKN" corresp="harley4690_107">Cesarea, a city on the Sharon plain (HaSharon in Hebrew) between the Mediterranean coast and the Samarian Hills. The Byzantine Empire lost control of the city in 640 CE when it was taken by 'Amr ibn al-'As and his Rashidun army during the Al-Faṫṫḥul-Islāmiyyuash-Shām (&quot;The Muslim Conquest of the Levant&quot;). The city was taken by Baldwin I of Jerusalem and his army in 1101, shortly after the conquest of Jerusalem. Salah ad-Din conquered the city in 1187, and Richard I conquered the city in 1191 during the so-called Third Crusade.</note>
 		<l xml:id="harley4690_108">and to the cite of <choice><abbr>Jerlm</abbr><expan>Jerusalem</expan></choice> &middot;</l><note type="text" resp="#LKN" corresp="harley4690_108">This has to be an abbreviation for Jerusalem, but it is unusual. Moreover, unlike other witnesses, the rhyme scheme is broken between the lines ending with Cesare and Jerusalem because there appears to be a &quot;missing&quot; line. Brunner, in fact, writes &quot;fehlt&quot; (i.e. &quot;is missing&quot;) in his note for this line (pg. 111, n. 638), which in other versions refers to the city of Nineva and ends with the word &quot;ware.&quot; Based on the break in rhyme, this is very likely an eye-skip on the part of the copyist.</note>
 		<l xml:id="harley4690_109">To Betayne and to Bedleem &middot;</l><note type="expl" resp="#LKN" corresp="harley4690_109">Bethany and Bethlehem are both towns on the West Bank and would have registered as significant because of the former's associations with Lazarus (who hailed from Bethany and who Christ raises from the dead in the gospels) and because of the latter being the place of Christ's birth.</note>
 		<l xml:id="harley4690_110" n="110">and to the cite of Sudranturp&ydot;e</l><note type="expl" resp="#LKN" corresp="harley4690_110">A variant spelling of &quot;Sudan Turry,&quot; which presumably refers to Sidon and Tyre.</note>
 		<l xml:id="harley4690_111">and to the cite of Ebed&ydot;e &middot;</l><note type="expl" resp="#LKN" corresp="harley4690_111">This perhaps refers to the city of Ebron/Hebron. Both Brunner and Larkin suggest as much.</note>
-		<l xml:id="harley4690_112">and to the castell of Orglyous &middot;</l><note type="expl" resp="#LKN" corresp="harley4690_112">The Castle of Pride, also fictional. As Peter Larkin suggests, this city name &quot;evokes romance castles&quot; (Larkin n. for 643). See also Andrew Scheil's discussion of this catalogue (<i>Baylon Under Western Eyes</i>, 269-71).</note>
+		<l xml:id="harley4690_112">and to the castell of Orglyous &middot;</l><note type="expl" resp="#LKN" corresp="harley4690_112">The Castle of Pride, also fictional. As Peter Larkin suggests, this city name &quot;evokes romance castles&quot; (Larkin n. for 643). See also Andrew Scheil's discussion of this catalogue (<emph rend="italic">Baylon Under Western Eyes</emph>, 269-71).</note>
 		<l xml:id="harley4690_113">and to the cite of peryeus &period;</l><note type="expl" resp="#LKN" corresp="harley4690_113">Possibly the port city Piraeus in Attica, Greece; if so, this name seems out of place since the place names before and after this line are in Outremer.</note>
-		<l xml:id="harley4690_114">To Japhes and to saffrane</l><note type="expl" resp="#LKN #SLG" corresp="harley4690_114">Jaffa is a port city serving Jerusalem (Larkin n. 5930). There, in 1192 CE, Richard and Salah ad-Din signed a five-year peace treaty that ended the so-called Third Crusade (Runciman, <i>A History of the Crusades</i>, vol. 3, 71-73). Larkin suggests that Safrane may refer to Sephoria (also spelled Sepphoris), a town in Galilee (see Larkin n. for 645). Salah ad-Din retreated towards Sephoria following the surrender of Acre to Richard's forces in 1191 CE (Runciman, <i>A History of the Crusades</i>, vol. 3, 50).</note>
+		<l xml:id="harley4690_114">To Japhes and to saffrane</l><note type="expl" resp="#LKN #SLG" corresp="harley4690_114">Jaffa is a port city serving Jerusalem (Larkin n. 5930). There, in 1192 CE, Richard and Salah ad-Din signed a five-year peace treaty that ended the so-called Third Crusade (Runciman, <emph rend="italic">A History of the Crusades</emph>, vol. 3, 71-73). Larkin suggests that Safrane may refer to Sephoria (also spelled Sepphoris), a town in Galilee (see Larkin n. for 645). Salah ad-Din retreated towards Sephoria following the surrender of Acre to Richard's forces in 1191 CE (Runciman, <emph rend="italic">A History of the Crusades</emph>, vol. 3, 50).</note>
 		<l xml:id="harley4690_115">to taburet and to Archane &middot;</l> <!--LKN expl: provide note on Tiberias and Archas, Larkin n. 646-->
 		<l xml:id="harley4690_116">thus visited they the hol&ydot;londe</l>
 		<l xml:id="harley4690_117">Ryghe &thorn;urgh oute y vnderstonde &middot;</l>
@@ -981,7 +981,7 @@
     	<!-- SNM phase 1 complete fol 113 -->
 <!--LKN comments and corrections checked up to here-->
 	
-	<pb xml:id="harley4690_fol114r" n="fol114r" facs="harley_ms_4690_f114r.tif"/>
+		<pb xml:id="harley4690_fol114r" n="fol114r" facs="harley_ms_4690_f114r.tif"/>
     	<cb n="1"/>
 
     	<l xml:id="harley4690_830" n="830">Portecole&ydot;s and yates vppe he wanne&period;</l>
@@ -1265,13 +1265,13 @@
     	<l xml:id="harley4690_1088">to cutte with the sare&yogh;ein bones</l>
     	<l xml:id="harley4690_1089">&thorn;e hede was wrowght ful welle</l>
     	<l xml:id="harley4690_1090" n="1090">&thorn;er ynne was <num value="20">xx</num> pownd of stele</l>
-    	<l xml:id="harley4690_1091">and whenne he come to cyperlou<gap reason="illegible" agent="tear" quantity="2" unit="character"/></l> <!--LKN: a good question!--><!--SLG: how to encode rips?-->
-    	<l xml:id="harley4690_1092">thyke axe he name yn ys honde....</l> <!--LKN excellent! I see that now!--><!--SLG trans: this line's final observable word seems to be [honde]-->
-    	<l xml:id="harley4690_1093">alle the gryffonnes <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> <choice><abbr>wt</abbr><expan>with</expan></choice> <choice><abbr>hy</abbr><expan>hym</expan></choice> gan.... ...</l>
-    	<l xml:id="harley4690_1094">her gode dayes sone ganne of... ...</l>
-    	<l xml:id="harley4690_1095">whenne &thorn;at he to pryson ca.... ... ...</l>
-    	<l xml:id="harley4690_1096">thyke axe yn honde he ... ... ...</l>
-    	<l xml:id="harley4690_1097">and hewe &thorn;er Bothe bar.... ... ...</l> 
+    	<l xml:id="harley4690_1091">and whenne he come to cyperlou<gap reason="illegible" agent="tear" quantity="2" unit="character"/>..</l> <!--LKN: a good question!--><!--SLG: how to encode rips?-->
+    	<l xml:id="harley4690_1092">thyke axe he name yn ys honde<gap reason="illegible" agent="tear" quantity="3" unit="character"/>...</l> <!--LKN excellent! I see that now!--><!--SLG trans: this line's final observable word seems to be [honde]-->
+    	<l xml:id="harley4690_1093">alle the gryffonnes <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> <choice><abbr>wt</abbr><expan>with</expan></choice> <choice><abbr>hy</abbr><expan>hym</expan></choice> gan<gap reason="illegible" agent="tear" quantity="5" unit="character"/>.....</l>
+    	<l xml:id="harley4690_1094">her gode dayes sone ganne of <gap reason="illegible" agent="tear" quantity="5" unit="character"/>.....</l>
+    	<l xml:id="harley4690_1095">whenne &thorn;at he to pryson ca <gap reason="illegible" agent="tear" quantity="6" unit="character"/>......</l>
+    	<l xml:id="harley4690_1096">thyke axe yn honde he <gap reason="illegible" agent="tear" quantity="8" unit="character"/>........</l>
+    	<l xml:id="harley4690_1097">and hewe &thorn;er Bothe bar<gap reason="illegible" agent="tear" quantity="10" unit="character"/>..........</l> <!-- SNM note for Harley team: I have tagged the tear in the manuscript, but have also left the elipses. Do you think we should do both? I am inclined to leave the elipses as a forward-facing way to indicate a gap here, but am open to other ideas-->
     	
     	<!--APB: phase 1 complete-->
     	<!--LKN: comments/corrections addressed up to here...-->
@@ -1315,13 +1315,13 @@
     	<l xml:id="harley4690_1132">of ys kyngdom and ys <choice><abbr>emprer</abbr><expan>emprere</expan></choice></l>
     	<l xml:id="harley4690_1133">and swete syr with outen fayle</l> 
     	<l xml:id="harley4690_1134">the byhoveth m&ydot; cownceyle</l> 
-    	<l xml:id="harley4690_1135">...he schalle the lede By a coste</l> 
-    	<l xml:id="harley4690_1136">....yvely By hys hoste</l> 
-    	<l xml:id="harley4690_1137">... ... her pauelones <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> schalt <choice><abbr>he</abbr><expan>here</expan></choice> take</l>
-    	<l xml:id="harley4690_1138">... ... &thorn;enketh do the mochell wrake</l>
-    	<l xml:id="harley4690_1139">... ... ... he done &yogh;ow or thys</l>
-    	<l xml:id="harley4690_1140" n="1140">... ... ... hym kylle no fors y wysse</l>
-    	<l xml:id="harley4690_1141">... ... ....vine kyng Richarde</l>
+    	<l xml:id="harley4690_1135"><gap reason="illegible" agent="tear" quantity="2" unit="character"/>.. he schalle the lede By a coste</l> 
+    	<l xml:id="harley4690_1136"><gap reason="illegible" agent="tear" quantity="3" unit="character"/>... yvely By hys hoste</l> 
+    	<l xml:id="harley4690_1137"><gap reason="illegible" agent="tear" quantity="5" unit="character"/>..... her pauelones <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> schalt <choice><abbr>he</abbr><expan>here</expan></choice> take</l>
+    	<l xml:id="harley4690_1138"><gap reason="illegible" agent="tear" quantity="6" unit="character"/>......  &thorn;enketh do the mochell wrake</l>
+    	<l xml:id="harley4690_1139"><gap reason="illegible" agent="tear" quantity="8" unit="character"/>........ he done &yogh;ow or thys</l>
+    	<l xml:id="harley4690_1140" n="1140"><gap reason="illegible" agent="tear" quantity="10" unit="character"/>.......... hym kylle no fors y wysse</l>
+    	<l xml:id="harley4690_1141"><gap reason="illegible" agent="tear" quantity="11" unit="character"/>........... vine kyng Richarde</l>
     	
     	<cb n="2"/>
     	
