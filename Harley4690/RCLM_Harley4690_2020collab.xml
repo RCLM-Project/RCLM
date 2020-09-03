@@ -256,16 +256,16 @@
 	
 		<cb n="2"/>
 	
-		<l xml:id="harley4690_169">To <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> is &ydot;nne sone thei comen</l> <!--SLG trans: [ynne] to [&ydot;nne]--> <!-- APB trans: agreed -->
-		<l xml:id="harley4690_170" n="170">and <choice><abbr>axed</abbr><expan>adede</expan></choice> who ys att ynne here</l> <!--SLG trans: [axed] to [axede], [ynne] to [&ydot;nne]--> <!-- APB trans: "axede[e]" maybe, or no? --><!--LKN trans: agreed with you both. Spencer was right to catch the "e" at the end of axede, and Andreas is right that it should be in brackets-->
-		<l xml:id="harley4690_171">k&ydot;ng <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> answerede <choice><abbr>w</abbr><expan>with</expan></choice> myld chere</l> <!--SLG trans: [kyng] to [k&ydot;ng], [answered] to [answerede], [myld] to [m&ydot;lde &middot;]--> <!-- APB trans: agreed. Are swervy ending "e"s in brackets [] for abbreviations or no? --><!--LKN trans: as mentioned above, the swervy ending is by all accounts and abbrev. so we ought to mark it in brackets!-->
+		<l xml:id="harley4690_169">To Richarde is &ydot;nne sone thei comen</l>
+		<l xml:id="harley4690_170" n="170">and <choice><abbr>axed</abbr><expan>axede</expan></choice> who ys att &ydot;nne here</l>
+		<l xml:id="harley4690_171">k&ydot;ng Richarde <choice><abbr>answered</abbr><expan>answerede</expan></choice> <choice><abbr>wt</abbr><expan>with</expan></choice> <choice><abbr>m&ydot;ld</abbr><expan>m&ydot;lde</expan></choice>&middot; chere</l>
 		<l xml:id="harley4690_172">whe bene here palmers three &period;</l>
-		<l xml:id="harley4690_173">Oute of hethenesse nough come whe</l> <!-- APB trans: capital "O" in "oute"? --><!--LKN: agreed! That's definitely a capital O.-->
+		<l xml:id="harley4690_173">Oute of hethenesse nough come whe</l>
 		<l xml:id="harley4690_174">the knyghtes seide on hyyngge</l>
-		<l xml:id="harley4690_175">&yogh;e schull speke <choice><abbr>w</abbr><expan>with</expan></choice> oure lorde the k&ydot;ng</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
-		<l xml:id="harley4690_176">ffor tid&ydot;nggez he wolde here ffa&ydot;ne</l> <!--SLG trans: [tidynggez] to [tid&ydot;nggez], [ffayne] to [ffa&ydot;ne]--> 
+		<l xml:id="harley4690_175">&yogh;e schull speke <choice><abbr>wt</abbr><expan>with</expan></choice> oure lorde the k&ydot;ng</l>
+		<l xml:id="harley4690_176">ffor tid&ydot;nggez he wolde here ffa&ydot;ne</l>
 		<l xml:id="harley4690_177">thei touke the palmers <choice><abbr>&amp;</abbr><expan>and</expan></choice> went again</l>
-    	<l xml:id="harley4690_178">when the <name type="person" ref="#EmperorAlmayne">Emperour</name> sighe king <name type="person" subtype="historical" ref="#KingRichard"><choice><abbr>Richard</abbr><expan>Richarde</expan></choice></name></l> <!--SLG trans: [Richard] to [Richarde]--> <!-- Don't know if the Emperor of Almayne is historical or pseudo-historical --><!--LKN trans: good catches here, Spencer. From here on out, I'll just go ahead and correct/add the [e] endings as we catch them. As for King of Almayne, he is fictional and should absolutely have a note here :)-->
+    	<l xml:id="harley4690_178">when the Emperour sighe king <choice><abbr>Richard</abbr><expan>Richarde</expan></choice></l> <!-- Don't know if the Emperor of Almayne is historical or pseudo-historical --><!--LKN trans: good catches here, Spencer. From here on out, I'll just go ahead and correct/add the [e] endings as we catch them. As for King of Almayne, he is fictional and should absolutely have a note here :)-->
 		<l xml:id="harley4690_179">He se&ydot;de &thorn;is ys he so dow me garde</l> <!--SLG trans: [seyd] to [se&ydot;de]--> <!-- APB trans: possible capital "H" in "he"? --><!--LKN trans: yes! definitely a capital H-->
 	    <l xml:id="harley4690_180" n="180">that is my dedelyche ffoo&period;</l> <!--SLG trans: period following [foo]--> <!-- APB trans: the second letter in "dodelyche," at least to me, resembles an "e" --><!--LKN trans: yes! there's a punctus after foo and that o ought to be an e good catches! Additionally, there are two ff's in ffoo, so I've added one and corrected these others-->
 		<l xml:id="harley4690_181">he schalle abye or that he goo &period;</l>
