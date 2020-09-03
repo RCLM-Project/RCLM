@@ -443,16 +443,16 @@
 
     	<cb n="2"/>
     	
-    	<l xml:id="harley4690_342">Alle with her maidennes three &period;</l> 
-    	<l xml:id="harley4690_343">Porter sche seide lett me see &period;</l> 
+    	<l xml:id="harley4690_342">Alle with her maidennes three &middot;</l> 
+    	<l xml:id="harley4690_343">Porter sche seide lett me see &middot;</l> 
     	<l xml:id="harley4690_344">th&ydot;ne prisoners hastelye</l>
     	<l xml:id="harley4690_345">Gladlyche he seide m&ydot; lad&ydot;</l>
     	<l xml:id="harley4690_346">fforthe come <choice><abbr>Richard</abbr><expan>Richarde</expan></choice> &thorn;e nowbel man</l>
     	<l xml:id="harley4690_347">and well hendelyche he grete her &thorn;an</l>
     	<l xml:id="harley4690_348">damoysell he seide with herte ffree</l>
-    	<l xml:id="harley4690_349">watt ys &thorn;i[ne] wille to sey vn to me</l> <!--LKN trans: good ideas, all! The word is supposed to be a form of thy (Richard is asking the princess what she wants to say to him), but I agree that mark above the i is strange; having taken a look at Capelli, my best guess is that this is supposed to be an abbreviation for n/ne (so þi[ne])--> <!--APB trans: there appears to be an abbreviation above "þi" > is it "þi[er]" or something like "their?--> <!--SLG trans: I think it's an abbreviation for [s], so þi[s]-->
-    	<l xml:id="harley4690_350" n="350">Oute take sche seide god above &period;</l> 
-    	<l xml:id="harley4690_351">of alle men moste y &thorn;e love &period;</l> 
+    	<l xml:id="harley4690_349">watt ys <choice><abbr>&thorn;i</abbr><expan>&thorn;ine</expan></choice>wille to sey vn to me</l>
+    	<l xml:id="harley4690_350" n="350">Oute take sche seide god above &middot;</l> 
+    	<l xml:id="harley4690_351">of alle men moste y &thorn;e love &middot;</l> 
     	<l xml:id="harley4690_352">wat ma&ydot; my loue he seide availe &thorn;e</l>
     	<l xml:id="harley4690_353">a pore pr&ydot;soner as though mayst se</l>
     	<l xml:id="harley4690_354">for nough ys the &thorn;rydde da&ydot; agoon</l>
@@ -465,8 +465,8 @@
     	<l xml:id="harley4690_361">y the commawnde for my sake</l>
     	<l xml:id="harley4690_362">and serue h&ydot;m well in all w&ydot;se</l>
     	<l xml:id="harley4690_363">as <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> wiste dwell ynne &thorn;&ydot; seruyse</l>
-    	<l xml:id="harley4690_364">and to m&ydot; bour <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> schalte hym bryng</l> <!--LKN Trans: this is possible, and makes me wonder whether the small dash at the end of "evenyng" below is an e also . . .--><!--SLG trans: there's also a horizontal dash following the [g], which I think could stand for a final [e]-->
-    	<l xml:id="harley4690_365">after soper &ydot;nne &thorn;e Euenyng</l>
+    	<l xml:id="harley4690_364">and to m&ydot; bour <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> schalte hym <choice><abbr>bryng</abbr><expan>brynge</expan></choice></l>
+    	<l xml:id="harley4690_365">after soper &ydot;nne &thorn;e <choice><abbr>Euenyng</abbr><expan>Euenynge</expan></choice></l>
     	<l xml:id="harley4690_366">yn attyre of a squ&ydot;er</l>
     	<l xml:id="harley4690_367">M&ydot; selfe &ydot; schall holpe &yogh;ow &thorn;ere</l>
     	<l xml:id="harley4690_368">and by swete seint s&ydot;monne</l> 
@@ -477,8 +477,8 @@
     	<l xml:id="harley4690_373">and with her <choice><abbr>played</abbr><expan>playede</expan></choice> alle ys fylle</l>
     	<l xml:id="harley4690_374">Till that seuen dayes wer agoon</l>
     	<l xml:id="harley4690_375">there of wist none of ys ssoon</l>
-    	<l xml:id="harley4690_376">he was aspied of a knyghte &period;</l> 
-    	<l xml:id="harley4690_377">hough he come to her anyghte &period;</l> 
+    	<l xml:id="harley4690_376">he was aspied of a knyghte &middot;</l> 
+    	<l xml:id="harley4690_377">hough he come to her anyghte &middot;</l> 
     	<l xml:id="harley4690_378">priuelyche he tolde the kyngge</l>
     	<l xml:id="harley4690_379">&thorn;att forleine was ys dowghter yong</l>
     	<l xml:id="harley4690_380" n="380">&thorn;enne was the k&ydot;ng sore <choice><abbr>amayedd</abbr><expan>amayedde</expan></choice></l>
@@ -486,7 +486,7 @@
     	<l xml:id="harley4690_382">&thorn;att traitour hath m&ydot; sone &ydot; sla&ydot;n</l>
     	<l xml:id="harley4690_383">and my dowghter nough fforle&ydot;ne</l>
     	<l xml:id="harley4690_384">Smertel&ydot;e &thorn;e emperour <choice><abbr>wt</abbr><expan>with</expan></choice> out faile</l>
-    	<l xml:id="harley4690_385">lette sende after ys counceyle &period;</l> 
+    	<l xml:id="harley4690_385">lette sende after ys counceyle &middot;</l> 
 
     	<pb xml:id="harley4690_fol111v" n="fol111v" facs="harley_ms_4690_f111v.tif"/>
     	<cb n="1"/>
