@@ -266,39 +266,39 @@
 		<l xml:id="harley4690_176">ffor tid&ydot;nggez he wolde here ffa&ydot;ne</l>
 		<l xml:id="harley4690_177">thei touke the palmers <choice><abbr>&amp;</abbr><expan>and</expan></choice> went again</l>
     	<l xml:id="harley4690_178">when the Emperour sighe king <choice><abbr>Richard</abbr><expan>Richarde</expan></choice></l> <!-- Don't know if the Emperor of Almayne is historical or pseudo-historical --><!--LKN trans: good catches here, Spencer. From here on out, I'll just go ahead and correct/add the [e] endings as we catch them. As for King of Almayne, he is fictional and should absolutely have a note here :)-->
-		<l xml:id="harley4690_179">He se&ydot;de &thorn;is ys he so dow me garde</l> <!--SLG trans: [seyd] to [se&ydot;de]--> <!-- APB trans: possible capital "H" in "he"? --><!--LKN trans: yes! definitely a capital H-->
-	    <l xml:id="harley4690_180" n="180">that is my dedelyche ffoo&period;</l> <!--SLG trans: period following [foo]--> <!-- APB trans: the second letter in "dodelyche," at least to me, resembles an "e" --><!--LKN trans: yes! there's a punctus after foo and that o ought to be an e good catches! Additionally, there are two ff's in ffoo, so I've added one and corrected these others-->
-		<l xml:id="harley4690_181">he schalle abye or that he goo &period;</l>
-    	<l xml:id="harley4690_182">the <name type="person" ref="#EmperorAlmayne">Emperour</name> <choice><abbr>axed</abbr><expan>axede</expan></choice> the palmers &thorn;re .</l> <!--SLG trans: [axed] to [axede]-->
-		<l xml:id="harley4690_183">ynne m&ydot; londe watt s&ydot;ke&middot;&yogh;ee&middot;</l> <!--SLG trans: [my] to [m&ydot;], [syke] to [s&ydot;ke]. Also, the first character in [yee] looks like a yogh to me, but I'm not positive.--><!--LKN trans: definitely a yogh and not a y, so good catch there!--> 
+		<l xml:id="harley4690_179">He <choice><abbr>se&ydot;</abbr><expan>se&ydot;e</expan></choice> &thorn;is ys he so dow me garde</l>
+	    <l xml:id="harley4690_180" n="180">that is my dedelyche ffoo&middot;</l> <!--SLG trans: period following [foo]--> <!-- APB trans: the second letter in "dodelyche," at least to me, resembles an "e" --><!--LKN trans: yes! there's a punctus after foo and that o ought to be an e good catches! Additionally, there are two ff's in ffoo, so I've added one and corrected these others-->
+		<l xml:id="harley4690_181">he schalle abye or that he goo &middot;</l>
+    	<l xml:id="harley4690_182">the Emperour <choice><abbr>axed</abbr><expan>axede</expan></choice> the palmers &thorn;re &period;</l>
+		<l xml:id="harley4690_183">ynne m&ydot; londe watt s&ydot;ke&middot;&yogh;ee&middot;</l>
 		<l xml:id="harley4690_184">he seide to hem with ffelonye</l>
-    	<l xml:id="harley4690_185">ye ben come my londe to <unclear reason="illegible">spye</unclear>&period;</l><note type="text">The first two characters of the word &quot;spye&quot; are all but illegible due to damage/smudging. We are, as a result, following the lead not only of Karl Brunner here but of the other witnesses who share this passage with Harley MS 4690. See Brunner, p.116.</note>
-		<l xml:id="harley4690_186">and som tresoune me to done</l><!--LKN trans: I've corrected tresonne to read tresoune, b/c it seems closer to the ou construction we see elsewhere. thoughts?-->
-		<l xml:id="harley4690_187">thenne seide <name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Richarde</name> swith &middot; sone</l> <!--SLG trans: [kyng] to [k&ydot;ng]-->
+    	<l xml:id="harley4690_185">ye ben come my londe to <unclear reason="illegible">spye</unclear>&period;</l><note type="text" resp="#LKN" corresp="#harley4690_185">The first two characters of the word &quot;spye&quot; are all but illegible due to damage/smudging. We are, as a result, following the lead not only of Karl Brunner here but of the other witnesses who share this passage with Harley MS 4690. See Brunner, p.116.</note>
+		<l xml:id="harley4690_186">and som tresoune me to done</l>
+		<l xml:id="harley4690_187">thenne seide k&ydot;ng Richarde swith &middot; sone</l>
 		<l xml:id="harley4690_188">whe ar palmers sothe to seye</l>
-		<l xml:id="harley4690_189">and wenden here in goddes weye &period;</l>
-    	<l xml:id="harley4690_190" n="190">the <name type="person" ref="#EmperorAlmayne"><choice><abbr>empour</abbr><expan>emperour</expan></choice></name> named hym king by name</l>
-    	<l xml:id="harley4690_191">and <choice><abbr>cleped</abbr><expan>clepede</expan></choice> hym <choice><abbr>taylard</abbr><expan>taylarde</expan></choice> <choice><abbr>&amp;</abbr><expan>and</expan></choice> <choice><abbr>seid</abbr><expan>seide</expan></choice> h&ydot;m scham</l><note>Calling someone a &quot;taylard&quot; (someone who has a tale) was considered an insult. See the MED entry for tailarde 1.a).</note> <!--SLG trans: [cleped] to [clepede], [taylard] to [taylarde], [seid] to [seide], [hym] to [h&ydot;m]-->
-		<l xml:id="harley4690_192">But for as moche as thou arte kyng</l> <!--SLG trans: [but] to [But]-->
+		<l xml:id="harley4690_189">and wenden here in goddes weye &middot;</l>
+    	<l xml:id="harley4690_190" n="190">the <choice><abbr>empour</abbr><expan>emperour</expan></choice> named hym king by name</l>
+    	<l xml:id="harley4690_191">and <choice><abbr>cleped</abbr><expan>clepede</expan></choice> hym <choice><abbr>taylard</abbr><expan>taylarde</expan></choice> <choice><abbr>&amp;</abbr><expan>and</expan></choice> <choice><abbr>seid</abbr><expan>seide</expan></choice> h&ydot;m scham</l><note type="text" resp="#LKN" corresp="#harley4690_191">Calling someone a &quot;taylard&quot; (someone who has a tale) was considered an insult. See the MED entry for tailarde 1.a).</note>
+		<l xml:id="harley4690_192">But for as moche as thou arte kyng</l>
 		<l xml:id="harley4690_193">and thes thi baronnes <choice><abbr>woute</abbr><expan>withoute</expan></choice> lesyng&period;</l>
-		<l xml:id="harley4690_194">ye schull notte be to dethe &ydot; dyghte&period;</l> <!--SLG trans: [with] to [withe], [y] to [&ydot;], and period following [dyghte]--><!--LKN trans: you're quite right about that missing e, but as it happens the word is actually "dethe" and not with; and there's definitely a . at the end of the line-->
-		<l xml:id="harley4690_195">&thorn;er for &ydot; seye that itte is righte &period;</l> <!--SLG trans: [&thorn;or] to [&thorn;er], [y] to [&ydot;], [righte] to [Righte]-->
+		<l xml:id="harley4690_194">ye schull notte be to dethe &ydot; dyghte&middot;</l>
+		<l xml:id="harley4690_195">&thorn;er for &ydot; seye that itte is righte &middot;</l>
 		<l xml:id="harley4690_196">&yogh;e schull be in a prisonne</l>
 		<l xml:id="harley4690_197">and that is skele and resonne</l> <!--SLG trans: [resonne] to [Resonne]. Again, this is the capitalization issue with that variation of [r/R].-->
-		<l xml:id="harley4690_198"><name type="character" subtype="historical" ref="#KingRichard">Richard</name> seide with herte free&period;</l> <!--SLG trans: [Richarde] to [Richard]--><!--LKN trans: will just write "accepted!" from here on out if I've accepted and corrected.-->
-		<l xml:id="harley4690_199">though doest no right so mote y thee&period;</l> <!--SLG trans: [mete] to [mote], and a period following [thee]-->
+		<l xml:id="harley4690_198">Richard seide with herte free &middot;</l>
+		<l xml:id="harley4690_199">though doest no right so mote y thee&middot;</l>
 		<l xml:id="harley4690_200" n="200">palmers thatt goo by the weye</l>
-		<l xml:id="harley4690_201"><choice><abbr>&thorn;</abbr><expan>&thorn;ou</expan></choice> ne scholdest hem der&ydot; myght ne deye&period;</l> <!--SLG trans: [dery] to [der&ydot;], [daye] to [deye], and a period following [deye]--><!--LKN trans: accepted!-->
-    	<l xml:id="harley4690_202"><name type="person" ref="#EmperorAlmayne">Syr Emperour</name> for th&ydot; courtesye&period;</l> <!--SLG trans: [thy] to [th&ydot;]-->
-		<l xml:id="harley4690_203">Do palmers no velanye &period;</l>
+		<l xml:id="harley4690_201"><choice><abbr>&thorn;</abbr><expan>&thorn;ou</expan></choice> ne scholdest hem der&ydot; myght ne deye&middot;</l>
+    	<l xml:id="harley4690_202"><name type="person" ref="#EmperorAlmayne">Syr Emperour</name> for th&ydot; courtesye&middot;</l>
+		<l xml:id="harley4690_203">Do palmers no velanye &middot;</l>
 		<l xml:id="harley4690_204">ffor ys loue <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> vs dere boughte</l>
 		<l xml:id="harley4690_205">lete vs goo and dere vs noughte</l>
 		<l xml:id="harley4690_206">he commawnded &middot; swithe sone</l>
-		<l xml:id="harley4690_207">yn prisoune &thorn;ei <choice><abbr>schuld</abbr><expan>schulde</expan></choice> be done</l> <!--SLG trans: [schuld] to [schulde]. There's also a loop above [&thorn;ei] but I don't know what it abbreviates.--><!--LKN trans: I wondered about that loop as well, but it appears by all accounts just to be a "dot" for the i...-->
-		<l xml:id="harley4690_208">the porter ganne hem vnderfongge&middot;</l> <!--SLG trans: period following [vnderfongge]--><!--LKN: accepted-->
-		<l xml:id="harley4690_209">and towke <name type="person" subtype="historical" ref="#KingRichard">Richarde</name> by &thorn;e honde</l>
-		<l xml:id="harley4690_210" n="210">and bothe is felawes h&ydot;m with</l> <!--SLG trans: [hym] to [h&ydot;m]-->
-    	<l xml:id="harley4690_211">there hadde they no nother gryt<unclear reason="illegible">h</unclear></l><note>The final character of &#39;gryth&#39; is illegible. We follow both Brunner and the logic of the rhyme scheme as a result.</note>
+		<l xml:id="harley4690_207">yn prisoune &thorn;ei <choice><abbr>schuld</abbr><expan>schulde</expan></choice> be done</l>
+		<l xml:id="harley4690_208">the porter ganne hem vnderfongge&middot;</l>
+		<l xml:id="harley4690_209">and towke Richarde by &thorn;e honde</l>
+		<l xml:id="harley4690_210" n="210">and bothe is felawes h&ydot;m with</l>
+    	<l xml:id="harley4690_211">there hadde they no nother gryt<unclear reason="illegible">h</unclear></l><note type="text" corresp="#harley4690_211">The final character of &#39;gryth&#39; is illegible. We follow both Brunner and the logic of the rhyme scheme as a result.</note>
 	
 	    <pb xml:id="harley4690_fol110v" n="fol110v" facs="harley_ms_4690_f110v.tif"/>
 	    <cb n="1"/>
