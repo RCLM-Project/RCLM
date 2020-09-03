@@ -289,7 +289,7 @@
 		<l xml:id="harley4690_199">though doest no right so mote y thee&middot;</l>
 		<l xml:id="harley4690_200" n="200">palmers thatt goo by the weye</l>
 		<l xml:id="harley4690_201"><choice><abbr>&thorn;</abbr><expan>&thorn;ou</expan></choice> ne scholdest hem der&ydot; myght ne deye&middot;</l>
-    	<l xml:id="harley4690_202"><name type="person" ref="#EmperorAlmayne">Syr Emperour</name> for th&ydot; courtesye&middot;</l>
+    	<l xml:id="harley4690_202">Syr Emperour for th&ydot; courtesye&middot;</l>
 		<l xml:id="harley4690_203">Do palmers no velanye &middot;</l>
 		<l xml:id="harley4690_204">ffor ys loue <choice><abbr>&thorn;</abbr><expan>&thorn;at</expan></choice> vs dere boughte</l>
 		<l xml:id="harley4690_205">lete vs goo and dere vs noughte</l>
@@ -303,48 +303,48 @@
 	    <pb xml:id="harley4690_fol110v" n="fol110v" facs="harley_ms_4690_f110v.tif"/>
 	    <cb n="1"/>
 	    <l xml:id="harley4690_212">Till thet other da&ydot; atte prime</l> 
-	    <l xml:id="harley4690_213">the k&ydot;ngges sone come that t&ydot;me .</l>
-    	<l xml:id="harley4690_214"><name type="person" ref="#Ardour">Ardour</name> was is right name</l> <!-- I don't know if Ardour is historical so I've not included a subtype here for the time being --><!--LKN trans: Ardour is the fictional king's son, and so should be noted as such-->
-    	<l xml:id="harley4690_215">he thought to do <name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Richarde</name> schame .</l>
+	    <l xml:id="harley4690_213">the k&ydot;ngges sone come that t&ydot;me&middot;</l>
+    	<l xml:id="harley4690_214">Ardour was is right name</l><note type="expl" resp="#LKN #SLG" corresp="#harley4690_213">Ardour is the fictional son of the fictional emperor of Almayne.</note>
+    	<l xml:id="harley4690_215">he thought to do k&ydot;ng Richarde schame&middot;</l>
 	    <l xml:id="harley4690_216">ffor he was holden &ydot; understonde</l>
-	    <l xml:id="harley4690_217">the strengest man of alle &thorn;at londe .</l>
+	    <l xml:id="harley4690_217">the strengest man of alle &thorn;at londe &middot;</l>
 	    <l xml:id="harley4690_218">To the porter thenne seide hee</l> 
-	    <l xml:id="harley4690_219">alle &thorn;i[s] prisoners &thorn;[ou] lette me see .</l> <!---LKN text: there is an abbreviation mark above the &quot;þi,&quot; but Brunner does not account for it in his edition. My guess is that it&#39;s meant to be expanded with an &quot;s&quot; at the end, but would like to hear your thoughts also!-->
+	    <l xml:id="harley4690_219">alle <choice><abbr>&thorn;i</abbr><expan>&thorn;is</expan></choice> prisoners <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> lette me see &middot;</l>
 	    <l xml:id="harley4690_220" n="220">the porter seide syr atte th&ydot; wille</l>
-	    <l xml:id="harley4690_221">youre commawndement &ydot; schall fylle .</l>
+	    <l xml:id="harley4690_221">youre commawndement &ydot; schall fylle&middot;</l>
 	    <l xml:id="harley4690_222">he brought hem fforthe sone anone</l>
-    	<l xml:id="harley4690_223">and <name type="person" subtype="historical" ref="#KingRichard">Richard</name> ganne fformest gone .</l> 
-    	<l xml:id="harley4690_224">the <name type="person" ref="#EmperorAlmayne">emperour</name> ys sone hym vndernam</l>
-    	<l xml:id="harley4690_225">Art thow <name type="person" subtype="historical" ref="#KingRichard">Richard</name> &thorn;e strong manne .</l>
+    	<l xml:id="harley4690_223">and Richard ganne fformest gone &middot;</l> 
+    	<l xml:id="harley4690_224">the emperour ys sone hym vndernam</l>
+    	<l xml:id="harley4690_225">Art thow Richard &thorn;e strong manne&middot;</l>
 	    <l xml:id="harley4690_226">as men seyen in euer&ydot; londe</l>
-	    <l xml:id="harley4690_227">Durste &thorn;u stonde a boffete of m&ydot; honde</l><note>Brunner transcribes as &quot;boffett&quot; but the final letter looks much more like an &quot;e.&quot;.</note>
+	    <l xml:id="harley4690_227">Durste &thorn;u stonde a boffete of m&ydot; honde</l><note type="text" resp="#LKN" corresp="#harley4690_227">Brunner transcribes as &quot;boffett&quot; but the final letter looks much more like an &quot;e.&quot;.</note>
 	    <l xml:id="harley4690_228">and &ydot; schalle &yogh;eue the leue</l> 
 	    <l xml:id="harley4690_229">A nother boffette me to yeve</l> 
-    	<l xml:id="harley4690_230" n="230">hastel&ydot; <name type="person" subtype="historical" ref="#KingRichard">k&ydot;ng Richarde</name></l>
-	    <l xml:id="harley4690_231">G[ra]unted hym in that fforwarde .</l>
-    	<l xml:id="harley4690_232">the <name type="person" ref="#EmperorAlmayne">emperour</name> is sone bothe fers [and] prout</l>
-    	<l xml:id="harley4690_233">yaff to <name type="person" subtype="historical" ref="#KingRichard">Rych[arde]</name> a swithe sore cloute .</l>
-	    <l xml:id="harley4690_234">the fyre of is &ydot;en oute sprangge .</l>
-    	<l xml:id="harley4690_235"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> &thorn;ought he dude hym wrong</l>
-	    <l xml:id="harley4690_236">&ydot; the swere by seint G&ydot;melyne</l> 
+    	<l xml:id="harley4690_230" n="230">hastel&ydot; k&ydot;ng Richarde</l>
+	    <l xml:id="harley4690_231"><choice><abbr>Gunted</abbr><expan>Graunted</expan></choice> hym in that fforwarde &middot;</l>
+    	<l xml:id="harley4690_232">the emperour is sone bothe fers <choice><abbr>&amp;</abbr><expan>and</expan></choice> prout</l>
+    	<l xml:id="harley4690_233">yaff to <choice><abbr>Rych</abbr><expan>Rychard</expan></choice> a swithe sore cloute &middot;</l>
+	    <l xml:id="harley4690_234">the fyre of is &ydot;en oute sprangge&middot;</l>
+    	<l xml:id="harley4690_235">Richard &thorn;ought he dude hym wrong</l>
+	    <l xml:id="harley4690_236">&ydot; the swere by seint G&ydot;melyne</l> <!--SLG: note needed for Saint Gymelyne-->
 	    <l xml:id="harley4690_237">to morowe &thorn;is t&ydot;me y schall pa&ydot; &thorn;ine</l> 
-    	<l xml:id="harley4690_238">&thorn;e <name type="person" ref="#EmperorAlmayne">Emperour</name> is sone on hym loughe</l> 
-	    <l xml:id="harley4690_239">and seid he scholde haue is wille &ydot; nough .</l> 
-	    <l xml:id="harley4690_240" n="240">Bothe of drinke and of mete .</l>
-	    <l xml:id="harley4690_241">Of the beste he wolde ete .</l> 
+    	<l xml:id="harley4690_238">&thorn;e Emperour is sone on hym loughe</l> 
+	    <l xml:id="harley4690_239">and seid he scholde haue is wille &ydot; nough&period;</l> 
+	    <l xml:id="harley4690_240" n="240">Bothe of drinke and of mete &middot;</l>
+	    <l xml:id="harley4690_241">Of the beste he wolde ete &middot;</l> 
 	    <l xml:id="harley4690_242">that he durst itte notte wite</l>
-	    <l xml:id="harley4690_243">ffor ffeb&ydot;lnesse ys d&ydot;nte to quyte .</l>
+	    <l xml:id="harley4690_243">ffor ffeb&ydot;lnesse ys d&ydot;nte to quyte &middot;</l>
 	    <l xml:id="harley4690_244">On the morwne whanne itte was da&ydot;</l>
-    	<l xml:id="harley4690_245"><name type="person" subtype="historical" ref="#KingRichard">Richard</name> aris w[ith] outen dela&ydot;</l>
-	    <l xml:id="harley4690_246">And a fuyre he dydde h&ydot;m dyghte .</l>
+    	<l xml:id="harley4690_245">Richard aros <choice><abbr>wt</abbr><expan>with</expan></choice> outen dela&ydot;</l>
+	    <l xml:id="harley4690_246">And a fuyre he dydde h&ydot;m dyghte &middot;</l>
 	    <l xml:id="harley4690_247">and towke wexe fayre and bryghte</l>
 	    <l xml:id="harley4690_248">B&ydot; the fuyre he wexed is honde</l>
-	    <l xml:id="harley4690_249">alle aboute y vnderstonde .</l>
-	    <l xml:id="harley4690_250" n="250">he made is honde well and slyghte .</l>
-	    <l xml:id="harley4690_251">to holde &thorn;e pa&ydot;ement &thorn;[at] he behighte .</l>
-    	<l xml:id="harley4690_252">&thorn;e <name type="person" ref="#EmperorAlmayne">Emperour</name> ys sone come thanne</l>
-	    <l xml:id="harley4690_253">...o kepe forwarde as a trow manne</l> 
-    	<l xml:id="harley4690_254">...d b&ydot;fore <name type="person" subtype="historical" ref="#KingRichard">k&ydot;ngge Richarde</name> stode .</l>
+	    <l xml:id="harley4690_249">alle aboute y vnderstonde &middot;</l>
+	    <l xml:id="harley4690_250" n="250">he made is honde well and slyghte &middot;</l>
+	    <l xml:id="harley4690_251">to holde &thorn;e pa&ydot;ement <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> he behighte&middot;</l>
+    	<l xml:id="harley4690_252">&thorn;e Emperour ys sone come thanne</l>
+	    <l xml:id="harley4690_253"><gap reason="illegible" agent="tear" quantity="1" unit="character"/>o kepe forwarde as a trow manne&period;</l> 
+    	<l xml:id="harley4690_254"><gap reason="illegible" agent="tear" quantity="2" unit="character"/>d b&ydot;fore k&ydot;ngge Richarde stode &middot;</l>
 	
     	<cb n="2"/>
 	    	
