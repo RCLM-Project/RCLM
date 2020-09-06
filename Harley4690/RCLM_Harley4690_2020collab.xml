@@ -304,7 +304,7 @@
 	    <cb n="1"/>
 	    <l xml:id="harley4690_212">Till thet other da&ydot; atte prime</l> 
 	    <l xml:id="harley4690_213">the k&ydot;ngges sone come that t&ydot;me&middot;</l><!--LKN summ: Richard and Modard's Son Exchange Blows (ExchangeOfBlows)-->
-    	<l xml:id="harley4690_214">Ardour was is right name</l><note type="expl" resp="#LKN #SLG" corresp="#harley4690_213">Ardour, son of the fictional German emperor/king, is also fictional.</note>
+    	<l xml:id="harley4690_214">Ardour was is right name</l><note type="expl" resp="#LKN #SLG" corresp="#harley4690_213">Ardour, son of the fictional Emperor of Almayne, is also fictional.</note>
     	<l xml:id="harley4690_215">he thought to do k&ydot;ng Richarde schame&middot;</l>
 	    <l xml:id="harley4690_216">ffor he was holden &ydot; understonde</l>
 	    <l xml:id="harley4690_217">the strengest man of alle &thorn;at londe &middot;</l>
@@ -326,7 +326,7 @@
     	<l xml:id="harley4690_233">yaff to <choice><abbr>Rych</abbr><expan>Rychard</expan></choice> a swithe sore cloute &middot;</l>
 	    <l xml:id="harley4690_234">the fyre of is &ydot;en oute sprangge&middot;</l>
     	<l xml:id="harley4690_235">Richard &thorn;ought he dude hym wrong</l>
-	    <l xml:id="harley4690_236">&ydot; the swere by seint G&ydot;melyne</l> <!--LKN: see n. 763 in Larkin; it's a strange form of St. Martin--><!--SLG expl: Having trouble finding anything on Saint Gemelyne-->
+	    <l xml:id="harley4690_236">&ydot; the swere by seint G&ydot;melyne</l><note type="expl" resp="#LKN #SLG" corresp="#harley4690_236">Saint Gymelyne, or Gemelyne, is a rare form of St. Martin. See Larkin, n. 763.</note>
 	    <l xml:id="harley4690_237">to morowe &thorn;is t&ydot;me y schall pa&ydot; &thorn;ine</l> 
     	<l xml:id="harley4690_238">&thorn;e Emperour is sone on hym loughe</l> 
 	    <l xml:id="harley4690_239">and seid he scholde haue is wille &ydot; nough&period;</l> 
@@ -434,7 +434,7 @@
     	<l xml:id="harley4690_333">and didde ys lordes <choice><abbr>commawndemet</abbr><expan>commawndement</expan></choice></l>
     	<l xml:id="harley4690_334">fulle stronge warde on h&ydot;m he sette</l> 
     	<l xml:id="harley4690_335">&thorn;att da&ydot; ete Richarde no mete &middot;</l> 
-    	<l xml:id="harley4690_336">&thorn;e Emperour ys doughter ley on bour</l> <!--LKN summ: Richard and Margery (Modard's Daughter) Become Lovers (use anchor tag: Lovers)--><!--LKN:that she should! Go for it, Sarah!--><!--SLG expl: I think Margery should have a note!-->
+    	<l xml:id="harley4690_336">&thorn;e Emperour ys doughter ley on bour</l><note type="expl" resp="#SLG" corresp="#harley4690_336">Following Richard's murder of her brother Ardour, Margery, the fictional daughter of the emperor of Almayne, engages in a sexual relationship with Richard. She informs Richard of her father's plot with the lion and is crucial to his survival, but remains largely unacknowledged in <emph rend="italic">RCL</emph> scholarship.</note><!--LKN summ: Richard and Margery (Modard's Daughter) Become Lovers (use anchor tag: Lovers)-->
     	<l xml:id="harley4690_337"><choice><abbr>wt</abbr><expan>with</expan></choice> her maydennez of grete honoure</l>
     	<l xml:id="harley4690_338">Marger&ydot; &thorn;at maiden highte</l>
     	<l xml:id="harley4690_339">sche loued Richarde <choice><abbr>wt</abbr><expan>with</expan></choice> alle her m&ydot;ght</l>
