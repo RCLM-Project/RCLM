@@ -4049,7 +4049,7 @@
 		<l xml:id="wynken1509_3495">Kynge Rycharde spake to an olde man</l>
 		<l xml:id="wynken1509_3496">Wende home and tell thy sowdan</l>
 		<l xml:id="wynken1509_3497">His malyncoly that he abbate</l>
-		<l xml:id="wynken1509_3498">And a<unclear reason="illegible">l</unclear>so saye ye come to late</l>
+		<l xml:id="wynken1509_3498">And a<unclear reason="printfoul">l</unclear>so saye ye come to late</l>
 			<note type="text" resp="SNM" corresp="wynkyn1509_3477">The "l" in "also" is barely legible, probably due to a printing foul.</note>
 		<l xml:id="wynken1509_3499">To slowly was the message gessed</l>
 		<l xml:id="wynken1509_3500">Or that ye came the flesshe was dressed</l>
@@ -4291,7 +4291,7 @@
 		<l xml:id="wynken1509_3698">Salandyn that herde tell</l>
 		<l xml:id="wynken1509_3699">And came pryckynge after snell</l>
 
-<pb xml:id="wynken1509_372jpg" n="372jpg" facs="JRL19060372.jpg"/>
+	<pb xml:id="wynken1509_372jpg" n="372jpg" facs="JRL19060372.jpg"/>
 	<figure xml:id="wynken1509_figure10" type="woodblock" corresp="#wynken1509_372jpg"><figDesc resp="#CMP"><!-- add desc of woodblock image--></figDesc></figure>
 
 		<l xml:id="wynken1509_3700">With syxty thousande sarasynes stronge</l>
@@ -4934,7 +4934,7 @@
 
 <pb xml:id="wynken1509_391jpg" n="391jpg" facs="JRL19060391.jpg"/>
 
-		<l xml:id="wynken1509_4274">With a chayne todyger faste</l>
+		<l xml:id="wynken1509_4274">With a chayne togyder faste</l>
 		<l xml:id="wynken1509_4275">The brydell vpon the heed he caste</l>
 		<l xml:id="wynken1509_4276">As the aungell had hym taught</l>
 		<l xml:id="wynken1509_4277">Two good hokes forgate he naught</l>
@@ -4948,7 +4948,8 @@
 		<l xml:id="wynken1509_4285">And syth he rose from deth to lyue</l>
 		<l xml:id="wynken1509_4286">And after wente to hell</l>
 		<l xml:id="wynken1509_4287">And the fendes myght gan fell</l>
-		<l xml:id="wynken1509_4288">And afterwarde styed in to heuen </l><!-- #CMP expl: [Stien] (MED id 3975368) is a verb for ascension and decension from the Old English [stigan] but has fallen out of usage.  -->
+		<l xml:id="wynken1509_4288">And afterwarde styed in to heuen </l>
+			<note type="expl" resp="#CMP" corresp="wynken1509_4288">[Stien] (MED id 3975368) is a verb for ascension and decension from the Old English [stigan] but has fallen out of usage. </note> 
 		<l xml:id="wynken1509_4289">God for his names seuen</l>
 		<l xml:id="wynken1509_4290">One god in persones thre</l>
 		<l xml:id="wynken1509_4291">In his name I coniure the</l>
@@ -4967,7 +4968,7 @@
 		<l xml:id="wynken1509_4304">Twenty thousande and ten</l>
 		<l xml:id="wynken1509_4305">Ayenst our good crysten men</l>
 
-<pb xml:id="wynken1509_392jpg" n="392jpg" facs="JRL19060392.jpg"/>
+	<pb xml:id="wynken1509_392jpg" n="392jpg" facs="JRL19060392.jpg"/>
 
 		<l xml:id="wynken1509_4306">And euer was twelue of them</l>
 		<l xml:id="wynken1509_4307">Ayenst one of our crysten men</l>
@@ -4975,23 +4976,23 @@
 		<l xml:id="wynken1509_4309">Laye the sarasynes hoost</l>
 		<l xml:id="wynken1509_4310">The grounde myght vnneth be sene</l>
 		<l xml:id="wynken1509_4311">For bryght armure and speres kene</l>
-		<l xml:id="wynken1509_4312">They made sheltron + batayll abyde</l>
+		<l xml:id="wynken1509_4312">They made sheltron &amp; batayll abyde</l>
 		<l xml:id="wynken1509_4313">Messengers bytwene dyde ryde</l>
-		<l xml:id="wynken1509_4314">To kynge Phelyp + kynge Rycharde</l>
+		<l xml:id="wynken1509_4314">To kynge Phelyp &amp; kynge Rycharde</l>
 		<l xml:id="wynken1509_4315">Yf they wolde holde forwarde</l>
 		<l xml:id="wynken1509_4316">That they made the daye before</l>
-		<l xml:id="wynken1509_4317">The sarasynes ben redy lesse + more</l>
+		<l xml:id="wynken1509_4317">The sarasynes ben redy lesse &amp; more</l>
 		<l xml:id="wynken1509_4318">Foure hondred thousande there bene</l>
 		<l xml:id="wynken1509_4319">Kynge Rycharde gan loke and sene</l>
 		<l xml:id="wynken1509_4320">Lyke as snowe lyeth on the mountaynes</l>
 		<l xml:id="wynken1509_4321">So were full fylled hylles and playnes</l>
-		<l xml:id="wynken1509_4322">With hawberkes bryght + harneys clere</l>
+		<l xml:id="wynken1509_4322">With hawberkes bryght &amp; harneys clere</l>
 		<l xml:id="wynken1509_4323">Of trumpettes and of tabourere</l>
 		<l xml:id="wynken1509_4324">To here the noyse it was grete wonder</l>
-		<l xml:id="wynken1509_4325">As the worlde shoue and vnder</l>
-		<l xml:id="wynken1509_4326">SHolde haue fallen so fared the sowne</l>
+		<l xml:id="wynken1509_4325">As the worlde ahoue and vnder</l>
+		<l xml:id="wynken1509_4326">Sholde haue fallen so fared the sowne</l>
 		<l xml:id="wynken1509_4327">Our crysten hoost made them bowne</l>
-		<l xml:id="wynken1509_4328">Kynge Rycharde nothynge them adradde</l>
+		<l xml:id="wynken1509_4328">Kynge Rycharde nothynge them <unclear reason="printfoul">adradde</unclear></l>
 		<l xml:id="wynken1509_4329">To his folke hors and harnes he gradde</l>
 		<l xml:id="wynken1509_4330">He sayd felawes for the rood</l>
 		<l xml:id="wynken1509_4331">Loke ye be of comforte good</l>
@@ -5002,7 +5003,7 @@
 		<l xml:id="wynken1509_4336">Bur helpe and gyue vs myght</l>
 		<l xml:id="wynken1509_4337">Beholde how that I shall fyght</l>
 
-<pb xml:id="wynken1509_393jpg" n="393jpg" facs="JRL19060393.jpg"/>
+	<pb xml:id="wynken1509_393jpg" n="393jpg" facs="JRL19060393.jpg"/>
 
 		<l xml:id="wynken1509_4338">With swerde spere and axe of stele</l>
 		<l xml:id="wynken1509_4339">But I this daye mete hym wele</l>
@@ -5037,7 +5038,7 @@
 		<l xml:id="wynken1509_4368">Bytwene them and the cyte</l>
 		<l xml:id="wynken1509_4369">That none of them myght flee</l>
 
-<pb xml:id="wynken1509_394jpg" n="394jpg" facs="JRL19060394.jpg"/> 
+	<pb xml:id="wynken1509_394jpg" n="394jpg" facs="JRL19060394.jpg"/> 
 
 		<l xml:id="wynken1509_4370">But they wolde to the ryuer gone</l>
 		<l xml:id="wynken1509_4371">Or elles the crysten sholde them slone</l>
@@ -5045,6 +5046,7 @@
 		<l xml:id="wynken1509_4373">That one gaue assaute to the cyte</l>
 		<l xml:id="wynken1509_4374">The seconde with hym he ladde</l>
 		<l xml:id="wynken1509_4375">To brynge his hors he badde</l>
+			<!--SNM expl possible note on the making of a knight and the relationship between knight and horse in battle-->
 		<l xml:id="wynken1509_4376">That the sowdan had hym sente</l>
 		<l xml:id="wynken1509_4377">He sayd with his owne presente</l>
 		<l xml:id="wynken1509_4378">I shall hym mete longe or nyght</l>
@@ -5064,6 +5066,7 @@
 		<l xml:id="wynken1509_4392">And they were wrought full well</l>
 		<l xml:id="wynken1509_4393">Bothe his gyrthes and his ptytrell</l>
 		<l xml:id="wynken1509_4394">And a queyntyse of the kynges owne</l>
+			<note type="expl" resp="#SNM" corresp="wynken1509_4394">[queyntyse] (MED) a noun meaning "ornamental battle trappings for man or horse; a surcoat or mantle worn over armor and bearing a heraldic device; a retainer's livery or other identifying device." Richard here claims the horse, a gift from the Sultan, with his own livery.</note> 
 		<l xml:id="wynken1509_4395">Upon his hors was throwne</l>
 		<l xml:id="wynken1509_4396">Before his arson an axe of stele</l>
 		<l xml:id="wynken1509_4397">And on that other syde a maswele</l>
@@ -5071,9 +5074,10 @@
 		<l xml:id="wynken1509_4399">Frome the creste ryght to the tone</l>
 		<l xml:id="wynken1509_4400">He was couered wondersly wele</l>
 		<l xml:id="wynken1509_4401">All with splentes of good stele</l>
-	<fw type="footer">Kynge R.		+		N.i. </fw>
-
-<pb xml:id="wynken1509_395jpg" n="395jpg" facs="JRL19060395.jpg"/>
+	
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;i&period;</fw>
+<!-- SNM phase 1-2 complete 391-394 jpg-->
+	<pb xml:id="wynken1509_395jpg" n="395jpg" facs="JRL19060395.jpg"/>
 
 		<l xml:id="wynken1509_4402">And there aboue an hauberke</l>
 		<l xml:id="wynken1509_4403">A shafte he had of trusty werke</l>
