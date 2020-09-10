@@ -3423,7 +3423,7 @@
 
 		<l xml:id="wynken1509_2935">But yf Salandyn the sowdan</l>
 		<l xml:id="wynken1509_2936">Came to them with men anone</l>
-		<l xml:id="wynken1509_2937">Salandyn was ten myle thne</l> <!--Line xml id duplicate-->
+		<l xml:id="wynken1509_2937">Salandyn was ten myle thne</l> 
 		<l xml:id="wynken1509_2938">And sawe the torches lyght bren</l>
 		<l xml:id="wynken1509_2939">He let gader his folke togyder</l>
 		<l xml:id="wynken1509_2940">As thycke as snowe falleth in wynter</l>
@@ -3606,7 +3606,7 @@
 		<l xml:id="wynken1509_3097">And had nyght entred and in Icome</l>
 		<l xml:id="wynken1509_3098">Whan kynge Rycharde that tydynges herde</l>
 		<l xml:id="wynken1509_3099">As a wdde man tho he sterte ferde </l>
-		<!-- #CMP text: High certainty that [wdde] should be [wode]. -->
+			<!-- #CMP text: High certainty that [wdde] should be [wode]. -->
 		<l xml:id="wynken1509_3100">And he armed hym in his armour</l>
 		<l xml:id="wynken1509_3101">For loue of cryst our sauyour</l>
 		<l xml:id="wynken1509_3102" n="3080">To fyght I haue grete delyte</l>
@@ -3766,7 +3766,8 @@
 		<l xml:id="wynken1509_3240">Than answered the kynge of fraunce</l>
 		<l xml:id="wynken1509_3241">To kynge Rycharde without dystaunce</l>
 		<l xml:id="wynken1509_3242" n="3220">O suffre syr beus amys</l>
-		<l xml:id="wynken1509_3243">Thou doost wronge by saynt denys</l> <!-- #CMP expl: add note about saint (Nolie to write?)-->
+		<l xml:id="wynken1509_3243">Thou doost wronge by saynt denys</l> 
+			<!-- #CMP expl: add note about saint (Nolie to write?)-->
 		<l xml:id="wynken1509_3244">That thou thretenest that markys</l>
 		<l xml:id="wynken1509_3245">That neuer dyde the amys</l>
 		<l xml:id="wynken1509_3246">Yf he haue done ony thynge yll</l>
