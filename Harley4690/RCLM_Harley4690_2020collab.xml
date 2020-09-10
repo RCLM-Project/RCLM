@@ -1190,7 +1190,7 @@
     	<l xml:id="harley4690_1016">Att the hauen hym to sorowe</l>
     	<l xml:id="harley4690_1017">and werche hym as moche wrake</l>
     	<l xml:id="harley4690_1018">as ys menne <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> y haue take</l>
-    	<l xml:id="harley4690_1019"><space quantity="4" unit="chars"/>the messangers oute gan rape</l> 
+    	<l xml:id="harley4690_1019"><space quantity="4" unit="chars"/>the messangers oute gan rape</l> <!--APB final trans: same "r" as "Robarte" in second line > capitalize or no? -->
     	<l xml:id="harley4690_1020" n="1020">And wer fulle faine so to scape</l> 
     	<l xml:id="harley4690_1021">thenne come a manne of honoure</l> 
     	<l xml:id="harley4690_1022">that was stywarde to the <choice><abbr>empour</abbr><expan>emperour</expan></choice></l>
@@ -1206,7 +1206,7 @@
     	<l xml:id="harley4690_1032">and kepe &thorn;&ydot; selfe fro damage&period;</l>
     	<l xml:id="harley4690_1033">ys eyen tw&ydot;nkeled the emperour</l>
     	<l xml:id="harley4690_1034">wyth semblante sadde and sowre</l>
-    	<l xml:id="harley4690_1035">and a knyfe towke vpp full rathe</l>
+    	<l xml:id="harley4690_1035">and a knyfe towke vpp full rathe</l> <!--APB final trans: "r" > "R"? -->
     	<l xml:id="harley4690_1036">ffor to do the st&ydot;warde skathe</l>
     	<l xml:id="harley4690_1037">he called hym with outen fa&ydot;le</l>
     	<l xml:id="harley4690_1038">for to herkenne a cownce&ydot;lle&period;</l>
@@ -1222,7 +1222,7 @@
     	<l xml:id="harley4690_1048">Butt he &ydot;n haste turne a&yogh;e&ydot;ne</l>
     	<l xml:id="harley4690_1049">the stywarde ys nose in honde hente</l>
     	<l xml:id="harley4690_1050" n="1050">&ydot; wysse ys face was alle to schente</l>
-    	<l xml:id="harley4690_1051">Owte of the courte blyve he ranne</l> 
+    		<l xml:id="harley4690_1051">Owte of the courte blyve he ranne</l> <!--APB final trans: "r" > "R"? -->
     	<l xml:id="harley4690_1052">leve he towke of no manne</l>
     	
     	<cb n="2"/>
