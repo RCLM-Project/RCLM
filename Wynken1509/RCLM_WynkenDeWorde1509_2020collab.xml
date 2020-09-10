@@ -5086,10 +5086,11 @@
 		<l xml:id="wynken1509_4406">And helme he had of ryche entayle</l>
 		<l xml:id="wynken1509_4407">Trusty and trewe was his ventayle</l>
 		<l xml:id="wynken1509_4408">Upon his creste a doue whyte</l>
-		<l xml:id="wynken1509_4409">Sygnyfyaunce of the holy spyryte</l> <!-- #CMP expl: add note about dove in Isumbras? (maybe Sarah to write?)-->
+		<l xml:id="wynken1509_4409">Sygnyfyaunce of the holy spyryte</l> 
+			<!-- #CMP expl: add note about dove in Isumbras? (maybe Sarah to write?)-->
 		<l xml:id="wynken1509_4410">Upon a crosse the doue stode</l>
 		<l xml:id="wynken1509_4411">Of golde I wrought ryche and good</l>
-		<l xml:id="wynken1509_4412">God hym selfe Mary and Iohn[ne]</l>
+		<l xml:id="wynken1509_4412">God hym selfe Mary and <choice><abbr>Iohn</abbr><expan>Iohnne</expan></choice></l>
 		<l xml:id="wynken1509_4413">As he was done the rode vpon</l>
 		<l xml:id="wynken1509_4414">In sygnyfyaunce for whome he faught</l>
 		<l xml:id="wynken1509_4415">The spere heed forgate he naught</l>
@@ -5112,7 +5113,7 @@
 		<l xml:id="wynken1509_4432">And the sarasynes theyr wyll in wolde</l>
 		<l xml:id="wynken1509_4433">Quod kynde Rycharde therto I holde</l>
 
-<pb xml:id="wynken1509_396jpg" n="396jpg" facs="JRL19060396.jpg"/>
+	<pb xml:id="wynken1509_396jpg" n="396jpg" facs="JRL19060396.jpg"/>
 
 		<l xml:id="wynken1509_4434">Thereto my gloue as I am knyght</l>
 		<l xml:id="wynken1509_4435">They be armed and redy dyght</l>
@@ -5128,13 +5129,15 @@
 		<l xml:id="wynken1509_4445">Encountred with the sowdan</l>
 		<l xml:id="wynken1509_4446">The chefe was tolde of damas</l>
 		<l xml:id="wynken1509_4447">His truste vpon his mare was</l>
+			<!-- SNM possible note about Richard riding a mare instead of a stallion into battle; thinking of Sir Perceval of galles -->
 		<l xml:id="wynken1509_4448">And therfore as the boke vs telles</l>
 		<l xml:id="wynken1509_4449">His crouper henge full of belles</l>
 		<l xml:id="wynken1509_4450">And his peytrell and his arsowrne</l>
 		<l xml:id="wynken1509_4451">Thre myle men myght here the sowne</l>
 		<l xml:id="wynken1509_4452">His mare nyghed his belles dyde rynge</l>
 		<l xml:id="wynken1509_4453">For grete pryde without lesynge</l>
-		<l xml:id="wynken1509_4454">A faucon brode in honde he bare</l>
+		<l xml:id="wynken1509_4454">A faucon brode in honde he bare</l> 
+			<!-- SNM isn't there a thing about falcons being preferred by women and hawks by men? I vaguely remember that from Yonec. May be worth looking into.-->
 		<l xml:id="wynken1509_4455">For he thought he wolde thare</l>
 		<l xml:id="wynken1509_4456">Haue slayne Rycharde with treasowne</l>
 		<l xml:id="wynken1509_4457">Whan his colte sholde knele downe</l>
@@ -5146,9 +5149,10 @@
 		<l xml:id="wynken1509_4463">And gaue the sowdan his deth with a dente</l>
 		<l xml:id="wynken1509_4464">In his shelde verament</l>
 		<l xml:id="wynken1509_4465">Was paynted a serpent</l>
-	<fw type="footer">Kynge R.		+		N.ii. </fw>
+		
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;ii&period;</fw>
 
-<pb xml:id="wynken1509_397jpg" n="397jpg" facs="JRL19060397.jpg"/>
+	<pb xml:id="wynken1509_397jpg" n="397jpg" facs="JRL19060397.jpg"/>
 
 		<l xml:id="wynken1509_4466">With the spere that Rycharde helde</l>
 		<l xml:id="wynken1509_4467">He bare hym thorugh vnder his shelde</l>
