@@ -4049,7 +4049,7 @@
 		<l xml:id="wynken1509_3495">Kynge Rycharde spake to an olde man</l>
 		<l xml:id="wynken1509_3496">Wende home and tell thy sowdan</l>
 		<l xml:id="wynken1509_3497">His malyncoly that he abbate</l>
-		<l xml:id="wynken1509_3498">And a<unclear reason="printfoul">l</unclear>so saye ye come to late</l>
+		<l xml:id="wynken1509_3498">And a<unclear reason="print_foul">l</unclear>so saye ye come to late</l>
 			<note type="text" resp="SNM" corresp="wynkyn1509_3477">The "l" in "also" is barely legible, probably due to a printing foul.</note>
 		<l xml:id="wynken1509_3499">To slowly was the message gessed</l>
 		<l xml:id="wynken1509_3500">Or that ye came the flesshe was dressed</l>
@@ -4992,7 +4992,7 @@
 		<l xml:id="wynken1509_4325">As the worlde ahoue and vnder</l>
 		<l xml:id="wynken1509_4326">Sholde haue fallen so fared the sowne</l>
 		<l xml:id="wynken1509_4327">Our crysten hoost made them bowne</l>
-		<l xml:id="wynken1509_4328">Kynge Rycharde nothynge them <unclear reason="printfoul">adradde</unclear></l>
+		<l xml:id="wynken1509_4328">Kynge Rycharde nothynge them <unclear reason="print_foul">adradde</unclear></l>
 		<l xml:id="wynken1509_4329">To his folke hors and harnes he gradde</l>
 		<l xml:id="wynken1509_4330">He sayd felawes for the rood</l>
 		<l xml:id="wynken1509_4331">Loke ye be of comforte good</l>
@@ -5076,7 +5076,7 @@
 		<l xml:id="wynken1509_4401">All with splentes of good stele</l>
 	
 		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;i&period;</fw>
-<!-- SNM phase 1-2 complete 391-394 jpg-->
+
 	<pb xml:id="wynken1509_395jpg" n="395jpg" facs="JRL19060395.jpg"/>
 
 		<l xml:id="wynken1509_4402">And there aboue an hauberke</l>
@@ -5180,21 +5180,22 @@
 		<l xml:id="wynken1509_4489">The crysten men hym after dryues</l>
 		<l xml:id="wynken1509_4490">And cryed than slee downe ryght</l>
 		<l xml:id="wynken1509_4491">Bothe sowdans kynges and knyght</l>
-		<l xml:id="wynken1509_4492">Whan the kynge of fraunce wyste + his men</l>
+		<l xml:id="wynken1509_4492">Whan the kynge of fraunce wyste <choice><abbr>&amp;</abbr><expan>and</expan></choice> his men</l>
 		<l xml:id="wynken1509_4493">That the maystry had the crysten</l>
 		<l xml:id="wynken1509_4494">They wexed bolde and good herte toke</l>
 		<l xml:id="wynken1509_4495">Stedes bestrode and shaftes shoke</l>
 		<l xml:id="wynken1509_4496">The kynge of fraunce with a spere</l>
 		<l xml:id="wynken1509_4497">An hethen kynge gan downe bere</l>
 
-<pb xml:id="wynken1509_398jpg" n="398jpg" facs="JRL19060398.jpg"/>
+	<pb xml:id="wynken1509_398jpg" n="398jpg" facs="JRL19060398.jpg"/>
 
 		<l xml:id="wynken1509_4498">And other erles and barownes</l>
 		<l xml:id="wynken1509_4499">Noble men of grete renownes</l>
 		<l xml:id="wynken1509_4500">Slewe the sarasynes downe ryght</l>
 		<l xml:id="wynken1509_4501">Of englonde many a noble knyght</l>
 		<l xml:id="wynken1509_4502">Wrought full well that daye</l>
-		<l xml:id="wynken1509_4503">Of salysbury the longe spaye</l>
+		<l xml:id="wynken1509_4503">Of sa<unclear reason="print_foul">l</unclear>ysbury the longe spaye</l>
+			<note type="text" resp="SNM" corresp="wynken1509_4503">Line 4503 has a faint circle drawn around it in brown ink.</note>
 		<l xml:id="wynken1509_4504">To grounde he felde with his bronde</l>
 		<l xml:id="wynken1509_4505">All tho that he before fonde</l>
 		<l xml:id="wynken1509_4506">Nexte kynge Rycharde euer he was</l>
@@ -5204,13 +5205,14 @@
 		<l xml:id="wynken1509_4510">Where that ony of them come</l>
 		<l xml:id="wynken1509_4511">They spared nother swayne ne grome</l>
 		<l xml:id="wynken1509_4512">That they ne felde all a downe</l>
-		<l xml:id="wynken1509_4513">The sarasynes sledde in the towne </l><!-- #CMP text: Likely a misprinting for [fledde]. -->
+		<l xml:id="wynken1509_4513">The sarasynes sledde in to the towne </l>
+			<note type="text" resp="#CMP" corresp="wynken1509_4513">[sledde] is likely a misprinting for [fledde].</note> 
 		<l xml:id="wynken1509_4514">For grete sorowe that they seen</l>
 		<l xml:id="wynken1509_4515">The teres ranne out of theyr eyen</l>
 		<l xml:id="wynken1509_4516">And swythe mercy they cryde</l>
 		<l xml:id="wynken1509_4517">And soone they opened the gates wyde</l>
-		<l xml:id="wynken1509_4518">ANd let them in at theyr wyll come</l>
-		<l xml:id="wynken1509_4519">THe crysten than the cyte nome</l>
+		<l xml:id="wynken1509_4518">And let them in at theyr wyll come</l>
+		<l xml:id="wynken1509_4519">The crysten than the cyte nome</l>
 		<l xml:id="wynken1509_4520">Anone hastely therwithall</l>
 		<l xml:id="wynken1509_4521">They set baners on the wall</l>
 		<l xml:id="wynken1509_4522">The kynges armes of englonde</l>
@@ -5221,9 +5223,10 @@
 		<l xml:id="wynken1509_4527">And tho began to flee full soone</l>
 		<l xml:id="wynken1509_4528">With hym many a baron and knyght</l>
 		<l xml:id="wynken1509_4529">But kynge Rycharde that was wyght</l>
-	<fw type="footer">Kynge R.		+		N.iii. </fw>
+		
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;iii&period;</fw>
 
-<pb xml:id="wynken1509_399jpg" n="399jpg" facs="JRL19060399.jpg"/>
+	<pb xml:id="wynken1509_399jpg" n="399jpg" facs="JRL19060399.jpg"/>
 
 		<l xml:id="wynken1509_4530">Whan he sawe the sowdan flye</l>
 		<l xml:id="wynken1509_4531">Abyde cowarde he sayd on hye</l>
@@ -5234,6 +5237,7 @@
 		<l xml:id="wynken1509_4536">A grete wood before hym he sawe</l>
 		<l xml:id="wynken1509_4537">Theder in a grete haste he flawe</l>
 		<l xml:id="wynken1509_4538">Rycharde wente the wood nere</l>
+			<!-- SNM worth a note on the relationship between woods and hunting; the Sultan becomes a hunted animal in a ritual that reinforces Richard as King and hunter. Ref. Susan Crane? -->
 		<l xml:id="wynken1509_4539">He douted of encombrere</l>
 		<l xml:id="wynken1509_4540">He myght not in for his tre</l>
 		<l xml:id="wynken1509_4541">Sone he tourned his horse eye</l>
@@ -5257,8 +5261,9 @@
 		<l xml:id="wynken1509_4559">Grete Ioye the crysten dyde make</l>
 		<l xml:id="wynken1509_4560">They kneled and thanked god in heuen</l>
 		<l xml:id="wynken1509_4561">And worshypped his names seuen</l>
+			<!-- SNM note about the seven names of god? I'm conflicted becuase that gives notation to a Christian god that the Mulsim god doesn't get. -->
 
-<pb xml:id="wynken1509_400jpg" n="400jpg" facs="JRL19060400.jpg"/>
+	<pb xml:id="wynken1509_400jpg" n="400jpg" facs="JRL19060400.jpg"/>
 
 		<l xml:id="wynken1509_4562">On bothe sydes were folkes Islawe</l>
 		<l xml:id="wynken1509_4563">But the nombre of the hethen lawe</l>
@@ -5269,7 +5274,7 @@
 		<l xml:id="wynken1509_4568">And hondred thousande and yet mo</l>
 		<l xml:id="wynken1509_4569">Lo suche grace god sente tho</l>
 		<l xml:id="wynken1509_4570">The crysten in to the cyte gone</l>
-		<l xml:id="wynken1509_4571">Of golde + syluer + precyous stone</l>
+		<l xml:id="wynken1509_4571">Of golde &amp; syluer &amp; precyous stone</l>
 		<l xml:id="wynken1509_4572">They founde Inowe without fayle</l>
 		<l xml:id="wynken1509_4573">Mete and drynke and other vytayle</l>
 		<l xml:id="wynken1509_4574">On the morowe whan the kynge arose</l>
@@ -5279,7 +5284,7 @@
 		<l xml:id="wynken1509_4578">There were crysted as I fynde</l>
 		<l xml:id="wynken1509_4579">More than twenty thousynde</l>
 		<l xml:id="wynken1509_4580">Chyrches he let make of crystes lawe</l>
-		<l xml:id="wynken1509_4581">ANd theyr maumettes all to drawe</l>
+		<l xml:id="wynken1509_4581">And theyr maumettes all to drawe</l>
 		<l xml:id="wynken1509_4582">And tho that wolde not crysten become</l>
 		<l xml:id="wynken1509_4583">They were slayne all and some</l>
 		<l xml:id="wynken1509_4584">And departed that tresour</l>
@@ -5289,12 +5294,12 @@
 		<l xml:id="wynken1509_4588">Whan this wad done I you saye</l>
 		<l xml:id="wynken1509_4589">He let his colte vanysshee awaye</l>
 		<lb/>
-	<fw type="heading" xml:id="wynken1509_heading14">¶How kynge Rycharde and the kynge of fraun<lb/>
-	ce were wrothe togyder/and how þ[e] kynge of frau[n]<lb/>
-	wente home to his londe.</fw>
-	<fw type="footer">Kynge R. 		+		N.iiii. </fw>
-
-<pb xml:id="wynken1509_401jpg" n="401jpg" facs="JRL19060401.jpg"/>
+		<fw type="heading" xml:id="wynken1509_heading14">&para;How kynge Rycharde and the kynge of fraun<lb/>
+		ce were wrothe togyder/and how <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> kynge of <choice><abbr>frau</abbr><expan>fraunce</expan></choice><lb/>
+		wente home to his londe&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;iiii&period;</fw>
+<!-- SNM phase 1-2 complete 391-400 jpg -->
+	<pb xml:id="wynken1509_401jpg" n="401jpg" facs="JRL19060401.jpg"/>
 
 		<l xml:id="wynken1509_4590">THERE they dwelled fourtenyght </l>
 			<note type="text" resp="#CMP" corresp="#wynken1509_4549">The initial letter [T] occupies two lines and approx 4-5 characters.</note>
@@ -5330,7 +5335,7 @@
 		<l xml:id="wynken1509_4620">To wende home for maladly</l>
 		<l xml:id="wynken1509_4621">Out of the londe of Surry</l>
 
-<pb xml:id="wynken1509_402jpg" n="402jpg" facs="JRL19060402.jpg"/>
+	<pb xml:id="wynken1509_402jpg" n="402jpg" facs="JRL19060402.jpg"/>
 
 		<l xml:id="wynken1509_4622">Tyll done was goddes seruyse </l>
 		<l xml:id="wynken1509_4623">For lyfe or deth in ony wyse </l>
