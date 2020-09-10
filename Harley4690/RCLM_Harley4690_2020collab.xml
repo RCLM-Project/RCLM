@@ -1190,7 +1190,7 @@
     	<l xml:id="harley4690_1016">Att the hauen hym to sorowe</l>
     	<l xml:id="harley4690_1017">and werche hym as moche wrake</l>
     	<l xml:id="harley4690_1018">as ys menne <choice><abbr>&thorn;t</abbr><expan>&thorn;at</expan></choice> y haue take</l>
-    	<l xml:id="harley4690_1019"><space quantity="4" unit="chars"/>the messangers oute gan rape</l> <!--APB trans: phase 2 should probably encode the gap/indent at the beginning of this line-->
+    	<l xml:id="harley4690_1019"><space quantity="4" unit="chars"/>the messangers oute gan rape</l> 
     	<l xml:id="harley4690_1020" n="1020">And wer fulle faine so to scape</l> 
     	<l xml:id="harley4690_1021">thenne come a manne of honoure</l> 
     	<l xml:id="harley4690_1022">that was stywarde to the <choice><abbr>empour</abbr><expan>emperour</expan></choice></l>
@@ -1218,9 +1218,9 @@
     	<l xml:id="harley4690_1044">Go pleyne the to kyng Richarde</l>
     	<l xml:id="harley4690_1045">and yff he come vppon my londe&period;</l>
     	<l xml:id="harley4690_1046">By the grace of goddes sonde</l>
-    	<!--APB trans: missing 1--><l xml:id="harley4690_1047">&ydot; schalle make h&ydot;m sone fleen</l>
-    	<!--APB trans: missing 2--><l xml:id="harley4690_1048">Butt he &ydot;n haste turne a&yogh;e&ydot;ne</l>
-    	<!--APB trans: missing 3--><l xml:id="harley4690_1049">the stywarde ys nose in honde hente</l>
+    	<l xml:id="harley4690_1047">&ydot; schalle make h&ydot;m sone fleen</l>
+    	<l xml:id="harley4690_1048">Butt he &ydot;n haste turne a&yogh;e&ydot;ne</l>
+    	<l xml:id="harley4690_1049">the stywarde ys nose in honde hente</l>
     	<l xml:id="harley4690_1050" n="1050">&ydot; wysse ys face was alle to schente</l>
     	<l xml:id="harley4690_1051">Owte of the courte blyve he ranne</l> 
     	<l xml:id="harley4690_1052">leve he towke of no manne</l>
@@ -1271,7 +1271,7 @@
     	<l xml:id="harley4690_1094">her gode dayes sone ganne of <gap reason="illegible" agent="tear" quantity="5" unit="chars"/>.....</l>
     	<l xml:id="harley4690_1095">whenne &thorn;at he to pryson ca <gap reason="illegible" agent="tear" quantity="6" unit="chars"/>......</l>
     	<l xml:id="harley4690_1096">thyke axe yn honde he <gap reason="illegible" agent="tear" quantity="8" unit="chars"/>........</l>
-    	<l xml:id="harley4690_1097">and hewe &thorn;er Bothe bar<gap reason="illegible" agent="tear" quantity="10" unit="chars"/>..........</l> <!-- SNM note for Harley team: I have tagged the tear in the manuscript, but have also left the elipses. Do you think we should do both? I am inclined to leave the elipses as a forward-facing way to indicate a gap here, but am open to other ideas-->
+    	<l xml:id="harley4690_1097">and hewe &thorn;er Bothe bar<gap reason="illegible" agent="tear" quantity="10" unit="chars"/>..........</l> <!-- SNM note for Harley team: I have tagged the tear in the manuscript, but have also left the elipses. Do you think we should do both? I am inclined to leave the elipses as a forward-facing way to indicate a gap here, but am open to other ideas--><!-- APB: I like the idea of keeping the ellipses! --></LKN>
     	
     	<!--APB: phase 1 complete-->
     	<!--LKN: comments/corrections addressed up to here...-->
