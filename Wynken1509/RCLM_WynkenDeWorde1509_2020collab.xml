@@ -2614,7 +2614,7 @@
 
         <figure xml:id="wynken1509_figure7" type="woodblock" corresp="#wynken1509_323jpg"><figDesc resp="#CMP"><!-- large woodblock illustration, needs description--></figDesc></figure>
 
-        <l xml:id="wynken1509_2196">KYnge Rycharde I vnderstonde</l><note type="text" resp="#CMP" corresp="#wynken1509_2196">The initial letter &quot;K&quot; is 5 lines long, 9 characters wide, and includes a face.</note>
+        <l xml:id="wynken1509_2196">KYnge Rycharde I vnderstonde</l><note type="text" resp="#CMP">The initial letter &quot;K&quot; is 5 lines long, 9 characters wide, and includes a face.</note>
         <l xml:id="wynken1509_2197">Or he wente out of Englonde</l>
         <l xml:id="wynken1509_2198">Let hym make an axe for the nones</l>
         <l xml:id="wynken1509_2199">To breke therwith þe sarasyns bones</l>
@@ -2721,7 +2721,7 @@
         <l xml:id="wynken1509_2289">All to hewed the gryffons bodyes + bones</l>
         <l xml:id="wynken1509_2290">They smote the cordes and fell downe</l>
         <l xml:id="wynken1509_2291">Of many a ryche pauylyowne</l>
-        <l xml:id="wynken1509_2292" n="2290">And euer cryed squyer and knyght</l>
+        <l xml:id="wynken1509_2292">And euer cryed squyer and knyght</l>
         <l xml:id="wynken1509_2293">Smyte lay on slee downe ryght</l>
         <l xml:id="wynken1509_2294">yelde the tresour ayenwarde</l>
         <l xml:id="wynken1509_2295">That ye toke from kynge Rycharde</l>
@@ -2810,7 +2810,7 @@
         <l xml:id="wynken1509_2370">And cryed mercy with good entent</l>
         <l xml:id="wynken1509_2371">And he forgaue hym his maltalent</l>
         
-       <fw type="footer">Kynge R.		+		G.iiii.</fw> <!-- footer-->
+       <fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>+<space quantity="12" unit="chars"/>G&period;iiii&period;</fw>
 
 <pb xml:id="wynken1509_329jpg" n="329jpg" facs="JRL19060329.jpg"/> 
 
@@ -3062,8 +3062,7 @@
 
 <figure xml:id="wynken1509_figure8" type ="woodblock" corresp="#wynken1509_336jpg"><figDesc resp="#CMP"><!-- block image, needs description--></figDesc></figure>
 
-       <l xml:id="wynken1509_2592" n="2590">KYnge Rycharde after anone ryght</l>
-		<!-- #CMP text: The initial letter [K] includes a face, and is 5 lines vertical and approx 9-10 characters wide. -->
+       <l xml:id="wynken1509_2592" n="2590">KYnge Rycharde after anone ryght</l><note type="text" resp="#CMP">The initial letter &quot;K&quot; includes a face, and is 5 lines vertical and approximately 9-10 characters wide.</note>
        <l xml:id="wynken1509_2593">Towarde Acrys gan hym dyght</l>
        <l xml:id="wynken1509_2594">And as he sayled towarde surrye</l>
        <l xml:id="wynken1509_2595">He was warned of a spye</l>
@@ -3139,7 +3138,7 @@
 		<l xml:id="wynken1509_2659">And hornes he had vpon his hede</l>
 		<l xml:id="wynken1509_2660">The sarasynes of hym had grete drede</l>
 		<l xml:id="wynken1509_2661">For the robbynge of the stones</l>
-		<l xml:id="wynken1509_2672" n="2670">They wende it had ben mennes bones</l> <!--Numbering wrong here from this point forward --> 
+		<l xml:id="wynken1509_2672">They wende it had ben mennes bones</l> <!--Numbering wrong here from this point forward --> 
 		<l xml:id="wynken1509_2690">That lyueth on mahowne and termagaunt</l>
 		<l xml:id="wynken1509_2691">He was a crysten kynge some whyle</l>
 		<l xml:id="wynken1509_2692" n="2690">He had done vs more shame + gyle</l>
@@ -3182,7 +3181,8 @@
 		<l xml:id="wynken1509_2726">Bothe of deed men and of hors</l>
 		<l xml:id="wynken1509_2727">And cast them in to our well</l>
 		<l xml:id="wynken1509_2728">Us to poyson and to quell</l>
-		<fw type="footer">Kynge R.				H.ii</fw>
+
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="24" unit="chars"/>H&period;ii&middot;</fw>
 
 	<pb xml:id="wynken1509_341jpg" n="341jpg" facs="JRL19060341jpg.jpg"/>
 
@@ -3253,7 +3253,9 @@
 		<l xml:id="wynken1509_2790">For we wende all to be lore</l>
 		<l xml:id="wynken1509_2791">But god almyghty heuen kynge</l>
 		<l xml:id="wynken1509_2792" n="2790">He sente vs soone socourynge</l>
-		<fw type="footer">Kynge R.		+		H.iii.</fw>
+
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="12" unit="chars"/>H&period;iii&period;</fw>
+
 <!-- CMP 1st phase completion: lines 1-2790; need to add numbers to line xml:id below but all other phase 1 for pbs 343-445 completed -->
 	<pb xml:id="wynken1509_343jpg" n="343jpg" facs="JRL19060343.jpg"/>
 
