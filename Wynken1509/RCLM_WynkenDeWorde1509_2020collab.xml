@@ -2264,7 +2264,7 @@
         <l xml:id="wynken1509_1899">And so manly he toke one</l>
         <l xml:id="wynken1509_1900">He lefte of his men neuer one</l>
 
-<pb xml:id="wynken1509_131jpg" n="313jpg" facs="JRL19060313.jpg"/>
+<pb xml:id="wynken1509_313jpg" n="313jpg" facs="JRL19060313.jpg"/>
         
         <l xml:id="wynken1509_1901">He loked besyde and sawe houe</l>
         <l xml:id="wynken1509_1902" n="1900">A knyght that tolde hym with a gloue</l>
@@ -2608,13 +2608,13 @@
             awaye for fere that he had /+ there was<lb/>
             slayne many of the emperours folke/and<lb/>
             after that he wente streyght to Acrys</fw>
-        <fw type="footer">Kynge R.		+		G.i.</fw>
+        <fw type="footer"><space quantity="6" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="10" unit="chars"/>G&period;i&period;</fw>
 
 <pb xml:id="wynken1509_323jpg" n="323jpg" facs="JRL19060323.jpg"/> 
 
-        <figure xml:id="wynken1509_figure7" type ="woodblock" corresp="#wynken1509_323jpg"><figDesc resp="#CMP"><!-- large woodblock illustration, needs description--></figDesc></figure>
+        <figure xml:id="wynken1509_figure7" type="woodblock" corresp="#wynken1509_323jpg"><figDesc resp="#CMP"><!-- large woodblock illustration, needs description--></figDesc></figure>
 
-        <l xml:id="wynken1509_2196">KYnge Rycharde I vnderstonde</l> <!-- #CMP text: The initial letter [K] is 5 lines long, 9 characters wide, and includes a face. -->
+        <l xml:id="wynken1509_2196">KYnge Rycharde I vnderstonde</l><note type="text" resp="#CMP" corresp="#wynken1509_2196">The initial letter &quot;K&quot; is 5 lines long, 9 characters wide, and includes a face.</note>
         <l xml:id="wynken1509_2197">Or he wente out of Englonde</l>
         <l xml:id="wynken1509_2198">Let hym make an axe for the nones</l>
         <l xml:id="wynken1509_2199">To breke therwith þe sarasyns bones</l>
@@ -2663,10 +2663,10 @@
         <l xml:id="wynken1509_2239">I the betake gentyll knyght</l>
         <l xml:id="wynken1509_2240">The keyes also in batayll here</l>
         <l xml:id="wynken1509_2241">Of euery castell in his powere</l>
-        <l xml:id="wynken1509_2242" n="2240">An hondred knyghtes I you behyght</l>
+        <l xml:id="wynken1509_2242">An hondred knyghtes I you behyght</l>
         <l xml:id="wynken1509_2243">Lo them here redy in all ryght</l>
         
-        <fw type="footer">Kynge R.		+		G.ii.</fw> <!-- footer-->
+        <fw type="footer"><space quantity="5" unit="chars"/>Kynge R&period;<space quantity="11" unit="chars"/>+<space quantity="11" unit="chars"/>G&period;ii&period;</fw>
 
 <pb xml:id="wynken1509_325jpg" n="325jpg" facs="JRL19060325.jpg"/> 
 
@@ -2688,7 +2688,7 @@
         <l xml:id="wynken1509_2259">His nose sholde be bought well soure</l>
         <l xml:id="wynken1509_2260">Ten hondred stedes good and sure</l>
         <l xml:id="wynken1509_2261">Kynge Rycharde let araye in trappure</l>
-        <l xml:id="wynken1509_2262" n="2260">On eueryche lepte an englyssshe knyght</l>
+        <l xml:id="wynken1509_2262">On eueryche lepte an englyssshe knyght</l>
         <l xml:id="wynken1509_2263">Well armed in armure brught</l>
         <l xml:id="wynken1509_2264">And as the stewarde applyght </l>
         <l xml:id="wynken1509_2265">Ladde them by the mone lyght</l>
@@ -2698,7 +2698,7 @@
         <l xml:id="wynken1509_2269">The stewarde sayd to Rycharde the kynge</l>
         <l xml:id="wynken1509_2270">Lette se Rycharde assayle yerne</l>
         <l xml:id="wynken1509_2271">The pauylyon with the golden her ne</l>
-        <l xml:id="wynken1509_2272" n="2270">Therin lyeth the emperour</l>
+        <l xml:id="wynken1509_2272">Therin lyeth the emperour</l>
         <l xml:id="wynken1509_2273">Awreke thou this dyshonour</l>
         <l xml:id="wynken1509_2274">Than was Rycharde as fresshe to fyght</l>
         <l xml:id="wynken1509_2275">As euer was foule to the flyght</l>
@@ -2738,7 +2738,7 @@
         <l xml:id="wynken1509_2306">Of sylke sendell and syclaton</l> <!-- #CMP expl: add note about the importance of the material used for the pavilion and as a reclamation of emperor's wealth by way of this tent (caitlin to write?) -->
         <l xml:id="wynken1509_2307">Was the emperours pauylyon</l> 
         
-        <fw type="footer">Kynge R.		+		G.iii</fw> <!-- footer-->
+        <fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>+<space quantity="11" unit="chars"/>G&period;iii&period;</fw>
 
 <pb xml:id="wynken1509_327jpg" n="327jpg" facs="JRL19060327.jpg"/>
         
