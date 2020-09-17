@@ -175,7 +175,7 @@
 	    <l xml:id="wynken1509_58">No wyndes brethe ne had he</l>
 
         <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="chars"/>+<space quantity="12" unit="chars"/>A&period;ii&period;</fw> <!--CMP: maybe define entity for the footer stamps-->
-        	<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. The footer contains, spaced out, "Kyynge R.," a cross patte, and pagination that consists of a capital letter and roman numerals i-iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q. Becuase of the history of violence evoked by the cross pattee, we have chosen in this digital edition to render this symbol as a plus sign.</note>
+		<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, but because of the history of violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny evoked by this symbol, we have chosen in this digital edition to render it as a plus sign. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note>
 
 	  <pb xml:id="wynken1509_253jpg" n="253jpg" facs="JRL19060253.jpg"/>
 
