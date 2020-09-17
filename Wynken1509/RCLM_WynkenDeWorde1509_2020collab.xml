@@ -205,7 +205,7 @@
 	    <l xml:id="wynken1509_81">They graunted all with skyll</l>
 	    <l xml:id="wynken1509_82">For to tell all her wyll</l>
 	    <l xml:id="wynken1509_83">To dyuerse londes do we wende</l>
-	    <l xml:id="wynken1509_84">For <name type="character" subtype="historical" ref="#KingHarry">kynge Harry</name> hath vs sende</l>
+	    <l xml:id="wynken1509_84">For kynge Harry hath vs sende</l>
         <l xml:id="wynken1509_85">For to seche hym a quene</l>
         <l xml:id="wynken1509_86">The fayrest that myght on erth bene</l>
         <l xml:id="wynken1509_87">Up arose a kynge of a chayre</l>
@@ -6869,15 +6869,17 @@
 
 <pb xml:id="wynken1509_444jpg" n="444jpg" facs="JRL19060444.jpg"/>
 
-<fw type="explicit">¶Thus endeth the story of the noble kynge Ry <lb/><!-- #CMP text: Opens with a pilcrow. There is another letter form after [Ry] but is not part of the name.-->
-charde cuer de lyon. Enprynted at London in þ[e] <lb/>
+<fw type="explicit">&para;Thus endeth the story of the noble kynge Ry <anchor xml:id="wynken1509_note1"/> <lb/>
+	<note type="text" resp="#CMP" target="wynken1509_note1">There is another letter form after [Ry] but is not part of the name. Likely an indication of the mid-word line break.</note> There is another letter form after [Ry] but is not part of the name.
+charde cuer de lyon&period; Enprynted at London in <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> <lb/>
 Fletestrete at the sygne of the sonne by Wynkyn <lb/>
 de Worde / prynter vnto the moost excellent pryn <lb/>
-cesse my lady the kynges moder. In the yere of <lb/>
-our lorde god.M.CCCCC.ix.</fw>
+cesse my lady the kynges moder&period; In the yere of <lb/>
+our lorde god<num value="1509">&period;M&period;CCCCC&period;ix&period;</num></fw>
 
 <pb xml:id="wynkyn1509_445jpg" n="445jpg" facs="JRL19060445.jpg"/>
-<figure xml:id="wynken1509_figure12" type="woodblock" corresp="#wynken1509_445jpg"><figDesc resp="#CMP"><!-- signature block, needs description --></figDesc></figure>
+<figure xml:id="wynken1509_figure12" type="woodblock" corresp="#wynken1509_445jpg">
+	<figDesc resp="#SNM">This page contains the signature block for Wynkyn de Worde. Image takes up approxamately two-thirds of the page. Image is a rectangle bordered with double lines and separated equally into three horizontal sections by two interior double lines. The top section contains a sun in the middle with two large stars on either side. There are also twenty smaller stars interspersed between the sun and two larger stars. The middle section contains a large print [W] and [C] separated by what appears to be a 7 with a loop around it. The bottom section contains a scroll wrapped into three sections with the words "wynkyn * de * worde." Atop the right side of the scroll sits a dog, and atop the left sits a centaur that is shooting an arrow towards the dog. Below the scroll is a flower, with five scrolled leaves to the left and right of it.</figDesc></figure>
 
 <!-- 446-450 jpg blank pages-->
 
