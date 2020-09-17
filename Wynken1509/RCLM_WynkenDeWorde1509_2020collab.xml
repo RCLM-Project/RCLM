@@ -3138,14 +3138,14 @@
 		<l xml:id="wynken1509_2659">And hornes he had vpon his hede</l>
 		<l xml:id="wynken1509_2660">The sarasynes of hym had grete drede</l>
 		<l xml:id="wynken1509_2661">For the robbynge of the stones</l>
-		<l xml:id="wynken1509_2672">They wende it had ben mennes bones</l> <!--Numbering wrong here from this point forward --> 
-		<l xml:id="wynken1509_2690">That lyueth on mahowne and termagaunt</l>
-		<l xml:id="wynken1509_2691">He was a crysten kynge some whyle</l>
-		<l xml:id="wynken1509_2692" n="2690">He had done vs more shame + gyle</l>
-		<l xml:id="wynken1509_2693">Than the sowdan and his hoost</l>
-		<l xml:id="wynken1509_2694">The fader and sone and holy goost</l>
-		<l xml:id="wynken1509_2695">Graunte hym grace of worldes shame</l>
-		<l xml:id="wynken1509_2696">Markys feraunt by his name</l>
+		<l xml:id="wynken1509_2662">They wende it had ben mennes bones</l> 
+		<l xml:id="wynken1509_2663">That lyueth on mahowne and termagaunt</l>
+		<l xml:id="wynken1509_2664">He was a crysten kynge some whyle</l>
+		<l xml:id="wynken1509_2665" n="2690">He had done vs more shame + gyle</l>
+		<l xml:id="wynken1509_2666">Than the sowdan and his hoost</l>
+		<l xml:id="wynken1509_2667">The fader and sone and holy goost</l>
+		<l xml:id="wynken1509_2668">Graunte hym grace of worldes shame</l>
+		<l xml:id="wynken1509_2669">Markys feraunt by his name</l>
 
 		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="12" unit="chars"/>H&period;i&period;</fw>
 
@@ -3153,38 +3153,38 @@
 
 	<pb xml:id="wynken1509_339jpg" n="339jpg" facs="JRL19060339.jpg"/>
 
-		<l xml:id="wynken1509_2697">All the kynges of crystente</l>
-		<l xml:id="wynken1509_2698">That had there longe be</l>
-		<l xml:id="wynken1509_2699">And longe had layne in dolour</l>
-		<l xml:id="wynken1509_2700">Undertonde Rycharde with honour</l>
-		<l xml:id="wynken1509_2701">An archebysshop of grete pryse</l>
-		<l xml:id="wynken1509_2701">Dyde kynge Rycharde his seruyce</l>
-		<l xml:id="wynken1509_2702">And syth ledde hym as ye may se</l>
-		<l xml:id="wynken1509_2702">In to a pauylyon of preuyte</l>
-		<l xml:id="wynken1509_2703">And tolde hym there a dolefull tale</l>
-		<l xml:id="wynken1509_2704">Of a shrewde many and fale</l>
-		<l xml:id="wynken1509_2705">Now he sayd kynge Rycharde I here</l>
-		<l xml:id="wynken1509_2706">This syege hath lasted seuen yere</l>
-		<l xml:id="wynken1509_2707">It may not be let for thy</l>
-		<l xml:id="wynken1509_2708"> Moche sorowe haue we suffred sykerly</l>
-		<l xml:id="wynken1509_2709">For he had no castell</l>
-		<l xml:id="wynken1509_2710">That vs of ony warde fell</l>
-		<l xml:id="wynken1509_2711">But a wyde dyche and a depe</l>
-		<l xml:id="wynken1509_2712">We made vs within to kepe</l>
-		<l xml:id="wynken1509_2713">With barbycanes for the nones</l>
-		<l xml:id="wynken1509_2714">Aye I wrought with harde stones</l>
-		<l xml:id="wynken1509_2715">Whan the dyche was I made</l>
-		<l xml:id="wynken1509_2716">Salandyn the sowdan was glade</l>
-		<l xml:id="wynken1509_2717">And came on vs with grete route</l>
-		<l xml:id="wynken1509_2718">And beset vs all aboute</l>
-		<l xml:id="wynken1509_2719">And with hym markys feraunt</l>
-		<l xml:id="wynken1509_2720">That lyueth on mahowne and termagaunt</l>
-		<l xml:id="wynken1509_2721">He was a crysten kynge some whyle</l>
-		<l xml:id="wynken1509_2722">He hath done vs more shame <choice><abbr>&amp;</abbr><expan>and</expan></choice> gyle</l>
-		<l xml:id="wynken1509_2723">Than the sowdan and his hoost</l>
-		<l xml:id="wynken1509_2724">The fader and sone and holy goost</l>
-		<l xml:id="wynken1509_2725">Graunte hym grace of worldes shame</l>
-		<l xml:id="wynken1509_2726">Markys feraunt by his name</l>
+		<!-- <l xml:id="wynken1509">All the kynges of crystente</l>
+		<l xml:id="wynken1509">That had there longe be</l>
+		<l xml:id="wynken1509">And longe had layne in dolour</l>
+		<l xml:id="wynken1509">Undertonde Rycharde with honour</l>
+		<l xml:id="wynken1509">An archebysshop of grete pryse</l>
+		<l xml:id="wynken1509">Dyde kynge Rycharde his seruyce</l>
+		<l xml:id="wynken1509">And syth ledde hym as ye may se</l>
+		<l xml:id="wynken1509">In to a pauylyon of preuyte</l>
+		<l xml:id="wynken1509">And tolde hym there a dolefull tale</l>
+		<l xml:id="wynken1509">Of a shrewde many and fale</l>
+		<l xml:id="wynken1509">Now he sayd kynge Rycharde I here</l>
+		<l xml:id="wynken1509">This syege hath lasted seuen yere</l>
+		<l xml:id="wynken1509">It may not be let for thy</l>
+		<l xml:id="wynken1509"> Moche sorowe haue we suffred sykerly</l>
+		<l xml:id="wynken1509">For he had no castell</l>
+		<l xml:id="wynken1509">That vs of ony warde fell</l>
+		<l xml:id="wynken1509">But a wyde dyche and a depe</l>
+		<l xml:id="wynken1509">We made vs within to kepe</l>
+		<l xml:id="wynken1509">With barbycanes for the nones</l>
+		<l xml:id="wynken1509">Aye I wrought with harde stones</l>
+		<l xml:id="wynken1509">Whan the dyche was I made</l>
+		<l xml:id="wynken1509">Salandyn the sowdan was glade</l>
+		<l xml:id="wynken1509">And came on vs with grete route</l>
+		<l xml:id="wynken1509">And beset vs all aboute</l>
+		<l xml:id="wynken1509">And with hym markys feraunt</l>
+		<l xml:id="wynken1509">That lyueth on mahowne and termagaunt</l>
+		<l xml:id="wynken1509">He was a crysten kynge some whyle</l>
+		<l xml:id="wynken1509">He hath done vs more shame <choice><abbr>&amp;</abbr><expan>and</expan></choice> gyle</l>
+		<l xml:id="wynken1509">Than the sowdan and his hoost</l>
+		<l xml:id="wynken1509">The fader and sone and holy goost</l>
+		<l xml:id="wynken1509">Graunte hym grace of worldes shame</l>
+		<l xml:id="wynken1509">Markys feraunt by his name</l> -->
 
 	<pb xml:id="wynken1509_340jpg" n="340jpg" facs="JRL19060340.jpg"/>
 
