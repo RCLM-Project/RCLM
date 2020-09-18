@@ -4742,7 +4742,7 @@
 	<pb xml:id="wynken1509_384jpg" n="384jpg" facs="JRL19060384.jpg"/> 
 
 	<figure xml:id="wynken1509_figure11" type="woodblock" corresp="#wynken1509_384jpg"><figDesc resp="#CMP"><!-- add desc of woodblock image --></figDesc></figure>
-		<l xml:id="wynken1509_4071">[T]He chefe sowdan of hethenys</l> <!-- #CMP text: The initial letter appears to be [T] based on context but is weirdly shaped. The initial is two lines vertically and approximately 6-7 characters width. -->
+		<l xml:id="wynken1509_4071">THe chefe sowdan of hethenys</l> <!-- #CMP text: The initial letter appears to be [T] based on context but is weirdly shaped. The initial is two lines vertically and approximately 6-7 characters width. -->
 		<l xml:id="wynken1509_4072">To babyloyne he was flowen Iwys</l>
 		<l xml:id="wynken1509_4073">After his counseyll he sente that tyme</l>
 		<l xml:id="wynken1509_4074">That theder came many a paynym</l>
@@ -4754,8 +4754,8 @@
 		<l xml:id="wynken1509_4080">That tolde folke on bothe partye</l>
 		<l xml:id="wynken1509_4081">Foure hondred thousande of hethen men</l>
 		<l xml:id="wynken1509_4082">To batayll had the sowden</l>
-		<l xml:id="wynken1509_4083">Now herken and it be your well</l>
-		<l xml:id="wynken1509_4084">The wordes that I shall say you tyll</l>
+		<l xml:id="wynken1509_4083">Now herken and it be your wyll</l>
+		<l xml:id="wynken1509_4084">The wordes that I shall saye you tyll</l>
 		<l xml:id="wynken1509_4085">There men loueth trouth and ryght</l>
 		<l xml:id="wynken1509_4086">Euer god sendeth strength and myght</l>
 
@@ -4765,14 +4765,14 @@
 		<l xml:id="wynken1509_4088">Of our crysten men I wene</l>
 		<l xml:id="wynken1509_4089">There was no mo in boke I founde</l>
 		<l xml:id="wynken1509_4090">In all but foure score thousande</l>
-		<l xml:id="wynken1509_4091">Kynge Rycharde .xxx. thousande ladde</l>
-		<l xml:id="wynken1509_4092">For Phelyp of fraunce + his men were badde</l>
+		<l xml:id="wynken1509_4091">Kynge Rycharde &period;<num value="30">xxx</num>&period; thousande ladde</l>
+		<l xml:id="wynken1509_4092">For Phelyp of fraunce <choice><abbr>&amp;</abbr><expan>and</expan></choice> his men were badde</l>
 		<l xml:id="wynken1509_4093">Fyfty thousande ledde he</l>
 		<l xml:id="wynken1509_4094">By the one syde of that cyte</l>
 		<l xml:id="wynken1509_4095">To kepe with the sarasynes stoute</l>
 		<l xml:id="wynken1509_4096">Was none so bolde that durst come out</l>
 		<l xml:id="wynken1509_4097">For Rycharde on that other syde laye </l>
-		<l xml:id="wynken1509_4098">On batayll redy euerydaye</l>
+		<l xml:id="wynken1509_4098">On batayll redy euery daye</l>
 		<l xml:id="wynken1509_4099">With spryngelles and with mangenelles</l>
 		<l xml:id="wynken1509_4100">With many arowes and quarelles</l>
 		<l xml:id="wynken1509_4101">Faste they slange harde stones</l>
@@ -4781,12 +4781,12 @@
 		<l xml:id="wynken1509_4104">That ones the wall durst loke out</l>
 		<l xml:id="wynken1509_4105">The cyte was so stronge within</l>
 		<l xml:id="wynken1509_4106">That no man myght to them wyn</l>
-		<l xml:id="wynken1509_4107">THe stronge gynnes for the nones</l>
+		<l xml:id="wynken1509_4107">The stronge gynnes for the nones</l>
 		<l xml:id="wynken1509_4108">To breke the walles with the stones</l>
-		<l xml:id="wynken1509_4109">Theyr gates and theyr barbycan</l>
+		<l xml:id="wynken1509_4109">Theyr gates and theyr barbycan</l> <!--SLG trans: there's a vertical mark at the end. Any idea what this means?-->
 		<l xml:id="wynken1509_4110">And be ye sure many a hethen man</l>
 		<l xml:id="wynken1509_4111">Made them counter harde and stronge</l>
-		<l xml:id="wynken1509_4112">And many a man was slaynge amonge</l>
+		<l xml:id="wynken1509_4112">And many a man was slayne amonge</l>
 		<l xml:id="wynken1509_4113">Of the crysten was many slayne</l>
 		<l xml:id="wynken1509_4114">But on the frensshe fell the moost payne</l>
 		<l xml:id="wynken1509_4115">For had kynge Phylyp trewe be</l>
