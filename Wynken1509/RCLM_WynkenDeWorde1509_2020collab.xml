@@ -4649,12 +4649,12 @@
 		<l xml:id="wynken1509_3991">Tho sholde the duke of burgoyne</l>
 		<l xml:id="wynken1509_3992">Lede and the erle of coloyne</l>
 		<l xml:id="wynken1509_3993">Thus they came and dyde theyr deuere</l>
-		<l xml:id="wynken1509_3994">Ayenst the hethen pantener</l>
+		<l xml:id="wynken1509_3994">Ayenst the hethen pantenere</l>
 		<l xml:id="wynken1509_3995">And Iakes and his sones two</l>
 		<l xml:id="wynken1509_3996">Almoost were slayne tho</l>
 		<l xml:id="wynken1509_3997">They layde on euery syde ryght</l>
 		<l xml:id="wynken1509_3998">And slewe the sarasynes with myght</l>
-		<l xml:id="wynken1509_3999">Twenty Iakes slewe + eyther of his sones ten</l>
+		<l xml:id="wynken1509_3999">Twenty Iakes slewe <choice><abbr>&amp;</abbr><expan>and</expan></choice> eyther of his sones ten</l>
 		<l xml:id="wynken1509_4000">Of the crewell hethen men</l>
 		<l xml:id="wynken1509_4001">Ten syth his hors was felde</l>
 		<l xml:id="wynken1509_4002">And euer he couered hym with his shelde</l>
@@ -4675,7 +4675,7 @@
 		<l xml:id="wynken1509_4014">Of the clefe they fell downe warde</l>
 		<l xml:id="wynken1509_4015">And all to brake hors and man</l>
 		<l xml:id="wynken1509_4016">That neuer came to lyue ayan</l>
-		<l xml:id="wynken1509_4017">That sawe the sowdan Salandryne</l>
+		<l xml:id="wynken1509_4017">That sawe the sowdan Salandyne</l>
 		<l xml:id="wynken1509_4018">He was syker his lyfe to tyne</l>
 		<l xml:id="wynken1509_4019">He lefte his pauylyon and his tent</l>
 		<l xml:id="wynken1509_4020">And fledde awaye verament</l>
@@ -4734,10 +4734,10 @@
 		<l xml:id="wynken1509_4070">Towarde the cyte of babylone</l>
 		<lb/>
 	<fw type="heading" xml:id="wynken1509_heading13">¶How kynge Rycharde asseyged the cyte<lb/>
-	of babyloyne and how he wan it/+ of two<lb/>
-	deuylles /that one in the lykenes of mare/+<lb/>
-	that other in lykenes of a colte/wherof þe[e]<lb/>
-	sowdan sente the colte to ky[n]ge Rycharde.</fw>
+	of babyloyne and how he wan it/<choice><abbr>&amp;</abbr><expan>and</expan></choice> of two<lb/>
+	deuylles/that one in lykenes of mare/<choice><abbr>&amp;</abbr><expan>and</expan></choice><lb/>
+	that other in lykenes of a colte/wherof <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice><lb/>
+	sowdan sente the colte to <choice><abbr>kyge</abbr><expan>kynge</expan></choice> Rycharde&period;</fw>
 
 	<pb xml:id="wynken1509_384jpg" n="384jpg" facs="JRL19060384.jpg"/> 
 
