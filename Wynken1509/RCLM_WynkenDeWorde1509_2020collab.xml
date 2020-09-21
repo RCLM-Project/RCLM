@@ -5718,12 +5718,13 @@
 		<l xml:id="wynken1509_4923">And his soule reste and ro </l>
 		<l xml:id="wynken1509_4924">And ours whan it cometh therto </l>
 		<lb/>
-	<fw type="heading" xml:id="wynken1509_heading16">¶ How kynge Rycharde smote downe an  <lb/>
-	ymage of marble / and how he slewe fyue  <lb/>
-	sarasynes that were within þ[e] sayd ymage  <lb/>
-	and of many other maters. </fw>
+		<fw type="heading" xml:id="wynken1509_heading16">¶ How kynge Rycharde smote downe an<lb/>
+		ymage of marble/and how he slewe fyue<lb/>
+		sarasynes that were within <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> sayd ymage<lb/>
+		and of many other maters&period;</fw>
 		<lb/>
-		<l xml:id="wynken1509_4925">AFter the wynnynge of darowne</l> <!-- initial capital; someone to add t note description #CMP -->
+
+		<l xml:id="wynken1509_4925">AFter the wynnynge of darowne</l><note type="text" resp="#SLG" corresp="#wynken1509_4925">This line begins with an initial capital &quot;A&quot; that is approximately two characters vertical and six characters horizontal.</note>
 		<l xml:id="wynken1509_4926">The kynge wente to an other towne </l>
 		<l xml:id="wynken1509_4927">To gatrys with a fayre meyne </l>
 		<l xml:id="wynken1509_4928">For to besyege that cyte </l>
