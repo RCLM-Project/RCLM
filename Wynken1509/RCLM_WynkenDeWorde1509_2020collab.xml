@@ -116,11 +116,12 @@
 	    <l xml:id="wynken1509_10" n="10">Bothe in Englonde and in Fraunce</l>
         <l xml:id="wynken1509_11">Of Rowlande and of Olyuere</l> 
 			<note type="expl" resp="CMP" corresp="#wynken1509_11">The Prologue includes reference to other romances of the Middle Ages including, in the lines that follow, Roland and Oliver (l. 11; Song of Roland), Alexander the Great (l. 13), Charlemagne (l. 13), King Arthur (l. 14), Sir Gawain (l. 14), Archbishop Turpin (l. 16), Ogier the Dane (l. 16), Hector and Achilles ("troye men" in ll. 17-19). The narrator here refers to the French "rymes" (l. 21) that were not known in England because "lewde man can frensshe none / of an hondred vnneth one" (l. 23-24), or roughly "lewed/unlearned men can [read] in French none of a hundred difficult ones." This sets the stage for telling new gestes or romances in the English vernacular.</note>
-	    <l xml:id="wynken1509_12">And of euery desepere</l>
+		<!--LKN: The explanatory note above needs to cite scholars who have discussed this introduction.-->
+	    <l xml:id="wynken1509_12">And of euery desepere</l><!--LKN: note needed for "desepere" (douzepeer) here or up in the previous note-->
 	    <l xml:id="wynken1509_13">Of Alysaunder and of Charlemayne</l>
 	    <l xml:id="wynken1509_14">Of kynge Arthur and of Gawayne</l>
 	    <l xml:id="wynken1509_15">How they were knyghtes good and curtoys</l>
-	    <l xml:id="wynken1509_16">Of Turpyn and of Oger the danoys</l>
+	    <l xml:id="wynken1509_16">Of Turpyn and of Oger the danoys</l><!--LKN: Since these figures are going to be far less familiar, we might want a note here explaining who they are-->
 	    <l xml:id="wynken1509_17">Of troye men rede in ryme</l>
 	    <l xml:id="wynken1509_18">What was by olde tyme</l>
 	    <l xml:id="wynken1509_19">Of Hector and of Achylles</l>
@@ -130,7 +131,7 @@
 	    <l xml:id="wynken1509_23">Lewde man can frensshe none</l>
 	    <l xml:id="wynken1509_24">Of an hondred vnneth one</l>
 	    <l xml:id="wynken1509_25">Neuertheles with gladde chere</l>
-	    <l xml:id="wynken1509_26">Of that ye wyll now here</l>
+	    <l xml:id="wynken1509_26">Of that ye wyll now here</l> <!--LKN: I think the O in "Of" is a Y...-->
 	    <l xml:id="wynken1509_27">Newe Iestes I vnderstonde</l>
 	    <l xml:id="wynken1509_28">Of doughty knyghtes of Englonde</l>
 	    <l xml:id="wynken1509_29">Therefore now I wyll you rede</l>
@@ -144,17 +145,17 @@
 	    <l xml:id="wynken1509_34">God gyue them good endynge</l>
 		<lb/>
      <fw type="heading" xml:id="wynken1509_heading2"><space quantity="2" unit="chars"/>&para; Here begynneth the hystorye of Kynge Ry:<lb/>
-        <space quantity="2" unit="chars"/>charde cure de lyon / and fyrst of his byrth&period;</fw>
+        <space quantity="2" unit="chars"/>charde cure de lyon / and fyrst of his byrth&period;</fw><!--LKN trans: de lyon should be "du lyon"
 		<lb/>
         <!-- Example of how to do summative notes with anchor <anchor xml:id="wynken1509_sum2"/><note type="sum" resp="#CMP" target="wynken1509_sum2">Richard's parentage and birth</note> -->
         
 	    <l xml:id="wynken1509_35">LOrdes harken now beforne</l> 
-			<note type="text" resp="#SNM #CMP" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall.</note>
+			<note type="text" resp="#SNM #CMP" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall.</note><!--LKN: we should add in this note that the initial has the image of a bearded man's face on the left looking leftwards and a bird-like beast on the right lookin upwards. Above the bird there appears to be a partial flower.-->
 	    <l xml:id="wynken1509_36">How kynge Rycharde was borne</l>
 	    <l xml:id="wynken1509_37">His fader was cleped kynge Harry</l>
 	    <l xml:id="wynken1509_38">In his tyme sykerly</l>
 	    <l xml:id="wynken1509_39">As I fynde in this sawe</l>
-	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l>
+	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><!--LKN: need a note for Thomas a Beckett here...-->
 	    <l xml:id="wynken1509_41">At Caunterbury before the auter stone</l>
 	    <l xml:id="wynken1509_42">There myracles be done many one</l>
 	    <l xml:id="wynken1509_43">Whan he was <num value="20">&period;xx&period;</num> wynter olde</l>
@@ -170,12 +171,12 @@
 	    <l xml:id="wynken1509_53">Messengers be redy dyght</l>
 	    <l xml:id="wynken1509_54">To shyppe they wente that same nyght</l>
 	    <l xml:id="wynken1509_55">And theyr sayle vp they drowe</l>
-	    <l xml:id="wynken1509_56">The wynde them serued well Inowe</l>
+	    <l xml:id="wynken1509_56">The wynde them serued well Inowe</l><!--LKN trans: should there be a space after the I in the current "Inowe"?-->
 	    <l xml:id="wynken1509_57">And they came amyddes the see</l>
 	    <l xml:id="wynken1509_58">No wyndes brethe ne had he</l>
 
         <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="chars"/>+<space quantity="12" unit="chars"/>A&period;ii&period;</fw> <!--CMP: maybe define entity for the footer stamps-->
-		<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, but because of the history of violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny evoked by this symbol, we have chosen in this digital edition to render it as a plus sign. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note>
+		<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, but because of the history of violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny evoked by this symbol, we have chosen in this digital edition to render it as a plus sign. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note><!--LKN trans: this note is terrific! I have just a couple of suggestions: it would be great if we could say even more emphatically why the symbol has these associations (i.e. it's been appropriated by white supremacists since at least the 1930's when the Nazis rose to power and used it in the ways they did. And we've seen it crop up repeatedly since then. Saying that up front + adding a couple of sources, perhaps even the ADL page (https://www.adl.org/education/references/hate-symbols/iron-cross) and this WaPo Piece: https://www.washingtonpost.com/graphics/2017/local/charlottesville-videos/> 
 
 	  <pb xml:id="wynken1509_253jpg" n="253jpg" facs="JRL19060253.jpg"/>
 
