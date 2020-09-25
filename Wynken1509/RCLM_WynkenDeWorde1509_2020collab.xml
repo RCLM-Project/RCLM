@@ -145,9 +145,9 @@
 	    <l xml:id="wynken1509_34">God gyue them good endynge</l>
 		<lb/>
      <fw type="heading" xml:id="wynken1509_heading2"><space quantity="2" unit="chars"/>&para; Here begynneth the hystorye of Kynge Ry:<lb/>
-        <space quantity="2" unit="chars"/>charde cure de lyon / and fyrst of his byrth&period;</fw><!--LKN trans: de lyon should be "du lyon"
+        <space quantity="2" unit="chars"/>charde cure de lyon / and fyrst of his byrth&period;</fw><!--LKN trans: de lyon should be "du lyon"-->
 		<lb/>
-        <!-- Example of how to do summative notes with anchor <anchor xml:id="wynken1509_sum2"/><note type="sum" resp="#CMP" target="wynken1509_sum2">Richard's parentage and birth</note> -->
+        
         
 	    <l xml:id="wynken1509_35">LOrdes harken now beforne</l> 
 			<note type="text" resp="#SNM #CMP" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall.</note><!--LKN: we should add in this note that the initial has the image of a bearded man's face on the left looking leftwards and a bird-like beast on the right lookin upwards. Above the bird there appears to be a partial flower.-->
@@ -176,8 +176,7 @@
 	    <l xml:id="wynken1509_58">No wyndes brethe ne had he</l>
 
         <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="chars"/>+<space quantity="12" unit="chars"/>A&period;ii&period;</fw> <!--CMP: maybe define entity for the footer stamps-->
-		<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, but because of the history of violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny evoked by this symbol, we have chosen in this digital edition to render it as a plus sign. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note> <!--LKN trans: this note is terrific! I have just a couple of suggestions: it would be great if we could say even more emphatically why the symbol has these associations (i.e. it's been appropriated by white supremacists since at least the 1930's when the Nazis rose to power and used it in the ways they did. And we've seen it crop up repeatedly since then. Saying that up front + adding a couple of sources, perhaps even the ADL page (https://www.adl.org/education/references/hate-symbols/iron-cross) and this WaPo Piece: https://www.washingtonpost.com/graphics/2017/local/charlottesville-videos/. Also, cross pattee needs an accent on that first e (so, cross pattée)--
-> 
+		<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, but because of the history of violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny evoked by this symbol, we have chosen in this digital edition to render it as a plus sign. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note><!--LKN trans: this note is terrific! I have just a couple of suggestions: it would be great if we could say even more emphatically why the symbol has these associations (i.e. it's been appropriated by white supremacists since at least the 1930's when the Nazis rose to power and used it in the ways they did. And we've seen it crop up repeatedly since then. Saying that up front + adding a couple of sources, perhaps even the ADL page (https://www.adl.org/education/references/hate-symbols/iron-cross) and this WaPo Piece: https://www.washingtonpost.com/graphics/2017/local/charlottesville-videos/> -->
 
 	  <pb xml:id="wynken1509_253jpg" n="253jpg" facs="JRL19060253.jpg"/>
 
@@ -185,15 +184,15 @@
 	    <l xml:id="wynken1509_60" n="60">Another shyppe they encountred tho</l> 
 	    <l xml:id="wynken1509_61">Suche ne sawe they neuer none</l>
 	    <l xml:id="wynken1509_62">For it was so gay begone</l>
-	    <l xml:id="wynken1509_63">Euery nayle with golde Igraue</l> <!--LKN trans: space after the I in Igraue?-->
+	    <l xml:id="wynken1509_63">Euery nayle with golde Igraue</l>
 	    <l xml:id="wynken1509_64">Of pure golde was his sklaue</l>
 	    <l xml:id="wynken1509_65">Her mast was of Iuory</l>
-	    <l xml:id="wynken1509_66">Of samyte her sayle wytly</l><!--LKN expl: Samite is a heavy and luxurious twill weave silk fabric that oftentimes includes gold and silver thread, popularly used in royal and ecclesiastical clothing in the Middle Ages.-->
+	    <l xml:id="wynken1509_66">Of samyte her sayle wytly</l>
 	    <l xml:id="wynken1509_67">Her ropes all of whyte sylke</l>
 	    <l xml:id="wynken1509_68">As whyte as euer was ony mylke</l>
 	    <l xml:id="wynken1509_69">The noble shyppe was without</l>
 	    <l xml:id="wynken1509_70" n="70">With clothes of golde spred about</l>
-	    <l xml:id="wynken1509_71">And her lofte and her wyndlace</l><!--LKN expl: a windlass is a type of winch used for moving heavy objects. On ships, windlasses were typically used for hoisting anchors and hauling mooring lines. The fact that even the windlass on this ship is made of gold reflects the opulence and exoticized wealth of its passengers.)-->
+	    <l xml:id="wynken1509_71">And her lofte and her wyndlace</l>
 	    <l xml:id="wynken1509_72">All with golde depaynted was</l>
 	    <l xml:id="wynken1509_73">In the shyppe there were dyght</l>
 	    <l xml:id="wynken1509_74">Knyghtes and lordes of myght</l>
@@ -269,9 +268,9 @@
         <l xml:id="wynken1509_134">To londe the knyghtes wente blyue</l>
         <l xml:id="wynken1509_135">The messengers the kynge hath tolde</l>
         <l xml:id="wynken1509_136">Of that lady fayre and bolde</l>
-        <l xml:id="wynken1509_137">There he laye in toure</l><!--LKN expl: The tower here likely refers to the Great Tower at Dover Castle, a large and lavish royal residence built at Henry II's behest.-->
+        <l xml:id="wynken1509_137">There he laye in toure</l>
 	    <l xml:id="wynken1509_138">The lady that was whyte as floure</l>
-			<!-- <note type="expl" resp="SNM" corresp="#wynken1509_138">add note on race and whiteness, as related to women and monstrosity</note>-->
+			<!--note type="expl" resp="SNM" add note on race and whiteness, as related to women and monstrocity-->
         <l xml:id="wynken1509_139">Kynge Harry gan hym soone dyght</l>
 	    <l xml:id="wynken1509_140" n="140">With erles barons and many a knyght</l>
         <l xml:id="wynken1509_141">Ayenst that lady for to wende</l>
@@ -284,11 +283,10 @@
 	    <l xml:id="wynken1509_148">That fayre lady and her fader the kynge</l>
         <l xml:id="wynken1509_149">And sayd to hym ryght so</l>
 	    <l xml:id="wynken1509_150" n="150">&YOGH;e be welcome all me to</l>
-        <l xml:id="wynken1509_151">To westmyster they wente in fere</l><!--LKN expl: This is likely a reference to The Palace of Westminster. Located on the Thames (and now the meeting place for the House of Commons and House of Lords), the palace was expanded during Henry II's reign. Henry II and Eleanor of Aquitaine were crowned in the nearby Westminster Abbey on December 8th, 1154.-->
+        <l xml:id="wynken1509_151">To westmyster they wente in fere</l>
         <l xml:id="wynken1509_152">Lordes ladyes that there were</l>
         <l xml:id="wynken1509_153">Trumpettes began for to blowe</l>
         <l xml:id="wynken1509_154">To mete they went in a throwe</l>
-<!--LKN: transcription checked and occasional notes and queries added up to here!--> 
 
     <pb xml:id="wynken1509_256jpg" n="256jpg" facs="JRL19060256.jpg"/>
 	    
