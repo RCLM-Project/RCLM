@@ -3314,12 +3314,11 @@
 		<l xml:id="wynken1509_2813">The weder begau to wexe colde</l>
 		<l xml:id="wynken1509_2814">Tho fell bothe rayne and hayle</l>
 		<l xml:id="wynken1509_2815">And snowe fyue fote witdout fayle</l>
-		<l xml:id="wynken1509_2816">Thonder lyghtnynge + weder toughe</l>
+		<l xml:id="wynken1509_2816">Thonder lyghtnynge <choice><abbr>&amp;</abbr><expan>and</expan></choice> weder toughe</l>
 		<l xml:id="wynken1509_2817" n="2810">For honger therwith our men it sloughe</l>
 		<l xml:id="wynken1509_2818">For honger we lost and colde wyndes</l>
 		<l xml:id="wynken1509_2819">Of our folke thre score thousandes</l>
-		<l xml:id="wynken1509_2820">Than we our good hors slowe </l>
-		<!-- #CMP expl: add note about importance of horses, background research on frequency of eating own horses needed? (maybe Caitlin and Sarah to co-write?) -->
+		<l xml:id="wynken1509_2820">Than we our good hors slowe </l><!-- #CMP expl: add note about importance of horses, background research on frequency of eating own horses needed? (maybe Caitlin and Sarah to co-write?) -->
 		<l xml:id="wynken1509_2821">Soden and eten the guttes towe</l>
 		<l xml:id="wynken1509_2822">The flesshe was deled for grete deynte</l>
 		<l xml:id="wynken1509_2823">Therof had no man plente</l>
@@ -3328,7 +3327,7 @@
 		<l xml:id="wynken1509_2826">In water we boyled the blode</l>
 		<l xml:id="wynken1509_2827" n="2820">That vs thought mete full gode</l>
 		<l xml:id="wynken1509_2828">A quarter of whete men vs solde</l>
-		<l xml:id="wynken1509_2829">FOr thre pounde of flouraunce tolde</l>
+		<l xml:id="wynken1509_2829">For thre pounde of flouraunce tolde</l>
 
 	<pb xml:id="wynken1509_344jpg" n="344jpg" facs="JRL19060344.jpg"/>
 
