@@ -3339,14 +3339,14 @@
 		<l xml:id="wynken1509_2835">Men gaue fyue shelynges</l>
 		<l xml:id="wynken1509_2836">And for an egge pens alleuen</l>
 		<l xml:id="wynken1509_2837" n="2830">And for a pere syxe or seuen</l>
-		<l xml:id="wynken1509_2838">For an appell men gaue pen syxe</l>
+		<l xml:id="wynken1509_2838">For an appell men gaue pens syxe</l> <!--APB: added an s to change pen to pens -->
 		<l xml:id="wynken1509_2839">And thus our folke vnblythe wyxe</l>
 		<l xml:id="wynken1509_2840">And dyed for honger and for wo</l>
 		<l xml:id="wynken1509_2841">The ryche men toke to rede tho</l>
 		<l xml:id="wynken1509_2842">A ryche dole for to dyght</l>
 		<l xml:id="wynken1509_2843">To barons and to many a poore knyght</l>
 		<l xml:id="wynken1509_2844">Twelue pens men eueryche</l>
-		<l xml:id="wynken1509_2845">And sexe to poore that were not ryche</l>
+		<l xml:id="wynken1509_2845">And syxe to poore that were not ryche</l> <!--APB: changed sexe to syxe-->
 		<l xml:id="wynken1509_2846">And four to euery small wyght</l>
 		<l xml:id="wynken1509_2847" n="2840">Thus the ryche the poore dyght</l>
 		<l xml:id="wynken1509_2848">Therwith the more and the lasse</l>
@@ -3362,14 +3362,13 @@
 		<l xml:id="wynken1509_2858">Thorugh thy helpe I hope well</l>
 		<l xml:id="wynken1509_2859">The sarasynes downe to fell</l>
 		<lb/>
-		<fw type="heading" xml:id="wynken1509_heading11">¶How kynge Rycharde wan the cyte of Acrys.</fw>
-		<fw type="footer">Kynge R.		+		H.iiii.</fw>
+		<fw type="heading" xml:id="wynken1509_heading11">&para;How kynge Rycharde wan the cyte of Acrys.</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>+<space quantity="11" unit="chars"/>H&period;iiii&period;</fw>
 
 	<pb xml:id="wynken1509_345jpg" n="345jpg" facs="JRL19060345.jpg"/>
 
 		<figure xml:id="wynken1509_figure9" type="woodblock" corresp="#wynken1509_345jpg"><figDesc resp="#CMP"><!-- block image, needs desc--></figDesc></figure>
-		<l xml:id="wynken1509_2860">RYnge Rycharde wepte w[ith] his eyen bothe </l>
-			<!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? -->
+		<l xml:id="wynken1509_2860">KYnge Rycharde wepte w[ith] his eyen bothe </l><!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? --><!--APB: changed RYnge to KYnge-->
 		<l xml:id="wynken1509_2861">And syth sayd he thus forsothe</l>
 		<l xml:id="wynken1509_2862">Syr bysshop I beseche you praye for vs</l>
 		<l xml:id="wynken1509_2863">That vs might sense swete Ihesus</l>
