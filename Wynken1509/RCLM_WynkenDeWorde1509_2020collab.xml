@@ -3368,13 +3368,13 @@
 	<pb xml:id="wynken1509_345jpg" n="345jpg" facs="JRL19060345.jpg"/>
 
 		<figure xml:id="wynken1509_figure9" type="woodblock" corresp="#wynken1509_345jpg"><figDesc resp="#CMP"><!-- block image, needs desc--></figDesc></figure>
-		<l xml:id="wynken1509_2860">KYnge Rycharde wepte w[ith] his eyen bothe </l><!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? --><!--APB: changed RYnge to KYnge-->
+		<l xml:id="wynken1509_2860">KYnge Rycharde wepte <choice><abbr>w</abbr><expan>with</expan></choice> his eyen bothe </l><!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? --><!--APB: changed RYnge to KYnge-->
 		<l xml:id="wynken1509_2861">And syth sayd he thus forsothe</l>
 		<l xml:id="wynken1509_2862">Syr bysshop I beseche you praye for vs</l>
-		<l xml:id="wynken1509_2863">That vs might sense swete Ihesus</l>
+		<l xml:id="wynken1509_2863">That vs might sende swete Ihesus</l><!--APB: changed sense to sende-->
 		<l xml:id="wynken1509_2864">His fone all for to dystroye</l>
 		<l xml:id="wynken1509_2865">That they no more vs anoye</l>
-		<l xml:id="wynken1509_2866">Thus Rycharde toke loue + keped his stede</l>
+		<l xml:id="wynken1509_2866">Thus Rycharde toke loue <choice><abbr>&amp;</abbr><expan>and</expan></choice> keped his stede</l>
 		<l xml:id="wynken1509_2867" n="2860">And prycked out that felowrede</l>
 		<l xml:id="wynken1509_2868">He rode aboute the close dyche</l>
 		<l xml:id="wynken1509_2869">Towarde Acrys sykerlyche</l>
@@ -3388,12 +3388,12 @@
 	<pb xml:id="wynken1509_346jpg" n="346jpg" facs="JRL19060346.jpg"/>
 
 		<l xml:id="wynken1509_2876">That he myght in to Acrys sene</l>
-		<l xml:id="wynken1509_2877" n="2870">He had .xiii. shyppes full of bene</l>
+		<l xml:id="wynken1509_2877" n="2870">He had &period;xiii&period; shyppes full of bene</l>
 		<l xml:id="wynken1509_2878">Whan the castell was framed well</l>
 		<l xml:id="wynken1509_2879">He lette therin a mangenell</l>
-		<l xml:id="wynken1509_2880">He co[m]aunded his men blyue</l>
+		<l xml:id="wynken1509_2880">He co[m]aunded his men blyue</l> <!--APB: does the [m] have to be an abbreviation here, and how should we encode the o in comaunded?-->
 		<l xml:id="wynken1509_2881">To fetche vp been hyue</l>
-		<l xml:id="wynken1509_2882">And byd taberrars + trompettes blowe</l>
+		<l xml:id="wynken1509_2882">And byd taberrars <choice><abbr>&amp;</abbr><expan>and</expan></choice> trompettes blowe</l>
 		<l xml:id="wynken1509_2883">To sawte the cyte on a throw</l>
 		<l xml:id="wynken1509_2884">Kynge Rycharde in Acyrs cyte</l>
 		<l xml:id="wynken1509_2885">Let cast the hyues grete plente</l>
@@ -3419,7 +3419,7 @@
 		<l xml:id="wynken1509_2905">But it were brought downe</l>
 		<l xml:id="wynken1509_2906">By none the vttermest wall</l>
 		<l xml:id="wynken1509_2907" n="2900">He sholde be hewen in peces small</l>
-		<fw type="footer">Kynge R.		+		J.i. </fw><!-- unsure about the letter form #CMP -->
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="10" unit="chars"/>J&period;i&period;</fw><!-- unsure about the letter form #CMP -->
 
 	<pb xml:id="wynken1509_347jpg" n="347jpg" facs="JRL19060347.jpg"/>
 
