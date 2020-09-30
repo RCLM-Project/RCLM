@@ -1764,7 +1764,8 @@
 	    <l xml:id="wynken1509_1454">The hethenesse for goddes sake</l>
 	    <l xml:id="wynken1509_1455">In the formest warde he wolde be</l>
 	    <l xml:id="wynken1509_1456">With hardy men of grete poste</l>
-	    <fw>Kynge R.		+		E.i.</fw> <!-- footer -->
+		
+		<fw type="footer"><space quantity="4" unit="char"/>Kynge R&period;<space quantity="10" unit="char"/>+<space quantity="10" unit="char"/> E&period;i&period;</fw>
 
     <pb xml:id="wynken1509_299jpg" n="299jpg" facs="JRL19060299.jpg"/> 
 	    
@@ -1836,7 +1837,7 @@
 	    <l xml:id="wynken1509_1519">They wysshe as it is lawe in lande</l>
 	    <l xml:id="wynken1509_1520">A menssenger there came dryuande</l>
 	        
-	    <fw>Kynge R.    +   E.ii.</fw>  <!-- footer -->
+		<fw type="footer"><space quantity="3" unit="char"/>Kynge R&period;<space quantity="9" unit="char"/>+<space quantity="9" unit="char"/> E&period;ii&period;</fw>
 
     <pb xml:id="wynken1509_301jpg" n="301jpg" facs="JRL19060301.jpg"/> 
 
@@ -1908,7 +1909,7 @@
 	    <l xml:id="wynken1509_1583">And also my lady the quene</l>
 	    <l xml:id="wynken1509_1584">Good frenes shall ye bene</l>
 	    
-        <fw>Kynge R.    +   E.iii.</fw>  <!-- footer -->
+		<fw type="footer"><space quantity="3" unit="char"/>Kynge R&period;<space quantity="11" unit="char"/>+<space quantity="10" unit="char"/> E&period;iii&period;</fw>
 
     <pb xml:id="wynken1509_303jpg" n="303jpg" facs="JRL19060303.jpg"/> 
 
@@ -1969,21 +1970,18 @@
 	    <l xml:id="wynken1509_1636">Water ne shall hym drowne none</l>
 	    <l xml:id="wynken1509_1637">That other stone who so it hath</l>
 	    <l xml:id="wynken1509_1638">Fyre ne shall hym do no skathe</l>
-
-	<lb/>
-	<fw type="heading" xml:id="wynken1509_heading7">&para;How the kynge of fraunce<lb/>
-	betrayed kynge Rycharde.</fw> 
-	<lb/>
-
-	    <l xml:id="wynken1509_1639">QUod kynge Rycharde syr gramercy</l> 
-			<note type="text" resp="#CMP" corresp="wynken1509_1639">The initial [Q] takes up the space of two vertical lines and approximately 5 characters width.</note>
+		<lb/>
+		<fw type="heading" xml:id="wynken1509_heading7">&para;How the kynge of fraunce<lb/>
+		betrayed kynge Rycharde.</fw> 
+		<lb/>
+	    <l xml:id="wynken1509_1639">QUod kynge Rycharde syr gramercy</l><note type="text" resp="#CMP" corresp="wynken1509_1639">The initial [Q] takes up the space of two vertical lines and approximately 5 characters width.</note>
 	    <l xml:id="wynken1509_1640">His knyghtes were all redy</l>
 	    <l xml:id="wynken1509_1641">Sergeauntes of armes and squyers</l>
 	    <l xml:id="wynken1509_1642" n="1640">Stedes I charged and destrers</l>
 	    <l xml:id="wynken1509_1643">With armes and with other vytayle</l>
 	    <l xml:id="wynken1509_1644">Kynge Rycharde wente forth w[i]t[h] his apparayle</l>
 	    
-	    <fw>Kynge R.    +   E.iiii.</fw>  <!-- footer -->
+		<fw type="footer"><space quantity="3" unit="char"/>Kynge R&period;<space quantity="9" unit="char"/>+<space quantity="9" unit="char"/> E&period;iiii&period;</fw>
 
     <pb xml:id="wynken1509_305jpg" n="305jpg" facs="JRL19060305.jpg"/> 
 
@@ -2335,7 +2333,7 @@
         <l xml:id="wynken1509_1963">And lyght downe so sayth the boke</l>
         <l xml:id="wynken1509_1964">And in his armes vp hym toke</l>
         
-        <fw>Kynge R.	+	F.i.</fw> <!-- footer-->
+		<fw type="footer"><space quantity="5" unit="char"/>Kynge R&period;<space quantity="8" unit="char"/>+<space quantity="8" unit="char"/> F&period;i&period;</fw>
 
 	<pb xml:id="wynken1509_315jpg" n="315jpg" facs="JRL19060315.jpg"/> 
 
@@ -2402,17 +2400,16 @@
         <l xml:id="wynken1509_2022" n="2020">They myght well bye theyr chafere</l>
         <l xml:id="wynken1509_2023">There was none so hardy a man</l>
         <l xml:id="wynken1509_2024">That one euyll worde spake gan</l>
-
-	<lb/>
-
-    <fw type="heading" xml:id="wynken1509_heading8">&para;How thre of kynge Rychardes shyppes<lb/>
-     were perysshed in the see/and how the em<lb/>
-      perour put his men in pryson</fw>
-	<lb/>      
-	<fw type="footer">Kynge R.	+	F.ii.</fw> <!-- footer-->
+		<lb/>
+    	<fw type="heading" xml:id="wynken1509_heading8">&para;How thre of kynge Rychardes shyppes<lb/>
+     	were perysshed in the see/and how the em<lb/>
+      	perour put his men in pryson</fw>
+		<lb/>   
+		
+		<fw type="footer"><space quantity="3" unit="char"/>Kynge R&period;<space quantity="12" unit="char"/>+<space quantity="8" unit="char"/> F&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_317jpg" n="317jpg" facs="JRL19060317.jpg"/> 
-	        <figure xml:id="wynken1509_figure6" type ="woodblock" corresp="#wynken1509_317jpg"><figDesc resp="#CMP"><!-- image feat. two ships with a king apiece and knights fighting across the water; needs desc --></figDesc></figure>
+	    <figure xml:id="wynken1509_figure6" type ="woodblock" corresp="#wynken1509_317jpg"><figDesc resp="#CMP"><!-- image feat. two ships with a king apiece and knights fighting across the water; needs desc --></figDesc></figure>
 
         <l xml:id="wynken1509_2025">KYnge Rycharde in peas and reste</l> <!-- #CMP text: The initial letter [K] occupies four lines and approx 8 characters width and features a face. -->
         <l xml:id="wynken1509_2026">Fro crystmasse the hygh feste</l>
@@ -2466,7 +2463,7 @@
         <l xml:id="wynken1509_2072" n="2070">The thyrde daye afterwarde</l>
         <l xml:id="wynken1509_2073">They wynde came dryuynge kynge Rycharde</l>
 	
-	        <fw>Kynge R.	+	F.iii.</fw> <!-- footer-->
+		<fw type="footer"><space quantity="3" unit="char"/>Kynge R&period;<space quantity="8" unit="char"/>+<space quantity="8" unit="char"/> F&period;iii&period;</fw>
 
 
 	<pb xml:id="wynken1509_319jpg" n="319jpg" facs="JRL19060319.jpg"/>
@@ -2539,8 +2536,8 @@
         <l xml:id="wynken1509_2136">His knyfe he drewe out of his shethe</l>
         <l xml:id="wynken1509_2137">Therwith to do the stewarde scathe</l>
         
-        <fw>Kynge R.	+	F.iiii.</fw> <!-- footer-->
-
+		<fw type="footer"><space quantity="2" unit="char"/>Kynge R&period;<space quantity="8" unit="char"/>+<space quantity="10" unit="char"/> F&period;iiii&period;</fw>
+		<!-- APB: phase 1 footers complete -->
 	<pb xml:id="wynken1509_321jpg" n="321jpg" facs="JRL19060321.jpg"/> 
         
         <l xml:id="wynken1509_2138">And called hym without fayle</l>
