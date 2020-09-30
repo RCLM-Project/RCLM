@@ -3537,7 +3537,7 @@
 		<l xml:id="wynken1509_3009">Not passe theyr close dyche aboute</l>
 		<l xml:id="wynken1509_3010">But holde them all within</l>
 		<l xml:id="wynken1509_3011">That the sarasynes sholde them not wyn</l>
-		<l xml:id="wynken1509_3012">And tho that were in Icome</l>
+		<l xml:id="wynken1509_3012">And tho that were in Icome</l><!--APB: this line and following line—should Icome and Inome have spaces after I so that they read I come and I nome?-->
 		<l xml:id="wynken1509_3013">Of sarasynes they were Inome</l>
 		<l xml:id="wynken1509_3014">And hastely done to dede</l>
 		<l xml:id="wynken1509_3015">For them yede no raunson to mede</l>
@@ -3545,12 +3545,11 @@
 		<l xml:id="wynken1509_3017" n="3010">The reason I you tell may</l>
 		<l xml:id="wynken1509_3018">For the trauayll of the se</l>
 		<l xml:id="wynken1509_3019">And stronge ayre of that countre</l>
-		<l xml:id="wynken1509_3020">And for vnkynde stynke and hete </l>
-			<!-- #CMP expl: note about climatology esp cite Akbari (maybe Sarah to write?) -->
-		<l xml:id="wynken1509_3021">And mete and drynke was not wete</l>
+		<l xml:id="wynken1509_3020">And for vnkynde stynke and hete </l><!-- #CMP expl: note about climatology esp cite Akbari (maybe Sarah to write?) -->
+		<l xml:id="wynken1509_3021">And mete and drynke was not swete</l><!--APB: I'm pretty sure wete is meant to be swete at the end of the line-->
 		<l xml:id="wynken1509_3022">To his body that he there fonde</l>
 		<l xml:id="wynken1509_3023">As it was in englonde</l>
-		<l xml:id="wynken1509_3024">Kynge Rycharde whis men bad seche</l>
+		<l xml:id="wynken1509_3024">Kynge Rycharde his men bad seche</l>
 		<l xml:id="wynken1509_3025">Forsome wyse clerke and certayne leche</l>
 		<l xml:id="wynken1509_3026">Crysten or elles sarasyne</l>
 		<l xml:id="wynken1509_3027" n="3020">For to loke his bryne</l>
@@ -3562,8 +3561,8 @@
 		<l xml:id="wynken1509_3033">For theyr lorde laye in grete anguysshe</l>
 		<l xml:id="wynken1509_3034">For kynge Rycharde laye so sore syke</l>
 		<l xml:id="wynken1509_3035">All about they gan seke</l>
-		<fw type="footer">Kynge R.		+		J.iii.</fw>
-
+		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>+<space quantity="9" unit="chars"/>J&period;iii&period;</fw>
+		<!--APB: phase 1 and 2 complete-->
 	<pb xml:id="wynken1509_351jpg" n="351jpg" facs="JRL19060351.jpg"/>
 
 		<l xml:id="wynken1509_3036">On knees prayed the crysten hoost</l>
