@@ -3460,16 +3460,16 @@
 
 		<l xml:id="wynken1509_2940">But yf Salandyn the sowdan</l>
 		<l xml:id="wynken1509_2941">Came to them with men anone</l>
-		<l xml:id="wynken1509_2942">Salandyn was ten myle thne</l> 
+		<l xml:id="wynken1509_2942">Salandyn was ten myle then</l><!--APB: changed thne to then--> 
 		<l xml:id="wynken1509_2943">And sawe the torches lyght bren</l>
 		<l xml:id="wynken1509_2944">He let gader his folke togyder</l>
 		<l xml:id="wynken1509_2945">As thycke as snowe falleth in wynter</l>
-		<l xml:id="wynken1509_2946">That assembled vpon a playne</l>
+		<l xml:id="wynken1509_2946">They assembled vpon a playne</l><!--APB: changed That to They-->
 		<l xml:id="wynken1509_2947" n="2940">Besyde Acrys vpon a mountayne</l>
 		<l xml:id="wynken1509_2948">Syxty thousande men I fynde</l>
 		<l xml:id="wynken1509_2949">Cockes of heye he made them bynde</l>
 		<l xml:id="wynken1509_2950">To go before hastelyche</l>
-		<l xml:id="wynken1509_2951">TO fyll the crysten dyche</l>
+		<l xml:id="wynken1509_2951">To fyll the crysten dyche</l>
 		<l xml:id="wynken1509_2952">To rescowe Acrys they haue rede</l>
 		<l xml:id="wynken1509_2953">And to do the crysten men to dede</l>
 		<l xml:id="wynken1509_2954">After came barons and knyghtes</l>
@@ -3483,15 +3483,14 @@
 		<l xml:id="wynken1509_2962">Theyr gomfanon and theyr pensell</l>
 		<l xml:id="wynken1509_2963">Was wrought of good sendell</l>
 		<l xml:id="wynken1509_2964">As he faught with a lyon</l>
-		<l xml:id="wynken1509_2965">And in surrey with a dragon </l>
-			<!-- #CMP expl: add note about animal and color imagery (maybe Caitlin and Sarah to co-write?) -->
+		<l xml:id="wynken1509_2965">And in surrey with a dragon </l><!-- #CMP expl: add note about animal and color imagery (maybe Caitlin and Sarah to co-write?) -->
 		<l xml:id="wynken1509_2966">The fyrst were rede and grene</l>
 		<l xml:id="wynken1509_2967" n="2960">Than came the thyrde by dene</l>
 		<l xml:id="wynken1509_2968">With syxty thousande knyghtes</l>
 		<l xml:id="wynken1509_2969">In ynde I armed to all ryghtes</l>
 		<l xml:id="wynken1509_2970">After came whyte as ony snowe </l>
 		<l xml:id="wynken1509_2971">Fyfty thousande on a rowe</l>
-		<fw type="footer">Kynge R.		+		J.ii. </fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>+<space quantity="8" unit="chars"/>J&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_349jpg" n="349jpg" facs="JRL19060349.jpg"/> 
 
