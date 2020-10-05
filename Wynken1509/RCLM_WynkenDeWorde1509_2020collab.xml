@@ -4344,7 +4344,7 @@
 		<l xml:id="wynken1509_3718">The sarasynes theron behelde</l>
 		<l xml:id="wynken1509_3719">Whan they the baner myght see</l>
 		<l xml:id="wynken1509_3720">All they began for to flee</l>
-	<fw type="footer">Kynge R.		*		L.ii. </fw><!-- footer, floral-->
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/><anchor xml:id="wynken1509_text1"/>*<space quantity="12" unit="chars"/>L&period;ii&period;</fw><!-- footer, floral again, should we reference SNM's previous note here?-->
 
 	<pb xml:id="wynken1509_373jpg" n="373jpg" facs="JRL19060373.jpg"/> 
 
