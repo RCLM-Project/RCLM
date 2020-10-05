@@ -131,7 +131,7 @@
 	    <l xml:id="wynken1509_23">Lewde man can frensshe none</l>
 	    <l xml:id="wynken1509_24">Of an hondred vnneth one</l>
 	    <l xml:id="wynken1509_25">Neuertheles with gladde chere</l>
-	    <l xml:id="wynken1509_26">Of that ye wyll now here</l> <!--LKN: I think the O in "Of" is a Y...-->
+	    <l xml:id="wynken1509_26">Yf that ye wyll now here</l>
 	    <l xml:id="wynken1509_27">Newe Iestes I vnderstonde</l>
 	    <l xml:id="wynken1509_28">Of doughty knyghtes of Englonde</l>
 	    <l xml:id="wynken1509_29">Therefore now I wyll you rede</l>
@@ -145,17 +145,16 @@
 	    <l xml:id="wynken1509_34">God gyue them good endynge</l>
 		<lb/>
      <fw type="heading" xml:id="wynken1509_heading2"><space quantity="2" unit="chars"/>&para; Here begynneth the hystorye of Kynge Ry:<lb/>
-        <space quantity="2" unit="chars"/>charde cure de lyon / and fyrst of his byrth&period;</fw><!--LKN trans: de lyon should be "du lyon"-->
+        <space quantity="2" unit="chars"/>charde cure du lyon / and fyrst of his byrth&period;</fw>
 		<lb/>
         
-        
 	    <l xml:id="wynken1509_35">LOrdes harken now beforne</l> 
-			<note type="text" resp="#SNM #CMP" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall.</note><!--LKN: we should add in this note that the initial has the image of a bearded man's face on the left looking leftwards and a bird-like beast on the right lookin upwards. Above the bird there appears to be a partial flower.-->
+			<note type="text" resp="#SNM #CMP #LKN" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall. The initial has the image of a bearded man's face on its left side looking leftward and a bird-like creature on its right side looking upwards. Above the bird is a partial flower or sun.</note>
 	    <l xml:id="wynken1509_36">How kynge Rycharde was borne</l>
 	    <l xml:id="wynken1509_37">His fader was cleped kynge Harry</l>
 	    <l xml:id="wynken1509_38">In his tyme sykerly</l>
 	    <l xml:id="wynken1509_39">As I fynde in this sawe</l>
-	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><!--LKN: need a note for Thomas a Beckett here...-->
+	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><note type="expl" resp="#SLG" corresp=""#wynken1509_40">Thomas Becket, canonized as Saint Thomas in 1173 BCE, became King Henry II's chancellor in 1155 and archbishop of Canterbury in 1162. Thomas' relationship with Henry II deteriorated with disputes over ecclesiastical and monarchical jurisdiction (Larkin, n. 40). Thomas was murdered in 1170 before his altar in Canterbury, which is referenced in the following line of the poem.</note>
 	    <l xml:id="wynken1509_41">At Caunterbury before the auter stone</l>
 	    <l xml:id="wynken1509_42">There myracles be done many one</l>
 	    <l xml:id="wynken1509_43">Whan he was <num value="20">&period;xx&period;</num> wynter olde</l>
@@ -171,11 +170,11 @@
 	    <l xml:id="wynken1509_53">Messengers be redy dyght</l>
 	    <l xml:id="wynken1509_54">To shyppe they wente that same nyght</l>
 	    <l xml:id="wynken1509_55">And theyr sayle vp they drowe</l>
-	    <l xml:id="wynken1509_56">The wynde them serued well Inowe</l><!--LKN trans: should there be a space after the I in the current "Inowe"?-->
+	    <l xml:id="wynken1509_56">The wynde them serued well I nowe</l>
 	    <l xml:id="wynken1509_57">And they came amyddes the see</l>
 	    <l xml:id="wynken1509_58">No wyndes brethe ne had he</l>
 
-        <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="chars"/>+<space quantity="12" unit="chars"/>A&period;ii&period;</fw> <!--CMP: maybe define entity for the footer stamps-->
+        <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="chars"/>+<space quantity="12" unit="chars"/>A&period;ii&period;</fw>
 		<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, but because of the history of violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny evoked by this symbol, we have chosen in this digital edition to render it as a plus sign. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note><!--LKN trans: this note is terrific! I have just a couple of suggestions: it would be great if we could say even more emphatically why the symbol has these associations (i.e. it's been appropriated by white supremacists since at least the 1930's when the Nazis rose to power and used it in the ways they did. And we've seen it crop up repeatedly since then. Saying that up front + adding a couple of sources, perhaps even the ADL page (https://www.adl.org/education/references/hate-symbols/iron-cross) and this WaPo Piece: https://www.washingtonpost.com/graphics/2017/local/charlottesville-videos/> -->
 
 	  <pb xml:id="wynken1509_253jpg" n="253jpg" facs="JRL19060253.jpg"/>
@@ -212,10 +211,10 @@
         <l xml:id="wynken1509_88">With that worde and spake fayre</l>
         <l xml:id="wynken1509_89">The chayre was of carbunkel stone</l> 
 			<note type="expl" resp="#CMP" corresp="#wynken1509_89">Made of carbuncle (the equivalent of ruby), this chair would be a shining red gem.</note>
-	    <l xml:id="wynken1509_90" n= "90">Suche saw they neuer none</l>
+	    <l xml:id="wynken1509_90" n="90">Suche saw they neuer none</l>
 
     	<pb xml:id="wynken1509_254jpg" n="254jpg" facs="JRL19060254.jpg"/>
-       	 <note type="text" resp="#SNM" corresp="wynken1509_254jpg">There is a 2 penciled in at the top of this page.</note>
+       	 <note type="text" resp="#SNM" corresp="wynken1509_254jpg">There is a &quot;2&quot; penciled in at the top of this page.</note>
 
         <l xml:id="wynken1509_91">And other dukes hym besyde</l>
         <l xml:id="wynken1509_92">Noble men of moche pryde</l>
@@ -234,7 +233,7 @@
         <l xml:id="wynken1509_105">That his doughter were forth fet</l>
         <l xml:id="wynken1509_106">And in a chayre by hym set</l>
         <l xml:id="wynken1509_107">Trumpettes began to blowe</l>
-        <l xml:id="wynken1509_108" >She was set in a throwe</l>
+        <l xml:id="wynken1509_108">She was set in a throwe</l>
         <l xml:id="wynken1509_109">With <num value="20">&period;xx&period;</num> knyghtes her aboute</l>
 	    <l xml:id="wynken1509_110" n="110">And double so many of ladyes stoute</l>
         <l xml:id="wynken1509_111">All they began to knele her to</l>
@@ -296,8 +295,8 @@
 	    <l xml:id="wynken1509_158">Speketh Harry our kynge</l>	    
 	    <l xml:id="wynken1509_159">To the kynge that sate in same</l>	    
 	    <l xml:id="wynken1509_160" n="160">Good syr what is your name</l>	    
-	    <l xml:id="wynken1509_161">My name he sayd is Carbarrynge</l>
-	    <l xml:id="wynken1509_162">Of antyoche I am the kynge</l>    
+	    <l xml:id="wynken1509_161">My name he sayd is Carbarrynge</l> <!--SLG expl note on potential derivations of this name. See Heng, Empire-->
+	    <l xml:id="wynken1509_162">Of antyoche I am the kynge</l><!--SLG expl note on Antioch-->  
 	    <l xml:id="wynken1509_163">He told him his reason</l>	    
 	    <l xml:id="wynken1509_164">How hym came in vysyon</l>    
 	    <l xml:id="wynken1509_165">Syr he sayd I tell the</l>    
@@ -306,7 +305,7 @@
 	    <l xml:id="wynken1509_168">And mo shyppes with vytayle</l>	    
 	    <l xml:id="wynken1509_169">Yet asked he that lady bryght</l>	    
 	    <l xml:id="wynken1509_170" n="170">What name my lady ye hyght</l>	    
-	    <l xml:id="wynken1509_171">Cosodorean without lesynge</l>    
+	    <l xml:id="wynken1509_171">Cosodorean without lesynge</l><!--SLG expl note on Cassodorien and Richard's historical mother Eleanor of Aquitane--> 
 	    <l xml:id="wynken1509_172">Thus answered she the kynge</l>	    
 	    <l xml:id="wynken1509_173">Damoysell he sayd bryght and shene</l>	    
 	    <l xml:id="wynken1509_174">Wyll we dwell and be my quene</l>	    
@@ -342,7 +341,7 @@
 	    <l xml:id="wynken1509_198">Forsothe as the boke vs sayd</l>
 	    <l xml:id="wynken1509_199">Rycharde hyght the fyrst Iwys</l>
 	    <l xml:id="wynken1509_200" n="200">Wherfore these romayns made is</l>
-	    <l xml:id="wynken1509_201">And Iohan forsothe that other was</l>
+	    <l xml:id="wynken1509_201">And Iohan forsothe that other was</l><!--SLG expl note on Richard's historical siblings?-->
 	    <l xml:id="wynken1509_202">And theyr syster hyght Copyas</l>
 	    <l xml:id="wynken1509_203">Thus they dwelled in fere</l>
 	    <l xml:id="wynken1509_204">Tyll the <num value="15">&period;xv&period;</num> yere</l>
@@ -399,11 +398,11 @@
 
 	<pb xml:id="wynken1509_259jpg" n="259jpg" facs="JRL19060259.jpg"/> 
 
-		<figure xml:id="wynken1509_figure2" type="woodblock" corresp="#wynken1509_259jpg"><figDesc resp="#SNM">Woodcut. Image takes up approximately the top third of the page. Depicted are two mounted knights in full armor with helmets drawn over thier faces. Both knights have spurs. The knight on the left has pierced the shoulder of the of the other knight with thier lance. The knight on the right has a feather on their helmet. There is a fountain in the background. The bottom quarter is a grassy field. On the right side are two trees that extend from bottom to top. On the left side is a single tree that extends halfway up the frame. The image is framed by a single line.</figDesc></figure> 
+		<figure xml:id="wynken1509_figure2" type="woodblock" corresp="#wynken1509_259jpg"><figDesc resp="#SNM">Woodcut. Image takes up approximately the top third of the page. Depicted are two mounted knights in full armor with helmets drawn over their faces. Both knights have spurs. The knight on the left has pierced the shoulder of the of the other knight with their lance. The knight on the right has a feather on their helmet. There is a fountain in the background. The bottom quarter is a grassy field. On the right side are two trees that extend from bottom to top. On the left side is a single tree that extends halfway up the frame. The image is framed by a border of a single line.</figDesc></figure> 
 	    <lb/>
 		<l xml:id="wynken1509_249">The fyrst yere that he was kynge</l>
 			<note type="text" resp="#SNM" corresp="#wynken1509_249">The T is a decorated initial approximately six characters wide and three lines high.</note> 
-	    <l xml:id="wynken1509_250" n="250">At Salysbury he made a Iustynge</l>
+	    <l xml:id="wynken1509_250" n="250">At Salysbury he made a Iustynge</l><!--SLG expl note on Salisbury and the fictional tournament-->
 	    <l xml:id="wynken1509_251">And <choice><abbr>commauded</abbr><expan>commaunded</expan></choice> euery man to be there</l> 
 	    <l xml:id="wynken1509_252">Both with shelde and with spere</l>
 	    <l xml:id="wynken1509_253">Erles and barons euerychone</l>
@@ -419,9 +418,10 @@
 	    <l xml:id="wynken1509_263">The partyes were sonder set</l>
 	    <l xml:id="wynken1509_264">Togyder they ran without let</l>
 	    
-	<pb xml:id="wynken1509_260jpg" n="260jpg" facs="JRL19060260.jpg"/> 
+	<pb xml:id="wynken1509_260jpg" n="260jpg" facs="JRL19060260.jpg"/>
+	<note type="text" resp="#SLG" corresp="wynken1509_260jpg">There is a &quot;5&quot; penciled in at the top of this page.</note>
 	    
-	    <l xml:id="wynken1509_265">Kynge Rycharde gan hym dysguyse</l><!--#CMP: need to decide if we're going to t-note each number pencilled at the top of pages-->
+	    <l xml:id="wynken1509_265">Kynge Rycharde gan hym dysguyse</l>
 	    <l xml:id="wynken1509_266">In a full stronge queyntyse</l>
 	    <l xml:id="wynken1509_267">He came out of a valaye</l>
 	    <l xml:id="wynken1509_268">For to se of theyr playe,</l>
@@ -541,7 +541,7 @@
 	    <l xml:id="wynken1509_370" n="370">He wondred who that it was</l>
 	    <l xml:id="wynken1509_371">Suche a stroke he hym lente</l>
 	    <l xml:id="wynken1509_372">That Rycharde feet out of his steropes wente</l>
-	    <l xml:id="wynken1509_373">For plate ne for acketton</l>
+	    <l xml:id="wynken1509_373">For plate ne for acketton</l> <!--SLG expl note on this kind of jacket-->
 	    <l xml:id="wynken1509_374">For hawberke ne for campeson</l>
 	    <l xml:id="wynken1509_375">Suche a stroke he neuer had none ore</l>
 	    <l xml:id="wynken1509_376">That dyde hym halfe so moche sore</l>
@@ -606,7 +606,7 @@
 	    <l xml:id="wynken1509_428">Home to his owne frende</l>
 	    <l xml:id="wynken1509_429">The kynge anone a messengere</l>
 	    <l xml:id="wynken1509_430" n="430">Full preuely he sente there</l>
-	    <l xml:id="wynken1509_431">To syr Thomas of multon</l>
+	    <l xml:id="wynken1509_431">To syr Thomas of multon</l> <!--SLG expl note on Thomas Moulton and Fouk Doly-->
 	    <l xml:id="wynken1509_432">That was a noble baron</l>
 	    <l xml:id="wynken1509_433">And to syr Fouke dely</l>
 	    <l xml:id="wynken1509_434">That they come to hyme on hye</l>
@@ -683,7 +683,7 @@
 	    <l xml:id="wynken1509_497">The thre knyghtes to speke began</l>
 	    <l xml:id="wynken1509_498">This is the deuyll and no man</l>
 	    <l xml:id="wynken1509_499">That our folke felleth and sleeth</l>
-	    <l xml:id="wynken1509_500" n= "500">Tyde me lyfe tyde me deeth</l>
+	    <l xml:id="wynken1509_500" n="500">Tyde me lyfe tyde me deeth</l>
 	    <l xml:id="wynken1509_501">I shall mete hym yf I may</l>
 	    <l xml:id="wynken1509_502">The auenturous knyght with grete deray</l>
 	    <l xml:id="wynken1509_503">So harde to our knyght he droue</l>
