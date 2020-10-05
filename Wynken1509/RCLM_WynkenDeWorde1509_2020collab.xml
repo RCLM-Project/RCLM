@@ -4474,7 +4474,7 @@
 		<l xml:id="wynken1509_3838">Hors and man he felde to grounde</l>
 		<l xml:id="wynken1509_3839">Anone the wynde gan wexe lyght</l>
 		<l xml:id="wynken1509_3840">And sterne strokes he gan dyght</l>
-		<l xml:id="wynken1509_3841">Whan kynge Rycharde saww that syght</l>
+		<l xml:id="wynken1509_3841">Whan kynge Rycharde sawe that syght</l>
 		<l xml:id="wynken1509_3842">In his herte he wexed good and lyght</l>
 		<l xml:id="wynken1509_3843">And egerly as a lyon without fayle</l>
 		<l xml:id="wynken1509_3844">The sarasynes he began to assayle</l>
@@ -4483,15 +4483,15 @@
 		<l xml:id="wynken1509_3847" n="3800">All tho that ayenst them gan dryue</l>
 		<l xml:id="wynken1509_3848">Soone they berefte them theyr lyue</l>
 		<l xml:id="wynken1509_3849">The sarasynes fledde to reseth </l>
-		<l xml:id="wynken1509_3850">To the mouth of Naʒareth</l>
+		<l xml:id="wynken1509_3850">To the mouth of Na&yogh;areth</l>
 		<l xml:id="wynken1509_3851">They were so hyed at the spore</l>
 		<l xml:id="wynken1509_3852">That moche of theyr folke they lore</l>
-	<fw type="footer">Kynge R.		+		L.iii. </fw><!-- footer, check if this segment out of place narratively? #CMP -->
+	<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="10" unit="chars"/>L&period;iii&period;</fw><!-- footer, check if this segment out of place narratively? #CMP -->
 
 	<pb xml:id="wynken1509_377jpg" n="377jpg" facs="JRL19060377.jpg"/> 
 
 		<l xml:id="wynken1509_3853">And kynge Rycharde wente a pace</l>
-		<l xml:id="wynken1509_3854">Ynto the cyte of cayface</l>
+		<l xml:id="wynken1509_3854">Unto the cyte of cayface</l>
 		<l xml:id="wynken1509_3855">And thanked the kynge of glorye</l>
 		<l xml:id="wynken1509_3856">Of that grace and of that vyctorye</l>
 		<l xml:id="wynken1509_3857" n="3810">And all they made grete solace</l>
