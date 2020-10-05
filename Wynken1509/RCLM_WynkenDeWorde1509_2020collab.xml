@@ -4406,7 +4406,7 @@
 		<l xml:id="wynken1509_3773">And dyght them all redy than</l>
 		<l xml:id="wynken1509_3774">On the morowe to fyght with the sowdan</l>
 		<l xml:id="wynken1509_3775">On saynt Maryes euen the natyuyte</l>
-		<l xml:id="wynken1509_3776">THus same batayll sholde be</l>
+		<l xml:id="wynken1509_3776">Thus same batayll sholde be</l>
 		<l xml:id="wynken1509_3777" n="3730">There was many an hethen man</l>
 		<l xml:id="wynken1509_3778">That with the Salandyn came than</l>
 		<l xml:id="wynken1509_3779">Of ynde of perse of babyloyne</l>
@@ -4415,7 +4415,7 @@
 		<l xml:id="wynken1509_3782">Of all the londe of alysaundre</l>
 		<l xml:id="wynken1509_3783">Of grete grece and of tyre</l>
 		<l xml:id="wynken1509_3784">Of many an other ryche empyre</l>
-	<fw type="footer">Kynge R.		+		L.iiii.</fw> <!-- footer--> <!-- make a note about skipped [L.iii.] in footers #CMP -->
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="10" unit="chars"/>L&period;iiii&period;</fw> <!-- footer--> <!-- make a note about skipped [L.iii.] in footers #CMP -->
 
 	<pb xml:id="wynken1509_375jpg" n="375jpg" facs="JRL19060375.jpg"/>
 
