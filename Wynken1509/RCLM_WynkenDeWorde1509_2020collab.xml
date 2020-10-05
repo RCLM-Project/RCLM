@@ -4543,7 +4543,7 @@
 		<l xml:id="wynken1509_3900">And fyue dukes without fayle</l>
 		<l xml:id="wynken1509_3901">All that he raught with his launce selue</l>
 		<l xml:id="wynken1509_3902">Kynge Rycharde therwith slewe kynges twelue</l>
-		<l xml:id="wynken1509_3903">The .xiii. knyght vnto the chynne he kerfe </l><!-- #CMP expl: compare w cook prep earlier (caitlin to write?)-->
+		<l xml:id="wynken1509_3903">The &period;xiii&period; knyght vnto the chynne he kerfe </l><!-- #CMP expl: compare w cook prep earlier (caitlin to write?)-->
 		<l xml:id="wynken1509_3904">The launce brake the sarasyne sterfe</l>
 		<l xml:id="wynken1509_3905">His axe frome the arson he drewe</l>
 		<l xml:id="wynken1509_3906">And many a sarasyne therwith he slewe</l>
@@ -4576,7 +4576,7 @@
 		<l xml:id="wynken1509_3930">With theyr tethe gnewe the groundes</l>
 		<l xml:id="wynken1509_3931">And by the blode vpon the gras</l>
 		<l xml:id="wynken1509_3932">Men myght se where Rycharde was</l>
-		<l xml:id="wynken1509_3933">Brayne and blode he shedde Inowe</l>
+		<l xml:id="wynken1509_3933">Brayne and blode he shedde I nowe</l>
 		<l xml:id="wynken1509_3934">Many an hors his guttes drowe</l>
 		<l xml:id="wynken1509_3935">There was many an emty sadell</l>
 		<l xml:id="wynken1509_3936">It bewepte the chylde in the cradell</l>
@@ -4590,7 +4590,7 @@
 		<l xml:id="wynken1509_3944">The sarasynes durst hym not abyde</l>
 		<l xml:id="wynken1509_3945">Syxty thousande and seuen score</l>
 		<l xml:id="wynken1509_3946">At ones Rycharde droue hym before</l>
-		<l xml:id="wynken1509_3947" n="3900">Up ayenst an dye clyue</l>
+		<l xml:id="wynken1509_3947" n="3900">Up ayenst an hye clyue</l>
 		<l xml:id="wynken1509_3948">They fledde as dere were dryue</l>
 
 	<pb xml:id="wynken1509_380jpg" n="380jpg" facs="JRL19060380.jpg"/>
@@ -4599,7 +4599,7 @@
 		<l xml:id="wynken1509_3950">With bowe turkeys and arblast</l>
 		<l xml:id="wynken1509_3951">A thousande tabourers and mo</l>
 		<l xml:id="wynken1509_3952">All at ones they smote tho</l>
-		<l xml:id="wynken1509_3953">That all the erth quaked bnder</l>
+		<l xml:id="wynken1509_3953">That all the erth quaked vnder</l>
 		<l xml:id="wynken1509_3954">There men myght se grete wonder</l>
 		<l xml:id="wynken1509_3955">Now speke we of Recharde our kynge</l>
 		<l xml:id="wynken1509_3956">How he came with his gynnes to batayllynge</l>
@@ -4611,7 +4611,7 @@
 		<l xml:id="wynken1509_3962">He gaue oute the hospytalers</l>
 		<l xml:id="wynken1509_3963">And he bad them go out in goddes name</l>
 		<l xml:id="wynken1509_3964">The deuyll to shenshyp and to shame</l>
-		<l xml:id="wynken1509_3965">Iakes denys and Iohn[ne] denes</l>
+		<l xml:id="wynken1509_3965">Iakes denys and <choice><abbr>Iohn</abbr><expan>Iohne</expan></choice> denes</l>
 		<l xml:id="wynken1509_3966">Before wente in that pres</l>
 		<l xml:id="wynken1509_3967">In the worlde there ne were</l>
 		<l xml:id="wynken1509_3968">Better knyghtes than they were</l>
@@ -4627,7 +4627,7 @@
 		<l xml:id="wynken1509_3978">To slee the sarasynes he dyde his myght</l>
 		<l xml:id="wynken1509_3979">He prycked before his folke to rathe</l>
 		<l xml:id="wynken1509_3980">With his two sones that was skathe</l>
-
+		<!--APB phase 1 and 2 complete-->
 	<pb xml:id="wynken1509_381jpg" n="381jpg" facs="JRL19060381.jpg"/>
 
 		<l xml:id="wynken1509_3981">Thre thousande tnrkes come with boost</l>
