@@ -726,7 +726,7 @@
 	    <l xml:id="wynken1509_537">And gaue me a worse buffate</l>
 	    <l xml:id="wynken1509_538">But styll in my sadell I sate</l>
 	    <l xml:id="wynken1509_539">Than sayd many a moders sone</l>
-		<l xml:id="wynken1509_540" n= "540">Alas syr Thomas of multone</l>
+		<l xml:id="wynken1509_540" n="540">Alas syr Thomas of multone</l>
 	    <l xml:id="wynken1509_541">That is smyten without skyll</l>
 	    <l xml:id="wynken1509_542">My mase I hente with good wyll</l>
 	    <l xml:id="wynken1509_543">And smote hym that all folkes saye</l>
@@ -751,7 +751,7 @@
 	    <l xml:id="wynken1509_557">He houed styll and behelde vs yerne</l>
 	    <l xml:id="wynken1509_558">yf there were ony knyght so sterne</l>
 	    <l xml:id="wynken1509_559">So hardy a man and stronge of bones</l>
-	    <l xml:id="wynken1509_560" n= "560">That durst Iuste with hym ones</l>
+	    <l xml:id="wynken1509_560" n="560">That durst Iuste with hym ones</l>
 	    <l xml:id="wynken1509_561">There was none so stoute ne grym</l>
 	    <l xml:id="wynken1509_562">That durst Iuste ones with hym</l>
 	    <l xml:id="wynken1509_563">Downe by the renge he went faste</l>
@@ -761,7 +761,7 @@
 	    <l xml:id="wynken1509_567">With his mase on my bassenet</l>
 	    <l xml:id="wynken1509_568">A stroke vpon my helme he set</l>
 	    <l xml:id="wynken1509_569">With wrathe stronge and eger mayne</l>
-	    <l xml:id="wynken1509_570" n= "570">That nygh all astonyed was my brayne</l>
+	    <l xml:id="wynken1509_570" n="570">That nygh all astonyed was my brayne</l>
 	    <l xml:id="wynken1509_571">I spake to hym wordes fewe</l>
 	    <l xml:id="wynken1509_572">And badde hym ryde worth wood shrewe</l>
 	    <l xml:id="wynken1509_573">And playe with them that be thy pere</l>
@@ -804,24 +804,24 @@
 	    <l xml:id="wynken1509_607">Tho they asked all thre</l>
 	    <l xml:id="wynken1509_608">Trewe sworne for to be</l>
 	    <l xml:id="wynken1509_609">Trompettes blewe and made crye</l>
-	    <l xml:id="wynken1509_610" n= "610">To mete they wente hastely</l>
-	    <l xml:id="wynken1509_611">And on the <num value="12">.xii.</num> daye at ende</l>
+	    <l xml:id="wynken1509_610" n="610">To mete they wente hastely</l>
+	    <l xml:id="wynken1509_611">And on the <num value="12">&period;xii&period;</num> daye at ende</l>
 	    <l xml:id="wynken1509_612">They were red for to wende</l>
 	    <l xml:id="wynken1509_613">With pycke and with slauayne</l>
 	    <l xml:id="wynken1509_614">As palmers or panayme</l>
 
-	    <fw type="heading" xml:id="wynken1509_heading4">&para; How kynge Richarde toke shyppynge.</fw>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kyynge R.<space quantity="6" unit="chars"/>+<space quantity="12" unit="chars"/>B.iii.</fw>
+	    <fw type="heading" xml:id="wynken1509_heading4">&para; How kynge Richarde toke shyppynge&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kyynge R&period;<space quantity="6" unit="chars"/>+<space quantity="12" unit="chars"/>B&period;iii&period;</fw>
 
 	<pb xml:id="wynken1509_271jpg" n="271jpg" facs="JRL19060271.jpg"/> 
 	    
    	 <figure xml:id="wynken1509_figure3" type="woodblock" corresp="#wynken1509_271jpg"><figDesc resp="#CMP">[Needs description.]</figDesc></figure>
 	    
-	    <l xml:id="wynken1509_615">NOw they dyght them full yare</l><!-- CMP text: note on initial [N]-->
+	    <l xml:id="wynken1509_615">NOw they dyght them full yare</l><note type="text" resp="#SLG" corresp="#wynken1509_615">The initial N depicts a creature on its left side looking leftwards. The creature has a long neck and what appears to be two long ears and a tail. The right side of the character depicts foliage.</note>
 	    <l xml:id="wynken1509_616">These thre knyghtes fore to fare</l>
 	    <l xml:id="wynken1509_617">They set vp sayle <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> wynde was good</l>
 	    <l xml:id="wynken1509_618">And sayled ouer the salte flood</l>
-	    <l xml:id="wynken1509_619">In to flaunders as I you saye</l>
+	    <l xml:id="wynken1509_619">In to flaunders as I you saye</l><!--SLG expl note on Flaunders-->
 	    <l xml:id="wynken1509_620" n="620">Kynge Rycharde and his feres twaye</l>
 	    <l xml:id="wynken1509_621">Forth they wente with gladde chere</l>
 	    <l xml:id="wynken1509_622">Thorugh many londes farre and nere</l>
