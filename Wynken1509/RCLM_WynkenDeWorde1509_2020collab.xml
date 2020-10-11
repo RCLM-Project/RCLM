@@ -13,7 +13,9 @@
 	<!ENTITY period "&#x002E;">
 	<!ENTITY punctelev "&#xF161;">
 	<!ENTITY para "&#x00B6;"> <!-- pilcrow -->
-	<!ENTITY revpara "&#x204B;" > <!-- reversed pilcrow -->
+	<!ENTITY revpara "&#x204B;"> <!-- reversed pilcrow -->
+	<!ENTITY sol "&#x002F;">
+	<!ENTITY plus "&#x002B;">
 	  ]>
 	  
 <TEI xml:id="wynken1509" xmlns="http://www.tei-c.org/ns/1.0">
