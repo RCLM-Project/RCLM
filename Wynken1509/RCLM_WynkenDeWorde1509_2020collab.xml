@@ -156,7 +156,7 @@
 	    <l xml:id="wynken1509_37">His fader was cleped kynge Harry</l>
 	    <l xml:id="wynken1509_38">In his tyme sykerly</l>
 	    <l xml:id="wynken1509_39">As I fynde in this sawe</l>
-	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><note type="expl" resp="#SLG" corresp=""#wynken1509_40">Thomas Becket, canonized as Saint Thomas in 1173 BCE, became King Henry II's chancellor in 1155 and archbishop of Canterbury in 1162. Thomas' relationship with Henry II deteriorated with disputes over ecclesiastical and monarchical jurisdiction (Larkin, n. 40). Thomas was murdered in 1170 before his altar in Canterbury, which is referenced in the following line of the poem.</note>
+	    <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><note type="expl" resp="#SLG" corresp="#wynken1509_40">Thomas Becket, canonized as Saint Thomas in 1173 BCE, became King Henry II's chancellor in 1155 and archbishop of Canterbury in 1162. Thomas' relationship with Henry II deteriorated with disputes over ecclesiastical and monarchical jurisdiction (Larkin, n. 40). Thomas was murdered in 1170 before his altar in Canterbury, which is referenced in the following line of the poem.</note>
 	    <l xml:id="wynken1509_41">At Caunterbury before the auter stone</l>
 	    <l xml:id="wynken1509_42">There myracles be done many one</l>
 	    <l xml:id="wynken1509_43">Whan he was <num value="20">&period;xx&period;</num> wynter olde</l>
@@ -2085,7 +2085,7 @@
 	    <l xml:id="wynken1509_1734">Lo here are the letter forsothe Iwys</l>
 	    <l xml:id="wynken1509_1735">That the kynge of fraunce me sente</l>
 	    <l xml:id="wynken1509_1736">That other daye in presente</l>
-	    <l xml:id="wynken1509_1737">Kynge Rycharde saw <choice><abbr>&amp;</abbr><expan>and</expan></choice> vnderstode</l><note type="text" resp="#CMP" corresp="#wynken1509_1737"><The [y] in [Kynge] is rubbed off, but is almost certainly a [y] based on context.</note>
+	    <l xml:id="wynken1509_1737">Kynge Rycharde saw <choice><abbr>&amp;</abbr><expan>and</expan></choice> vnderstode</l><note type="text" resp="#CMP" corresp="#wynken1509_1737">The [y] in [Kynge] is rubbed off, but is almost certainly a [y] based on context.</note>
 	    <l xml:id="wynken1509_1738">The kynge of fraunce wolde hym no gode</l>
 	    <l xml:id="wynken1509_1739">Kynge Rycharde and kynge Tanker kyste</l>
 	    <l xml:id="wynken1509_1740" n="1740">And were frendes with the beste</l>
@@ -4346,7 +4346,7 @@
 		<l xml:id="wynken1509_3718">The sarasynes theron behelde</l>
 		<l xml:id="wynken1509_3719">Whan they the baner myght see</l>
 		<l xml:id="wynken1509_3720">All they began for to flee</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/><anchor xml:id="wynken1509_text1"/>*<space quantity="12" unit="chars"/>L&period;ii&period;</fw><!-- footer, floral again, should we reference SNM's previous note here?-->
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/><anchor xml:id="wynken1509_text2"/>*<space quantity="12" unit="chars"/>L&period;ii&period;</fw><!-- footer, floral again, should we reference SNM's previous note here?-->
 
 	<pb xml:id="wynken1509_373jpg" n="373jpg" facs="JRL19060373.jpg"/> 
 
