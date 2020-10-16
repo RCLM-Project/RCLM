@@ -6265,7 +6265,7 @@
 		<l xml:id="wynken1509_5409">And sayd he neuer sawe ne herde </l>
 		<l xml:id="wynken1509_5410">In al this wyde myddell erde </l>
 		<l xml:id="wynken1509_5411">Not halfe dele the people of men </l>
-		<l xml:id="wynken1509_5412">That Salandyn hath by downe + den  </l>
+		<l xml:id="wynken1509_5412">That Salandyn hath by downe <choice><abbr>&amp;</abbr><expan>and</expan></choice> den  </l>
 
 	<pb xml:id="wynken1509_427jpg" n="427jpg" facs="JRL19060427.jpg"/>
 
@@ -6367,7 +6367,7 @@
 		<l xml:id="wynken1509_5501">Hors and harneys he cryed thare </l>
 		<l xml:id="wynken1509_5502">Ayenst the sarasynes for to fare </l>
 		<l xml:id="wynken1509_5503">We ne haue lyfe but one </l>
-		<l xml:id="wynken1509_5504">Sell we it dere bothe flesshe + bon[n]e </l>
+		<l xml:id="wynken1509_5504">Sell we it dere bothe flesshe <choice><abbr>&amp;</abbr><expan>and</expan></choice> <choice><abbr>bone</abbr><expan>bonne</expan></choice></l>
 		<l xml:id="wynken1509_5505">For to chalenge our herytage </l>
 		<l xml:id="wynken1509_5506">Slee we the sarasynes on euyll rage </l>
 		<l xml:id="wynken1509_5507">Who so hym douteth for menace </l>
@@ -6548,7 +6548,7 @@
 		<l xml:id="wynken1509_5666">With the sowdan thou make thy peas</l>
 		<l xml:id="wynken1509_5667">Take trues and let thy baronage</l>
 		<l xml:id="wynken1509_5668">Unto the flome do theyr vyage</l>
-    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>Q i&period;</fw>
+    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>Q i&period;</fw>
 
 	<pb xml:id="wynken1509_435jpg" n="435jpg" facs="JRL19060435.jpg"/>
 
@@ -6619,7 +6619,7 @@
 		<l xml:id="wynken1509_5730">Kynge Rycharde sawe without fayle</l>
 		<l xml:id="wynken1509_5731">His eem syr Harry of champayne</l>
 		<l xml:id="wynken1509_5732">Felde downe of his hors in the playne</l>
-    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="10"/>Q&period;ii&period;</fw>
+    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="10"/>Q&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_437jpg" n="437jpg" facs="JRL19060437.jpg"/>
 
@@ -6690,7 +6690,7 @@
 		<l xml:id="wynken1509_5794">Euery man with his banere</l>
 		<l xml:id="wynken1509_5795">And of sarasynes thousandes many one</l>
 		<l xml:id="wynken1509_5796">To hym gadered euerychone</l>
-    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="9" unit="chars"/>Q&period;iii&period;</fw>
+    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="9" unit="chars"/>Q&period;iii&period;</fw>
 
 	<pb xml:id="wynken1509_439jpg" n="439jpg" facs="JRL19060439.jpg"/>
 
