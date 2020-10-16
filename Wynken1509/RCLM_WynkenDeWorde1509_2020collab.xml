@@ -1990,7 +1990,7 @@
 	    <l xml:id="wynken1509_1645">Towarde marcell he gan ryde</l>
 	    <l xml:id="wynken1509_1646">With his hoost on eyther syde</l>
 	    <l xml:id="wynken1509_1647">Fouke doly and Thomas of multon</l>
-	    <l xml:id="wynken1509_1648">With erles dukes + many a bolde baron</l>
+	    <l xml:id="wynken1509_1648">With erles dukes <choice><abbr>&amp;</abbr><expan>and</expan></choice> many a bolde baron</l>
 	    <l xml:id="wynken1509_1649">Rychardes mayster Roberte of leycester</l>
 	    <l xml:id="wynken1509_1650" n="1650">In Englonde was none his better</l>
 	    <l xml:id="wynken1509_1651">And also syr Roberte of turname</l>
@@ -2465,7 +2465,7 @@
         <l xml:id="wynken1509_2072" n="2070">The thyrde daye afterwarde</l>
         <l xml:id="wynken1509_2073">They wynde came dryuynge kynge Rycharde</l>
 	
-		<fw type="footer"><space quantity="3" unit="char"/>Kynge R&period;<space quantity="8" unit="char"/>+<space quantity="8" unit="char"/> F&period;iii&period;</fw>
+		<fw type="footer"><space quantity="3" unit="char"/>Kynge R&period;<space quantity="8" unit="char"/>&plus;<space quantity="8" unit="char"/> F&period;iii&period;</fw>
 
 
 	<pb xml:id="wynken1509_319jpg" n="319jpg" facs="JRL19060319.jpg"/>
@@ -2538,7 +2538,7 @@
         <l xml:id="wynken1509_2136">His knyfe he drewe out of his shethe</l>
         <l xml:id="wynken1509_2137">Therwith to do the stewarde scathe</l>
         
-		<fw type="footer"><space quantity="2" unit="char"/>Kynge R&period;<space quantity="8" unit="char"/>+<space quantity="10" unit="char"/> F&period;iiii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>&plus;<space quantity="10" unit="chars"/>F&period;iiii&period;</fw>
 		<!-- APB: phase 1 footers complete -->
 	<pb xml:id="wynken1509_321jpg" n="321jpg" facs="JRL19060321.jpg"/> 
         
@@ -2605,11 +2605,11 @@
         <l xml:id="wynken1509_2195">That neuer was founde no cowarde</l>
 		<lb/>
          <fw type="heading" xml:id="wynken1509_heading9">¶How kynge Rycharde gaue batayll to<lb/>
-            the emperour /+ How þe emperour fledde<lb/>
-            awaye for fere that he had /+ there was<lb/>
-            slayne many of the emperours folke/and<lb/>
+            the emperour &sol; <choice><abbr>&amp;</abbr><expan>and</expan></choice> How &thorn;e emperour fledde<lb/>
+            awaye for fere that he had &sol; <choice><abbr>&amp;</abbr><expan>and</expan></choice> there was<lb/>
+            slayne many of the emperours folke&sol;and<lb/>
             after that he wente streyght to Acrys</fw>
-        <fw type="footer"><space quantity="6" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="10" unit="chars"/>G&period;i&period;</fw>
+        <fw type="footer"><space quantity="6" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="10" unit="chars"/>G&period;i&period;</fw>
 
 	<pb xml:id="wynken1509_323jpg" n="323jpg" facs="JRL19060323.jpg"/> 
 
@@ -2655,7 +2655,7 @@
         <l xml:id="wynken1509_2230">Herken now of the stewarde</l>
         <l xml:id="wynken1509_2231">He came at nyght to kynge Rycharde</l>
         <l xml:id="wynken1509_2232" n="2230">And the emperours doughter hym with</l>
-        <l xml:id="wynken1509_2233">She grette kynge Rycharde in peas + gryth</l>
+        <l xml:id="wynken1509_2233">She grette kynge Rycharde in peas <choice><abbr>&amp;</abbr><expan>and</expan></choice> gryth</l>
         <l xml:id="wynken1509_2234">She fell on knees and gan to wepe</l>
         <l xml:id="wynken1509_2235">And sayd kynge Kycharde god the kepe</l>
         <l xml:id="wynken1509_2236">The stewarde sayd I am shente for the</l>
@@ -2667,7 +2667,7 @@
         <l xml:id="wynken1509_2242">An hondred knyghtes I you behyght</l>
         <l xml:id="wynken1509_2243">Lo them here redy in all ryght</l>
         
-        <fw type="footer"><space quantity="5" unit="chars"/>Kynge R&period;<space quantity="11" unit="chars"/>+<space quantity="11" unit="chars"/>G&period;ii&period;</fw>
+        <fw type="footer"><space quantity="5" unit="chars"/>Kynge R&period;<space quantity="11" unit="chars"/>&plus;<space quantity="11" unit="chars"/>G&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_325jpg" n="325jpg" facs="JRL19060325.jpg"/> 
 
@@ -2719,7 +2719,7 @@
         <l xml:id="wynken1509_2286">For he is here amonge vs</l>
         <l xml:id="wynken1509_2287">ANd sleeth downe ryght by Ihesus</l>
         <l xml:id="wynken1509_2288">The englysshe knyghtes for the nones</l>
-        <l xml:id="wynken1509_2289">All to hewed the gryffons bodyes + bones</l>
+        <l xml:id="wynken1509_2289">All to hewed the gryffons bodyes <choice><abbr>&amp;</abbr><expan>and</expan></choice> bones</l>
         <l xml:id="wynken1509_2290">They smote the cordes and fell downe</l>
         <l xml:id="wynken1509_2291">Of many a ryche pauylyowne</l>
         <l xml:id="wynken1509_2292">And euer cryed squyer and knyght</l>
@@ -2727,7 +2727,7 @@
         <l xml:id="wynken1509_2294">yelde the tresour ayenwarde</l>
         <l xml:id="wynken1509_2295">That ye toke from kynge Rycharde</l>
         <l xml:id="wynken1509_2296">ye ben worthy to haue suche mede</l>
-        <l xml:id="wynken1509_2297">With many wouudes to lye and blede</l> <!-- #CMP text: likely [woundes] -->
+        <l xml:id="wynken1509_2297">With many wouudes to lye and blede</l><note type="text" resp="#CMP" corresp="#wynken1509_2297">Based on context, [wouudes] was likely meant to printed as [woundes].</note>
         <l xml:id="wynken1509_2298">In the emperours pauylyon kynge Rycharde</l>
         <l xml:id="wynken1509_2299">Alyght so dyde the stewarde</l>
         <l xml:id="wynken1509_2300">And the emperour was fledde awaye</l>
@@ -2735,11 +2735,11 @@
         <l xml:id="wynken1509_2302" n="2300">Flowen was that fals cowarde</l>
         <l xml:id="wynken1509_2303">Narowe hym sought kynge Rycharde</l>
         <l xml:id="wynken1509_2304">Longe or the daye began to dawe</l>
-        <l xml:id="wynken1509_2305">Twenty thousande gryffons were Islawe</l> <!-- #CMP text: The [w] is slightly rubbed away but high certainty from context.-->
+        <l xml:id="wynken1509_2305">Twenty thousande gryffons were Islawe</l><note type="text" resp="#CMP" corresp="#wynken1509_2305">The [w] in [Twenty] is slightly rubbed away, but there is a high certainty from context.</note>
         <l xml:id="wynken1509_2306">Of sylke sendell and syclaton</l> <!-- #CMP expl: add note about the importance of the material used for the pavilion and as a reclamation of emperor's wealth by way of this tent (caitlin to write?) -->
         <l xml:id="wynken1509_2307">Was the emperours pauylyon</l> 
         
-        <fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>+<space quantity="11" unit="chars"/>G&period;iii&period;</fw>
+        <fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>&plus;<space quantity="11" unit="chars"/>G&period;iii&period;</fw>
 
 	<pb xml:id="wynken1509_327jpg" n="327jpg" facs="JRL19060327.jpg"/>
         
@@ -2773,7 +2773,7 @@
         <l xml:id="wynken1509_2335">And bad them to kynge Rycharde gone</l>
         <l xml:id="wynken1509_2336">And saye your emperour and your kynge</l>
         <l xml:id="wynken1509_2337">That I hym sende goddes gretynge</l>
-        <l xml:id="wynken1509_2338">Homage by yere I wyll hym gyue + yelde</l>
+        <l xml:id="wynken1509_2338">Homage by yere I wyll hym gyue <choice><abbr>&amp;</abbr><expan>and</expan></choice> yelde</l>
         <l xml:id="wynken1509_2339">ANd all my londe I wyll of hym helde</l>
 
 	<pb xml:id="wynken1509_328jpg" n="328jpg" facs="JRL19060328.jpg"/> 
@@ -2781,7 +2781,7 @@
         <l xml:id="wynken1509_2340">So that he wyll for charyte</l>
         <l xml:id="wynken1509_2341">In peas here after leue me</l>
         <l xml:id="wynken1509_2342" n="2340">The menssengers anone forth wente</l>
-        <l xml:id="wynken1509_2343">And fayd theyr lordes co[m]maundemente</l> <!-- #CMP text: likely [sayd] -->
+        <l xml:id="wynken1509_2343">And fayd theyr lordes <choice><abbr>comaundemente</abbr><expan>commaundemente</expan></choice></l><note type="text" resp="#CMP" corresp="#wynken1509_2343">Based on context, [fayd] was likely intended to be [sayd].</note>
         <l xml:id="wynken1509_2344">Kynge Rycharde answered therto</l>
         <l xml:id="wynken1509_2345">I graunte well that it be so</l>
         <l xml:id="wynken1509_2346">Go and sayd your emperour</l>
@@ -2806,12 +2806,12 @@
         <l xml:id="wynken1509_2365">That he this dyde sholde do</l>
         <l xml:id="wynken1509_2366">To kynge Rycharde he came on the morowe</l>
         <l xml:id="wynken1509_2367">In his herte he had moche sorowe</l>
-        <l xml:id="wynken1509_2368">He sell on knees so sayth the boke</l> <!-- #CMP text: likely [fell] -->
+        <l xml:id="wynken1509_2368">He sell on knees so sayth the boke</l><note type="text" resp="#CMP" corresp="#wynken1509_2368">Based on context, [sell] was likely intended to be [fell].</note>
         <l xml:id="wynken1509_2369">Kynge Rycharde by bothe the fete he toke</l>
         <l xml:id="wynken1509_2370">And cryed mercy with good entent</l>
         <l xml:id="wynken1509_2371">And he forgaue hym his maltalent</l>
         
-       <fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>+<space quantity="12" unit="chars"/>G&period;iiii&period;</fw>
+       <fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>&plus;<space quantity="12" unit="chars"/>G&period;iiii&period;</fw>
 
 	<pb xml:id="wynken1509_329jpg" n="329jpg" facs="JRL19060329.jpg"/> 
 
@@ -2864,7 +2864,7 @@
         <l xml:id="wynken1509_2415">Was well worthy for to abye</l>
         <l xml:id="wynken1509_2416">The emperour sawe and vnderstode</l>
         <l xml:id="wynken1509_2417">His barons wolde hym no gode</l>
-        <l xml:id="wynken1509_2418">To another towne he wente + helde hym thare</l>
+        <l xml:id="wynken1509_2418">To another towne he wente <choice><abbr>&amp;</abbr><expan>and</expan></choice> helde hym thare</l>
         <l xml:id="wynken1509_2419">In his herte he had moche care</l>
         <l xml:id="wynken1509_2420">That same tyme the hygh stewarde</l>
         <l xml:id="wynken1509_2421">Counseylled with kynge Rycharde</l>
@@ -2878,9 +2878,9 @@
         <l xml:id="wynken1509_2429">Of hym had he no reuth</l>
         <l xml:id="wynken1509_2430">But let a sergeaunt hym bynde</l>
         <l xml:id="wynken1509_2431">His hondes soone hym behynde</l>
-        <l xml:id="wynken1509_2432" n="2430">And caste hym in to a galey</l> <!-- #CMP text: The [e] is rubbed [e] but high certainty from context. -->
+        <l xml:id="wynken1509_2432" n="2430">And caste hym in to a galey</l><note type="text" resp="#CMP" corresp="#wynken1509_2432">The [e] in [galey] is almost rubbed away, but that it is an [e] is highly certain from context.</note>
         <l xml:id="wynken1509_2433">And ledde hym in to surrey</l>
-        <l xml:id="wynken1509_2434">And swore by Ihesu that made mone + sterre</l>
+        <l xml:id="wynken1509_2434">And swore by Ihesu that made mone <choice><abbr>&amp;</abbr><expan>and</expan></choice> sterre</l>
         <l xml:id="wynken1509_2435">Ayenst the sarasynes he sholde lerne to werre</l>
 
 	<pb xml:id="wynken1509_331jpg" n="331jpg" facs="JRL19060331.jpg"/> 
@@ -3056,14 +3056,14 @@
 	   <!-- #CMP expl: add note about St Edmund (maybe Nolie to write?) -->
 		<lb/>
 	<fw type="heading" xml:id="wynken1509_heading10">¶How kynge Rycharde cutte a two a grete<lb/>
-	chayne /+ how an archebysshop tolde hym<lb/>
-	the sorowe that they had suffre afore.</fw>
+	chayne &sol; <choice><abbr>&amp;</abbr><expan>and</expan></choice> how an archebysshop tolde hym<lb/>
+	the sorowe that they had suffre afore&period;</fw>
 
 	<pb xml:id="wynken1509_336jpg" n="336jpg" facs="JRL19060336.jpg"/>
 
-	<figure xml:id="wynken1509_figure8" type ="woodblock" corresp="#wynken1509_336jpg"><figDesc resp="#CMP"><!-- block image, needs description--></figDesc></figure>
+	<figure xml:id="wynken1509_figure8" type="woodblock" corresp="#wynken1509_336jpg"><figDesc resp="#CMP"><!-- block image, needs description--></figDesc></figure>
 
-       <l xml:id="wynken1509_2592" n="2590">KYnge Rycharde after anone ryght</l><note type="text" resp="#CMP">The initial letter &quot;K&quot; includes a face, and is 5 lines vertical and approximately 9-10 characters wide.</note>
+       <l xml:id="wynken1509_2592" n="2590">KYnge Rycharde after anone ryght</l><note type="text" resp="#CMP" corresp="#wynken1509_2592">The initial letter &quot;K&quot; includes a face, and is 5 lines vertical and approximately 9-10 characters wide.</note>
        <l xml:id="wynken1509_2593">Towarde Acrys gan hym dyght</l>
        <l xml:id="wynken1509_2594">And as he sayled towarde surrye</l>
        <l xml:id="wynken1509_2595">He was warned of a spye</l>
@@ -3142,13 +3142,13 @@
 		<l xml:id="wynken1509_2662">They wende it had ben mennes bones</l> 
 		<l xml:id="wynken1509_2663">That lyueth on mahowne and termagaunt</l>
 		<l xml:id="wynken1509_2664">He was a crysten kynge some whyle</l>
-		<l xml:id="wynken1509_2665" n="2690">He had done vs more shame + gyle</l>
+		<l xml:id="wynken1509_2665" n="2690">He had done vs more shame <choice><abbr>&amp;</abbr><expan>and</expan></choice> gyle</l>
 		<l xml:id="wynken1509_2666">Than the sowdan and his hoost</l>
 		<l xml:id="wynken1509_2667">The fader and sone and holy goost</l>
 		<l xml:id="wynken1509_2668">Graunte hym grace of worldes shame</l>
 		<l xml:id="wynken1509_2669">Markys feraunt by his name</l>
 
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="12" unit="chars"/>H&period;i&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="12" unit="chars"/>H&period;i&period;</fw>
 
 <!--SLG: jpg 339 missing. Added in below, line numbering still incorrect, and someone should check my transcription as I did it pretty rapidly.-->
 
@@ -3294,7 +3294,7 @@
 		<l xml:id="wynken1509_2796">But god almyghty heuen kynge</l>
 		<l xml:id="wynken1509_2797" n="2790">He sente vs soone socourynge</l>
 
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="12" unit="chars"/>H&period;iii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="12" unit="chars"/>H&period;iii&period;</fw>
 
 	<pb xml:id="wynken1509_343jpg" n="343jpg" facs="JRL19060343.jpg"/>
 
@@ -3364,8 +3364,8 @@
 		<l xml:id="wynken1509_2858">Thorugh thy helpe I hope well</l>
 		<l xml:id="wynken1509_2859">The sarasynes downe to fell</l>
 		<lb/>
-		<fw type="heading" xml:id="wynken1509_heading11">&para;How kynge Rycharde wan the cyte of Acrys.</fw>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>+<space quantity="11" unit="chars"/>H&period;iiii&period;</fw>
+		<fw type="heading" xml:id="wynken1509_heading11">&para;How kynge Rycharde wan the cyte of Acrys&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>&plus;<space quantity="11" unit="chars"/>H&period;iiii&period;</fw>
 
 	<pb xml:id="wynken1509_345jpg" n="345jpg" facs="JRL19060345.jpg"/>
 
@@ -3421,7 +3421,7 @@
 		<l xml:id="wynken1509_2905">But it were brought downe</l>
 		<l xml:id="wynken1509_2906">By none the vttermest wall</l>
 		<l xml:id="wynken1509_2907" n="2900">He sholde be hewen in peces small</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="10" unit="chars"/>J&period;i&period;</fw><!-- unsure about the letter form #CMP -->
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="10" unit="chars"/>J&period;i&period;</fw><!-- unsure about the letter form #CMP -->
 
 	<pb xml:id="wynken1509_347jpg" n="347jpg" facs="JRL19060347.jpg"/>
 
@@ -3492,7 +3492,7 @@
 		<l xml:id="wynken1509_2969">In ynde I armed to all ryghtes</l>
 		<l xml:id="wynken1509_2970">After came whyte as ony snowe </l>
 		<l xml:id="wynken1509_2971">Fyfty thousande on a rowe</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>+<space quantity="8" unit="chars"/>J&period;ii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>&plus;<space quantity="8" unit="chars"/>J&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_349jpg" n="349jpg" facs="JRL19060349.jpg"/> 
 
@@ -3563,7 +3563,7 @@
 		<l xml:id="wynken1509_3033">For theyr lorde laye in grete anguysshe</l>
 		<l xml:id="wynken1509_3034">For kynge Rycharde laye so sore syke</l>
 		<l xml:id="wynken1509_3035">All about they gan seke</l>
-		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>+<space quantity="9" unit="chars"/>J&period;iii&period;</fw>
+		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>&plus;<space quantity="9" unit="chars"/>J&period;iii&period;</fw>
 		<!--APB: phase 1 and 2 complete-->
 	<pb xml:id="wynken1509_351jpg" n="351jpg" facs="JRL19060351.jpg"/>
 
@@ -3634,7 +3634,7 @@
 		<l xml:id="wynken1509_3096">Glad was bothe lerned and lewed</l>
 		<l xml:id="wynken1509_3097" n="3070">And thanked Ihesu and Mary</l>
 		<l xml:id="wynken1509_3098">That he was out of his malady</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="8" unit="chars"/>J&period;iiii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="8" unit="chars"/>J&period;iiii&period;</fw>
 
 	<pb xml:id="wynken1509_353jpg" n="353jpg" facs="JRL19060353.jpg"/>
 
@@ -3989,7 +3989,7 @@
 		<l xml:id="wynken1509_3416">They were set at hye table</l>
 		<l xml:id="wynken1509_3417">Salte was set but no brede</l>
 		<l xml:id="wynken1509_3418">Neyther wyne whyte nor rede</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="10" unit="chars"/>K&period;i&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="10" unit="chars"/>K&period;i&period;</fw>
 
 		<pb xml:id="wynken1509_363jpg" n="363jpg" facs="JRL19060363.jpg"/>
 
@@ -4062,7 +4062,7 @@
 		<l xml:id="wynken1509_3482">To be serued fyrst god it wote</l>
 		<l xml:id="wynken1509_3483">With a sarasynes heed all hote</l>
 	
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>K&period;ii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>K&period;ii&period;</fw>
 
 		<pb xml:id="wynken1509_365jpg" n="365jpg" facs="JRL19060365.jpg"/>
 
@@ -4137,7 +4137,7 @@
 		<l xml:id="wynken1509_3545">To vs sayd I gyue it you</l>
 		<l xml:id="wynken1509_3546">Tresour golde cloth of pall</l>
 		<l xml:id="wynken1509_3547" n="3520">Parte it amonge you all</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>K&period;iii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>K&period;iii&period;</fw>
 
 	<pb xml:id="wynken1509_367jpg" n="367jpg" facs="JRL19060367.jpg"/>
 
@@ -4211,7 +4211,7 @@
 		<l xml:id="wynken1509_3610">Sende to hym and beseche them efte</l>
 		<l xml:id="wynken1509_3611">For them that ben on lyue lefte</l>
 		<l xml:id="wynken1509_3612">To let them go yf that he wolde</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>K&period;iiii</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>K&period;iiii</fw>
 
 	<pb xml:id="wynken1509_369jpg" n="369jpg" facs="JRL19060369.jpg"/>
 
@@ -4314,8 +4314,8 @@
 		<l xml:id="wynken1509_3696">Lysten now to me with good chere</l>
 		<lb/>
 
-	<fw type="heading" xml:id="wynken1509_heading12">&para;Yet of an other batayll/and how kynge Ry<lb/>
-	charde wan it/+ also wan the cyte of arsour&period;</fw>
+	<fw type="heading" xml:id="wynken1509_heading12">&para;Yet of an other batayll&sol;and how kynge Ry<lb/>
+	charde wan it&sol;<choice><abbr>&amp;</abbr><expan>and</expan></choice> also wan the cyte of arsour&period;</fw>
 	<lb/>
 
 		<l xml:id="wynken1509_3697">IT was before saynt Iames tyde</l> <!-- #CMP text: The initial [I] is two lines long, about 5 characters wide. --> <!-- #CMP expl: add note about temporal setting wrt Saint James feast day-->
@@ -4417,7 +4417,7 @@
 		<l xml:id="wynken1509_3782">Of all the londe of alysaundre</l>
 		<l xml:id="wynken1509_3783">Of grete grece and of tyre</l>
 		<l xml:id="wynken1509_3784">Of many an other ryche empyre</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="10" unit="chars"/>L&period;iiii&period;</fw> <!-- footer--> <!-- make a note about skipped [L.iii.] in footers #CMP -->
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="10" unit="chars"/>L&period;iiii&period;</fw> <!-- footer--> <!-- make a note about skipped [L.iii.] in footers #CMP -->
 
 	<pb xml:id="wynken1509_375jpg" n="375jpg" facs="JRL19060375.jpg"/>
 
@@ -4488,7 +4488,7 @@
 		<l xml:id="wynken1509_3850">To the mouth of Na&yogh;areth</l>
 		<l xml:id="wynken1509_3851">They were so hyed at the spore</l>
 		<l xml:id="wynken1509_3852">That moche of theyr folke they lore</l>
-	<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="10" unit="chars"/>L&period;iii&period;</fw><!-- footer, check if this segment out of place narratively? #CMP -->
+	<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="10" unit="chars"/>L&period;iii&period;</fw><!-- footer, check if this segment out of place narratively? #CMP -->
 
 	<pb xml:id="wynken1509_377jpg" n="377jpg" facs="JRL19060377.jpg"/> 
 
@@ -4824,7 +4824,7 @@
 		<l xml:id="wynken1509_4148">And cryed trues with grete sowne</l>
 		<l xml:id="wynken1509_4149">To the ryche kynge of fraunce</l>
 		<l xml:id="wynken1509_4150">And he graunted with myschaunce</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+M&period;i&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="10" unit="chars"/>M&period;i&period;</fw>
 
 	<pb xml:id="wynken1509_387jpg" n="387jpg" facs="JRL19060387387.jpg"/> 
 
@@ -4895,7 +4895,7 @@
 		<l xml:id="wynken1509_4212">That sytteth on hye in heuen aboue</l>
 		<l xml:id="wynken1509_4213">And his owne hors be good</l>
 		<l xml:id="wynken1509_4214">With a spere to shede his blood</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="13" unit="chars"/>+<space quantity="10" unit="chars"/>M&period;ii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="13" unit="chars"/>&plus;<space quantity="10" unit="chars"/>M&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_389jpg" n="389jpg" facs="JRL19060389.jpg"/>
 
@@ -4966,7 +4966,7 @@
 		<l xml:id="wynken1509_4276">He let hym dyght a sadell swythe</l>
 		<l xml:id="wynken1509_4277">Bothe his arsones were of Iren</l>
 		<l xml:id="wynken1509_4278">Bycause they sholde well duren</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="13" unit="chars"/>M&period;iii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="13" unit="chars"/>M&period;iii&period;</fw>
 <!--SLG: phases 1-2 complete for jpgs 381-390-->
 
 	<pb xml:id="wynken1509_391jpg" n="391jpg" facs="JRL19060391.jpg"/>
@@ -5112,7 +5112,7 @@
 		<l xml:id="wynken1509_4405">He was couered wondersly wele</l>
 		<l xml:id="wynken1509_4406">All with splentes of good stele</l>
 	
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;i&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>N&period;i&period;</fw>
 
 	<pb xml:id="wynken1509_395jpg" n="395jpg" facs="JRL19060395.jpg"/>
 
@@ -5187,7 +5187,7 @@
 		<l xml:id="wynken1509_4469">In his shelde verament</l>
 		<l xml:id="wynken1509_4470">Was paynted a serpent</l>
 		
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;ii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>N&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_397jpg" n="397jpg" facs="JRL19060397.jpg"/>
 
@@ -5261,7 +5261,7 @@
 		<l xml:id="wynken1509_4533">With hym many a baron and knyght</l>
 		<l xml:id="wynken1509_4534">But kynge Rycharde that was wyght</l>
 		
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;iii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>N&period;iii&period;</fw>
 
 	<pb xml:id="wynken1509_399jpg" n="399jpg" facs="JRL19060399.jpg"/>
 
@@ -5332,9 +5332,9 @@
 		<l xml:id="wynken1509_4594">He let his colte vanysshee awaye</l>
 		<lb/>
 		<fw type="heading" xml:id="wynken1509_heading14">&para;How kynge Rycharde and the kynge of fraun<lb/>
-		ce were wrothe togyder/and how <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> kynge of <choice><abbr>frau</abbr><expan>fraunce</expan></choice><lb/>
+		ce were wrothe togyder&sol;and how <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> kynge of <choice><abbr>frau</abbr><expan>fraunce</expan></choice><lb/>
 		wente home to his londe&period;</fw>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="12" unit="chars"/>N&period;iiii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>N&period;iiii&period;</fw>
 <!-- SNM phase 1-2 complete 391-400 jpg -->
 	<pb xml:id="wynken1509_401jpg" n="401jpg" facs="JRL19060401.jpg"/>
 
@@ -5346,13 +5346,13 @@
 		<l xml:id="wynken1509_4599">Iherusalem that fayre cyte </l>
 		<l xml:id="wynken1509_4600">That is so fayre and so fre </l>
 		<l xml:id="wynken1509_4601">Though thou it wynne it shall be myn </l>
-		<l xml:id="wynken1509_4602">Bygod sayd Rycharde + by saynt martyn </l>
+		<l xml:id="wynken1509_4602">Bygod sayd Rycharde <choice><abbr>&amp;</abbr><expan>and</expan></choice> by saynt martyn </l>
 		<l xml:id="wynken1509_4603">And as god do my solue bote </l>
 		<l xml:id="wynken1509_4604">Of my wynnynge not halfe a fote </l>
 		<l xml:id="wynken1509_4605">I ne shall gyue the no londe </l>
 		<l xml:id="wynken1509_4606">I do the well to vnderstonde </l>
 		<l xml:id="wynken1509_4607">If thou wylte it haue he sayd then </l>
-		<l xml:id="wynken1509_4608">Go now forth + wynne it with thy men </l>
+		<l xml:id="wynken1509_4608">Go now forth <choice><abbr>&amp;</abbr><expan>and</expan></choice> wynne it with thy men </l>
 		<l xml:id="wynken1509_4609">Myn offrynge quod Rycharde lo it here </l>
 		<l xml:id="wynken1509_4610">I wyll come Iherusalem no nere </l>
 		<l xml:id="wynken1509_4611">And in an arblaste of vyle he bente</l> 
@@ -5365,7 +5365,7 @@
 		<l xml:id="wynken1509_4618">But he in to fraunce retourned ayen </l>
 		<l xml:id="wynken1509_4619">Than his counseyll vnderstode </l>
 		<l xml:id="wynken1509_4620">And sayd it was trewe and good </l>
-		<l xml:id="wynken1509_4621">Theyr shyppes they dyght more + lasse </l>
+		<l xml:id="wynken1509_4621">Theyr shyppes they dyght more <choice><abbr>&amp;</abbr><expan>and</expan></choice> lasse </l>
 		<l xml:id="wynken1509_4622">And wente home at alhalowmasse </l>
 		<l xml:id="wynken1509_4623">Kynge Rychard gan to hym crye </l>
 		<l xml:id="wynken1509_4624">And sayd he dyde grete vylanye </l>
@@ -5461,11 +5461,11 @@
 		<l xml:id="wynken1509_4694">Fynde I the traytour amonge vs </l>
 		<l xml:id="wynken1509_4695">Ouer this same dayes thre </l>
 		<l xml:id="wynken1509_4696">My selfe shall thy bane be </l>
-		<l xml:id="wynken1509_4697">Traytour we trauayle daye + nyght </l>
+		<l xml:id="wynken1509_4697">Traytour we trauayle daye <choice><abbr>&amp;</abbr><expan>and</expan></choice> nyght </l>
 		<l xml:id="wynken1509_4698">In ware and wrake and in fyght </l>
 		<l xml:id="wynken1509_4699">And thou lyest as foule gloton </l>
 		<l xml:id="wynken1509_4700">And slepest in thy pauylyon </l>
-		<l xml:id="wynken1509_4701">Thou drynkest wyne good + stronge </l>
+		<l xml:id="wynken1509_4701">Thou drynkest wyne good <choice><abbr>&amp;</abbr><expan>and</expan></choice> stronge </l>
 		<l xml:id="wynken1509_4702">And slepest all the daye longe </l>
 		<l xml:id="wynken1509_4703">I shall take frome the thy baner </l>
 		<l xml:id="wynken1509_4704">And caste it in to the ryuer </l>
@@ -5496,7 +5496,7 @@
 		<l xml:id="wynken1509_4725">The duke of estryche hyed faste </l>
 		<l xml:id="wynken1509_4726">Awaye with his meyne in haste </l>
 		<l xml:id="wynken1509_4727">And with hym the duke of burgoyne </l>
-		<l xml:id="wynken1509_4728">The folke of fraunce + the erle of coloyne </l>
+		<l xml:id="wynken1509_4728">The folke of fraunce <choice><abbr>&amp;</abbr><expan>and</expan></choice> the erle of coloyne </l>
 		<l xml:id="wynken1509_4729">Kynge Rycharde let breke his baner </l>
 		<l xml:id="wynken1509_4730">And caste it in to the ryuer </l>
 		<l xml:id="wynken1509_4731">And cryed on hym with voyce stepe</l> 
@@ -5528,7 +5528,7 @@
 		<l xml:id="wynken1509_4754">Full of stones and of ryches </l>
 		<l xml:id="wynken1509_4755">Bothe of fatte flesshe and of lene </l>
 		<l xml:id="wynken1509_4756">Whete otes pesyn and bene </l>
-		<l xml:id="wynken1509_4757">Kynge Rycharde it wan + soiourned there</l>
+		<l xml:id="wynken1509_4757">Kynge Rycharde it wan <choice><abbr>&amp;</abbr><expan>and</expan></choice> soiourned there</l>
 		<l xml:id="wynken1509_4758">Nyne dayes all planere </l>
 		<l xml:id="wynken1509_4759">And sente spyes by eche wayes </l>
 		<l xml:id="wynken1509_4760">For to aspye the countrayes </l>
@@ -5557,7 +5557,7 @@
 		<l xml:id="wynken1509_4780">He sware his othe by saynt Marye </l>
 		<l xml:id="wynken1509_4781">The sarasynes sholde be hanged all </l>
 		<l xml:id="wynken1509_4782">Or suche a case sholde befall </l>
-		<l xml:id="wynken1509_4783">The crysten assayled + they defended </l>
+		<l xml:id="wynken1509_4783">The crysten assayled <choice><abbr>&amp;</abbr><expan>and</expan></choice> they defended </l>
 		<l xml:id="wynken1509_4784">And many a quarell they sended </l>
 		<l xml:id="wynken1509_4785">All that daye and all that nyght </l>
 		<l xml:id="wynken1509_4786">They and the crysten kepte fyght </l>
@@ -5691,7 +5691,7 @@
 		<l xml:id="wynken1509_4904">With that we must come the to </l>
 		<l xml:id="wynken1509_4905">To honge or drawe brenne or sle </l>
 		<l xml:id="wynken1509_4906">Our fredome lorde is in the </l>
-    <fw type="footer">Kynge R.    +   O.i.  </fw>
+    <fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="12" unit="chars"/>O&period;i&period;</fw>
 
 	<pb xml:id="wynken1509_411jpg" n="411jpg" facs="JRL19060411.jpg"/>
 
@@ -5763,7 +5763,7 @@
 		<l xml:id="wynken1509_4962">That they ne had no lordynge</l>
 		<l xml:id="wynken1509_4963">But the ymage of marble fyne</l>
 		<l xml:id="wynken1509_4964">And mahowne and theyr god appolyne</l><!--SLG expl: note on deliberate misrepresentation of Islam--> 
-    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>+<space quantity="12" unit="chars"/>O&period;ii&period;</fw>
+    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="9" unit="chars"/>&plus;<space quantity="12" unit="chars"/>O&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_413jpg" n="413jpg" facs="JRL19060413.jpg"/>
 
@@ -5834,7 +5834,7 @@
 		<l xml:id="wynken1509_5026">Salandyn toke the towne in honde</l>
 		<l xml:id="wynken1509_5027">In that cyte was saynt Anne I bore</l><!--SLG expl: note on St Anne-->
 		<l xml:id="wynken1509_5028">That our lady was of I bore</l>
-    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="12" unit="chars"/>O&period;iii&period;</fw>
+    		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="12" unit="chars"/>O&period;iii&period;</fw>
 
 
 	<pb xml:id="wynken1509_415jpg" n="415jpg" facs="JRL19060415.jpg"/>
@@ -5906,7 +5906,7 @@
 		<l xml:id="wynken1509_5090">I shall the do grete tresour wyn</l>
 		<l xml:id="wynken1509_5091">More than an hondred thousande pounde</l>
 		<l xml:id="wynken1509_5092">Florence of golde hole and sounde</l>
-		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>+<space quantity="9" unit="chars"/>O&period;iiii&period;</fw>
+		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/>&plus;<space quantity="9" unit="chars"/>O&period;iiii&period;</fw>
 
 	<pb xml:id="wynken1509_417jpg" n="417jpg" facs="JRL19060417.jpg"/>
 
@@ -5977,7 +5977,7 @@
 		<l xml:id="wynken1509_5154">Thou shalte se speres and sheldes</l>
 		<l xml:id="wynken1509_5155">Be it erles barons or kynges  </l>
 		<l xml:id="wynken1509_5156">All they shall haue theyr endynges</l> 
-		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="11" unit="chars"/>+<space quantity="11" unit="chars"/>P&period;i&period;</fw>
+		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="11" unit="chars"/>&plus;<space quantity="11" unit="chars"/>P&period;i&period;</fw>
 
 
 	<pb xml:id="wynken1509_419jpg" n="419jpg" facs="JRL19060419.jpg"/>
@@ -6049,13 +6049,13 @@
 		<l xml:id="wynken1509_5218">Rycharde by the waye ne by strete</l> 
 		<l xml:id="wynken1509_5219">Now may ye here of the wynnynge</l>
 		<l xml:id="wynken1509_5220">That wanne Rycharde our kynge</l>
-		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>+<space quantity="11" unit="chars"/>P&period;ii&period;</fw>
+		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="11" unit="chars"/>P&period;ii&period;</fw>
 <!--SLG: phases 1-2 complete for jpgs 411-420-->
 
 	<pb xml:id="wynken1509_421jpg" n="421jpg" facs="JRL19060421.jpg"/>
 
 		<l xml:id="wynken1509_5221">Hors of pryce and many a camayle </l>
-		<l xml:id="wynken1509_5222">Fyue thousande + fyue hondred saunce fayle  </l>
+		<l xml:id="wynken1509_5222">Fyue thousande <choice><abbr>&amp;</abbr><expan>and</expan></choice> fyue hondred saunce fayle  </l>
 		<l xml:id="wynken1509_5223">Syxe hondred horse of grete courlers  </l>
 		<l xml:id="wynken1509_5224">All charged with ryche tresers  </l>
 		<l xml:id="wynken1509_5225">That were in cofers faste I bounde </l>
@@ -6063,7 +6063,7 @@
 		<l xml:id="wynken1509_5227">Mules he had thre thousande and mo  </l>
 		<l xml:id="wynken1509_5228">That pannes and spyces bare tho  </l>
 		<l xml:id="wynken1509_5229">And fyue hondred of asse  </l>
-		<l xml:id="wynken1509_5230">Bare wyne and oyle more + lasse  </l>
+		<l xml:id="wynken1509_5230">Bare wyne and oyle more <choice><abbr>&amp;</abbr><expan>and</expan></choice> lasse  </l>
 		<l xml:id="wynken1509_5231">And also many of whete rede  </l>
 		<l xml:id="wynken1509_5232">There Rycharde dyde a noble dede  </l>
 		<l xml:id="wynken1509_5233">Whan he allthat resour wan  </l>
@@ -6121,18 +6121,18 @@
 		<l xml:id="wynken1509_5282">I the brynge tydynges gode </l>
 		<l xml:id="wynken1509_5283">To thy herte a blythe presente  </l>
 		<l xml:id="wynken1509_5284">Kynge Rycharde is to Acrys went </l>
-    <fw type="footer">Kynge R.    +   P.iii.  </fw>
+    <fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="10" unit="chars"/>P&period;iii&period;</fw>
 
 	<pb xml:id="wynken1509_423jpg" n="423jpg" facs="JRL19060423.jpg"/>
 
 		<l xml:id="wynken1509_5285">For ouer he wyll to englonde  </l>
 		<l xml:id="wynken1509_5286">Hym is Icome suche a sonde </l>
-		<l xml:id="wynken1509_5287">That Ihon[n] his brother I the swere  </l>
+		<l xml:id="wynken1509_5287">That <choice><abbr>Ihon</abbr><expan>Ihonn</expan></choice> his brother I the swere  </l>
 		<l xml:id="wynken1509_5288">Wyll his crowne bere </l>
 		<l xml:id="wynken1509_5289">Iaffe he hath stored a ryght  </l>
-		<l xml:id="wynken1509_5290">With many a baron + hardy knyght </l>
+		<l xml:id="wynken1509_5290">With many a baron <choice><abbr>&amp;</abbr><expan>and</expan></choice> hardy knyght </l>
 		<l xml:id="wynken1509_5291">Fyftene thousande I wote well </l>
-		<l xml:id="wynken1509_5292">That shall kepe the towne + the castell </l>
+		<l xml:id="wynken1509_5292">That shall kepe the towne <choice><abbr>&amp;</abbr><expan>and</expan></choice> the castell </l>
 		<l xml:id="wynken1509_5293">If he may so well spede  </l>
 		<l xml:id="wynken1509_5294">Tyll he come frome his stede  </l>
 		<l xml:id="wynken1509_5295">Salandyn was ofte in wele and wo </l>
@@ -6156,7 +6156,7 @@
 		<l xml:id="wynken1509_5313">Of cyre and of ascloinoyne </l>
 		<l xml:id="wynken1509_5314">Of ynde and of babyloyne  </l>
 		<l xml:id="wynken1509_5315">Of grete grece and tyre also </l>
-		<l xml:id="wynken1509_5316">Of many empyres + kyngdomes to  </l>
+		<l xml:id="wynken1509_5316">Of many empyres <choice><abbr>&amp;</abbr><expan>and</expan></choice> kyngdomes to  </l>
 			<note type="expl" resp="#CMP" corresp="#wynken1509_5270">incl note about locations, maybe link to map in resources section? </note>
 
 	<pb xml:id="wynken1509_424jpg" n="424jpg" facs="JRL19060424.jpg"/>
@@ -6164,9 +6164,9 @@
 		<l xml:id="wynken1509_5317">Of all the hethen kynges that I fynde </l>
 		<l xml:id="wynken1509_5318">From the grekes see vnto the ynde </l>
 		<l xml:id="wynken1509_5319">Charles the kynge ne Alysaunder  </l>
-			<note type="expl" resp="#CMP" corresp="#wynken1509_5273">make a note abt history/sources (collab editors to co-write? or#CMP?)</note>
+			<note type="expl" resp="#CMP" corresp="#wynken1509_5319">make a note abt history/sources (collab editors to co-write? or#CMP?)</note>
 		<l xml:id="wynken1509_5320">Of whome was made moche sclaunder  </l>
-			<note type="text" resp="#CMP" corresp="#wynken1509_5274">The final letter is blurry with medium certainty that it's an [r] for [rhyme].</note>
+			<note type="text" resp="#CMP" corresp="#wynken1509_5320">The final letter is blurry with medium certainty that it's an [r] for [rhyme].</note>
 		<l xml:id="wynken1509_5321">He had neuer halfe the hoost </l>
 		<l xml:id="wynken1509_5322">As in the countre laye in coost </l>
 		<l xml:id="wynken1509_5323">Fyue myle it laye in brede </l>
@@ -6195,7 +6195,7 @@
 		<l xml:id="wynken1509_5346">To theyr well and to theyr dome </l>
 		<l xml:id="wynken1509_5347">Than began many a sarasyne </l>
 		<l xml:id="wynken1509_5348">The castell wall to vndermyne </l>
-    <fw type="footer">Kynge R.    +   P.iiii.  </fw>
+    <fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="10" unit="chars"/>&plus;<space quantity="9" unit="chars"/>P&period;iiii&period;</fw>
 
 	<pb xml:id="wynken1509_425jpg" n="425jpg" facs="JRL19060425.jpg"/>
 
