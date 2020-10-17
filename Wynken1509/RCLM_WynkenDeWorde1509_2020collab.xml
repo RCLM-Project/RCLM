@@ -4730,9 +4730,9 @@
 		<l xml:id="wynken1509_4070">Towarde the cyte of babylone</l>
 		<lb/>
 	<fw type="heading" xml:id="wynken1509_heading13">¶How kynge Rycharde asseyged the cyte<lb/>
-	of babyloyne and how he wan it/<choice><abbr>&amp;</abbr><expan>and</expan></choice> of two<lb/>
-	deuylles/that one in lykenes of mare/<choice><abbr>&amp;</abbr><expan>and</expan></choice><lb/>
-	that other in lykenes of a colte/wherof <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice><lb/>
+	of babyloyne and how he wan it&sol;<choice><abbr>&amp;</abbr><expan>and</expan></choice> of two<lb/>
+	deuylles&sol;that one in lykenes of mare&sol;<choice><abbr>&amp;</abbr><expan>and</expan></choice><lb/>
+	that other in lykenes of a colte&sol;wherof <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice><lb/>
 	sowdan sente the colte to <choice><abbr>kyge</abbr><expan>kynge</expan></choice> Rycharde&period;</fw>
 
 	<pb xml:id="wynken1509_384jpg" n="384jpg" facs="JRL19060384.jpg"/> 
@@ -5383,11 +5383,11 @@
  		<lb/>
 
 	<fw type="heading" xml:id="wynken1509_heading15">&para;How kynge Rycharde and hs men made the<lb/> <!-- pilcrow at front  #CMP -->
-	walles of a cyte whiche hyght chalens / and how <lb/>
-	the duke of astryche departed frome hym / becau<lb/>
-	se of þ[e] rebuke he gaue hym by cause he wolde not  <lb/>
-	doo as he dyde / and how kynge Rycharde wan  <lb/>
-	the castell of daron.</fw> <!-- #CMP text: decorative flourish block -->
+	walles of a cyte whiche hyght chalens &sol; and how <lb/>
+	the duke of astryche departed frome hym &sol; becau<lb/>
+	se of <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> rebuke he gaue hym by cause he wolde not  <lb/>
+	doo as he dyde &sol; and how kynge Rycharde wan  <lb/>
+	the castell of daron&period;</fw> <!-- #CMP text: decorative flourish block -->
  		<lb/>
 
 		<l xml:id="wynken1509_4633">NOw herken of Rycharde the kynge </l>
@@ -5715,7 +5715,7 @@
 		<l xml:id="wynken1509_4924">And ours whan it cometh therto</l>
 		<lb/>
 		<fw type="heading" xml:id="wynken1509_heading16">¶ How kynge Rycharde smote downe an<lb/>
-		ymage of marble/and how he slewe fyue<lb/>
+		ymage of marble&sol;and how he slewe fyue<lb/>
 		sarasynes that were within <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> sayd ymage<lb/>
 		and of many other maters&period;</fw>
 		<lb/>
@@ -6803,9 +6803,9 @@
 		<l xml:id="wynken1509_5893">Without harme or domages </l>
 
     <fw type="heading" xml:id="wynken1509_heading17">¶How kynge Rycharde was slayne   <lb/><!--  #CMP text: Indented summative statement featuring a pilcrow. -->
-    before the castell gaylarde / and how  <lb/>
-    the castell was wonne / and all were <lb/>
-    slayne that were therein.</fw>
+    before the castell gaylarde &sol; and how  <lb/>
+    the castell was wonne &sol; and all were <lb/>
+    slayne that were therein&period;</fw>
 
 		<l xml:id="wynken1509_5894">THus kynge Rycharde þ[at] doughty man  </l>
 			<note type="text" resp="#CMP" corresp="#wynken1509_5848">The initial capital [T] occupies two lines of vertical space and approximately five characters of horizontal space.</note>
