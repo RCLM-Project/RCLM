@@ -5338,7 +5338,7 @@
 <!-- SNM phase 1-2 complete 391-400 jpg -->
 	<pb xml:id="wynken1509_401jpg" n="401jpg" facs="JRL19060401.jpg"/>
 
-		<l xml:id="wynken1509_4595">THERE they dwelled fourtenyght </l>
+		<l xml:id="wynken1509_4595">There they dwelled fourtenyght </l>
 			<note type="text" resp="#CMP" corresp="#wynken1509_4549">The initial letter [T] occupies two lines and approx 4-5 characters.</note>
 		<l xml:id="wynken1509_4596">And afterwarde they them dyght </l>
 		<l xml:id="wynken1509_4597">Towarde Iherusalem they gan ryde </l>
@@ -5346,7 +5346,7 @@
 		<l xml:id="wynken1509_4599">Iherusalem that fayre cyte </l>
 		<l xml:id="wynken1509_4600">That is so fayre and so fre </l>
 		<l xml:id="wynken1509_4601">Though thou it wynne it shall be myn </l>
-		<l xml:id="wynken1509_4602">Bygod sayd Rycharde <choice><abbr>&amp;</abbr><expan>and</expan></choice> by saynt martyn </l>
+		<l xml:id="wynken1509_4602">By god sayd Rycharde <choice><abbr>&amp;</abbr><expan>and</expan></choice> by saynt martyn </l>
 		<l xml:id="wynken1509_4603">And as god do my solue bote </l>
 		<l xml:id="wynken1509_4604">Of my wynnynge not halfe a fote </l>
 		<l xml:id="wynken1509_4605">I ne shall gyue the no londe </l>
@@ -5370,7 +5370,7 @@
 		<l xml:id="wynken1509_4623">Kynge Rychard gan to hym crye </l>
 		<l xml:id="wynken1509_4624">And sayd he dyde grete vylanye </l>
 		<l xml:id="wynken1509_4625">To wende home for maladly</l>
-		<l xml:id="wynken1509_4626">Out of the londe of Surry</l>
+		<l xml:id="wynken1509_4626">Out of the londe of Surry</l> <!--APB: worth mentioning that "S" in "Surry" takes up two characters? -->
 
 	<pb xml:id="wynken1509_402jpg" n="402jpg" facs="JRL19060402.jpg"/>
 
@@ -5384,7 +5384,7 @@
 
 	<fw type="heading" xml:id="wynken1509_heading15">&para;How kynge Rycharde and hs men made the<lb/> <!-- pilcrow at front  #CMP -->
 	walles of a cyte whiche hyght chalens &sol; and how <lb/>
-	the duke of astryche departed frome hym &sol; becau<lb/>
+	the duke of astryche departed frome hym &sol; bycaus<lb/>
 	se of <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> rebuke he gaue hym by cause he wolde not  <lb/>
 	doo as he dyde &sol; and how kynge Rycharde wan  <lb/>
 	the castell of daron&period;</fw> <!-- #CMP text: decorative flourish block -->
@@ -5392,7 +5392,7 @@
 
 		<l xml:id="wynken1509_4633">NOw herken of Rycharde the kynge </l>
 			<note type="text" resp="#CMP" corresp="#wynken1509_4587">The initial letter [N] is two rows vertically and about 5 characters wide.</note>
-		<l xml:id="wynken1509_4634">How we wrought with his gynge </l>
+		<l xml:id="wynken1509_4634">How he wrought with his gynge </l>
 		<l xml:id="wynken1509_4635">Kynge Rycharde wente his hoost </l>
 		<l xml:id="wynken1509_4636">To Iaffe without ony boost </l>
 		<l xml:id="wynken1509_4637">The kynges pauylyon good and fyne </l>
@@ -5400,7 +5400,7 @@
 		<l xml:id="wynken1509_4639">Other lordes gan aboute sprede </l>
 		<l xml:id="wynken1509_4640">Theyr pauylyons in fayre mede </l>
 		<l xml:id="wynken1509_4641">Kynge Rycharde with his men all </l>
-		<l xml:id="wynken1509_4642">Of the cytelet make the wall </l>
+		<l xml:id="wynken1509_4642">Of the cyte let make the wall </l>
 		<l xml:id="wynken1509_4643">That neuer was no sarasynes </l>
 		<l xml:id="wynken1509_4644">So stronge wrought with ryches </l>
 		<l xml:id="wynken1509_4645">That castell was stronge and ryche </l>
