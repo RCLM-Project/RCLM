@@ -742,7 +742,7 @@
 		<l xml:id="wynken1509_551">Sayd to kynge Rycharde</l>
 	    <l xml:id="wynken1509_552">The thyrde there came soone afterwarde</l>
    	
-		<fw type="footer">Kynge R&period;<space quantity="7" unit="chars"/>&plus;<space quantity="11" unit="chars"/>B&period;ii&period;</fw>
+		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="8" unit="chars"/>&plus;<space quantity="11" unit="chars"/>B&period;ii&period;</fw>
 
 	<pb xml:id="wynken1509_269jpg" n="269jpg" facs="JRL19060269.jpg"/>
 	    
@@ -866,7 +866,7 @@
 	    <l xml:id="wynken1509_656">In a tauerne there they were</l>
 	    <l xml:id="wynken1509_657">Kynge Rycharde the fyre fet</l>
 	    <l xml:id="wynken1509_658">And Thomas to the spytte hym set</l>
-		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R.<space quantity="7" unit="chars"/>&plus;<space quantity="10" unit="chars"/>B.iiii.</fw>
+		<fw type="footer"><space quantity="3" unit="chars"/>Kynge R&period;<space quantity="7" unit="chars"/>&plus;<space quantity="10" unit="chars"/>B&period;iiii&period;</fw>
 
     <pb xml:id="wynken1509_273jpg" n="273jpg" facs="JRL19060273.jpg"/> 
 
@@ -1479,7 +1479,7 @@
 	    <l xml:id="wynken1509_1198">He toke the letter as I you saye</l>
 	    <l xml:id="wynken1509_1199">To the archebysshoppes twaye</l>
 	    
-	    <fw type="footer"> <space quantity="3"/>Kynge R&period;<space quantity="22" unit="char"/>D&period;i&period;</fw><!-- footer; note no middle #CMP -->
+	    <fw type="footer"> <space quantity="3" unit="chars"/>Kynge R&period;<space quantity="22" unit="chars"/>D&period;i&period;</fw><!-- footer; note no middle #CMP -->
 
     <pb xml:id="wynken1509_291jpg" n="291jpg" facs="JRL19060291.jpg"/> 
 
