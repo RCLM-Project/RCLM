@@ -6766,8 +6766,9 @@
 	<pb xml:id="wynken1509_441jpg" n="441jpg" facs="JRL19060441.jpg"/>
 
 		<l xml:id="wynken1509_5861">Huberte and Roberte of turnam </l>
-		<l xml:id="wynken1509_5862">Ganter offorte and John[n] the saynt John[n] </l>
-		<l xml:id="wynken1509_5863">That hymselfe and fyue of his menWolde fyght ayenst fyue hondred &amp; ten  </l>
+		<l xml:id="wynken1509_5862">Ganter offorte and <choice><abbr>Iohn</abbr><expan>Iohnn</expan></choice> the saynt <choice><abbr>Iohn</abbr><expan>Iohnn</expan></choice> </l>
+		<l xml:id="wynken1509_5863">That hymselfe and fyue of his men </l>
+		<!-- MISSING LINE: Wolde fyght ayenst fyue hondred <choice><abbr>&amp;</abbr><expan>and</expan></choice> ten  </l> -->
 		<l xml:id="wynken1509_5864">In wylde felde they wolde fyght  </l>
 		<l xml:id="wynken1509_5865">And gouerne theyr goodes ryght  </l>
 		<l xml:id="wynken1509_5866">And yf they wynne thus that londe  </l>
@@ -6780,7 +6781,7 @@
 		<l xml:id="wynken1509_5873">To wende to my londe and come ayen  </l>
 		<l xml:id="wynken1509_5874">The messengers forth gan wende  </l>
 		<l xml:id="wynken1509_5875">And tolde the tale worde and ende  </l>
-		<l xml:id="wynken1509_5876">And the sowdan wolde gaunte the batayle </l> 
+		<l xml:id="wynken1509_5876">And the sowdan wolde graunte the batayle </l> 
 		<l xml:id="wynken1509_5877">Fyue hondred ayenst Rycharde saunce fayle  </l>
 		<l xml:id="wynken1509_5878">On the morowe yf he wolde come  </l>
 		<l xml:id="wynken1509_5879">The trues sholde ben Inome  </l>
@@ -6794,7 +6795,7 @@
 		<l xml:id="wynken1509_5887">Crysten men ferre ne nere  </l>
 		<l xml:id="wynken1509_5888">Myght go to Iherusalem  </l>
 		<l xml:id="wynken1509_5889">To the sepulture and to bedlem </l>
-		<l xml:id="wynken1509_5890">To olyuete and to naȝarell  </l>
+		<l xml:id="wynken1509_5890">To olyuete and to na&yogh;arell  </l>
 		<l xml:id="wynken1509_5891">To Iaffe and to mayden castell  </l>
 
 	<pb xml:id="wynken1509_442jpg" n="442jpg" facs="JRL19060442.jpg"/>
