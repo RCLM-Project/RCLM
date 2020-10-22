@@ -6275,9 +6275,9 @@
 		<l xml:id="wynken1509_5416">Fye a deuylles thou foule cowarde </l>
 		<l xml:id="wynken1509_5417">Ne shall I neuer by god aboue </l>
 		<l xml:id="wynken1509_5418">Truste to frensshe mannes loue </l>
-		<l xml:id="wynken1509_5419">THe crysten men that in Iaffe beth </l>
+		<l xml:id="wynken1509_5419">The crysten men that in Iaffe beth </l>
 		<l xml:id="wynken1509_5420">They may wyte the of theyr deth </l>
-		<l xml:id="wynken1509_5421">Thorugh thy defaude I am adradde </l>
+		<l xml:id="wynken1509_5421">Thorugh thy defaude I am adradde </l> <!-- APB: "adradde" possible two words "a dradde"?-->
 		<l xml:id="wynken1509_5422">My good barons ben bestadde </l>
 		<l xml:id="wynken1509_5423">Now for the loue of saynt Marye </l>
 		<l xml:id="wynken1509_5424">Swythe shewe me my galye </l>
@@ -6300,7 +6300,7 @@
 		<l xml:id="wynken1509_5441">Ne of Jason neyther of Hercules </l>
 		<l xml:id="wynken1509_5442">Ne of Eneas neyther of Achylles  </l>
 			<note type="expl" resp="#CMP" corresp="#wynken1509_5396">add note about these heroes and their tales (cmp to write?)</note>
-		<l xml:id="wynken1509_5443">They ne wanne neuer parmafaye </l>
+		<l xml:id="wynken1509_5443">They ne wanne neuer parmafaye </l><!--APB: possible note here about "parmafaye" being circled along with other line/highlighting taking place on the right hand side of the text?-->
 		<l xml:id="wynken1509_5444">In theyr tyme by theyr daye </l>
 
 	<pb xml:id="wynken1509_428jpg" n="428jpg" facs="JRL19060428.jpg"/>
@@ -6327,12 +6327,12 @@
 		<l xml:id="wynken1509_5464">To longe I haue made soiour </l>
 		<l xml:id="wynken1509_5465">Now slayne is Roberte mortemere </l>
 		<l xml:id="wynken1509_5466">That was erle of leycestere </l>
-		<l xml:id="wynken1509_5467">Euer here of hym was worth a knyght </l>
+		<l xml:id="wynken1509_5467">Euery here of hym was worth a knyght </l><!--APB: there is underlining here, worth mentioning in a short note?-->
 		<l xml:id="wynken1509_5468">And Roberte turnam that was so wyght </l>
 		<l xml:id="wynken1509_5469">And syr Brandys and syr Pyttarde </l>
 		<l xml:id="wynken1509_5470">That in batayll was wyse and harde </l>
 		<l xml:id="wynken1509_5471">And all my good barons </l>
-		<l xml:id="wynken1509_5472">THe best of all my regyons </l>
+		<l xml:id="wynken1509_5472">The best of all my regyons </l>
 		<l xml:id="wynken1509_5473">They ben slayne and all to tore </l>
 		<l xml:id="wynken1509_5474">How myght I lenger lyue therfore </l>
 		<l xml:id="wynken1509_5475">I myght haue saued all myne </l>
