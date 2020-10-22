@@ -6875,7 +6875,7 @@
 	<note type="text" resp="#CMP" target="wynken1509_note1">There is another letter form after [Ry] but is not part of the name. Likely an indication of the mid-word line break.</note> 
 charde cuer de lyon&period; Enprynted at London in <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> <lb/>
 Fletestrete at the sygne of the sonne by Wynkyn <lb/>
-de Worde / prynter vnto the moost excellent pryn <lb/>
+de Worde&sol;prynter vnto the moost excellent pryn <lb/>
 cesse my lady the kynges moder&period; In the yere of <lb/>
 our lorde god<num value="1509">&period;M&period;CCCCC&period;ix&period;</num></fw>
 
@@ -6884,7 +6884,7 @@ our lorde god<num value="1509">&period;M&period;CCCCC&period;ix&period;</num></f
 	<figDesc resp="#SNM">This page contains the signature block for Wynkyn de Worde. Image takes up approxamately two-thirds of the page. Image is a rectangle bordered with double lines and separated equally into three horizontal sections by two interior double lines. The top section contains a sun in the middle with two large stars on either side. There are also twenty smaller stars interspersed between the sun and two larger stars. The middle section contains a large print [W] and [C] separated by what appears to be a 7 with a loop around it. The bottom section contains a scroll wrapped into three sections with the words "wynkyn * de * worde." Atop the right side of the scroll sits a dog, and atop the left sits a centaur that is shooting an arrow towards the dog. Below the scroll is a flower, with five scrolled leaves to the left and right of it.</figDesc></figure>
 
 <!-- 446-450 jpg blank pages-->
-
+<!--APB phase 1 and 2 complete-->
 </body>
 </text>
 </TEI>
