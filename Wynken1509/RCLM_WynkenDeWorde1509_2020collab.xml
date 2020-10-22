@@ -6803,12 +6803,12 @@
 		<l xml:id="wynken1509_5892">And to all other pylgrymages </l>
 		<l xml:id="wynken1509_5893">Without harme or domages </l>
 
-    <fw type="heading" xml:id="wynken1509_heading17">¶How kynge Rycharde was slayne   <lb/><!--  #CMP text: Indented summative statement featuring a pilcrow. -->
-    before the castell gaylarde &sol; and how  <lb/>
-    the castell was wonne &sol; and all were <lb/>
+    <fw type="heading" xml:id="wynken1509_heading17">&para;How kynge Rycharde was slayne <lb/><!--  #CMP text: Indented summative statement featuring a pilcrow. -->
+    before the castell gaylarde&sol;and how  <lb/>
+    the castell was wonne&sol;and all were <lb/>
     slayne that were therein&period;</fw>
 
-		<l xml:id="wynken1509_5894">THus kynge Rycharde þ[at] doughty man  </l>
+		<l xml:id="wynken1509_5894">THus kynge Rycharde <choice><abbr>&thorn;</abbr><expan>&thorn;hat</expan></choice> doughty man  </l>
 			<note type="text" resp="#CMP" corresp="#wynken1509_5848">The initial capital [T] occupies two lines of vertical space and approximately five characters of horizontal space.</note>
 		<l xml:id="wynken1509_5895">Peas made with the sowdan  </l>
 		<l xml:id="wynken1509_5896">And syth he came I vnderstonde </l>
@@ -6852,7 +6852,7 @@
 		<l xml:id="wynken1509_5931">Stycked styll in Rychardes hede  </l>
 		<l xml:id="wynken1509_5932">And whan it was drawen out  </l>
 		<l xml:id="wynken1509_5933">He dyed soone without doute  </l>
-		<l xml:id="wynken1509_5934">And he co[m]maunded in all thynge </l>
+		<l xml:id="wynken1509_5934">And he <choice><abbr>comaunded</abbr><expan>commaunded</expan></choice> in all thynge </l>
 		<l xml:id="wynken1509_5935">To his fader men sholde hym brynge  </l>
 		<l xml:id="wynken1509_5936">That they ne let for nesshe ne harde  </l>
 		<l xml:id="wynken1509_5937">Tyll he were at the font euerarde  </l>
