@@ -3375,7 +3375,7 @@
 	<pb xml:id="wynken1509_345jpg" n="345jpg" facs="JRL19060345.jpg"/>
 
 		<figure xml:id="wynken1509_figure9" type="woodblock" corresp="#wynken1509_345jpg"><figDesc resp="#CMP"><!-- block image, needs desc--></figDesc></figure>
-		<l xml:id="wynken1509_2860">KYnge Rycharde wepte <choice><abbr>w</abbr><expan>with</expan></choice> his eyen bothe </l><!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? --><!--APB: changed RYnge to KYnge-->
+		<l xml:id="wynken1509_2860">KYnge Rycharde wepte <choice><abbr>wt</abbr><expan>with</expan></choice> his eyen bothe </l><!-- #CMP text: The initial [R] occupies 2 lines vertically, 4-5 characters width. Likely meant to be [K] from context? --><!--APB: changed RYnge to KYnge-->
 		<l xml:id="wynken1509_2861">And syth sayd he thus forsothe</l>
 		<l xml:id="wynken1509_2862">Syr bysshop I beseche you praye for vs</l>
 		<l xml:id="wynken1509_2863">That vs might sende swete Ihesus</l><!--APB: changed sense to sende-->
@@ -3398,7 +3398,7 @@
 		<l xml:id="wynken1509_2877" n="2870">He had &period;xiii&period; shyppes full of bene</l>
 		<l xml:id="wynken1509_2878">Whan the castell was framed well</l>
 		<l xml:id="wynken1509_2879">He lette therin a mangenell</l>
-		<l xml:id="wynken1509_2880">He co[m]aunded his men blyue</l> <!--APB: does the [m] have to be an abbreviation here, and how should we encode the o in comaunded?-->
+		<l xml:id="wynken1509_2880">He <choice><abbr>comaunded</abbr><expan>commaunded</expan></choice> his men blyue</l>
 		<l xml:id="wynken1509_2881">To fetche vp been hyue</l>
 		<l xml:id="wynken1509_2882">And byd taberrars <choice><abbr>&amp;</abbr><expan>and</expan></choice> trompettes blowe</l>
 		<l xml:id="wynken1509_2883">To sawte the cyte on a throw</l>
