@@ -4015,7 +4015,7 @@
 		<l xml:id="wynken1509_3433">In the foreheed wryten the name</l>
 		<l xml:id="wynken1509_3434">Therof they had all grame</l>
 		<l xml:id="wynken1509_3435">But whan the names they seen</l>
-		<l xml:id="wynken1509_3436">THe teres ran out of theyr eyen</l>
+		<l xml:id="wynken1509_3436">The teres ran out of theyr eyen</l>
 		<l xml:id="wynken1509_3437" n="3410">Whan they the letters radde</l>
 		<l xml:id="wynken1509_3438">For to be slayne they were adradde</l>
 		<l xml:id="wynken1509_3439">Rynge Rycharde his eyen to them drewe</l>
@@ -4091,7 +4091,7 @@
 		<l xml:id="wynken1509_3501">Wende home and tell thy sowdan</l>
 		<l xml:id="wynken1509_3502">His malyncoly that he abbate</l>
 		<l xml:id="wynken1509_3503">And a<unclear reason="print_foul">l</unclear>so saye ye come to late</l>
-			<note type="text" resp="SNM" corresp="wynkyn1509_3477">The "l" in "also" is barely legible, probably due to a printing foul.</note>
+			<note type="text" resp="#SNM" corresp="#wynken1509_3477">The "l" in "also" is barely legible, probably due to a printing foul.</note>
 		<l xml:id="wynken1509_3504">To slowly was the message gessed</l>
 		<l xml:id="wynken1509_3505">Or that ye came the flesshe was dressed</l>
 		<l xml:id="wynken1509_3506">That men sholde therwith serue me</l>
@@ -4113,11 +4113,11 @@
 		<l xml:id="wynken1509_3518">Kynge Rycharde sayd I you wraunt</l>
 		<l xml:id="wynken1509_3519">There is no flesshe so nouryssaunt</l>
 		<l xml:id="wynken1509_3520">To none englylshe crysten man</l>
-			<note type="textual" resp="CMP" corresp="wynken1509_3520">High certainty of a misprint for [englylshe], most likely intended as [englysshe].</note>
+			<note type="text" resp="#CMP" corresp="#wynken1509_3520">High certainty of a misprint for [englylshe], most likely intended as [englysshe].</note>
 		<l xml:id="wynken1509_3521">Partryche heron fesaunt ne swan</l>
 		<l xml:id="wynken1509_3522">Cowe ne oxe shepe ne swyne</l>
 		<l xml:id="wynken1509_3523">Than is the slesshe of a sarasyne</l> 
-			<note type="text" resp="CMP" corresp="wynken1509_3523">High certainty of a misprint for [slesshe], most likely intended as [flesshe].</note> 
+			<note type="text" resp="#CMP" corresp="#wynken1509_3523">High certainty of a misprint for [slesshe], most likely intended as [flesshe].</note> 
 		<l xml:id="wynken1509_3524">For they ben bothe fat and tender</l>
 		<l xml:id="wynken1509_3525">And my men lene and sclender</l>
 		<l xml:id="wynken1509_3526">But whyle that ony sarasynes be</l>
