@@ -4234,9 +4234,9 @@
 		<l xml:id="wynken1509_3624">Tho londes that hym lyketh beste</l>
 		<l xml:id="wynken1509_3625">And make hym sowdan after heste</l>
 		<l xml:id="wynken1509_3626">After thy selse and rychest kynge </l>
-			<note type="text" resp="CMP" corresp="wynken1509_3626">High certainty of a misprint for [selse], most likely intended as [selfe].</note>
+			<note type="text" resp="#CMP" corresp="#wynken1509_3626">High certainty of a misprint for [selse], most likely intended as [selfe].</note>
 		<l xml:id="wynken1509_3627" n="3600">Conferme it hym and his of prynge</l>
-			<note type="text" resp="CMP" corresp="wynken1509_3627">Medium certainty of a misprint for [of prynge], most likely intended as [ofsprynge].</note>
+			<note type="text" resp="#CMP" corresp="#wynken1509_3627">Medium certainty of a misprint for [of prynge], most likely intended as [ofsprynge].</note>
 		<l xml:id="wynken1509_3628">And yf it be that he wyll so</l>
 		<l xml:id="wynken1509_3629">Swythe in peas he come the to</l>
 		<l xml:id="wynken1509_3630">And thou shalte forgyue hym thy malatent</l>
@@ -4293,7 +4293,7 @@
 		<l xml:id="wynken1509_3675">He cleped his knyghtes anone</l>
 		<l xml:id="wynken1509_3676">And bad then to Acrys gone</l>
 		<fw type="footer"><space quantity="2" unit="chars"/>Kynge R&period;<space quantity="12" unit="chars"/><anchor xml:id="wynken1509_text1"/>*<space quantity="12" unit="chars"/>L&period;i&period;</fw>
-		<note type="text" resp="SNM" corresp="wynken1509_text1">A floral decorative center appears in the footer here in stead of the previous crosses. Likely a printing error.</note>
+		<note type="text" resp="#SNM" corresp="#wynken1509_text1">A floral decorative center appears in the footer here in stead of the previous crosses. Likely a printing error.</note>
 <!-- SNM 9/4 phase 1-2 complete 361-170jog -->
 	<pb xml:id="wynken1509_371.jpg" n="371jpg" facs="JRL19060371.jpg"/>
 
