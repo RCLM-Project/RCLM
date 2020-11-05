@@ -671,7 +671,7 @@
 		<l xml:id="harley4690_552">ffor love &thorn;er lorde was come to londe</l>
 		<l xml:id="harley4690_553">the&ydot; thonked[e] owght godd&ydot;s sonde.</l> 
     	<l xml:id="harley4690_554">home &thorn;ey wente to &thorn;ere contre&ydot;s alle</l>
-    	<l xml:id="harley4690_555">and att westmyster &thorn;e k&ydot;ng gan stalle</l><!--LKN summ: Call for Crusade and Preparations (CrusadeCall)
+    	<l xml:id="harley4690_555">and att westmyster &thorn;e k&ydot;ng gan stalle</l><!--LKN summ: Call for Crusade and Preparations (CrusadeCall)-->
     	<l xml:id="harley4690_556"><space quantity="5" unit="chars"/>sone after thys play&ydot;ng</l>
     	<l xml:id="harley4690_557"><space quantity="5" unit="chars"/>k&ydot;ng Rich[ard] dyd a nother th&ydot;ng</l>
     	<l xml:id="harley4690_558">ys londe he towke the chawncelere</l>
@@ -798,7 +798,7 @@
     	<l xml:id="harley4690_664">ffysche ffowle and venesoune</l>
     	<l xml:id="harley4690_665">whe ne canne acowmpte &thorn;o right Reson[ne]</l>
     	<l xml:id="harley4690_666">the kyng of ffrawnce as &ydot; wene</l>
-    	<l xml:id="harley4690_667">laye yn the cyte off m&ydot;ssene &period; </l><!--LKN summ: Fight at Messina (use anchor tag Messina)--><LKN note to self: START HERE with Summary note work-->
+    	<l xml:id="harley4690_667">laye yn the cyte off m&ydot;ssene &period; </l><!--LKN summ: Fight at Messina (use anchor tag Messina)--><!--LKN note to self: START HERE with Summary note work-->
     	<l xml:id="harley4690_668">Oure Englysche menne wente to chep&ydot;ng</l>
     	<l xml:id="harley4690_669" n="670">and hente there man&ydot; harde knockyng</l>
     	<l xml:id="harley4690_670">the ffrenschemen <choice><abbr>&amp;</abbr><expan>and</expan></choice> &thorn;e gryffons down Rytes</l>
@@ -1271,7 +1271,7 @@
     	<l xml:id="harley4690_1094">her gode dayes sone ganne of <gap reason="illegible" agent="tear" quantity="5" unit="chars"/>.....</l>
     	<l xml:id="harley4690_1095">whenne &thorn;at he to pryson ca <gap reason="illegible" agent="tear" quantity="6" unit="chars"/>......</l>
     	<l xml:id="harley4690_1096">thyke axe yn honde he <gap reason="illegible" agent="tear" quantity="8" unit="chars"/>........</l>
-    	<l xml:id="harley4690_1097">and hewe &thorn;er Bothe bar<gap reason="illegible" agent="tear" quantity="10" unit="chars"/>..........</l> <!-- SNM note for Harley team: I have tagged the tear in the manuscript, but have also left the elipses. Do you think we should do both? I am inclined to leave the elipses as a forward-facing way to indicate a gap here, but am open to other ideas--><!-- APB: I like the idea of keeping the ellipses! --></LKN>
+    	<l xml:id="harley4690_1097">and hewe &thorn;er Bothe bar<gap reason="illegible" agent="tear" quantity="10" unit="chars"/>..........</l> <!-- SNM note for Harley team: I have tagged the tear in the manuscript, but have also left the elipses. Do you think we should do both? I am inclined to leave the elipses as a forward-facing way to indicate a gap here, but am open to other ideas--><!-- APB: I like the idea of keeping the ellipses! -->
     	
     	<!--APB: phase 1 complete-->
     	<!--LKN: comments/corrections addressed up to here...-->
@@ -1381,7 +1381,7 @@
     	<l xml:id="harley4690_1188">S&ydot;lke sendale and sekelatoune</l> <!--LKN expl: note on fabrics here-->
     	<l xml:id="harley4690_1189">&ydot;n the worlde was h&ydot;m &ydot; lyche</l>
     	<l xml:id="harley4690_1190" n="1190">ne &ydot;n fele partes so &middot; r&ydot;che</l>
-    	<l xml:id="harley4690_1191">&ydot;n alle acres nas y ffownde</l>
+    	<l xml:id="harley4690_1191">&ydot;n alle seiges nas y ffownde</l>
     	<l xml:id="harley4690_1192">a pau&ydot;lon of so moche mownde</l>
     	<l xml:id="harley4690_1193">that kyng Richarde wyth worsch&ydot;ppe</l>
     	<l xml:id="harley4690_1194">dydde lette Bere yn to ys schyppe</l>
