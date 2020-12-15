@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI [
+ 	<!ENTITY amp "&#x0026;">
+	<!ENTITY ETH "&#x00D0;">
+	<!ENTITY eth "&#x00F0;">
+	<!ENTITY THORN "&#xDE;">
+	<!ENTITY thorn "&#xFE;">
+	<!ENTITY ydot "&#x1E8F;">
+	<!ENTITY YOGH "&#x021C;">
+	<!ENTITY yogh "&#x021D;">
+	<!ENTITY hidot "&#xF1F8;">
+	<!ENTITY middot "&#x00B7;">
+	<!ENTITY period "&#x002E;">
+	<!ENTITY punctelev "&#xF161;">
+	<!ENTITY para "&#x00B6;"> <!-- pilcrow -->
+	<!ENTITY revpara "&#x204B;"> <!-- reversed pilcrow -->
+	<!ENTITY sol "&#x002F;">
+	<!ENTITY plus "&#x002B;">
+	  ]>
+	  
+<TEI xml:id="wynken1509" xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>
+               The Richard Coer de Lyon Multitext
+            </title>
+            <respStmt>
+               <resp>Project Director</resp>
+               <name role="director" type="person" ref="#LKN">Leila K. Norako</name>
+               <!-- need to fill with dev team info -->
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>The Richard Coer de Lyon Multitext: Wynken de Worde 1509</edition>
+            <respStmt><resp>Transcribed from the digital images and encoded by</resp>
+               <name type="person" role="transcriber encoder editor" ref="#CMP">Caitlin Postal</name>
+               <name type="person" role="transcriber encoder editor" ref="#BMR">Barkley M. Ramsey</name>
+               <name type="person" role="transcriber encoder editor" ref="#SNM">Sarah N. Moore</name>
+               <note>Collaborative edition transcribed and encoded with introduction by Sarah Moore, Caitlin Postal, and Barkley Ramsey. </note>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Richard Coer de Lyon Multitext</publisher>
+            <date when="2020-05-31">2020</date>
+            <!-- include statement when text is duplicated elsewhere (see or link to resources) -->
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Manchester</settlement>
+                  <repository>John Ryland's Library</repository>
+                  <collection>Deansgate</collection>
+                  <idno>15843</idno>
+               </msIdentifier>
+               <msContents>
+                  <!-- uncertain if necessary because only citing RCL? -->
+               </msContents>
+               <physDesc></physDesc>
+               <history>
+                  <origin>
+                     <p>Printed in x in or around 1509 by Wynken de Worde.</p>
+                  </origin>
+                  <provenance>
+                     <p><!-- history of where it's been --></p>
+                  </provenance>
+                  <acquisition>
+                     <p><!-- how it got to JR library --></p>
+                  </acquisition>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <editorialDecl>
+            <p><!-- description of primary editorial interventions; separate tags available for correction, hypenation, interpretation, normalization, punctuation, quotation, segmentation so likely include interpretation, punctuation, segmentation--></p>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <!-- required in teiHeader, probs use textClass and creation -->
+      </profileDesc>
+      
+      <revisionDesc><!-- to be incorporated after initial editing to log when changes are made -->
+         <change who="#" when="2014-01-01">Corrected reading of ... </change>
+      </revisionDesc>
+   </teiHeader>
+   
+   <!-- #CMP NOTE: we'll need to review all uses of [y] for possible intention as [þ]. I have noted some [þ] where context was clear but it would be prudent for us to review other uses of [y] that I may have missed. -->
+   <!-- #CMP NOTE: phase zero transcription as follows: 250-280 from summer 2019; 280-445 from winter 2020. account for this process in introduction.-->
+   
+   <!-- #CMP: do we want to add front matter and back matter pbs? -->
+   
+   <text>
+      <body>
+         <pb xml:id="wynken1509_250jpg" n="250jpg" facs="JRL19060250.jpg"/>
+         
+         <fw type="incipit" xml:id="wynken1509_incipit">&para;<name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> cuer du lyon&period;</fw>
+         
+         <figure xml:id="wynken1509_figure1" corresp="#wynken1509_250jpg" type="woodblock"><figDesc resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
+         
+         
+         <pb xml:id="wynken1509_251jpg" n="251jpg" facs="JRL19060251.jpg"/>
+         
+         <fw type="heading" xml:id="wynken1509_heading1">&para;The prologue&period;</fw>
+         <anchor xml:id="wynken1509_sum1"/>
+         <note type="sum" resp="#CMP #SNM" target="wynken1509_sum1" corresp="#wynken1509_heading1">The prologue to the narrative.</note> <!-- CMP: need to review target/corresp-->
+         
+         <l xml:id="wynken1509_1"><space quantity="8" unit="chars"/>Orde kynge of glorye</l> 
+         <note type="text" resp="#SNM #CMP" corresp="#wynken1509_1">Missing the decorative initial for the uppercase [L] in [Lord]; there is a blank area on the page about 8-10 characters wide and five lines tall.</note>
+         <l xml:id="wynken1509_2"><space quantity="8" unit="chars"/>Suche grace and suche vyctory</l>
+         <l xml:id="wynken1509_3"><space quantity="8" unit="chars"/>Thou sendest to kynge Rycharde</l>
+         <l xml:id="wynken1509_4"><space quantity="8" unit="chars"/>That neuer was founde cowarde</l>
+         <l xml:id="wynken1509_5"><space quantity="8" unit="chars"/>It is good to here Iestes</l>
+         <l xml:id="wyken1509_6">Of his prowesse and his conquestes</l>
+         <l xml:id="wynken1509_7">Many romayns men make newe</l>
+         <l xml:id="wynken1509_8">Of good knyghtes and of trewe</l>
+         <l xml:id="wynken1509_9">Of theyr dedes men rede romauns</l>
+         <l xml:id="wynken1509_10" n="10">Bothe in Englonde and in Fraunce</l>
+         <l xml:id="wynken1509_11">Of Rowlande and of Olyuere</l> 
+         <note type="expl" resp="CMP" corresp="#wynken1509_11">The Prologue includes reference to other romances of the Middle Ages including, in the lines that follow, Roland and Oliver (l. 11; Song of Roland), Alexander the Great (l. 13), Charlemagne (l. 13), King Arthur (l. 14), Sir Gawain (l. 14), Archbishop Turpin (l. 16), Ogier the Dane (l. 16), Hector and Achilles ("troye men" in ll. 17-19). The narrator here refers to the French "rymes" (l. 21) that were not known in England because "lewde man can frensshe none / of an hondred vnneth one" (l. 23-24), or roughly "lewed/unlearned men can [read] in French none of a hundred difficult ones." This sets the stage for telling new gestes or romances in the English vernacular.</note>
+         <!--LKN: The explanatory note above needs to cite scholars who have discussed this introduction.-->
+         <l xml:id="wynken1509_12">And of euery desepere</l><!--LKN: note needed for "desepere" (douzepeer) here or up in the previous note-->
+         <l xml:id="wynken1509_13">Of Alysaunder and of Charlemayne</l>
+         <l xml:id="wynken1509_14">Of kynge Arthur and of Gawayne</l>
+         <l xml:id="wynken1509_15">How they were knyghtes good and curtoys</l>
+         <l xml:id="wynken1509_16">Of Turpyn and of Oger the danoys</l><!--LKN: Since these figures are going to be far less familiar, we might want a note here explaining who they are-->
+         <l xml:id="wynken1509_17">Of troye men rede in ryme</l>
+         <l xml:id="wynken1509_18">What was by olde tyme</l>
+         <l xml:id="wynken1509_19">Of Hector and of Achylles</l>
+         <l xml:id="wynken1509_20" n="20">What folke they slewe in prees</l>
+         <l xml:id="wynken1509_21">In fraunce these rymes were wrought</l>
+         <l xml:id="wynken1509_22">Euery englysshe ne knewe it nought</l>
+         <l xml:id="wynken1509_23">Lewde man can frensshe none</l>
+         <l xml:id="wynken1509_24">Of an hondred vnneth one</l>
+         <l xml:id="wynken1509_25">Neuertheles with gladde chere</l>
+         <l xml:id="wynken1509_26">Yf that ye wyll now here</l>
+         <l xml:id="wynken1509_27">Newe Iestes I vnderstonde</l>
+         <l xml:id="wynken1509_28">Of doughty knyghtes of Englonde</l>
+         <l xml:id="wynken1509_29">Therefore now I wyll you rede</l>
+         <l xml:id="wynken1509_30" n="30">Of a kynge doughty of dede</l>
+         
+         <pb xml:id="wynken1509_252jpg" n="252jpg" facs="JRL19060252.jpg"/>
+         
+         <l xml:id="wynken1509_31">Kynge Rycharde was the beste</l>
+         <l xml:id="wynken1509_32">That is founde in ony Ieste</l>
+         <l xml:id="wynken1509_33">Now all that here this talkynge</l>
+         <l xml:id="wynken1509_34">God gyue them good endynge</l>
+         <lb/>
+         <fw type="heading" xml:id="wynken1509_heading2"><space quantity="2" unit="chars"/>&para; Here begynneth the hystorye of Kynge Ry:<lb/>
+            <space quantity="2" unit="chars"/>charde cure du lyon &sol; and fyrst of his byrth&period;</fw>
+         <lb/>
+         
+         <l xml:id="wynken1509_35">LOrdes harken now beforne</l> 
+         <note type="text" resp="#SNM #CMP #LKN" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall. The initial has the image of a bearded man's face on its left side looking leftward and a bird-like creature on its right side looking upwards. Above the bird is a partial flower or sun.</note>
+         <l xml:id="wynken1509_36">How kynge Rycharde was borne</l>
+         <l xml:id="wynken1509_37">His fader was cleped kynge Harry</l>
+         <l xml:id="wynken1509_38">In his tyme sykerly</l>
+         <l xml:id="wynken1509_39">As I fynde in this sawe</l>
+         <l xml:id="wynken1509_40" n="40">Saynt Thomas was Islawe</l><note type="expl" resp="#SLG" corresp="#wynken1509_40">Thomas Becket, canonized as Saint Thomas in 1173 BCE, became King Henry II's chancellor in 1155 and archbishop of Canterbury in 1162. Thomas' relationship with Henry II deteriorated with disputes over ecclesiastical and monarchical jurisdiction (Larkin, n. 40). Thomas was murdered in 1170 before his altar in Canterbury, which is referenced in the following line of the poem.</note>
+         <l xml:id="wynken1509_41">At Caunterbury before the auter stone</l>
+         <l xml:id="wynken1509_42">There myracles be done many one</l>
+         <l xml:id="wynken1509_43">Whan he was <num value="20">&period;xx&period;</num> wynter olde</l>
+         <l xml:id="wynken1509_44">He was a kynge swythe bolde</l>
+         <l xml:id="wynken1509_45">He wolde no wyfe I vnderstonde</l>
+         <l xml:id="wynken1509_46">With grete tresour thoughe they her fonde</l>
+         <l xml:id="wynken1509_47">Neuertheles his barons hym redde</l>
+         <l xml:id="wynken1509_48">That he graunted them a wyfe to wedde</l>
+         <l xml:id="wynken1509_49">Hastely he sente his sonde</l>
+         <l xml:id="wynken1509_50" n="50">In to many a dyuers londe</l>
+         <l xml:id="wynken1509_51">The fayrest woman that was on lyue</l>
+         <l xml:id="wynken1509_52">They sholde brynge hym to wyue</l>
+         <l xml:id="wynken1509_53">Messengers be redy dyght</l>
+         <l xml:id="wynken1509_54">To shyppe they wente that same nyght</l>
+         <l xml:id="wynken1509_55">And theyr sayle vp they drowe</l>
+         <l xml:id="wynken1509_56">The wynde them serued well I nowe</l>
+         <l xml:id="wynken1509_57">And they came amyddes the see</l>
+         <l xml:id="wynken1509_58">No wyndes brethe ne had he</l>
+         
+         <fw type="footer" xml:id="wynken1509_footer1">Kyynge R&period;<space quantity="8" unit="chars"/>&plus;<space quantity="12" unit="chars"/>A&period;ii&period;</fw>
+         <note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, a symbol that has been appropriated by white supremacists since at least the 1930s, when Nazis rose to power. The cross pattee has been harnessed to promote violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny, and we have chosen in this digital edition to not replicate the symbol and rather render it as a plus sign. For more information on the symbol, please see <ref target="https://www.adl.org/education/references/hate-symbols/iron-cross"/> and this piece from the Washington Post: <ref target="https://www.washingtonpost.com/graphics/2017/local/charlottesville-videos/"/>. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note>
+      </body>
+   </text>
+</TEI>
