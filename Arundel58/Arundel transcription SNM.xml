@@ -1,6 +1,6 @@
 Arundel MS - College of Arms
 
-Arundel MS 58 f250v
+<pb xml:id="Arundel_ms_58_f250v" n="fol250v" facs="Arundel_ms_58_f250v.jpg"/>
 
    <!--note SNM The entire text of this page is framed on the left, top, and bottom by a detailed illumination in gold, red, blue, and green. A gold and blue border goes done the left with occasional decorative leaves in green and red. At each corner there is a collection of decorative leaves and swirles in red, blue, and gold. The border ends at the top and bottom with decorative leaves and peacock-like plumage in red, greee, gold and blue.-->
 
@@ -29,14 +29,13 @@ and Cenomanenf. and Castell
 Ra
 
 
-Arundel MS 58 f252r
+<pb xml:id="Arundel_ms_58_f252r" n="fol252r" facs="Arundel_ms_58_f252r.jpg"/>
 
-The herauldes make
-protlamatone
+<fw type="heading" place="top-left" xml:id="Arundel58_heading_1">The herauldes make<lb/>proclamatone<lb/></fw>
    <!-- note SNM this text is situated at the top left of the page, separate from the main text. It is also written in an different hand and ink. Possibly added later. -->
 
-Richard[e] 
-   <!-- note SNM text is centered at the top of the page -->
+<fw type="head" place="top-center">Richard[e]</fw>
+   
 <cb n="1"/>
 
 This was þ[e] ferst tyme j ẏow plight 
@@ -55,7 +54,7 @@ And e[er]ich may for to wende <!-- SNM I felt like a paleographic champ when I f
 home to his awne frende
 The kyng a messag[er] gan sende
 D[]usliche for to wende <!-- SNM reeeeeally uncertian about that first word there -->
-To S[ir] Thom[ma]s of mylton[ne] <!-- SNM this is a very tricky line. Fairly certian of [Thommas]. I´m pretty sure the last word is supposed to be myltonne, as in Thomas of Multon, but the first letter is giving me difficulty. Educated guess on the [Sir] -->
+To S[ir] Thom[ma]s of mylton[ne] <!-- SNM this is a very tricky line. Fairly certian of [Thommas]. I´m pretty sure the last word is supposed to be myltonne, as in Thomas of Multon, but the first letter is giving me difficulty. We see this abbreviation for "s[ir]" throughout the text -->
 That was a noble baron[ne]
 And to S[ir] ffoukdolye
    <!-- note SNM the above four lines are underlined with a slightly fainter ink. In the margin across from line # the words [Mylton Barone] are written. Across from the line #, with an additional sweeping line connecting it to the line #, is written [Doyle.]-->
@@ -80,9 +79,8 @@ Al in palmers gẏse
 The holẏ londe to devẏse
    <!-- note SNM the last two lines in this column are difficult to read due to the textures of the vellum. There is also a smudge under [devyse] -->
 
-King Richarde
-pylgrymadge
-   <!-- note SNM this text is situated at the bottom left of the page, separate from the main text. It is also written in an different hand and ink from the main text, although it appears to be the same hand that wrote the other marginal notes.. Possibly added later. -->
+<fw type="heading" place="bottom-left" xml:id="Arundel58_heading_2">King Richarde <lb/>pylgrymadge<lb/></fw>
+   <!-- note SNM this text is situated at the bottom left of the page, separate from the main text. It is also written in an different hand and ink from the main text, although it appears to be the same hand that wrote the other marginal notes. Possibly added later. -->
 <cb n="2"/>
 
 To me jch will that ẏe be sworne
@@ -124,12 +122,12 @@ and to Shippe they gan wende
 They drow up saile e wynde was gode
 And sailed on[ne] the safte floode.
 
-Arundel MS 58 f 252v.jpg
+<pb xml:id="Arundel_ms_58_f252v" n="fol252v" facs="Arundel_ms_58_f252v.jpg"/>
+
+<fw type="head" place="top-center">Ric[harde]</fw>
 
 <cb n="1"/>
 
-Ric[hard] 
-<!-- note type=text SNM The abbreviated form of Richard is centered on the top of the page. We should probably tage these as a type of running header? There is also what looks to be the word [holy], but it is off center. Also not sure about the [h]-->
 Upon flaundros for soþe to saẏ <!-- SNM MED Flaundres? --> 
 Armed K[ing] Ric[hard] and his felawes tweẏ
 They wente norþe all[e] j fer[e]
@@ -198,8 +196,7 @@ And seẏde wende in au hẏẏne[e] <!-- SNM MED defines "hiinge" as "haste" --
 And seẏ þ[us] to mẏ lorde the kyng[e] <!-- SNM I had *just* read about the abbreviation of the little backwards 9 for 'us' and now here it is -->
 Ther buth[e] j com vpon his londe
 Thre Palmers jch[e] vnd[er]stonde
-The strongest men in x[Christ]piante 
-   <!-- note type="text" SNM note about xpiante and Brunner, abbreviation for Christianity, odd that there is a 'p'-->
+The strongest men in x[Chri]stiante 
 And i[c] wol telle whiche þeẏ be
 King Ric[hard] that is so [dis]gyui <!-- SNM I'm taking an educated guess that the superscripted "s" here is for [dis], but I've never ever seen this kind of abbreviation before-->
 And .ii. barons that beþ w[ith] hẏm
@@ -215,9 +212,9 @@ The kẏ[n]g comaunded his knẏghte þo
 Blẏue to the Cite go
 And mẏme the  Palmers al three
 
-The storye of kinge Richard[e] <!-- SNM running footer -->
+<fw type="heading" place="bottom-left" xml:id="Arundel58_heading_3">>The storye of kinge Richard[e]</fw>
 
-Arundel MS 58 f 253r
+<pb xml:id="Arundel_ms_58_f253r" n="fol253r" facs="Arundel_ms_58_f253r.jpg"/>
 
 <cb n="1"/>
 
@@ -307,12 +304,11 @@ The kyng[us] sone on hym lough[e]
 And seide he shulee haue his wogh[e] <!-- SNM MED defines "woghe" as "affliction, distress"-->
 Bothe of drẏnke and of mete
 
-Arundel MS 58 f 253v
+<pb xml:id="Arundel_ms_58_f253v" n="fol253v" facs="Arundel_ms_58_f253v.jpg"/>
+
+<fw type="head" place="top-center">Richarde</fw>
 
 <cb n="1"/>
-
-Richarde
-<note> SNM type="text" The text "Richarde" is written in the top center of this page</note>
 
 Of the nest he wolde ete
 That he ne durste not wẏte
@@ -396,12 +392,11 @@ That wal neẏ he ou[er]lope <!-- SNM checked Brunner, this is indeed ouerlope. 
 Ric[hard] he seide ich[e] graunte the
 To morwe a nother thow ẏene me
 
-Arundel MS 58 f 254r
+<pb xml:id="Arundel_ms_58_f254r" n="fol254r" facs="Arundel_ms_58_f254r.jpg"/>
+
+<fw type="head" place="top-center">Prim[mus]</fw>
 
 <cb n="1"/>
-
-Prim[mus]
-<!--SNM note type="text" "Prim[mus]" is written on the top center of this page. -->
 
 The dep[ar]ted i[n] this wẏse <!-- Brunner 125-->
 Ric[hard] a morwe gan a Rise
@@ -458,7 +453,6 @@ After soper in the Euenẏng
 In atyr[e] of a squẏer
 Mẏself[e] i[c] shall[e] ẏow helpe þe[re]
 Bẏ Jh[es]u [Chr]ist and Semonne 
-<!-- SNM note type="text" this is the second time the scribe has used a tilde over the letteres xp to indicate the Chr of Christ. See 252v, column 2. -->
 Thow shalte haue a gode warson[ne] <!-- SNM note type="expl" The MED defines warsonne as a reward or payment.-->
 Atte euen he forẏate his not
 Tho her chamber[e] he hath hy[m] broght[e]
@@ -485,12 +479,12 @@ A wilde best and a sauage
 Men seide of theẏ wer[e] togeder steke
 On him wolde þis best awreke <!-- bookmark Brunner 130-->
 
-Arundel MS 58 f 254v
+<pb xml:id="Arundel_ms_58_f254v" n="fol254v" facs="Arundel_ms_58_f254v.jpg"/>
+
+<fw type="head" place="top-center">Ric[hard]</fw>
 
 <cb n="1"/>
-
-Ric[hard]
-   <!-- SNM note type="text" The letters "Ric" head this page in the top center-->
+   
 All they seiden his shulde be so
    <!-- SNM note type="text" The A in "All" is written with a delightlful looping flourish that extends to the top and far right of the page-->
 Thanne was the kyng[es] dought[er] wo
@@ -574,12 +568,11 @@ As wilde best that was sauage
 And kẏng Ric[hard] also sket[e]
 In the lyones throte his arme he shete <!-- SNM see my note above about "In". Thoughts?-->
 
-Arundel MS 58 f 255r
+<pb xml:id="Arundel_ms_58_f255r" n="fol255r" facs="Arundel_ms_58_f255r.jpg"/>
+
+<fw type="head" place="top-center">P[r]im[mus]</fw>
 
 <c n="1"/>
-
-Prim[mus]
-   <!-- SNM note type="text" "Primmus" is situated in the top center of the page-->
 
 All in kerchefs his arme was woude
    <!-- SNM note type="text" The A in "All" is beautifully flourished, reaching to the top left corner of the page-->
@@ -664,10 +657,9 @@ He wolde haue to for[e] on
 Thane the kyng jch vunderstone[e]
 Toke his dought[er] bẏ the honde
 
-Arundel MS 58 f 255v
+<pb xml:id="Arundel_ms_58_f255v" n="fol255v" facs="Arundel_ms_58_f255v.jpg"/>
 
-Ric 
-<!--SNM note type="text" "Ric" is situated in the top center of the page-->
+<fw type="head" place="top-center">Ric</fw>
 
 <cb n="1"/>
 
@@ -752,14 +744,98 @@ Kyng tancerd w[ith]outen faile
 dede he his sones comseill
 Kyng Ric[hard] cometh[e] forth[e] j wẏs
 Jnto the Riche Citee of Rẏs
-He fonde K tancer in his hall
+He fonde K[yng] tancer in his hall
 Amonges his Erles and Barons all
 
-<!-- Brunner 169-->
+<pb xml:id="Arundel_ms_58_f256r" n="fol256r" facs="Arundel_ms_58_f256r.jpg"/>
 
+<fw type="head" place="top-center">P[r]im[mus]</fw>
 
+<cb n="1"/>
 
+And eẏþ[er] of hem grete other fair[e]
+W[ith] mylde wordes and bonair[e]
+Than seide k[yng] Tancr[e] to kyng Ric[hard]
+Sir he seide bẏ seẏde bẏ leonarde
+me is done for to wits
+Of frendes be ful gode
+That thow art come w[ith] thẏ pouer[e]
+to reue me of mẏ londe her[e]
+The wer[e] better be a pilgrẏme
+And sle manẏ a saracyne
+That to greue a x[chri]sten kẏng 
+Kyng Ric[hard] was sor[e] ashamed
+And of this tẏthung sor[e] a graiued
+And seide to Tancer[e] þou art mẏtaught[e] <!-- SNM Wynkyn, Bouce, Gonville and Cais College, and Thornton all give this as soem form of "mistaught" but there is clearly no "s" here.-->
+To haue on me suche a thought[e]
+&amp; suche a Treson[e] on me suche
+Jch ber[e] on mẏ flessh the crouche
+I shall jo[ur]ny her but on daẏ
+And to morwe wende mẏwaẏe
+J þ[ra]y seide .K.R. to .T. kyng[e]
+Profer me no vuell thẏng[e]
+manẏ went[e] to greve other
+And in his owne nek falleþ þ[e] foþ[er]
+And ho so doþ me q[uo]þ K[yng] R[ichard]. enẏ dispite
+Him self[e] shall not passe all[e] quẏt[e]
+Kyng Tankre seid S[ir} ne be not[e] wroþ[e] for þis 
+   <!-- SNM note type="text" "þis" is written under "for"-->
+Lo her[e] the l[ett]re J wẏs
+The kyng of ffraunce me sent[e]
+This ẏonder daẏ in p[re]sent[e]
+Than seide .K.R. and vnd[er]stode
+That þe kyng of ffraunce wold hẏ[m] no gode
+<!-- SNM note type="text" "gode" is written under "hẏm no"-->
+He &amp; Ta[n]cer þo kest
+And bẏcom frend[es] in þe best
+That mẏght be in anẏ lond[es]
+Thonked be Jh[es]u x[chri]stes sond[es]
+Kyng Ric[hard] went home all stille
+And suffred the kyng of ff[ra]nnces wil
 
+<cb n="2"/>
+
+And vndid his treso[re]
+And bought hẏm bests &amp; stor[e]
+And lat both[e] salt and slen
+xxx hundred oxen and kene
+Swyne &amp; shepe he dude also
+but J ne can a count[e] al tho <!-- SNM did he just rhyme also and al tho? -->
+And of where &amp; bene[n] q[uar]t[er]s xx m. <!-- SNM XX M is twenty thousand; not sure what to make of the superscripted "b." Brunner gives not comment. Also, I go with Brunner here and give "quarters" even though I am tempted to go with "quters"-->
+He bought as we fẏnde
+ffyssh and foule and veuesonne
+We ne can a count the right resone
+The kyng of ff[ra]unce as i[ch] wend
+Lay in þe Cite of missene
+vnder the house of the hospitall[e]
+Oure[e] Englusshmen[ne] we[n]te into þe chepẏ[n]g
+And hent er manẏ a harde knokkyng[e]
+The ffrensshmen &amp; þe g[ri]ffons don rightes
+Ther þey slough[e] our[e] Englissh[e] knẏghtes
+Whenne K R[ichard] kerde of this distauce
+He playned hẏm to þe kyng of ff[ra]unce
+And seide he helde no ward[es]
+Of the Englissh[e] tailardes
+Go chast the grẏffones if[e] þou mẏght[e]
+ffor of me and mẏne me[nn] getest þ[ou] no right[e]
+Q[uo]þ .k. R[ichard] seþ hit[e] is so <del rend="overstrike">ich wote what[e]</del>
+Jch wote what ich haue to do 
+   <!-- SNM note type="text" The scribe here has written a dotted line under the first instance of "Ich wote what" and enclosed the phrase with two vertical lines to indicate that is should be deleted. The scribe has also written the "to" above "haue do." We've all had days like that.-->
+Ich wol me so a wreke   
+That all þe worlde of me shall speke
+A tyme of x[chri]stesmesse honest
+K. Ric[hard] hono[u]red the fest[e]
+K[yng] Ric[hard] &amp; his barons
+Wente to ward þe Pauẏlions
+And wer[e] I s[er]ued w[ith] gret[e] plente <!-- SNM I have been expanding this abbreviation to "S[ir]" where it preceeds knights or speech, but here it makes more sense to use "s[er]"-->
+mete and drynk[e] of eche dente
+Ther com a knẏght[e] in hast[e]
+Vnneþ[e] he mẏght[e] drawe his blast[e]
+And fel on knee and þ[us] he seide
+Meny K[yng] R. for mary maẏde <!-- SNM Thornton gives "Mercy" here, but Brunner concurrs that this is "meny"-->
+Sir with the ffrenssh and w[ith] þ[e] griffons
+
+<!-- Brunner 174-->
 
 
 
