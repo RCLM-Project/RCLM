@@ -272,64 +272,60 @@ Ayest hym had no man no myght
 In euery stede he toke honoure
 As a noble kynge and conqueroure
 
- ¶How kynge Rycharde made a Iustynge. <!--SLG start here-->
+ ¶How kynge Rycharde made a Iustynge.
 
 		<figure xml:id="wynken1509_figure2" type="woodblock" corresp="#wynken1509_259jpg"><figDesc resp="#SNM">Woodcut. Image takes up approximately the top third of the page. Depicted are two mounted knights in full armor with helmets drawn over their faces. Both knights have spurs. The knight on the left has pierced the shoulder of the of the other knight with their lance. The knight on the right has a feather on their helmet. There is a fountain in the background. The bottom quarter is a grassy field. On the right side are two trees that extend from bottom to top. On the left side is a single tree that extends halfway up the frame. The image is framed by a border of a single line.</figDesc></figure> 
 	    <lb/>
-		<l xml:id="wynken1509_249">The fyrst yere that he was kynge</l>
-			<note type="text" resp="#SNM" corresp="#wynken1509_249">The T is a decorated initial approximately six characters wide and three lines high.</note> 
-	    <l xml:id="wynken1509_250" n="250">At Salysbury he made a Iustynge</l><!--SLG expl note on Salisbury and the fictional tournament-->
-	    <l xml:id="wynken1509_251">And <choice><abbr>commauded</abbr><expan>commaunded</expan></choice> euery man to be there</l> 
-	    <l xml:id="wynken1509_252">Both with shelde and with spere</l>
-	    <l xml:id="wynken1509_253">Erles and barons euerychone</l>
-	    <l xml:id="wynken1509_254">At home ne dwelled neuer one</l>
-	    <l xml:id="wynken1509_255">On forfeyture on lyfe and londe</l>
-	    <l xml:id="wynken1509_256">For no thyne that they ne wonde</l>
-	    <l xml:id="wynken1509_257">This was cryed I vnderstonde</l>
-	    <l xml:id="wynken1509_258">Thorughout all Englonde</l>
-	    <l xml:id="wynken1509_259">All was for to loke and se</l>
-	    <l xml:id="wynken1509_260" n="260">The knyghtes that best myght be</l>
-	    <l xml:id="wynken1509_261">There they came all at his wyll</l>
-	    <l xml:id="wynken1509_262">His commaundement to fulfyll</l>
-	    <l xml:id="wynken1509_263">The partyes were sonder set</l>
-	    <l xml:id="wynken1509_264">Togyder they ran without let</l>
-	    
-	<pb xml:id="wynken1509_260jpg" n="260jpg" facs="JRL19060260.jpg"/>
-	<note type="text" resp="#SLG" corresp="wynken1509_260jpg">There is a &quot;5&quot; penciled in at the top of this page.</note>
-	    
-	    <l xml:id="wynken1509_265">Kynge Rycharde gan hym dysguyse</l>
-	    <l xml:id="wynken1509_266">In a full stronge queyntyse</l>
-	    <l xml:id="wynken1509_267">He came out of a valaye</l>
-	    <l xml:id="wynken1509_268">For to se of theyr playe,</l>
-	    <l xml:id="wynken1509_269">As a knyght auenturous</l>
-	    <l xml:id="wynken1509_270" n="270">His atyre was orgulous</l>
-			<!-- <note type="expl" resp="#CMP" corresp="#wynken1509_270">CMP to write note about armor and dress.</note> -->
-	    <l xml:id="wynken1509_271">All togyder cole blacke</l>
-	    <l xml:id="wynken1509_272">Was his horse without lacke</l>
-	    <l xml:id="wynken1509_273">Upon his creste a reuen stode</l>
-	    <l xml:id="wynken1509_274">That yaned as he were wode</l>
-	    <l xml:id="wynken1509_275">And aboute his necke a bell</l>
-	    <l xml:id="wynken1509_276">Wherefore the reason I shall you tell</l>
-	    <l xml:id="wynken1509_277">The oynge of the rauen is</l>
-	    <l xml:id="wynken1509_278">In a trauayll for to be Iwys</l>
-	    <l xml:id="wynken1509_279">Sygnyfyauence of the bell</l>
-	    <l xml:id="wynken1509_280" n="280">With holy chyrche to dwell</l>
-	    <l xml:id="wynken1509_281">And them to noy and to geue</l>
-	    <l xml:id="wynken1509_282">That be not in the ryght byleue</l>
-	    <l xml:id="wynken1509_283">He bare a shafte that was grete and stronge</l>
-	    <l xml:id="wynken1509_284">It was fourtene fote longe</l>
-	    <l xml:id="wynken1509_285">And it was grete and stoute</l>
-	    <l xml:id="wynken1509_286">One and twenty inches aboute</l>
-	    <l xml:id="wynken1509_287">The fyrst knyght that he there mette</l>
-	    <l xml:id="wynken1509_288">Full egerly he hym grette</l>
-	    <l xml:id="wynken1509_289">With a dente amyd the shelde</l>
-	    <l xml:id="wynken1509_290" n="290">His horse he bare downe in the felde</l>
-	    <l xml:id="wynken1509_291">And the knyght fell to grounde</l>
-	    <l xml:id="wynken1509_292">Full nye deed in that stounde</l>
-	    <l xml:id="wynken1509_293">THe nexte that he mette thare</l>
-	    <l xml:id="wynken1509_294">A grete stroke hy hym bare</l>
-	    <l xml:id="wynken1509_295">His forgette with his cornell tho</l>
-	    <l xml:id="wynken1509_296">His necke he brake there a two</l>
+
+The fyrst yere that he was kynge
+At Salysbury he made a Iustynge
+And commau[n]ded euery man to be there
+Both with shelde and with spere
+Erles and barons euerychone
+At home ne dwelled neuer one
+On forfeyture on lyfe and londe
+For no thyne that they ne wonde
+This was cryed I vnderstonde
+Thorughout all Englonde
+All was for to loke and se
+The knyghtes that best myght be
+There they came all at his wyll
+His commaundement to fulfyll
+The partyes were sonder set
+Togyder they ran without let
+
+Kynge Rycharde gan hym dysguyse
+In a full stronge queyntyse
+He came out of a valaye
+For to se of theyr playe,
+As a knyght auenturous
+His atyre was orgulous
+All togyder cole blacke
+Was his horse without lacke
+Upon his creste a reuen stode
+That yaned as he were wode
+And aboute his necke a bell
+Wherefore the reason I shall you tell
+The oynge of the rauen is
+In a trauayll for to be Iwys
+Sygnyfyauence of the bell
+With holy chyrche to dwell
+And them to noy and to geue
+That be not in the ryght byleue
+He bare a shafte that was grete and stronge
+It was fourtene fote longe
+And it was grete and stoute
+One and twenty inches aboute
+The fyrst knyght that he there mette
+Full egerly he hym grette
+With a dente amyd the shelde
+His horse he bare downe in the felde
+And the knyght fell to grounde
+Full nye deed in that stounde
+THe nexte that he mette thare
+A grete stroke hy hym bare
+His forgette with his cornell tho
+His necke he brake there a two <!-- SLG start here-->
 
 	<pb xml:id="wynken1509_261jpg" n="261jpg" facs="JRL19060261.jpg"/> 
 	    
