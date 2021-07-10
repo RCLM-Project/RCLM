@@ -2604,7 +2604,7 @@
         <l xml:id="wynken1509_2194">With theyr lorde kynge Rycharde</l>
         <l xml:id="wynken1509_2195">That neuer was founde no cowarde</l>
 		<lb/>
-         <fw type="heading" xml:id="wynken1509_heading9">¶How kynge Rycharde gaue batayll to<lb/>
+         <fw type="heading" xml:id="wynken1509_heading9">&para;How kynge Rycharde gaue batayll to<lb/>
             the emperour &sol; <choice><abbr>&amp;</abbr><expan>and</expan></choice> How &thorn;e emperour fledde<lb/>
             awaye for fere that he had &sol; <choice><abbr>&amp;</abbr><expan>and</expan></choice> there was<lb/>
             slayne many of the emperours folke&sol;and<lb/>
@@ -5719,7 +5719,7 @@
 		<l xml:id="wynken1509_4923">And his soule reste and ro</l>
 		<l xml:id="wynken1509_4924">And ours whan it cometh therto</l>
 		<lb/>
-		<fw type="heading" xml:id="wynken1509_heading16">¶ How kynge Rycharde smote downe an<lb/>
+		<fw type="heading" xml:id="wynken1509_heading16">&para; How kynge Rycharde smote downe an<lb/>
 		ymage of marble&sol;and how he slewe fyue<lb/>
 		sarasynes that were within <choice><abbr>&thorn;</abbr><expan>&thorn;e</expan></choice> sayd ymage<lb/>
 		and of many other maters&period;</fw>
