@@ -1,15 +1,15 @@
 
-        
-        <fw type="incipit" xml:id="wynken1509_incipit">&para;<name type="character" subtype="historical" ref="#KingRichard">Kynge Rycharde</name> cuer du lyon&period;</fw>
+250jpg
 
-		<figure xml:id="wynken1509_figure1" corresp="#wynken1509_250jpg" type="woodblock"><figDesc resp="#SNM">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</figDesc></figure>
+¶Kynge Rycharde cuer du lyon.
+<note type="text" resp="#SNM" corresp="#wynken1509_250jpg">Woodcut Illustration. Image takes up approximately three-quarters of the page. Knight in foreground, probably King Richard, on a horse holding a sword upright. Foregrounded knight is wearing armor and a hat with large feathers, horse also has armor and feathers on head. Knight in background is in full armor with helmet and is resting a lance in their shoulder. There is various vegetation on the ground. Image bordered by two solid lines, the outer line twice the thickness of the inner.</note>
 
 
-     <pb xml:id="wynken1509_251jpg" n="251jpg" facs="JRL19060251.jpg"/>
+251jpg, l. 1
 
-¶The prologue.
+¶The prologue. <note type="sum" resp="#CMP #SNM" target="wynken1509_sum1" corresp="#wynken1509_heading1">The prologue to the narrative.</note>
 
-        Orde kynge of glorye
+        Orde kynge of glorye <note type="text" resp="#SNM #CMP" corresp="#wynken1509_1">Missing the decorative initial for the uppercase [L] in [Lord]; there is a blank area on the page about 8-10 characters wide and five lines tall.</note>
         Suche grace and suche vyctory
         Thou sendest to kynge Rycharde
         That neuer was founde cowarde
@@ -19,12 +19,12 @@ Many romayns men make newe
 Of good knyghtes and of trewe
 Of theyr dedes men rede romauns
 Bothe in Englonde and in Fraunce
-Of Rowlande and of Olyuere
-And of euery desepere
+Of Rowlande and of Olyuere <note type="expl" resp="#CMP" corresp="#wynken1509_11">The Prologue includes reference to other romances of the Middle Ages including, in the lines that follow, Roland and Oliver (l. 11; Song of Roland), Alexander the Great (l. 13), Charlemagne (l. 13), King Arthur (l. 14), Sir Gawain (l. 14), Archbishop Turpin (l. 16), Ogier the Dane (l. 16), Hector and Achilles ("troye men" in ll. 17-19). The narrator here refers to the French "rymes" (l. 21) that were not known in England because "lewde man can frensshe none / of an hondred vnneth one" (l. 23-24), or roughly "lewed/unlearned men can [read] in French none of a hundred difficult ones." This sets the stage for telling new gestes or romances in the English vernacular.</note><!--LKN: The explanatory note above needs to cite scholars who have discussed this introduction.-->
+And of euery desepere <!--LKN: note needed for "desepere" (douzepeer) here or up in the previous note-->
 Of Alysaunder and of Charlemayne
 Of kynge Arthur and of Gawayne
 How they were knyghtes good and curtoys
-Of Turpyn and of Oger the danoys
+Of Turpyn and of Oger the danoys <!--LKN: Since these figures are going to be far less familiar, we might want a note here explaining who they are-->
 Of troye men rede in ryme
 What was by olde tyme
 Of Hector and of Achylles
@@ -40,6 +40,8 @@ Of doughty knyghtes of Englonde
 Therefore now I wyll you rede
 Of a kynge doughty of dede
 
+252jpg, l. 31
+
 Kynge Rycharde was the beste
 That is founde in ony Ieste
 Now all that here this talkynge
@@ -48,12 +50,12 @@ God gyue them good endynge
   ¶Here begynneth the hystorye of Kynge Ry:
   charde cure du lyon / and fyrst of his byrth.
 
-LOrdes harken now beforne
+LOrdes harken now beforne <note type="text" resp="#SNM #CMP #LKN" corresp="#wynken1509_35">The L in "Lord" is a decorative initial about eight characters wide and five lines tall. The initial has the image of a bearded man's face on its left side looking leftward and a bird-like creature on its right side looking upwards. Above the bird is a partial flower or sun.</note>
 How kynge Rycharde was borne
 His fader was cleped kynge Harry
 In his tyme sykerly
 As I fynde in this sawe
-Saynt Thomas was Islawe
+Saynt Thomas was Islawe <note type="expl" resp="#SLG" corresp="#wynken1509_40">Thomas Becket, canonized as Saint Thomas in 1173 BCE, became King Henry II's chancellor in 1155 and archbishop of Canterbury in 1162. Thomas' relationship with Henry II deteriorated with disputes over ecclesiastical and monarchical jurisdiction (Larkin, n. 40). Thomas was murdered in 1170 before his altar in Canterbury, which is referenced in the following line of the poem.</note>
 At Caunterbury before the auter stone
 There myracles be done many one
 Whan he was .xx. wynter olde
@@ -72,7 +74,9 @@ And theyr sayle vp they drowe
 The wynde them serued well I nowe
 And they came amyddes the see
 No wyndes brethe ne had he
-Kyynge R.        +            A.ii.
+Kyynge R.        +            A.ii.<note type="text" resp="#SNM" target="wynken1509_footer1">Footer likely used as a navigational tool in the printing process. Footer contains a cross pattee, a symbol that has been appropriated by white supremacists since at least the 1930s, when Nazis rose to power. The cross pattee has been harnessed to promote violence, Islamophobia, anti-Semitism, homophobia, transphobia, ableism, and misogyny, and we have chosen in this digital edition to not replicate the symbol and rather render it as a plus sign. For more information on the symbol, please see <ref target="https://www.adl.org/education/references/hate-symbols/iron-cross"/> and this piece from the Washington Post: <ref target="https://www.washingtonpost.com/graphics/2017/local/charlottesville-videos/"/>. The footer also contains pagination that consists of a capital letter and roman numerals i–iiii. This occurs on every other page. After two sets, ten pages are skipped before the next iteration. This continues in the manuscript for letters A-Q.</note>
+
+253jpg, l. 59
 
 Therfore they were swythe wo
 Another shyppe they encountred tho
@@ -104,8 +108,10 @@ For to seche hym a quene
 The fayrest that myght on erth bene
 Up arose a kynge of a chayre
 With that worde and spake fayre
-The chayre was of carbunkel stone
+The chayre was of carbunkel stone <note type="expl" resp="#CMP" corresp="#wynken1509_89">Made of carbuncle (the equivalent of ruby), this chair would be a shining red gem.</note>
 Suche saw they neuer none
+
+254jpg, l. 91 <note type="text" resp="#SNM" corresp="wynken1509_254jpg">There is a &quot;2&quot; penciled in at the top of this page.</note>
 
 And other dukes hym besyde
 Noble men of moche pryde
@@ -139,7 +145,9 @@ In his londe that he came fro
 In to Englonde for to go
 And his doughter that was hym dere
 For to wende with hym in fere
-   Kyynge R.        +           A.iii. 
+   Kyynge R.        +           A.iii.
+
+255jpg, l. 123
 
 And in this maner we be dyght
 Unto your londe to wende ryght
@@ -156,7 +164,7 @@ To londe the knyghtes wente blyue
 The messengers the kynge hath tolde
 Of that lady fayre and bolde
 There he laye in toure
-The lady that was whyte as floure
+The lady that was whyte as floure <!--note type="expl" resp="SNM" add note on race and whiteness, as related to women and monstrocity-->
 Kynge Harry gan hym soone dyght
 With erles barons and many a knyght
 Ayenst that lady for to wende
@@ -174,14 +182,16 @@ Lordes ladyes that there were
 Trumpettes began for to blowe
 To mete they went in a throwe
 
+256jpg, l. 155
+
 Knyghtes there serued a good spede
 Of theyr mete to tell it is no nede
 And after mete in hyenge
 Speketh Harry our kynge
 To the kynge that sate in same
 Good syr what is your name
-My name he sayd is Carbarrynge
-Of antyoche I am the kynge
+My name he sayd is Carbarrynge <!--SLG expl note on potential derivations of this name. See Heng, Empire-->
+Of antyoche I am the kynge <!--SLG expl note on Antioch-->  
 He told him his reason
 How hym came in vysyon
 Syr he sayd I tell the
@@ -190,7 +200,7 @@ Many mo without fayle
 And mo shyppes with vytayle
 Yet asked he that lady bryght
 What name my lady ye hyght
-Cosodorean without lesynge
+Cosodorean without lesynge <!--SLG expl note on Cassodorien and Richard's historical mother Eleanor of Aquitane--> 
 Thus answered she the kynge
 Damoysell he sayd bryght and shene
 Wyll we dwell and be my quene
@@ -208,7 +218,9 @@ Moche Ioye was them amonge
 A preest ful soone the masse song
   Kynge R.      +             A.iiii.
 
-And whan it came to the leuacyowne
+257jpg, l. 187
+
+And whan it came to the leuacyowne <!-- <note type="expl" resp="#CMP" corresp="#wynken1509_187">add note about elevation of the host (maybe#CMP/bmr to write?)</note>-->
 In a swounynge she fell downe
 The people than her sore a dradde
 In to a chambre she was ladde
@@ -222,7 +234,7 @@ Two sones and a mayd
 Forsothe as the boke vs sayd
 Rycharde hyght the fyrst Iwys
 Wherfore these romayns made is
-And Iohan forsothe that other was
+And Iohan forsothe that other was <!--SLG expl note on Richard's historical siblings?-->
 And theyr syster hyght Copyas
 Thus they dwelled in fere
 Tyll the .xv. yere
@@ -240,6 +252,8 @@ The kynge graunted with good wyll
 For to holde her with strength styll
 Neyther for wele ne for woo
 Let her not out of the chyrche goo
+
+258jpg, l. 219
 
 And whan the bell began to rynge
 The preest sholde make the sakerynge
@@ -274,11 +288,10 @@ As a noble kynge and conqueroure
 
  ¶How kynge Rycharde made a Iustynge.
 
-		<figure xml:id="wynken1509_figure2" type="woodblock" corresp="#wynken1509_259jpg"><figDesc resp="#SNM">Woodcut. Image takes up approximately the top third of the page. Depicted are two mounted knights in full armor with helmets drawn over their faces. Both knights have spurs. The knight on the left has pierced the shoulder of the of the other knight with their lance. The knight on the right has a feather on their helmet. There is a fountain in the background. The bottom quarter is a grassy field. On the right side are two trees that extend from bottom to top. On the left side is a single tree that extends halfway up the frame. The image is framed by a border of a single line.</figDesc></figure> 
-	    <lb/>
-
-The fyrst yere that he was kynge
-At Salysbury he made a Iustynge
+259jpg, l. 249 <note type="text" resp="#SNM" corresp="#wynken1509_259jpg">Woodcut. Image takes up approximately the top third of the page. Depicted are two mounted knights in full armor with helmets drawn over their faces. Both knights have spurs. The knight on the left has pierced the shoulder of the of the other knight with their lance. The knight on the right has a feather on their helmet. There is a fountain in the background. The bottom quarter is a grassy field. On the right side are two trees that extend from bottom to top. On the left side is a single tree that extends halfway up the frame. The image is framed by a border of a single line.</note>
+	    
+The fyrst yere that he was kynge <note type="text" resp="#SNM" corresp="#wynken1509_249">The T is a decorated initial approximately six characters wide and three lines high.</note> 
+At Salysbury he made a Iustynge <!--SLG expl note on Salisbury and the fictional tournament-->
 And commau[n]ded euery man to be there
 Both with shelde and with spere
 Erles and barons euerychone
@@ -294,12 +307,14 @@ His commaundement to fulfyll
 The partyes were sonder set
 Togyder they ran without let
 
+260jpg, l. 265 <note type="text" resp="#SLG" corresp="wynken1509_260jpg">There is a &quot;5&quot; penciled in at the top of this page.</note>
+
 Kynge Rycharde gan hym dysguyse
 In a full stronge queyntyse
 He came out of a valaye
 For to se of theyr playe,
 As a knyght auenturous
-His atyre was orgulous
+His atyre was orgulous <!-- <note type="expl" resp="#CMP" corresp="#wynken1509_270">CMP to write note about armor and dress.</note> -->
 All togyder cole blacke
 Was his horse without lacke
 Upon his creste a reuen stode
@@ -327,7 +342,9 @@ A grete stroke hy hym bare
 His forgette with his cornell tho
 His necke he brake there a two
 
-His horse and he fell to grounde
+261jpg, l. 297
+
+His horse and he fell to grounde <note type="text" resp="#CMP" corresp="#wynken1509_297">The first line on this page is circled in a light brown ink, likely by a later reader.</note>
 And dyed bothe in that stounde
 Kynge Rycharde gane houe & abyde
 Ȝf ony mo wolde to hym ryde
@@ -360,8 +377,10 @@ That wolde more ryde hym agayne
 He sawe there wolde come none
 On his way he gan forth gone
 
+262jpg, l. 329
+
 Into a wode out of theyr syght
-And in another tyre he hym dyght
+And in another tyre he hym dyght <!-- <note type="expl" resp="#CMP" corresp="#wynken1509_330">#CMP to write note on attire</note>-->
 Upon a stede rede as blode
 With all the tyre that on hym stode
 Horse and shelde armure and man
@@ -393,6 +412,8 @@ Thou salte haue a knocke or two
 Kynge Rycharde wondred in his thought
 That he set his stroke at nought
 
+263jpg, l. 361
+
 And came agayne by another waye
 And thought to make a better paye
 In his styrope vp he stode
@@ -405,7 +426,7 @@ That was made of yotyn bras
 He wondred who that it was
 Suche a stroke he hym lente
 That Rycharde feet out of his steropes wente
-For plate ne for acketton
+For plate ne for acketton <!--SLG expl note on this kind of jacket-->
 For hawberke ne for campeson
 Suche a stroke he neuer had none ore
 That dyde hym halfe so moche sore
@@ -417,7 +438,7 @@ He wente adowne to a well
 And with his helme dranke his fell
 And he watred his stede also
 In the thyrde atyre he let hym do
-All his atyre whyte as mylke
+All his atyre whyte as mylke <!-- <note type="expl" resp="#CMP" corresp="#wynken1509_385">CMP to add note about attire</note>-->
 His croper was of sylke
 Upon his shulder a crosse rede
 That betokeneth goddes dede
@@ -426,11 +447,13 @@ To wynne that crosse yf that he myght
 Upon his heed a doue whyte
 Sygnyfycacyon of the holy spyryte
 
+264jpg, l. 393
+
 To be bolde to wynne the pryse
 And dystroye goddes enemyes
 To the kynge Rycharde gan hym dyght
 Than another noble knyght
-Fouke doly was his name
+Fouke doly was his name <!-- SLG expl note introducing Fouk Doly-->
 The kynge kym loued for his game
 To hym a stroke he dyght
 Well to paye with all his myght
@@ -459,13 +482,15 @@ He ne wyst whether it was daye or euen
 Tho he recouered of his swowe
 To his palays he hym drowe
 
+265jpg, l. 425
+
 Than he commaunded hastely
 Herodes for to make crye
 And euery man for to wende
 Home to his owne frende
 The kynge anone a messengere
 Full preuely he sente there
-To syr Thomas of multon
+To syr Thomas of multon <!--SLG expl note on Thomas Moulton-->
 That was a noble baron
 And to syr Fouke dely
 That they come to hyme on hye
@@ -491,6 +516,8 @@ And whiche coude best his crafte
 For to demene well his shafte
 With dentes for to fell his foos
 Whiche of them wan the loos
+
+266jpg, l. 457
 
 And who styffest tymbre brake
 Quod Thomas one in a tyre blake
@@ -526,6 +553,8 @@ Syth he hath done vs that dyspyte
 yf he agayne passe quyte
     Kynge R.          +         B.i.
 
+267jpg, l. 489
+
 That fyrste he haue no knocke
 He prycked forth fro all the flocke
 With a shafte stoute and square
@@ -558,6 +587,8 @@ After the blacke another came
 All the folke gaue hym good name
 His horse and his atyre was rede
 He semed well to be a quede
+
+268jpg, l. 521
 
 A rede hounde on his helme aboue
 He came to seche and to proue
@@ -593,6 +624,8 @@ Sayd to kynge Rycharde
 The thyrde there came soone afterwarde
    Kynge R.        +           B.ii.
 
+269jpg, l. 553
+
 His atyre was whyte as snowe
 Therof many one there lowe
 In his shelde a crosse rede as blode
@@ -626,6 +659,8 @@ And he hyed hym faste out of the prese
 Home towarde the wodde bowe
 Kynge Rycharde sate and faste lowe
 
+270jpg, l. 585
+
 And sayd frendes sykerly
 Take it not in grefe for it was I
 Whan ye were gadred in fere
@@ -636,7 +671,7 @@ Lordes he sayde wote ye ought
 What I haue ordeyned in thought
 The holy londe to wende to
 We thre without ony mo
-All in palmers guyse
+All in palmers guyse <!-- CMP expl: add note about palmers and disguise -->
 The holy londe to deuyse
 To me I wolde that ye were sworne
 No man to knowe it that is borne
@@ -659,14 +694,14 @@ As palmers or panayme
 
 ¶How kynge Richarde toke shyppynge.
   Kyynge R.      +            B.iii.
+
+271jpg, l. 615 <note type="text" resp="#SLG" corresp="#wynken1509_271jpg">Woodcut. Image takes up the top half of the page. Depicts two figures on the right, approximately half the height of the image, standing on a street with several buildings and an arched doorway behind them. The rightmost figure carries a sword, and the figure to their left carries a trumpet. To the figures' left is a body of water and a ship, appearing to sail in from the leftmost edge of the image. About half of the ship is depicted, with several sails and one person's face visible. Framed by a border of a single line, with an additional decorative border of interwoven lines on the left and right sides of the image.</note>
 	    
-   	 <figure xml:id="wynken1509_figure3" type="woodblock" corresp="#wynken1509_271jpg"><figDesc resp="#SLG">Woodcut. Image takes up the top half of the page. Depicts two figures on the right, approximately half the height of the image, standing on a street with several buildings and an arched doorway behind them. The rightmost figure carries a sword, and the figure to their left carries a trumpet. To the figures' left is a body of water and a ship, appearing to sail in from the leftmost edge of the image. About half of the ship is depicted, with several sails and one person's face visible. Framed by a border of a single line, with an additional decorative border of interwoven lines on the left and right sides of the image.</figDesc></figure>
-	    
-NOw they dyght them full yare
+NOw they dyght them full yare <note type="text" resp="#SLG" corresp="#wynken1509_615">The initial N depicts a creature on its left side looking leftwards. The creature has a long neck and what appears to be two long ears and a tail. The right side of the character depicts foliage.</note>
 These thre knyghtes fore to fare
 They set vp sayle þ[e] wynde was good
 And sayled ouer the salte flood
-In to flaunders as I you saye
+In to flaunders as I you saye <!--SLG expl note on Flaunders-->
 Kynge Rycharde and his feres twaye
 Forth they wente with gladde chere
 Thorugh many londes farre and nere
@@ -674,6 +709,8 @@ Tyll they came to blaundys
 That is a coste of moche pryse
 A noble shyppe they founde thare
 Ouer the see for to fare
+
+272jpg, l. 627
 
 The sayle was reysed in the shyppe stronge
 And in the see they were longe
@@ -709,6 +746,8 @@ Kynge Rycharde the fyre fet
 And Thomas to the spytte hym set
    Kynge R.       +          B.iiii.
 
+273jpg, l. 659
+
 Fouke doly made the bose
 Full dere bought they the gose
 And as they were etynge theyr fyll
@@ -741,6 +780,8 @@ In palmers wede they be dyght
 That no man sholde knowe them ryght
 To hym sayd the kynge Iwys
 That thou haste yf it sothe is
+
+274jpg, l. 692
 
 Thou shalte haue thy warysowne
 And chose they selfe a ryche towne
@@ -776,11 +817,13 @@ Kynge Rycharde sayde so mote I the
 Thou dooth vnryght thynketh me
    Kynge R.         +          C.i.
 
+275jpg, l. 724
+
 Palmers that gone by the waye
 Them to pryson nyght or daye
 Syr kynge for they courtesy
 Do vs palmers no vylony
-For his loue that we haue songht
+For his loue that we haue songht <note type="text" resp="#CMP" corresp="#wynken1509_728">&quot;songht&quot; was likely meant to be printed as &quot;sought&quot;.</note>
 Let vs go and greue vs nought
 For auentures that may betyde
 In straunge londes where thou ryde
@@ -809,13 +852,15 @@ Darste thou stonde a buffet of my honde
 And to morowe I gyue the leue
 Suche another me to gyue
 
+276jpg, l. 756
+
 Anone kynge Rycharde
 Gaunted to that forwarde
 The kynges sone fyers and proute
 Gaue Rycharde an eere cloute
 The fyre out of his eyen spronge
 Rycharde thought he dyde hym wronge
-And sware his othe by saynt Martyn
+And sware his othe by saynt Martyn <!-- expl note saint martin-->
 To morowe I shall paye myn
 The kynges sone with good wyll
 Badde they sholde haue theyr fyll
@@ -842,6 +887,8 @@ To holde forwarde as a trewe man
 And before Rycharde he stode
 And spake to hym with Ire full mode
    Kynge R.     +          C.ii.
+
+277jpg, l. 789
 
 Smyte he sayd with thy myght
 Thou hast I fared well this nyght
@@ -875,6 +922,8 @@ Why is this sorowe and this fare
 Who hath brought you in care
 Dame he sayd wotest thou nought
 Thy fayre sone to deth is brought
+
+278jpg, l. 821
 
 Syth I was borne to man
 Suche sorowe had neuer woman
@@ -910,6 +959,8 @@ Wardrewe asked without let
 If he wolde stonde hym a buffet
     Kynge R.       +          C.iii.
 
+279jpg, l. 853
+
 And he hym wolde another stonde
 As he was trewe knyght in londe
 Rycharde sayd by this lyght
@@ -942,6 +993,8 @@ The kynges doughter laye in her boure
 With ladyes and maydens of honoure
 Margery her name hyght
 She loked Rycharde with all her myght
+
+280jpg, l. 885
 
 At the mydde daye before the none
 To the pryson she wente soone
@@ -976,8 +1029,8 @@ charde slewe a lyon / and how he ete the herte of
 the lyon all rawe / wherfore he hadde the name /
 stronge kynge Rycharde cure de lyon
      Kynge R.       +          C.iiii.
-	    
-	    <figure xml:id="wynken1509_figure4" type="woodblock" corresp="#wynken1509_281jpg"><figDesc resp="#SLG">Woodcut. Image takes up the top third of the page. The foreground depicts a man on the right and a woman on the left, in ornate robes that reach the floor; the man wears a crown and the woman a head covering. The woman leans against the man, his left hand on her chest and her right hand on his left wrist. Based on the placement of the woodcut in the narrative, this couple most likely depicts Margery and Richard; however, it could also represent the German king and queen in grief upon the death of their son. There is a window to the foregrounded couple's right and what appears to be a tapestry behind them. Depicted in the background are four figures, two men and two women: the men wear hats with feathers and the women are dressed similarly to the woman in the foreground. The two pairs engage in conversation with one other, in a seemingly distinct scene from the embracing couple in the foreground. The image is framed by a border of two lines on the upper, lower, and right edges, and by one line on the left.</figDesc></figure>
+
+281jpg, l. 911 <note type="text" resp="#SLG" corresp="#wynken1509_281jpg">Woodcut. Image takes up the top third of the page. The foreground depicts a man on the right and a woman on the left, in ornate robes that reach the floor; the man wears a crown and the woman a head covering. The woman leans against the man, his left hand on her chest and her right hand on his left wrist. Based on the placement of the woodcut in the narrative, this couple most likely depicts Margery and Richard; however, it could also represent the German king and queen in grief upon the death of their son. There is a window to the foregrounded couple's right and what appears to be a tapestry behind them. Depicted in the background are four figures, two men and two women: the men wear hats with feathers and the women are dressed similarly to the woman in the foreground. The two pairs engage in conversation with one other, in a seemingly distinct scene from the embracing couple in the foreground. The image is framed by a border of two lines on the upper, lower, and right edges, and by one line on the left.</note>
 
 ANd after souper in the euenynge
 To my chambre thou Rycharde brynge
@@ -995,6 +1048,8 @@ He was aspyed of a knyght
 That to the chambre he came ryght
 Pryuely he tolde the kynge
 That forlayne was his doughter þinge
+
+282jpg, l. 927
 
 The kynge asked hym soone
 Who hath he sayd that dede done
