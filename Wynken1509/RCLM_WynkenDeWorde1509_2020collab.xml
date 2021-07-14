@@ -2563,11 +2563,11 @@
         <l xml:id="wynken1509_2156">They sholde tell to theyr lorde</l>
         <l xml:id="wynken1509_2157">Of the dyshonour ende and worde</l>
         <l xml:id="wynken1509_2158">And haste you agayne to londe</l>
-        <l xml:id="wynken1509_2159">And I shall sese in to your houde</l> <!-- #CMP text: likely [honde] -->
+        <l xml:id="wynken1509_2159">And I shall sese in to your houde</l> <note type="text" resp="#CMP #SLG" corresp="#wynken1509_2159">Likely a printing error, with [houde] intended to be [honde].</note>
         <l xml:id="wynken1509_2160">The keyes of euery toure</l>
         <l xml:id="wynken1509_2161">That oweth that fals emperoure</l>
         <l xml:id="wynken1509_2162" n="2160">And I shall brynge hym this nyght</l>
-        <l xml:id="wynken1509_2163">The emperours doughter bryghe</l>  <!-- #CMP text: likely [bryghte] -->
+        <l xml:id="wynken1509_2163">The emperours doughter bryghe</l> <note type="text" resp="#CMP #SLG" corresp="#wynken1509_2163">Likely a printing error, with [bryghe] intended to be [bryghte].</note>
         <l xml:id="wynken1509_2164">And also an hondred knyghtes</l>
         <l xml:id="wynken1509_2165">Stoute in batayll stronge in fyghtes</l>
         <l xml:id="wynken1509_2166">Ayenst that fals emperoure</l>
