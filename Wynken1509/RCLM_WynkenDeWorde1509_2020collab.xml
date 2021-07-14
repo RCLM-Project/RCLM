@@ -2961,8 +2961,8 @@
         <l xml:id="wynken1509_2503">Tyll he came to kynge Rycharde</l>
         <l xml:id="wynken1509_2504">And swore to hym by saynt Ihone</l>
         <l xml:id="wynken1509_2505">It were sarasynes euerychone</l>
-        <l xml:id="wynken1509_2506">That sayd our kynge of grete reuowne</l> <!-- #CMP text: likely [renowne] -->
-        <l xml:id="wynken1509_2507">That hyght Rycharde cure de lyowne</l> <!-- #CMP text: The first letter in this and the above lines are rubbed, but high cert from context -->
+        <l xml:id="wynken1509_2506">That sayd our kynge of grete reuowne</l> <note type="text" resp="#CMP #SLG" corresp="#wynken1509_2506">[reuowne] most likely intended to be [renowne].</note>
+        <l xml:id="wynken1509_2507">That hyght Rycharde cure de lyowne</l> <note type="text" resp="#CMP" corresp="#wynken1509_2507">The first letter in this and the above lines are rubbed, but there is high certainty from context that both are [T].</note>
         <l xml:id="wynken1509_2508">Of your sawes I am blythe</l>
         <l xml:id="wynken1509_2509">Let eche man arme them swythe</l>
         <l xml:id="wynken1509_2510">Stere thou thy galey trenchemere</l>
