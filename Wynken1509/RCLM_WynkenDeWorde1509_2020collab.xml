@@ -2413,7 +2413,7 @@
 	<pb xml:id="wynken1509_317jpg" n="317jpg" facs="JRL19060317.jpg"/> 
 	    <figure xml:id="wynken1509_figure6" type ="woodblock" corresp="#wynken1509_317jpg"><figDesc resp="#CMP"><!-- image feat. two ships with a king apiece and knights fighting across the water; needs desc --></figDesc></figure>
 
-        <l xml:id="wynken1509_2025">KYnge Rycharde in peas and reste</l> <!-- #CMP text: The initial letter [K] occupies four lines and approx 8 characters width and features a face. -->
+        <l xml:id="wynken1509_2025">KYnge Rycharde in peas and reste</l> <note type="text" resp="#CMP" corresp="#wynken1509_2025">The initial letter [K] occupies four lines and approx 8 characters width and features a face.</note>
         <l xml:id="wynken1509_2026">Fro crystmasse the hygh feste</l>
         <l xml:id="wynken1509_2027">Dwelled there tyll after the lente</l>
         <l xml:id="wynken1509_2028">And than on his waye he wente</l>
