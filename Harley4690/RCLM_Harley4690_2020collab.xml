@@ -681,7 +681,6 @@
     	<l xml:id="harley4690_562">B&ydot;<space quantity="4" unit="chars"/>fore he went <choice><abbr>wt</abbr><expan>with</expan></choice> <choice><abbr>knyght</abbr><expan>knyghtes</expan></choice> fyve</l> <!--LKN: ack! Good catch; I'm inclined to expand this to es, but will keep thinking on it and make sure it's normalized throughout--><!--SLG trans: the abbreviation for [es] has previously been transcribed as a [z]? Am a bit confused about this character.-->
     	<l xml:id="harley4690_563">By Brawnde?[e] and B&ydot; costantyne</l> <!--LKN update trans: Ok, I've been staring at this for a few minutes now, and think I've figured out what's going on. Brawndes makes the most sense, and I agree with Sarah that that final character looks most like an s, and my suspicion is that the descender is a scribal error. Thoughts?--><!--LKN note for team: Brunner transcribes the second word in this line as Brawndes[e], but that last letter+descender does not look like an "se." Thoughts? I am puzzled!--> <!--SLG trans: this is a confusing one! The last letter before the descender somewhat resembles a [v] to me.--> <!-- APB: I tagged Constantine as a place here but I am unsure about Brawnde[?] -->
 
-	<!--SLG: from here, several <choice> to be added. 7/28/21-->
     	<!--LKN: have checked transcriber notes and made corrections up to here. Just a few lingering questions thus far...--> 
 		<pb xml:id="harley4690_fol112v" n="fol112v" facs="harley_ms_4690_f112v.tif"/>
     	<cb n="1"/>
@@ -690,75 +689,75 @@
     	<l xml:id="harley4690_565">so come dowght&ydot; k&ydot;ng Richarde&period;</l>
     	<l xml:id="harley4690_566">and to marcelly he wente ar&ydot;ght</l>
     	<l xml:id="harley4690_567">w&ydot;th Baronnes and man&ydot; a kn&ydot;ghte</l><!--LKN summ: Arrival in Greece, Phillip's Treason (use anchor tag: ArrivalGreece)--> 
-    	<l xml:id="harley4690_568">wyth sch&ydot;ppes and sale&ydot;s grete &amp; smale</l> 
+    	<l xml:id="harley4690_568">wyth sch&ydot;ppes and sale&ydot;s grete <choice><abbr>&amp;</abbr><expan>and</expan></choice> smale</l> 
     	<l xml:id="harley4690_569">ther cowthe nomanne telle &thorn;e tale</l>
-    	<l xml:id="harley4690_570" n="570">the w&ydot;nde was both gode&amp;kene</l>
+    	<l xml:id="harley4690_570" n="570">the w&ydot;nde was both gode <choice><abbr>&amp;</abbr><expan>and</expan></choice> kene</l>
     	<l xml:id="harley4690_571">and drove h&ydot;m vn to m&ydot;ssene</l>
     	<l xml:id="harley4690_572">and B&ydot; fore the yate of Gr&ydot;ffoune</l> <!--LKN text: In most other versions (see Brunner pg. 167, n. ?), this line reads as "before the gates of the Griffons", which makes more contextual sense than "before the gates of Greece" (which is technically how this line would read here). In light of this, it seems likely that copyist forgot to write "the" before "Gryffoune."--> 
     	<l xml:id="harley4690_573">k&ydot;ng Richarde p&ydot;ght ys pav&ydot;lonne&period;</l> 
     	<l xml:id="harley4690_574">the kyng of ffrawnce &thorn;ere he ffownde</l> <!--LKN: your instincts are correct, Andreas! when we do create these tags, we'll want to take this approach, since this is clearly a reference to King Phillip.--><!-- APB: I tagged the king of france here but am not completely confident that this is what I'm supposed to do -->
-    	<l xml:id="harley4690_575">with pauelounes sqware&amp;Rownde</l>
+    	<l xml:id="harley4690_575">with pauelounes sqware <choice><abbr>&amp;</abbr><expan>and</expan></choice> Rownde</l>
     	<l xml:id="harley4690_576">Eyther of hem kyssed other</l>
     	<l xml:id="harley4690_577">and by come sweren brether</l>
     	<l xml:id="harley4690_578">ffor to wende to hol&ydot; londe</l>
-    	<l xml:id="harley4690_579">to venge [Iesu] &ydot; vnderstonde</l>
+    	<l xml:id="harley4690_579">to venge <choice><abbr>ihu</abbr><expan>Ihesu</expan></choice> &ydot; vnderstonde</l>
     	<l xml:id="harley4690_580" n="580">&ydot;n treson thought &thorn;e k&ydot;ng of frawnce</l>
     	<l xml:id="harley4690_581">and to do kyng Richarde d&ydot;stawnce</l>
     	<l xml:id="harley4690_582">and lete comp&ydot;le a letter</l>
     	<l xml:id="harley4690_583">to &thorn;e kyng of the londe theere</l>
-    	<l xml:id="harley4690_584">&yogh; seide &middot;kyng R[ichard]&middot; with strong honde</l> 
+    	<l xml:id="harley4690_584">&yogh; seide kyng &middot;<choice><abbr>R</abbr><expan>Richard</expan></choice>&middot; with strong honde</l> 
     	<l xml:id="harley4690_585">was comen to dr&ydot;ve h&ydot;m off londe</l>
-    	<l xml:id="harley4690_586">Tanker kyng of Poyle . was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
+    	<l xml:id="harley4690_586">Tanker kyng of Poyle &middot; was</l> <!--LKN expl: note about Tancred (c. 1075-1112) here--> 
     	<l xml:id="harley4690_587">and for thys letter se&ydot;de alas</l>
     	<l xml:id="harley4690_588">anone he sente a messangere</l>
-    	<l xml:id="harley4690_589">after ys sone syr Rogger[e]</l> <!--LKN: definitely something to sort out later in our tagging phase--><!--APB: don't know if Roger is worth tagging and what appropriate tag to use. -->
+    	<l xml:id="harley4690_589">after ys sone syr <choice><abbr>Rogger</abbr><expan>Roggere</expan></choice></l> <!--LKN: definitely something to sort out later in our tagging phase--><!--APB: don't know if Roger is worth tagging and what appropriate tag to use. -->
     	<l xml:id="harley4690_590" n="590">thatt was kyng of cecyle londe</l> <!--LKN expl: note on Sicily-->
     	<l xml:id="harley4690_591">and Bade hym come to ys sonde</l>
     	<l xml:id="harley4690_592">and also after ys Barounes</l>
     	<l xml:id="harley4690_593">Erles and lordes of townes</l>
     	<l xml:id="harley4690_594">and whenne &thorn;e&ydot; wer yn a stede</l>
     	<l xml:id="harley4690_595">anone thys letter he vndede</l>
-    	<l xml:id="harley4690_596">and seid[e] lordes &thorn;e k&ydot;ng of ffrawnce</l>
-    	<l xml:id="harley4690_597">hath warned[e] me of a dystawnce.</l>
-    	<l xml:id="harley4690_598">&thorn;att kyng Richard wyth strong hond[e]</l>
+    	<l xml:id="harley4690_596">and <choice><abbr>seid</abbr><expan>seide</expan></choice> lordes &thorn;e k&ydot;ng of ffrawnce</l>
+    	<l xml:id="harley4690_597">hath <choice><abbr>warned</abbr><expan>warnede</expan></choice> me of a dystawnce&middot;</l>
+    	<l xml:id="harley4690_598">&thorn;att kyng Richard wyth strong <choice><abbr>hond</abbr><expan>honde</expan></choice></l>
     	<l xml:id="harley4690_599">ys come to dryue me owte of londe</l>
     	<l xml:id="harley4690_600" n="600">&thorn;e kyng ys sone spake full sone</l>
-    	<l xml:id="harley4690_601">and seyd[e] for goddes love in troue</l>
+    	<l xml:id="harley4690_601">and <choice><abbr>seyd</abbr><expan>seyde</expan></choice> for goddes love in troue</l>
     	<l xml:id="harley4690_602">merc&ydot; fader he seyd att &thorn;ys t&ydot;me</l>
     	<l xml:id="harley4690_603">kyng Richarde ys a pylgr&ydot;me</l>
     	<l xml:id="harley4690_604">and &ydot; crossed y vnderstonde</l><!--LKN expl: note needed here about being "crossed" and its implications in tandem with the term pilgrim in the preceding line.-->
-    	<l xml:id="harley4690_605">for to passe to holy londe .</l>
+    	<l xml:id="harley4690_605">for to passe to holy londe &period;</l>
     	<l xml:id="harley4690_606">for kyng Richarde y dar swere</l>
-    	<l xml:id="harley4690_607">he ne schall suffer no dawngere.</l>
+    	<l xml:id="harley4690_607">he ne schall suffer no dawngere &period;</l>
 
     	<cb n="2"/>
 
-    	<l xml:id="harley4690_608">sende to hym th&ydot; messawngere .</l>
+    	<l xml:id="harley4690_608">sende to hym th&ydot; messawngere &middot;</l>
     	<l xml:id="harley4690_609">and he wylle come to yow here</l>
     	<l xml:id="harley4690_610" n="610">and speke with yow Right fawe</l> <!--SLG trans: is [right] capitalized?-->
-    	<l xml:id="harley4690_611">and watte he th&ydot;nketh to beknawe.</l>
+    	<l xml:id="harley4690_611">and watte he th&ydot;nketh to beknawe &period;</l>
     	<l xml:id="harley4690_612">kyng tanker wyth outen fa&ydot;le</l> <!--LKN trans: good question! it looks like either a stain or an attempted/mangled middot--><!--SLG trans: there's a large mark between [tanker] and [wyth]. Is it a middot or just an abberation on the manuscript?-->
-    	<l xml:id="harley4690_613">dyd[e] after ys sones cownce&ydot;le.</l>
+    	<l xml:id="harley4690_613"><choice><abbr>dyd</abbr><expan>dyde</expan></choice> after ys sones cownce&ydot;le &middot;</l>
     	<l xml:id="harley4690_614">kyng Richarde cometh forthe y w&ydot;sse</l><!--LKN Summ: Richard and Tancred Meet (use anchor tag RicTancred).-->
     	<l xml:id="harley4690_615">vn to the cite of nowbell R&ydot;se</l><!--LKN expl: note here on the the city of Reggio.-->
     	<l xml:id="harley4690_616">he fownde kyng Tanker in ys halle</l>
     	<l xml:id="harley4690_617">among hys Erlys&amp;Barounes alle</l>
     	<l xml:id="harley4690_618">and eyther of hem grete other fa&ydot;re</l>
     	<l xml:id="harley4690_619">With m&ydot;lde wordes and bonere</l>
-    	<l xml:id="harley4690_620" n="620">than he se&ydot;de to kyng Richard[e]</l> <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
-    	<l xml:id="harley4690_621">syr he se&ydot;de by seynt leonarde.</l> <!--LKN: eventually, yes!--><!--APB: don't know if I should tag St. Leonard or not? -->
+    	<l xml:id="harley4690_620" n="620">than he se&ydot;de to kyng <choice><abbr>Richard</abbr><expan>Richarde</expan></choice></l> <!--LKN text: the copyist accidentally wrote "by seẏnt" immediately after "seẏde", struck it out, but then evidently wrote Richard[e] instead of writing "to kyng" first. To correct this latter error, the copyist wrote "to kyng" after "Richard[e]," and placed dashes on either side of that phrase, marking with a karat immediately before the king's name where that phrase needed to go.-->
+    	<l xml:id="harley4690_621">syr he se&ydot;de by seynt leonarde &middot;</l> <!--LKN: eventually, yes!--><!--APB: don't know if I should tag St. Leonard or not? -->
     	<l xml:id="harley4690_622">me ys done to vnderstonde</l>
     	<l xml:id="harley4690_623">of the nowbell men of &thorn;ys londe</l>
-    	<l xml:id="harley4690_624">that &thorn;[ou] art comen with power</l>
-    	<l xml:id="harley4690_625">to Reve me of my londe here.</l> 
+    	<l xml:id="harley4690_624">that <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> art comen with power</l>
+    	<l xml:id="harley4690_625">to Reve me of my londe here &middot;</l> 
     	<l xml:id="harley4690_626">the wer better be a trew pylgryme</l>
     	<l xml:id="harley4690_627">and werre vppon Saraz&ydot;ne</l> 
     	<l xml:id="harley4690_628">&thorn;an for to greue a crystenne kyng</l> <!--LKN: you are in good company here also, Andreas!--><!--APB: don't know how to proceed with tagging "crystenne kyng" -->
     	<l xml:id="harley4690_629">&thorn;att never mysdede the no th&ydot;ng</l>
-    	<l xml:id="harley4690_630" n="630">k[ing] Richarde was sore aschamed[e]</l>
-    	<l xml:id="harley4690_631">and of thes wordes sore agraiuedd[e]</l>
-    	<l xml:id="harley4690_632">and se&ydot;d[e] Tanker &thorn;[ou] arte mystawghte</l> 
-    	<l xml:id="harley4690_633">to haue on me soche a thowghte.</l>
+    	<l xml:id="harley4690_630" n="630"><choice><abbr>k</abbr><expan>king</expan></choice>&middot; Richarde was sore <choice><abbr>aschamed</abbr><expan>aschamede</expan></choice></l>
+    	<l xml:id="harley4690_631">and of thes wordes sore <choice><abbr>agraiuedd</abbr><expan>agraiuedde</expan></choice></l>
+    	<l xml:id="harley4690_632">and <choice><abbr>se&ydot;d</abbr><expan>se&ydot;de</expan></choice> Tanker <choice><abbr>&thorn;u</abbr><expan>&thorn;ou</expan></choice> arte mystawghte</l> 
+    	<l xml:id="harley4690_633">to haue on me soche a thowghte &middot;</l>
     	<l xml:id="harley4690_634">and soche a tresoune on me soche</l>
     	<l xml:id="harley4690_635">&thorn;at bere on my flesche the crowche</l>
     	<l xml:id="harley4690_636">&ydot; newe notte tar&ydot; butt thys daye</l>
@@ -774,10 +773,10 @@
     	<l xml:id="harley4690_646">that &thorn;e kyng of frawnce me sente</l>
     	<l xml:id="harley4690_647">thys &yogh;ender day in presente</l>
     	<l xml:id="harley4690_648">thanne kyng Richarde vnderstode</l>
-    	<l xml:id="harley4690_649">that the kyng of frawnce wold[e] hym no gode</l>
+    	<l xml:id="harley4690_649">that the kyng of frawnce <choice><abbr>wold</abbr><expan>wolde</expan></choice> hym no gode</l>
     	<l xml:id="harley4690_650" n="650">Butte he an Tanker yn trew trest</l>
-    	<l xml:id="harley4690_651">Became frendes yn the Beste.</l> 
-    	<l xml:id="harley4690_652">That myght Be yn any londe.</l>
+    	<l xml:id="harley4690_651">Became frendes yn the Beste &middot;</l> 
+    	<l xml:id="harley4690_652">That myght Be yn any londe &period;</l>
 
 <!--SLG: phase 1 complete for fol 112-->
 <!--APB: phase 3 complete for fol 112, though I did leave a few notes regarding uncertain tags-->
