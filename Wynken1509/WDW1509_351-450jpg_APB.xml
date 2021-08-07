@@ -1,22 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI [
- 	<!ENTITY amp "&#x0026;">
-	<!ENTITY ETH "&#x00D0;">
-	<!ENTITY eth "&#x00F0;">
-	<!ENTITY THORN "&#xDE;">
-	<!ENTITY thorn "&#xFE;">
-	<!ENTITY ydot "&#x1E8F;">
-	<!ENTITY YOGH "&#x021C;">
-	<!ENTITY yogh "&#x021D;">
-	<!ENTITY hidot "&#xF1F8;">
-	<!ENTITY middot "&#x00B7;">
-	<!ENTITY period "&#x002E;">
-	<!ENTITY punctelev "&#xF161;">
-	<!ENTITY para "&#x00B6;"> <!-- pilcrow -->
-	<!ENTITY revpara "&#x204B;"> <!-- reversed pilcrow -->
-	<!ENTITY sol "&#x002F;">
-	<!ENTITY plus "&#x002B;">
-	  ]>
 
 351jpg, l. 3036
 
